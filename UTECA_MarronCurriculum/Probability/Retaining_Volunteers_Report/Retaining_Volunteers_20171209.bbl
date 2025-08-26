@@ -1,0 +1,401 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global}
+    \entry{berkes_community_2013}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=a012301840aec73109b1090e27041078}{%
+           family={Berkes},
+           family_i={B\bibinitperiod},
+           given={Fikret},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=0957f42b4fec8e57c20d52d86b83f7e2}{%
+           family={Ross},
+           family_i={R\bibinitperiod},
+           given={Helen},
+           given_i={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{73d115cab6258b759bad769365a27eb9}
+      \strng{fullhash}{73d115cab6258b759bad769365a27eb9}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2013}
+      \field{labelmonth}{01}
+      \field{labelday}{01}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We explore opportunities for an integrated approach in community resilience to inform new research directions and practice, using the productive common ground between two strands of literature on community resilience, one from social–ecological systems and the other from the psychology of development and mental health. The first strand treats resilience as a systems concept, dealing with adaptive relationships and learning in social–ecological systems across nested levels, with attention to feedbacks, nonlinearity, unpredictability, scale, renewal cycles, drivers, system memory, disturbance events, and windows of opportunity. The second strand emphasizes identifying and developing community strengths, and building resilience through agency and self-organization, with attention to people–place connections, values and beliefs, knowledge and learning, social networks, collaborative governance, economic diversification, infrastructure, leadership, and outlook. An integrative approach seated in the complex adaptive system and ecological understanding can incorporate the identification of explicit social strengths and connections to place, activated by agency and self-organizing.}
+      \field{day}{01}
+      \field{issn}{0894-1920}
+      \field{journaltitle}{Society \& Natural Resources}
+      \field{month}{01}
+      \field{number}{1}
+      \field{shorttitle}{Community Resilience}
+      \field{title}{Community Resilience: Toward an Integrated Approach}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{volume}{26}
+      \field{year}{2013}
+      \field{pages}{5\bibrangedash 20}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/08941920.2012.736605
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/PIAJPMWI/Berkes and Ross - 2013 - Community Resilience Toward an Integrated Approac.pdf:application/pdf;Snapshot:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/ITXD876B/08941920.2012.html:text/html
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/08941920.2012.736605
+      \endverb
+      \keyw{resilience,community resilience,adaptive management,agency,community development,community health,complex adaptive systems,panarchy,social learning,social–ecological systems}
+    \endentry
+    \entry{fahey_training_2002}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=3084a4a416698c52d87b94cef89acde3}{%
+           family={Fahey},
+           family_i={F\bibinitperiod},
+           given={Christine},
+           given_i={C\bibinitperiod}}}%
+        {{uniquename=0,hash=90c881842fcce2aabf65d0f763fcd06c}{%
+           family={Walker},
+           family_i={W\bibinitperiod},
+           given={Judith},
+           given_i={J\bibinitperiod}}}%
+        {{uniquename=0,hash=f5e33da681f20776fc2ea84a952a462e}{%
+           family={Sleigh},
+           family_i={S\bibinitperiod},
+           given={Adrian},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{241d2fe48dc6980fff56ebbc8935362f}
+      \strng{fullhash}{77701d79de662a3f303bcfce4183578e}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2002}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A report is presented on the training findings of larger study of Tasmania's Volunteer Ambulance Officers ({VAO}), the first-line response to medical emergencies in rural and remote areas. The results of the study found that training is important to {VAO} and if done well, it can be a strategic recruitment and retention tool, helping to stabilise Tasmania's emergency rural health workforce.}
+      \field{journaltitle}{Australian Journal of Emergency Management, The}
+      \field{month}{11}
+      \field{number}{3}
+      \field{title}{Training Can Be a Recruitment and Retention Tool for Emergency Service Volunteers}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2017}
+      \field{volume}{17}
+      \field{year}{2002}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{file}
+      \verb Snapshot:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/5QPJQPSD/documentSummary\;dn=372155742153194\;res=IELHSS.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://search.informit.com.au/documentSummary;dn=372155742153194;res=IELHSS
+      \endverb
+    \endentry
+    \entry{karl_give_2008}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=3dabf5a9a506ef7a6a69ed662714c4ee}{%
+           family={Karl},
+           family_i={K\bibinitperiod},
+           given={Katherine\bibnamedelima A.},
+           given_i={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=c199fe6c7253c57e87a8b944e54c2ec9}{%
+           family={Peluchette},
+           family_i={P\bibinitperiod},
+           given={Joy\bibnamedelima V.},
+           given_i={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{uniquename=0,hash=ebb07f5cfe81e1d9f6620a2dfa464fb2}{%
+           family={Hall},
+           family_i={H\bibinitperiod},
+           given={Leda\bibnamedelima M.},
+           given_i={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d654d5079a88f85dc97a63347ba8240}
+      \strng{fullhash}{c8920f152fd74b6b8979647b8b470957}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2008}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Using a marketing perspective, this study investigates whether the issue of "fun at work" would appeal to volunteers as a part of an effort to enhance recruitment and retention. Specifically, we examined volunteers' attitudes toward fun, their perceptions of what kinds of activities are fun and what are not, and the relative importance of workplace fun in what they perceive as an ideal volunteer position. In general, we found that volunteers had positive attitudes towards fun and experiencing fun at work was associated with higher job satisfaction and lower turnover intentions. Although "a fun workplace" was ranked relatively low in importance relative to other reasons why they volunteer, creating such an environment could enhance retention. Some age and gender differences were found in the perceptions of whether certain activities are fun or not. The implications of these results and directions for future research are discussed.}
+      \field{issn}{10495142}
+      \field{journaltitle}{Journal of Nonprofit \& Public Sector Marketing}
+      \field{month}{08}
+      \field{number}{1}
+      \field{shortjournal}{Journal of Nonprofit \& Public Sector Marketing}
+      \field{shorttitle}{Give Them Something to Smile About}
+      \field{title}{Give Them Something to Smile About: A Marketing Strategy for Recruiting and Retaining Volunteers}
+      \field{urlday}{04}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{volume}{20}
+      \field{year}{2008}
+      \field{pages}{71\bibrangedash 96}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1080/10495140802165360
+      \endverb
+      \verb{file}
+      \verb EBSCO Full Text:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/V2AJGEDA/Karl et al. - 2008 - Give Them Something to Smile About A Marketing St.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://proxying.lib.ncsu.edu/index.php?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=34587162&site=ehost-live&scope=site
+      \endverb
+      \keyw{Employee attitudes,Employee retention,Industrial management,Job satisfaction,Marketing,Marketing strategy,Quality of work life,recruitment,retention,Volunteers,workplace fun,Work values}
+    \endentry
+    \entry{magis_community_2010}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e1033a65b98f1117d7a1e6a912db72f8}{%
+           family={Magis},
+           family_i={M\bibinitperiod},
+           given={Kristen},
+           given_i={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1033a65b98f1117d7a1e6a912db72f8}
+      \strng{fullhash}{e1033a65b98f1117d7a1e6a912db72f8}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Society and Natural Resources}
+      \field{number}{5}
+      \field{shorttitle}{Community resilience}
+      \field{title}{Community resilience: an indicator of social sustainability}
+      \field{urlday}{16}
+      \field{urlmonth}{11}
+      \field{urlyear}{2015}
+      \field{volume}{23}
+      \field{year}{2010}
+      \field{pages}{401\bibrangedash 416}
+      \range{pages}{16}
+      \verb{file}
+      \verb Community Resilience An Indicator of Social Sustainability.pdf:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/UXN94NR6/Community Resilience An Indicator of Social Sustainability.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www-tandfonline-com.proxy.lib.pdx.edu/doi/abs/10.1080/08941920903305674
+      \endverb
+      \keyw{community resilience}
+    \endentry
+    \entry{ranse_engaging_2010}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c7e17594cdee4e42235f0d7231b5e4bb}{%
+           family={Ranse},
+           family_i={R\bibinitperiod},
+           given={Jamie},
+           given_i={J\bibinitperiod}}}%
+        {{uniquename=0,hash=a2b35922c22c25cffb46331ae4e7b30c}{%
+           family={Carter},
+           family_i={C\bibinitperiod},
+           given={Stephen},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{93c766471b9b1b51070a6e2225bae9df}
+      \strng{fullhash}{93c766471b9b1b51070a6e2225bae9df}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The recruitment and retention of volunteers is a perennial and significant concern for emergency management organisations. This research aimed to identify factors associated with the successful engagement and retention of volunteers in an emergency management organisation. Six focus groups were undertaken with participants from both rural and metropolitan areas of one Australian jurisdiction. A number of themes were identified for the volunteer's reasons to join, leave and stay in a volunteer emergency management organisation. The notion of retention should not be a focus for organisations; rather volunteer emergency management organisations should implement and enhance strategies to engage volunteers.}
+      \field{journaltitle}{Australian Journal of Emergency Management, The}
+      \field{number}{1}
+      \field{title}{Engaging Volunteers in an Emergency Management Organisation}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2017}
+      \field{volume}{25}
+      \field{year}{2010}
+      \field{pages}{36}
+      \range{pages}{1}
+      \verb{file}
+      \verb AJEM-25-01-10.pdf:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/8VBB6GSQ/AJEM-25-01-10.pdf:application/pdf;Snapshot:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/XR6AH8E8/documentSummary\;dn=073563952141394\;res=ielhss.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://search.informit.com.au/documentSummary;dn=073563952141394;res=IELHSS
+      \endverb
+    \endentry
+    \entry{shields_young_2009}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=18a444381e1284a51096636653952171}{%
+           family={Shields},
+           family_i={S\bibinitperiod},
+           given={Peggy\bibnamedelima O.},
+           given_i={P\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{18a444381e1284a51096636653952171}
+      \strng{fullhash}{18a444381e1284a51096636653952171}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2009}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The long‐term survival of nonprofit charitable organizations depends on the recruitment and retention of today's young adults. A segmentation strategy proposed for retirees which was consistent with previous research on volunteer motivation was found to also be relevant for the young adult market, especially if implemented with consideration of this segment's unique interests and characteristics. In addition, young adults were found to be most inclined to volunteer for organizations that were either local and personal or nationally renowned. Organizations benefiting children were also highly regarded. The higher a college student's grade point average (GPA), the more likely they were to indicate an intention of volunteering in the future. Those most likely to volunteer in the future also exhibited higher teamwork and mentoring trait scores. The young adult market was found to be multidimensional and best approached with a variety of appeals.}
+      \field{issn}{1049-5142}
+      \field{journaltitle}{Journal of Nonprofit \& Public Sector Marketing}
+      \field{month}{06}
+      \field{number}{2}
+      \field{shorttitle}{Young {Adult} {Volunteers}}
+      \field{title}{Young {Adult} {Volunteers}: {Recruitment} {Appeals} and {Other} {Marketing} {Considerations}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2017}
+      \field{volume}{21}
+      \field{year}{2009}
+      \field{pages}{139\bibrangedash 159}
+      \range{pages}{21}
+    \endentry
+    \entry{simpson_community_2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=110cc08bd0a62e30ed6904ebee6f2ec1}{%
+           family={Simpson},
+           family_i={S\bibinitperiod},
+           given={David\bibnamedelima M.},
+           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{110cc08bd0a62e30ed6904ebee6f2ec1}
+      \strng{fullhash}{110cc08bd0a62e30ed6904ebee6f2ec1}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2001}
+      \field{labelmonth}{05}
+      \field{labelday}{01}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{01}
+      \field{journaltitle}{Natural Hazards Review}
+      \field{month}{05}
+      \field{number}{2}
+      \field{shortjournal}{Natural Hazards Review}
+      \field{shorttitle}{Community Emergency Response Training ({CERTs})}
+      \field{title}{Community Emergency Response Training ({CERTs}): A Recent History and Review}
+      \field{urlday}{03}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{volume}{2}
+      \field{year}{2001}
+      \field{pages}{54\bibrangedash 63}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1061/(ASCE)1527-6988(2001)2:2(54)
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/MTN845GC/Simpson David M. - 2001 - Community Emergency Response Training (CERTs) A R.pdf:application/pdf;Snapshot:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/PDPAJKP5/(ASCE)1527-6988(2001)22(54).html:text/html
+      \endverb
+      \verb{url}
+      \verb http://ascelibrary.org.prox.lib.ncsu.edu/doi/abs/10.1061/(ASCE)1527-6988(2001)2:2(54)
+      \endverb
+    \endentry
+    \entry{walker_resilience_2006}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=077163be021c3f73111a7085883867a0}{%
+           family={Walker},
+           family_i={W\bibinitperiod},
+           given={B.\bibnamedelimi H.},
+           given_i={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{uniquename=0,hash=e526391bd1b1b519f274fedc6584d2bc}{%
+           family={Salt},
+           family_i={S\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, {DC}}%
+      }
+      \list{publisher}{1}{%
+        {Island Press}%
+      }
+      \strng{namehash}{0620703f70e251c81fd06ec7669f459a}
+      \strng{fullhash}{0620703f70e251c81fd06ec7669f459a}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-59726-092-3 978-1-59726-093-0}
+      \field{note}{{OCLC}: ocm65207051}
+      \field{pagetotal}{174}
+      \field{shorttitle}{Resilience thinking}
+      \field{title}{Resilience thinking: sustaining ecosystems and people in a changing world}
+      \field{year}{2006}
+      \keyw{Human ecology,Sustainable development,Management,Natural resources,Resilience (Ecology)}
+    \endentry
+    \entry{wymer_jr._conceptual_2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ef7522ab37cbd34dbe83f3fdbf437d6e}{%
+           family={Wymer\bibnamedelima Jr.},
+           family_i={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Walter\bibnamedelima W.},
+           given_i={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{uniquename=0,hash=2733e41f65f5e7e0b1e37c833d86ada7}{%
+           family={Starnes},
+           family_i={S\bibinitperiod},
+           given={Becky\bibnamedelima J.},
+           given_i={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbb24428ffc9e7e32966beaca8d6a0ef}
+      \strng{fullhash}{dbb24428ffc9e7e32966beaca8d6a0ef}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2001}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Part I. Discusses the recruitment of volunteers to serve in local nonprofit organizations. Antecedents of recruitment; Development and delivery of recruitment appeals; Post-recruitment strategies.}
+      \field{issn}{10495142}
+      \field{journaltitle}{Journal of Nonprofit \& Public Sector Marketing}
+      \field{month}{06}
+      \field{number}{1}
+      \field{shortjournal}{Journal of Nonprofit \& Public Sector Marketing}
+      \field{shorttitle}{Conceptual Foundations and Practical Guidelines for Recruiting Volunteers to Serve in Local Nonprofit Organizations}
+      \field{title}{Conceptual Foundations and Practical Guidelines for Recruiting Volunteers to Serve in Local Nonprofit Organizations: Part I}
+      \field{urlday}{04}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{volume}{9}
+      \field{year}{2001}
+      \field{pages}{63}
+      \range{pages}{1}
+      \verb{file}
+      \verb EBSCO Full Text:/home/bruce/.mozilla/firefox/t7591cgk.default/zotero/storage/HDNMURBN/Wymer Jr. and Starnes - 2001 - Conceptual Foundations and Practical Guidelines fo.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://proxying.lib.ncsu.edu/index.php?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=6313749&site=ehost-live&scope=site
+      \endverb
+      \keyw{Nonprofit organizations,Volunteer recruitment,Volunteers}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

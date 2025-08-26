@@ -1,0 +1,19 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'Retaining_Volunteers_20171209.blg'
+[45] biber:287> INFO - === Tue Dec 12, 2017, 15:46:13
+[159] Biber.pm:348> INFO - Reading 'Retaining_Volunteers_20171209.bcf'
+[333] Biber.pm:742> INFO - Found 9 citekeys in bib section 0
+[341] Biber.pm:3151> INFO - Processing section 0
+[377] Biber.pm:3308> INFO - Looking for bibtex format file '/home/bruce/Desktop/BibLatex/My_Library_20170125.bib' for section 0
+[3695] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[6472] bibtex.pm:974> INFO - Found BibTeX data source '/home/bruce/Desktop/BibLatex/My_Library_20170125.bib'
+[6528] Utils.pm:147> WARN - Duplicate entry key: 'rasmussen_long-term_1998' in file '/home/bruce/Desktop/BibLatex/My_Library_20170125.bib', skipping ...
+[6563] Utils.pm:147> WARN - Duplicate entry key: 'magis_community_2010' in file '/home/bruce/Desktop/BibLatex/My_Library_20170125.bib', skipping ...
+[6685] Utils.pm:147> WARN - ISBN '978-1-59726-092-3 978-1-59726-093-0' in entry 'walker_resilience_2006' is invalid - run biber with '--validate_datamodel' for details.
+[6826] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[6826] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[6826] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[6826] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[6842] bbl.pm:519> INFO - Writing 'Retaining_Volunteers_20171209.bbl' with encoding 'UTF-8'
+[6912] bbl.pm:615> INFO - Output to Retaining_Volunteers_20171209.bbl
+[6912] Biber.pm:109> INFO - WARNINGS: 3

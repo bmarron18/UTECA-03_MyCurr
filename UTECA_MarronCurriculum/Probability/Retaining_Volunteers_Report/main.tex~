@@ -1,0 +1,362 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Quality Report Format from
+% Derived from The Legrand Orange Book LaTeX Template (Overleaf)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+% When you first open the template, compile it from the command line with the 
+% commands below to make sure your LaTeX distribution is configured correctly:
+% Re-run to get TOC
+% 1) pdflatex main
+% 2) makeindex main.idx -s StyleInd.ist
+% 3) biber main
+% 4) pdflatex main x 2
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%GRAPHICS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% graphics for cover photo and chapter photos must be .jpeg
+
+
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,fleqn]{book} % Default font size and left-justified equations
+
+\usepackage[top=3cm,bottom=3cm,left=3.2cm,right=3.2cm,headsep=10pt,letterpaper]{geometry} % Page margins
+\usepackage{lipsum}
+\usepackage{xcolor} % Required for specifying colors by name
+\definecolor{ocre}{RGB}{51,102,0} 
+\definecolor{lightgray}{RGB}{229,229,229}
+\usepackage{csquotes}
+
+
+% Font Settings
+\usepackage{avant} % Use the Avantgarde font for headings
+%\usepackage{times} % Use the Times font for headings
+\usepackage{mathptmx} % Use the Adobe Times Roman as the default text font together with math symbols from the Sym­bol, Chancery and Com­puter Modern fonts
+
+\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+\usepackage[utf8]{inputenc} % Required for including letters with accents
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+
+
+% MATHS PACKAGE
+\usepackage{amsmath}
+\usepackage{calc}
+
+% GRAPHICS
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\newcommand*{\horzbar}{\rule[0.05ex]{2.5ex}{0.5pt}}
+
+
+% VERBATIM PACKAGE
+\usepackage{verbatim}
+
+
+
+% BIBLIOGRAPHY
+\usepackage[american]{babel} 
+\usepackage[style=apa,
+            sorting=nyt,
+            sortcites=true,
+            autopunct=true,
+            hyperref=true,
+            maxcitenames=2,
+            mincitenames=1,
+            maxbibnames=10,
+            backref=true,
+            doi=false,
+            url=false,
+            backend=biber]{biblatex}
+\addbibresource{/home/bruce/Desktop/BibLatex/My_Library_20170125.bib} % BibTeX bibliography file
+%\defbibheading{bibempty}{}
+\DeclareLanguageMapping{american}{american-apa}    % avoid yearmonthday problems
+
+
+% INDEX
+\usepackage{imakeidx}
+\makeindex
+
+
+
+\input{structure} % Insert the commands.tex file which contains the majority of the structure behind the template
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%    BEGIN DOCUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% \autocite{ABC01}      %for et al.
+
+
+\begin{document}
+
+\let\cleardoublepage\clearpage
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begingroup
+\thispagestyle{empty}
+\AddToShipoutPicture*{\put(0,0){\includegraphics[scale=0.95]{graphics/PortlandNETs2.jpeg}}} % Image background; * means only on this page
+\vspace*{6cm}     %from the top of page
+\centering{
+\normalfont\fontsize{35}{35}\sffamily\selectfont
+\textbf{ Retaining Volunteers: \\
+Creative Options from the Literature}\\  % Book title
+\vspace*{7cm}    % between title and client/author lines
+{\LARGE Produced for: \\
+Portland Bureau of Emergency Management\\
+\vspace*{1cm}   % between client and author
+Produced by: \\
+Bruce D. Marron \\}  % Author name
+} 
+\endgroup
+
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%----------------------------------------------------------------------------------------
+
+\newpage
+~\vfill
+\thispagestyle{empty}
+
+\noindent Cover image, \copyright\ Portland NET, 2017\\ % Copyright notice
+
+\noindent Chapter image, \copyright\ Los Angeles County Community Disaster Resilience, 2017\\ % Copyright notice
+
+%\noindent \textsc{Projet Janvier-Mars 2015, Université de Bourgogne}\\
+
+%\noindent Ce projet a été encadré par Hervé CARDOT.\\ % License information
+
+\noindent \textit{Published 10 November 2017} % Printing/edition date
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+\chapterimage{graphics/LAResilience.jpeg} % heading image
+
+\pagestyle{empty} % No headers
+
+\renewcommand\contentsname{Table of Contents}
+\renewcommand{\bibname}{Bibliography}
+\tableofcontents% Print the table of contents itself
+
+%\cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
+
+\pagestyle{fancy} % Print headers again
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	CHAPTER 1
+\chapterimage{graphics/LAResilience.jpeg} % Chapter heading image
+\chapter{A Brief Historical Perspective}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Introduction}\index{Introduction}
+\vspace{1em}
+
+
+
+
+\vspace{2em}
+
+\section{Portland NET Comes Alive}\index{Portland NET}
+\vspace{1em}
+
+  \vspace{1em}
+
+
+ \vspace{1em}
+ 
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapterimage{graphics/LAResilience.jpeg} % Chapter heading image
+\chapter{A Brief Look at the Literature}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Literature Highlights}
+\vspace{1em}
+
+\autocite{shields_young_2009}\\
+Volunteer retention rates are also influenced by several factors perceived by the individual. Specifically, volunteers express high levels of connectedness (feeling part of a group to which one feels they share goals, values, respect, and trust), uniqueness (feeling that one has a unique combination of talents and personality to contribute to the organization), and power (feeling that one can make a difference)\\
+
+young adults have been identified as an under-represented
+age group in volunteering . The image of
+volunteering may need to be altered to reflect positive and relevant images
+to accommodate the needs of young adults. A large proportion of young
+people perceive volunteering as not being socially or personally attractive
+. Many young adults perceive volunteering as
+being boring and involving older people who will not appreciate their skills.
+Perceptions such as this need to be overcome as young people represent an
+attractive source of volunteers for nonprofit organizations and, thus, are an
+important focus for nonprofits’ recruitment efforts . Recognition should be given to the fact that the three most
+common barriers to volunteering are lack of time, lack of interest, and ill
+health . Young adults would be
+particularly venerable to the first two barriers, thus representing a special
+recruiting challenge. \\
+
+Decisive research on why people volunteer discovered that
+volunteers were motivated by both altruistic and egoistic motives. A widely quoted attempt to categorize volunteering
+motivation resulted in six motives for volunteering. Two of the six motives
+were related to career and personal enhancement, two were personal development (protective and understanding), 
+and two dealt with relationships with others (social and values)\\
+
+Volunteer retention rates
+are also influenced by several factors perceived by the individual.
+Specifically, volunteers express high levels of connectedness (feeling part
+of a group to which one feels they share goals, values, respect, and trust),
+uniqueness (feeling that one has a unique combination of talents and
+personality to contribute to the organization), and power (feeling that one
+can make a difference)\\
+
+Peterson (2004) found that younger volunteers were motivated by
+financial and career success and older volunteers were motivated by social
+responsibilities and a greater . This study found age to
+be the best criteria for selection of recruitment strategies. Australian
+researchers, however, concluded that motivations for volunteering did not
+differ by age, and that generic promotional and recruitment messages
+would be equally effective for all age groups of volunteers\\
+
+Callow (2004) recognized the advantages of
+identifying different promotional appeals for targeting the retiree volunteer
+segment. Instead of highlighting the similarities within the retiree segment,
+Callow advocated future fragmenting the cluster into subgroups.\\
+
+It has already been noted that individuals are often motivated to
+volunteer because of egoistic reasons. Young adults are more likely to
+volunteer to benefit their own self-interests and concern for their own
+personal advancement\\
+
+What promotional appeals for volunteering experiences will subgroups
+of young adults find desirable? What are the most appropriate targeting
+appeals for this segment? Do the motivations of young adult volunteers differ
+from retiree volunteers significantly enough to warrant separate appeals?
+How likely and when are young adults to volunteer? Can young adults with
+particular desirable traits be recruited with the generic appeals?\\
+
+An eight-item scale by Raskin and
+Terry (1988) was used to measure the degree to which one views oneself as
+a leader and desires to have influence over others\\
+
+were more likely to volunteer out of egoism (less altruistic)
+self-interest, a measure of concern for personal advancement included was
+one of four components of vanity. Achievement concern was measured by
+Netemeyer, Burton and Lichtenstein’s (1995) five-item scale. This variable
+was included to capture a sense of personal enhancement and achievement.\\
+
+Deeming positive attitudes towards working in a team and cooperative
+behavior toward others as desirable traits for volunteers, Oliver and
+Anderson’s (1994) five-item acceptance (teamwork/cooperation) scale was
+included in the study.\\
+
+Three components of mentoring, ability, and willingness (rapport
+ability, support willingness, and relational willingness) were considered
+admirable traits for potential volunteers and were measured by Pullins et al.’s
+(1996) 15-item scale.\\
+
+The promotional appeals that Callow identified for targeting potential retiree
+volunteers proved to be effective for segmenting the young adult market, as
+well. The four different appeals, based on high and low humanitarian and
+social motivations, proved to be attractive to the students in the study\\
+
+By appealing to and targeting subgroups with different motivations
+individually, the maximum marketing efficiency can be reached within the
+overall segment. Recruitment communications by nonprofit organizations
+directed to young adults should highlight and emphasize the following types
+of themes and positioning strategies, for instance:
+When you volunteer at XYZ nonprofit organization...
+...you will actively participate in important activities that make a
+difference.
+...you will have the opportunity to better yourself personally and
+professionally.
+...you will make a difference in the lives of others.
+...you will make connections with others.\\
+
+The volunteer market, in general, and regardless of life-stage, appears
+to be motivated by a combination of humanitarianism and social factors.
+Thus appeals to the young adult segment should emphasize these distinct
+themes in a format that addresses the specific interests of the cohort groups
+such as self-advancement and personal development, since efforts should be
+made to accommodate the preferences and imperatives of young people to
+be most effective\\
+
+Given that almost a third
+of the segment indicated that they are very likely to volunteer in the future, a
+carefully executed marketing strategy can be instrumental in attracting and
+recruiting the energetic and talented young adult segment who currently
+believe they will volunteer in the future. With targeted appeals, the
+opportunity to increase volunteerism and capture the energies of the young
+adult volunteer segment exists.\\
+
+Considering that professionally employed, college-educated individuals tend
+to volunteer in higher numbers than other segments (Wymer, 2003), the fact
+that the majority of the respondents had volunteered during their college
+experience and felt the need to list volunteering on their resume is not
+surprising. Motivation for volunteering is often employment-related.\\
+
+It
+would seem young adults can best be recruited by nonprofit organizations if
+initial approaches are made, and relationships developed, while the segment
+is still in college. The identified humanitarianism/social motivations appear
+to apply to multiple life-stages. These appeals combined with the motivation
+to start, and establish, a career should prove effective for recruitment efforts.
+
+\vspace{2em}
+
+\section{Literature Summary}
+\vspace{1em}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapterimage{graphics/LAResilience.jpeg} % Chapter heading image
+\chapter{A Brief Look at Notable Programs}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Program Highlights}
+\vspace{1em}
+
+
+
+
+\vspace{2em}
+
+\section{Summary}
+\vspace{1em}
+
+
+
+
+\vspace{1em}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapterimage{graphics/LAResilience.jpeg} % Chapter heading image
+\chapter{Creative Options}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{A Brief List of Creative Options}
+
+
+
+\section{Final Recommendations}
+
+% ----------------------------------------------------------------------------------------
+% 	BIBLIOGRAPHY
+% ----------------------------------------------------------------------------------------
+          
+
+\printbibliography
+
+
+
+\end{document}
