@@ -1,0 +1,240 @@
+							LESSON PLAN  (100 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+
+#########################################
+HW_07.1	[Due: 18 Mar 2025]
+Scan the following five (5) Standard Operating Procedure (SOP) documents:
+	i) 		1a_Ch3-G10-30GEN-R3.pdf			
+	ii) 	1b_Ch3-G20-R3.pdf
+	iii) 	1e_Ch5-Section-II-R13.pdf
+	iv) 	1f_Ch6-D10-30GEN-R5.pdf
+	v)		1g_Ch7-D5010-R5.pdf
+
+For each SOP, do the following:
+	1. Extract the title and the basic outline headings from the first two tiers of the outline
+	2. Translate the outline headings into Spanish.
+The standard format DOES NOT apply.
+	
+For example, the outline headings for first document (1a_Ch3-G10-30GEN-R3.pdf) are,
+----------------------------------------------------------------------------------------------
+G10-30GEN GENERAL CIVIL REQUIREMENTS	<== Title
+1.0 APPLICATION OF CIVIL CHAPTER			<== Tier 1
+2.0 ACRONYMS AND DEFINITIONS				<== Tier 1
+3.0 CODES, STANDARDS, AND REGULATIONS		<== Tier 1
+	3.1 General								<== Tier 2
+	3.2 U.S. Government						<== Tier 2
+	3.3 New Mexico							<== Tier 2
+	3.4 National Standards					<== Tier 2
+	3.5 LANL Documents						<== Tier 2
+4.0 DESIGN DOCUMENTATION					<== Tier 1
+	4.1 General								<== Tier 2
+	4.2 Calculations						<== Tier 2
+...
+...
+	5.5 Surveys for Location of 
+		Existing Underground Utilities		<== Tier2
+	5.6 Survey Information Submittal		<== Tier 2
+----------------------------------------
+
+
+
+HW_07.2  [Due: 11 Mar 2025]
+Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
+
+POC				Point of Contact
+Clarify			To make a document understandable and free from confusion.
+Interpret		To formally provide an acceptable method of compliance
+Variance		A deviation from the explicit expectations; an exception.
+
+Equivalency		An alternate method; alternatives to how a requirement in a directive is
+				fulfilled in cases where the ”how” is specified. These represent an acceptable alternative 
+				approach to achieving the goal of the directive.
+
+BMP				Best management practice
+GIS				Geographic Information System
+UTM				Universal Transverse Mercator
+LEED			Leadership in Energy and Environmental Design					
+
+Average Primary Office 
+Space per Person				The sum of all primary office space divided by the number of personnel 
+								assigned to the space.
+
+Conference Room: 				A room typically equipped with tables and chairs normally used by
+								an organization or office area primarily for staff meetings and group activities.
+
+Office Support Space: 			Includes rooms that support the functions of one or more primary
+								offices. Rooms such as shared workstations, waiting areas, file areas, office 		
+								equipment areas, staff break rooms, reading rooms, and conference rooms are included.
+
+Open Office Cubicle: 			Open plan office or workstation with either partial height panels or
+								no panels, but with a defined area. An open office may include a door.
+
+Primary Office Space: 			Includes rooms intended for primary workstation area of a staff
+								member. Excludes work station areas not occupied full-time or shared for specific use
+								between staff whose primary office is in another location.
+								
+Shared Workstation: 			A room in which many employees share a single workspace and
+								work tools, either simultaneously or on a different shift/schedule. Includes 			
+								ternative office strategies such as telework or telecommuting, free address, 			
+								hotelling, virtual officing, etc. Also applies to shared or neighborhood areas in team 									environments. This does not include primary office space shared by two or more Lab 	
+								employees.
+
+3-wire, 60 Hertz (Hz)
+amps
+benchmark
+bollards
+cast-in-place
+centerline
+circuit breaker
+cisterns
+coagulation chemicals
+cohesiveness
+culverts
+downspouts
+drainpipe
+duct
+ductwork
+dust-free
+electrical circuit
+erosion
+evapotranspiration
+facade
+fenestration
+floodplains
+HVAC system
+geodynamics
+glazing
+gradient
+green roofs
+guidelines
+gutters
+hardscape
+hardscape surfaces
+hot-mix asphalt
+hydrants
+hydrology
+impervious
+infiltrate
+infrastructure
+intrusions
+kilowatt (kW)
+nominal
+non-potable water
+outlets
+parapeted
+photoelectric detector
+porous
+radioactive
+reforestation
+revegetation
+right-of-way
+riparian buffers
+seismic control
+sewer
+site-specific
+submittals
+surge protection
+surveying
+swales
+transformer
+trellises
+utilities
+voltage
+walkways
+watershed
+
+#############################################
+
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+---- Content 
+
+
+
+
+---- Review  ------------------------
+
+
+################################
+Los Alamos National Laboratory
+(LANL) SOPs
+##################################
+https://engstandards.lanl.gov/ESM_Chapters.shtml
+
+LANL ENGINEERING STANDARDS MANUAL (ESM), STD-342-100
+	
+Ch.3-Civil 	 			*1a_Ch3-G10-30GEN-R3.pdf	
+						*1b_Ch3-G20-R3.pdf
+Ch.4-Architectural 		1c_Architectural_Guidelines.pdf
+						*1d_Ch4-C-Interiors-R4.pdf					
+Ch.5-Structural 		*1e_Ch5-Section-II-R13.pdf 	
+Ch.6-Mechanical 	 	*1f_Ch6-D10-30GEN-R5.pdf	
+Ch.7-Electrical 	 	*1g_Ch7-D5010-R5.pdf
+Ch.21-Software			1h_Ch21-SOFT-Testing.pdf
+QA Review				1i_Evaluation_QAReview_Engineering-at-LANL.pdf
+
+* == covereed in HW_07
+
+
+
+Briefly review---
+	1i_Evaluation_QAReview_Engineering-at-LANL.pdf
+	1c_Architectural_Guidelines.pdf
+
+Review ---
+	1h_Ch21-SOFT-Testing.pdf
+
+	
+
+
+
+---- Work time
+HW_07.2  [Due: 18 Mar 2025]
+Provide definitions of the terms below in Spanish and English. Some definitions in English are provided. The standard format DOES NOT apply.
+
+HW_07.1	[Due: 18 Mar 2025]
+Scan five Standard Operating Procedure (SOP) documents (1a-1c): For each SOP, do the following:
+	1. Extract the title and the basic outline headings from the first two tiers of the outline
+	2. Translate the outline headings into Spanish.
+The standard format DOES NOT apply.
+
+
+
+HW_06.1	[Due: 11 Mar 2025]
+Perform the tasks listed below. The standard format applies with tasks listed as major headings.
+	--- Task 1 Translate the following text document into Spanish: EXCERPTS_P1_EPA_Guidance-for-SOPs.txt
+	--- Task 2 Translate the following text document into Spanish: EXCERPTS_P2_EPA_Guidance-for-SOPs.txt
+	--- Task 3 Translate the following text document into Spanish: EXCERPTS_P3_EPA_Guidance-for-SOPs.txt
+	--- Task 4 Answer and/or summarize questions
+	--- Task 5 Terms and definitions in both English and Spanish
+	
+
+HW_05.2 [Due: 04 Mar 2025] Extra Credit!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] Extra Credit !!
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTAR CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+

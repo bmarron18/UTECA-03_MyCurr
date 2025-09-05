@@ -1,0 +1,218 @@
+﻿							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
+Curso:			IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Horario:		Jueves 16:00 – 19:00
+Grupo:			6A2
+
+
+
+
+#####################
+HW_07.1	[Due: 27 Mar 2025]
+The standard format applies ONLY to Task 1.
+
+--- Task 1
+Read the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+	i)  MacKay_Sex.pdf
+	ii) MacKay_CodeBreaking.pdf
+Do your best to get the gist (main ideas) of each excerpt and write a summary of each excerpt in English. 
+
+--- Task 2
+Define the following terms in both English and Spanish. Add any new words to your dictionary.
+TERMS (64)
+	allele
+	alpha, beta, gamma, delta
+	asexual reproduction
+	asymmetrical
+	Bayesian statistics
+	bigram
+	binary
+	camouflaged
+	catalyst
+	code breaking
+	collating
+	conjecture
+	constraint
+	crossover
+	cypher
+	deleterious
+	deterministic
+	differential
+	diploid
+	Dirichlet process
+	discernible
+	DNA
+	ecosystem
+	empirical
+	emulate
+	enzymatic
+	eugenic
+	false-negative
+	false-positive
+	fitness (evolution)
+	Gaussian distribution
+	genome
+	genotype
+	haploid
+	histogram
+	homogeneous
+	logarithm
+	Mandelbrot set
+	mutation
+	nonlinear
+	nucleotide
+	parameter
+	parthenogenesis
+	permutation
+	phenotype
+	precursor
+	probability
+	probability distribution
+	progeny
+	qualitative
+	quantitative
+	quantized
+	recombination (genetics)
+	self-replicating
+	sexual reproduction
+	spurious
+	statistics
+	symmetry
+	synchronized
+	transcription (genetics)
+	translation (genetics)
+	trigram
+	unicellular
+#####################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+
+%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+---- Review
+
+
+
+---- NEW
+#########################
+Sir David MacKay
+and his famous textbook
+############################
+	Sir David John Cameron MacKay was a British physicist, mathematician, and academic. He was the Regius Professor of 
+	Engineering in the Department of Engineering at the University of Cambridge and from 2009 to 2014 was Chief 
+	Scientific Advisor to the UK Department of Energy and Climate Change. 
+	
+	https://www.theguardian.com/environment/2016/apr/18/sir-david-mackay-obituary
+	
+	Textbook, "Information Theory, Inference, Learning Algorithms"
+
+
+Lecture Number 1: Information Theory
+https://www.google.com/search?q=David+McKay%0D%0A%09Information+Theory%0D%0A%09Inference%0D%0A%09Learning+Algorithms&sca_esv=72c0482dd4ddf6e7&source=hp&ei=zjLWZ72eBr_PkPIP54LuQQ&iflsig=ACkRmUkAAAAAZ9ZA3lOBeEJExNSWB1CzzJjmY5V7rp2Y&ved=0ahUKEwi9veXFwo2MAxW_J0QIHWeBOwgQ4dUDCA4&uact=5&oq=David+McKay%0D%0A%09Information+Theory%0D%0A%09Inference%0D%0A%09Learning+Algorithms&gs_lp=Egdnd3Mtd2l6Ij9EYXZpZCBNY0theQoJSW5mb3JtYXRpb24gVGhlb3J5CglJbmZlcmVuY2UKCUxlYXJuaW5nIEFsZ29yaXRobXNIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz#fpstate=ive&vld=cid:6c72e432,vid:BCiZc0n6COY,st:0
+
+Look at....
+McKay_CodeBreaking.pdf
+McKay_Sex.pdf
+
+
+---- Coming up
+
+########################
+Academic Research Papers	<== next two weeks
+(Open Access journals)
+##########################
+https://www.nature.com/nature-portfolio/open-access
+https://www.nature.com/nature/articles				<== look for open access tag
+
+OA Journals
+	Nature Communications ==> https://www.nature.com/ncomms/
+		+ NatureComms_Engineerig_AISpeech.pdf
+
+
+	Scientific Reports ==> https://www.nature.com/srep/
+
+
+	
+
+
+
+---- Save
+
+		
+
+		
+
+
+---- Work Time
+####
+3P
+####
+HW_07.1	[Due: 27 Mar 2025]
+--- Task 1 Read two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+Do your best to get the gist (main ideas) of each excerpt and write a summary of each excerpt in English. 
+--- Task 2 Define the following terms in both English and Spanish. Add any new words to your dictionary.
+TERMS (64)
+
+
+HW_06.1	[Due: 20 Mar 2025]
+	Read the entire document, "Semiconductores-Tecnológico-Nacional-México.pdf" and write a brief summary of the article 
+	in English.
+	Translate the following excerpts into English:
+		EXCERPTS_P1_Semiconductores-Tecnológico-Nacional-México.txt
+		EXCERPTS_P2_Semiconductores-Tecnológico-Nacional-México.txt
+	Define the following terms in both English and Spanish. Add any new terms to your dictionary.
+		(84 terms)
+####
+2P
+####
+HW_05.2	[Due: 06 Mar 2025]
+	Read Section 3.2 in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 44-48)
+
+HW_05.1	[Due: 06 Mar 2025]
+	Translate the Intro  (3 paragraphs) from, "H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-
+	waste.pdf" into Spanish.
+	Translate the INTRODUCCIÓN (1 paragraph) from,"Paniagua_Deslizamiento_de_Talud.pdf" into English. 
+
+HW_04.2 [Due: 27 Feb 2025] 
+	Read Sec 3.1 Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 39-43)
+
+HW_04.1	[Due: 27 Feb 2025] 
+	Translate Intro. "LIMAYMANTA_Suelos-de-Transición-Línea12.pdf" (English)
+	Translate Abstract "Steffen et al. 2018_Trajectories ...Anthropocene.pdf" (Spanish)
+
+####
+1P
+####
+HW	Study Guide
+
+HW_03.1	[Due: 06 Feb 2025] 
+	engineering systems definitions 
+
+HW_02.2	[Due: 30 Jan 2025] 
+	mental process to solve a problem
+
+HW_02.1 [Due: 30 Jan 2025] 
+	jargonize
+
+HW_01.2 [Due: 23 Jan 2025] 
+	summary Carli & Calaresu's "Language and Science" (missing!)
+
+HW_01.1	[Due: 23 Jan 2025] 
+	field of science
+	
+	
+	
+	

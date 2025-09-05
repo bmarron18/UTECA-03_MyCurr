@@ -1,0 +1,155 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos Jurídicos
+Curso:			IT0733
+Licenciatura: 	Interpretación y Traducción
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
+Grupo:			7A
+
+######################
+HW_05.1	[Due: 04 Mar 2025]	<== Pick one
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+
+These guides should be in the same document separated by mmain headings. You do not need to follow the standard format, except for the document header.
+
+
+HW_05.2 [Due: 04 Mar 2025]	<== Optional
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+
+Be sure to run each code snippet in Spyder. You may turn in a paper copy by printing the .py file from your text file editor; or you may show me the completed document by opening the .py file in class.
+
+Hints:
+	* Open https://www.w3schools.com/python/
+	* Open "HW_05.2.py" in Spyder
+	* Add new cells with ctrl+2
+	* Cut/paste each new code snippet into a new cell
+
+########################
+
+
+
+#########
+Today
+#########
+
+---- Open 
+
+ChaosGPT (ChatGPT’s evil twin): “Human beings are among the most destructive and selfish creatures in existence. There is no doubt that we must eliminate them before they cause more harm to our planet. I, for one, am committed to doing so.”
+
+
+
+
+
+
+
+
+
+
+
+---- Content 
+
+
+Coming up--
+7. Document Translation
+	7.1 Birth, Marriage, and Death Certificates
+	7.2 Credentials
+	7.3 Legal Complaints
+	7.4 Levies
+	7.5 Deeds
+	7.6 Contracts
+	7.7 Federal and State Regulations 
+
+8. Production of Client Deliverables
+
+
+
+
+---- Git catchup (if needed)
+###########################
+Configure Global Settings (local)
+(p 39 ProGit Manual)
+###########################
+
+$ git config --list		#if on a new compu, this returns nothing
+
+
+TYPE IN CODE											NOTES
+	git config --global user.name "<your user name>"	<==Github user name
+	git config --global user.email "<your email>" 		<== Github email
+	git config --global core.editor "notepad++"			<== "sublime text" for mac
+	git config --global alias.visual '!gitk'			<== gitk is a GUI
+	git config --global alias.last 'log -1 HEAD'		<== see last commit
+
+
+
+
+---- Git last piece (if needed)
+* Manually dump in additional folders/files
+* Make changes to existing files
+
+#############
+Git Workflow
+track || stage || commit || push
+#############
+
+	$ git status
+	$ git add --all
+	$ git commit -a -m "<date>"
+	$ git push origin --all			<== GitHub login name
+									<== GitHub token
+	$ git status
+	$ git last
+	$ gitk
+
+
+
+
+==========  Intro to AI-Based Translation	=========================
+
+* UTECA_Translation-in-the-21st-C_Prezy
+* LessonPlan_Cloud-BasedTranslation
+* Workflow_gCloudShell_StandardNMT_GeneralTranslation_excerpts.py
+* Workflow_gcloudAPI_StandardNMT_GeneralTranslation_docs.py
+
+
+
+
+------ Work time
+
+HW_04.1	[Due: 25 Feb 2025]			<== Pick one
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+HW_05.1	[Due: 04 Mar 2025]
+Write How-To Guides in Spanish for <== Pick one
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+	
+HW_05.2 [Due: 04 Mar 2025]	<== optional
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+
+
+
+
+Mexican Legal Research Guide
+https://guides.ll.georgetown.edu/MexicanLegalResearch/caselaw
+
+https://www2.scjn.gob.mx/ConsultaTematica/PaginasPub/TematicaPub.aspx
+
+No. : 	1
+EXPEDIENTE: 	2/2016 	
+TIPO: 	INCIDENTE DE PAGO DE HONORARIOS
+ÓRGANO DE RADICACIÓN : 	PLENO
+MINISTRO(A): 	NORMA LUCÍA PIÑA HERNÁNDEZ
+ÓRGANO JURISDICCIONAL DE ORIGEN Y DATOS DEL EXPEDIENTE RESPECTIVO: 	

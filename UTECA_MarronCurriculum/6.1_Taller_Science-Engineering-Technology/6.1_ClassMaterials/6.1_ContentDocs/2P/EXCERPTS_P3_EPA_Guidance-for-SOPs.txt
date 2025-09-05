@@ -1,0 +1,123 @@
+
+#####################################################
+ENVIRONMENTAL PROTECTION AGENCY (EPA)
+GUIDANCE FOR PREPARING STANDARD OPERATING PROCEDURES
+######################################################
+4.0  TYPES OF SOPs
+SOPs may be written for any repetitive technical activity, as well as for any
+administrative or functional programmatic procedure, that is being followed within an
+organization. General guidance for preparing both technical and administrative SOPs follows
+and examples of each are located in the Appendix.
+
+
+4.1  Guidelines for Technical SOP Text
+Technical SOPs can be written for a wide variety of activities. Examples are SOPs
+instructing the user how to perform a specific analytical method to be followed in the laboratory
+or field (such as field testing using an immunoassay kit), or how to collect a sample in order to
+preserve the sample integrity and representativeness (such as collection of samples for future
+analysis of volatile organic compounds or trace metals), or how to conduct a bioassessment of a
+freshwater site. Technical SOPs are also needed to cover activities such as data processing and
+evaluation (including verification and validation), modeling, risk assessment, and auditing of
+equipment operation.
+
+Citing published methods in SOPs is not always acceptable, because cited published
+methods may not contain pertinent information for conducting the procedure-in-house.
+Technical SOPs need to include the specific steps aimed at initiating, coordinating, and recording
+and/or reporting the results of the activity, and should be tailored only to that activity. Technical
+SOPs should fit within the framework presented here, but this format can be modified, reduced,
+or expanded as required. Examples of technical SOPs are located in the Appendices A, B, and
+C.
+
+In general, technical SOPs will consist of five elements: Title page, Table of Contents,
+Procedures, Quality Assurance/Quality Control, and References:
+	1. Title Page - See Section 3.1.
+	
+	2. Table of Contents - See Section 3.2.
+	
+	3. Procedures - The following are topics that may be appropriate for inclusion in technical SOPs. 
+	Not all will apply to every procedure or work process being detailed.
+		a. Scope and Applicability (describing the purpose of the process or procedure and any 
+		organization or regulatory requirements, as well as any limits to the use of the procedure),
+		
+		b. Summary of Method (briefly summarizing the procedure),
+		
+		c. Definitions (identifying any acronyms, abbreviations, or specialized terms used),
+		
+		d. Health & Safety Warnings (indicating operations that could result in personal injury or 
+		loss of life and explaining what will happen if the procedure is not followed or is followed 
+		incorrectly; listed here and at the critical steps in the procedure),
+		
+		e. Cautions (indicating activities that could result in equipment damage, degradation of 
+		sample, or possible invalidation of results; listed here and at the critical steps in the 
+		procedure),
+		
+		f. Interferences (describing any component of the process that may interfere with the accuracy 
+		of the final product),
+		
+		g. Personnel Qualifications/Responsibilities (denoting the minimal experience the user should 
+		have to complete the task satisfactorily, and citing any applicable requirements, like 
+		certification or “inherently governmental function”),
+		
+		h. Equipment and Supplies (listing and specifying, where necessary, equipment, materials, 
+		reagents, chemical standards, and biological specimens),
+		
+		i. Procedure (identifying all pertinent steps, in order, and the materials needed to 
+		accomplish the procedure such as:
+			• Instrument or Method Calibration and Standardization
+			• Sample Collection
+			• Sample Handling and Preservation
+			• Sample Preparation and Analysis (such as extraction, digestion, analysis, 
+			identification, and counting procedures)
+			• Troubleshooting
+			• Data Acquisition, Calculations & Data Reduction Requirements (such as listing any 
+			mathematical steps to be followed)
+			• Computer Hardware & Software (used to store field sampling records, manipulate 
+			analytical results, and/or report data), and
+			
+		j. Data and Records Management (e.g., identifying any calculations to be performed, forms to 
+		be used, reports to be written, and data and record storage information).
+		
+	4. Quality Control and Quality Assurance Section - QC activities are designed to allow self-
+	verification of the quality and consistency of the work. Describe the preparation of appropriate 
+	QC procedures (self-checks, such as calibrations, recounting, reidentification) and QC material 
+	(such as blanks - rinsate, trip, field, or method; replicates; splits; spikes; and performance 
+	evaluation samples) that are required to demonstrate successful performance of the method. 
+	Specific criteria for each should be included. Describe the frequency of required calibration and 
+	QC checks and discuss the rationale for decisions. Describe the limits/criteria for QC 
+	data/results and actions required when QC data exceed QC limits or appear in the warning zone. 
+	Describe the procedures for reporting QC data and results.
+	
+	5. Reference Section - Documents or procedures that interface with the SOP should be fully referenced (including 
+	version), such as related SOPs, published literature, or 
+	methods manuals. Citations cannot substitute for the description of the method beingfollowed in the organization. Attach 
+	any that are not readily available.
+
+
+4.2  Guidelines for Administrative or Fundamental Programmatic SOP Text
+As with the technical SOPs, these SOPs can be written for a wide variety of activities, e.g., reviewing documentation such as contracts, QA Project Plans and Quality Management Plans; inspecting (auditing) the work of others; determining organizational training needs; developing information on records maintenance; validating data packages; or describing office correspondence procedures. Administrative SOPs need to include a number of specific steps aimed at initiating the activity, coordinating the activity, and recording and/or reporting the results of the activity, tailored to that activity. For example, audit or assessment SOPs should specify the authority for the assessment, how auditees are to be selected, what will be done with the results, and who is responsible for corrective action. Administrative SOPs should fit within the framework presented here, but this format can be modified, reduced, or expanded. An example of administrative SOPs can be found in Appendix E.
+
+In general, administrative/programmatic SOPs will consist of five elements: Title page, Table of Contents, Purpose, Procedures, Quality Assurance/Quality Control, and References.
+
+	1. Title Page - See Section 3.1.
+	
+	2. Table of Contents - See Section 3.2.
+
+	3. Procedures -The following are topics that may be appropriate for inclusion in administrative SOPs:
+		a. Purpose – (identifying the intended use of the process)
+		b. Applicability/Scope (identifying when the procedure is to be followed),
+		c. Summary of Procedure,
+		d. Definitions (defining any words, phrases, or acronyms having special meaning or application),
+		e. Personnel Qualifications/Responsibilities (identifying any special qualifications users should have such as 	
+		certification or training experience and/or any individual or positions having responsibility for the activity being 
+		described),
+		f. Procedure,
+		g. Criteria, checklists, or other standards that are to be applied during the procedure such as citing this document 
+		as guidance for reviewing SOPs), and
+		h. Records Management (specifically, e.g., as forms to be used and locations of files).
+
+	4. Quality Control and Quality Assurance Section - Describe any control steps and provisions for review or oversight 
+	prior to acceptance of the product or deliverable. This can include test plans such as verification and validation plans 
+	for software or running a “spell-check” program on the finished document.
+
+	5. Reference Section - Cite all references noted in the body of the SOP. A copy of any cited references not readily 
+	available should be attached to the SOP.

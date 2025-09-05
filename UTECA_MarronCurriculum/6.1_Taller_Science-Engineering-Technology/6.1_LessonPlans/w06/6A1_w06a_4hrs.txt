@@ -1,0 +1,322 @@
+							LESSON PLAN  (200 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+
+
+######################
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+		https://notepad-plus-plus.org/downloads/
+		
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+		https://github.com/
+		https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
+		https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-
+		personal-access-tokens
+		
+	3) Installation of Git on Windows (Mac)
+		https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+	
+How-To Guides (aka a set of instructions) must be clear, simple, and direct. The 'step-by-step' method of organizing instructions is usually best. This assignment will use the following modified document format:
+	* Name, Class ID, Assignment ID, and Date in upper RH corner
+	
+	* The three (3) How-To Guides will each have their own main section. Thus,
+	The first main heading will be, 
+		"How-To Guide for Installation of Notepad++ on Windows (en Español)"
+	The second main heading will be, 
+		"How-To Guide for Getting Started with GitHub (en Español)"
+	The third heading will be, 
+		"How-To Guide for Installation of Git for Windows (en Español)"
+		
+	* Under each main heading you may organize the instructions and hints as you wish; numerical list 
+	format and single-space text is fine.
+########################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+Cloud services cut both ways in terms of security: you get off-site backup and disaster recovery, but you entrust your secrets to somebody else's hands. Doing the latter increases your exposure to government surveillance and the potential for deliberate or inadvertent breaches of your confidential files.
+		-- Barton Gellman
+			building safeguards against threats to democracy
+
+
+
+
+
+Go through Exams
+
+
+
+
+
+---- Content 
+
+Continue Git and GitHub installations
+
+
+##################
+Install Notepad++ (Windows)
+Sublime Text (Mac)
+##################
+https://notepad-plus-plus.org/downloads/
+https://www.sublimetext.com/
+
+Do trial run and save as a 'normal text file' (Windows)
+The file should have a .txt extension
+Will need to store GitHub token
+
+[Right-clic to select the text editor]
+
+###############
+GitHub Account
+GitHub Repository
+GitHub Token
+################
+https://github.com/
+
+Sign up for Github
+
+
+---GitHub Account
+https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
+
+			# https://github.com/
+			# create login
+				username: <your user name>  (or your non-school email)
+				password: <your password> 
+			
+			#GitHub charges for private repositories!! public repositories can still choose who can 
+			commit
+
+---GitHub Repository
+https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+
+Create Repository
+
+Create Repo Qs
+	Name of repo
+
+	Public
+
+	Add README file
+
+	ignore .gitignore
+
+	ignore license
+
+			# Create new repo
+	"Initial commit"		<== 'This will set master as the default branch'
+		
+			
+
+
+---GitHub Token
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+			# Obtain a authetication token; Fine-grained token
+			# use a personal access token in place of a password when authenticating to GitHub 
+			from the command line 	
+			
+		Settings
+			==> <> Developer Settings
+				==> Personal Access Tokens (use Classic NOT Fine-Grained)
+					==> Tokens (Classic)
+					
+					==> YourToken_#######
+					 	Access on @<your username>
+						Repository access	This token has access to all repositories owned by you.
+
+					YourToken_###### (never expires)
+						==> NEVER put token in a doc to be 'pushed' to the offsite repo (the doc will 
+						contain a "secret")
+Token Qs					
+	no expiration date
+
+	no description required 
+
+	all repositories
+
+	Generate Token
+		Classic
+	
+		Clic all boxes
+	
+"This token will expire NEVER"
+
+
+
+---- [for Fine-Grained Only] ----------------
+	Repo Permissions
+		"read and write" for all (or "read")
+	 
+	Overview
+		"read and write" for all (or "read")
+-----------------------------------------------
+
+####################
+Open Reference Docs
+#####################
+
+git_usage_Windows.txt
+Windows_Install_Git_LinuxUtilities.pdf
+
+
+###########
+Installing Git
+##############
+1.4 Getting Started - The Command Line
+https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
+
+1.5 Getting Started - Installing Git
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+NB. for help with any git command
+$ git help <command>
+
+
+See "git_usage_Windows.txt" 	(start line 22)
+See "Windows_Install_Git_LinuxUtilities.pdf" 
+
+
+#########
+Windows
+"install git windows"	<== Google
+#########
+https://git-scm.com/download/win <== download will start automatically
+	Git-2.48.1-64-bit.exe 		<== auto download for Windows machines
+https://gitforwindows.org
+
+
+#######
+Mac-OS
+"install git mac"	<== Google
+#####
+open Terminal
+Click the Launchpad icon in the Dock, type Terminal in the search field, then click Terminal.
+pin Terminal to toolbar
+
+
+https://git-scm.com/downloads/mac
+Install Homebrew if you don't already have it, then:
+
+$ brew install git
+
+
+
+Git Install Qs
+	let Git Decide
+
+	Use bundled OpenSSH
+
+	Use Native Windows Secure Channel Library
+
+	Checkout as-is, Commit as-is
+
+	Use MinTTY
+
+	Fast forward or Merge
+
+	Git Credential Manager
+
+	Enable file system caching
+
+	Launch Git BASH
+	[a Linux-style BASH screen]		<== pin to toolbar
+	
+
+
+
+
+##############
+General Info:
+Repositories
+##############
+
+Each 'repository' composed of an onsite repository and its offsite repository (image)
+
+Must have:
+	*an onsite repository setup by keying a compu folder with a (hidden) /.git subfolder  
+
+	*an offsite repository in GitHub (https://github.com/) already setup
+		-- follow GitHub instructions for new repository setup
+		
+
+
+#########################################
+Onsite Git repository set up AND 
+synch to Offsite Github repo
+##########################################
+See " git_usage_Windows.txt" (start line 84)
+
+	# open yout GitHub acct and copy the URL of your newly-created repository
+	# create a new folder on your desktop to house your GitHub (cloned) repo
+	
+	# Right-clic to open Git BASH terminal in the new folder (Windows)
+	# Go to the new folder and open a Terminal (Mac)
+
+$ git clone <your Github URL>
+
+	# close Bash terminal (Windows) or Terminal (Mac)
+	# open the newly-cloned folder and open a new BASH terminal (Windows) or Terminal (Mac)
+	# check the repo (p.69 ProGit2)
+
+$ git remote -v
+$ git remote show origin
+
+
+
+#########################################
+Manually dump in additional subdirectories and files
+Make changes to existing files
+track || stage || commit || push
+##########################################
+
+	# copy in additional subdirectories and files
+Copy/paste your dictionary into git-tracked repo
+ 
+	
+	# show files and their status 
+$ git status
+
+	# TRACK and STAGE all files!!!
+$ git add --all
+$ git status
+
+	#COMMIT all files
+$ git commit -a -m "<date>"
+ 
+ 	# PUSH all files to offsite repo (aka 'origin')
+$ git remote -v
+$ git push origin --all
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean
+
+	# See file changes and commit history
+$ gitk
+
+
+
+---- Work time
+
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+

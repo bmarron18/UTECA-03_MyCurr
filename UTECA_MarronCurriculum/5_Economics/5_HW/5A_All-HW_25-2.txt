@@ -1,0 +1,136 @@
+
+###########
+All HW
+###########
+
+####
+3p
+####
+HW_08.1	[Due 27 Mar 2025]
+ For all tasks, the standard format applies EXCEPT for double spacing.
+ --- Task 1 
+The document, 1f_CKD_Prospectus_2.pdf is a prospectus for a CKD public offering (PROGRAMA DE CERTIFICADOS BURSÁTILES FIDUCIARIOS). The public offering was authorized up to the amount of $5,500’000,000.00 (CINCO MIL QUINIENTOS MILLONES DE PESOS 00/100). 
+Read the first 2 (two) pages of the document (1f_CKD_prospectus_2.pdf) which briefly summarize the offer. Next read Section 1.2 (Resumen Ejecutivo) and Section 1.2.1 (Breve Descripción de la Operación). Lastly, TRANSLATE i) Section 2 (La Oferta), ii) Section 2.1 (Características de los Valores), and iii) Section 2.2 (Destino de los Fondos) into English. 
+Challenge: Can you describe how this program of CKDs is set up?
+		--- Task 2
+Define the following terms in Spanish and English
+TERMS
+
+
+HW_07.1	[Due 20 Mar 2025]
+The legal foundation and explicit functioning of the BMV is given in the federal law, "Ley del Mercado de Valores". Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms below.
+
+TERMS
+
+
+
+####
+2P
+####
+HW_06.1	[Due 13 Mar 2025]
+Perform the tasks listed below. The standard format applies with the tasks listed as major headings.
+--- Task 1
+Read/scan Hall and Lieberman, pp. 214-218; pp.245-249; pp. 274-276; pp. 854-857. Answer the following questions in English:
+	1. What is a share of stock?
+	2. There are many types of stocks. List and define four(4) different types of stocks (see Task 4 below).
+	3. What is the difference between bonds and stocks?
+	4. Explain the differences in types of competition in markets. That is, what are the differences between markets with perfect 
+	competition, market monopolies,  and markets with imperfect competition (monopolistic competition markets and market oligopolies)
+	5. Why do many individuals choose to hold their wealth in stocks?
+	6. The authors state, "By early 2000, the average U.S. household held more wealth in the stock market than in real estate, 
+	including the value of their own home." Do you consider stock investments a wise choice? Explain.
+	7. Explain the data in Table 1 on p. 857. 
+--- Task 2
+Read "EXCERPT_WorldBank_StockMarket-vs-Economic-Development.txt" and translate the entire excerpt into Spanish.
+--- Task 3
+Read i) "EXCERPT_China_StockMarket-vs-Economic-Development.txt", and ii) "EXCERPT_Mexco_StockMarket-vs-Economic-Development.txt".
+Based on the three excerpts you have read, answer the following questions in English:
+	1. Why does the stock market matter? 
+	2. What is the role of the stock market in the economy? 
+	3. Why do economists consider stock markets to be perfect competition markets? Are they?
+	4. Do you think evidence and data support the claim that there is a strong empirical association between stock market development 
+	and long-term economic growth?
+	5. Evaluate the claim that greater stock market development encourages more diffuse corporate ownership and this diffusion 
+	of ownership impedes effective corporate governance.
+--- Task 4
+Define the following terms in both English and Spanish. Add any unfamiliar terms to your personal dictionary.
+Terms
+
+
+HW_05.2 [Due: 06 Mar 2025]
+Complete the Python script, "HW_05.2.py" by filling it with the code snippets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+
+Be sure to run each code snippet in Spyder. You may turn in a paper copy by printing the .py file from your text file editor; or you may show me the completed document by opening the .py file in class.
+
+Hints:
+	* Open https://www.w3schools.com/python/
+	* Open "HW_05.2.py" in Spyder
+	* Add new cells with ctrl+2
+	* Cut/paste each new code snippet into a new cell
+
+
+HW_05.1	[Due: 06 Mar 2025]
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+
+These guides should be in the same document separated by main headings. You do not need to follow the standard format, except for the document header.
+
+
+HW_04.2 [Due: 27 Feb 2025]
+Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728). Provide a very brief summary of this section (English and Spanish) and answer the following questions:
+	1. Do you think that an FDIC-like system is a good idea? Explain.
+	2. The analogous entity to the FDIC in Mexico is the Instituto Para La Proteccion al Ahorro
+Bancario (IPAB). Read the first few pages of S&P's Global Ratings Report for the IPAB. Is the IPAB a fiscally sound institution? Explain. 
+Standard format applies. 
+
+
+HW_04.1 [Due: 27 Feb 2025]
+Begin your personal translation dictionary. Go back through the economic terms we have discussed thus far and enter any unfamiliar terms in your dictionary. Be sure to provide Spanish and English translations and definitions.
+
+
+
+####
+1P
+####
+
+HW_03.1  [Due: 6 Feb 2025]
+Review CAPITULO III (De las Operaciones), ARTICULO 7o of Ley del Banco de México (BANXICO). In a one-page+ paper, translate the entirety of ARTICULO 7o into English. The standard format requirements apply.
+
+
+HW_02.2  [Due: 30 Jan 2025]
+Review the axioms, theorems, and corollaries of standard economic theory that were presented in class. Research/investigate these statements and then critique them. Do you believe these statements to be foundational, empirical truths? Explain why or why not in a two-page paper written in English and then translated to Spanish. The standard format requirements apply, including references.
+
+
+ HW_02.1  [Due: 30 Jan 2025]
+Read the following excerpts from Nelson's, "Chapter 1: An Overview of Economics"
+	1.1 What are the “Economy” and “Economics”?
+	1.2 The Four Sectors of the Economy
+	1.3 What is Microeconomics?
+	1.4 What is Macroeconomics?
+Write a one-page summary of the excerpt in English and translate the summary into Spanish. The standard format requirements apply.
+
+
+HW_01.1  [Due: 23 Jan 2025]
+Select one (1) discipline from the field of applied economics and one (1) discipline from the field of applied investing. You will become an expert in these disciplines and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a two-page paper on the history of each discipline. The first page of each paper will be dedicated to the general history the discipline. The second page of each paper will be dedicated to the history of the discipline in Mexico. 
+
+For this assignment and for all subsequent assignments in this class, the following format requirements apply:
+
+	* Papers must be double-spaced, have 0.5 inch margins and 12-point Times New Roman font
+	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date. That is, your upper right-hand corner should look like this:
+
+                         <Your Name>
+                         IT0524 (Marron)
+						 <Assignment ID>
+                         Date
+
+	* The title of your paper should be centered in bold.
+	* Unless told otherwise, you must include references in a standard format (eg, APA).
+	* The assignment must be printed for submission although students should save a copy in PDF format.
+
+For this assignment You should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. Remember, your deliverable will be the original paper, written in either English or Spanish, and the translated paper, written in either Spanish or English. Be prepared to present and share your findings with the class. Please note that 'presenting and sharing your findings with the class' implies a somewhat informal presentation. I would expect about a 10 min overview of your findings with a focus on Mexico.
+

@@ -1,0 +1,446 @@
+
+==========	Intro	====================================================
+
+############
+Your Future
+#############
+https://www.smartling.com/
+
+"AI Powered Translations with a Human Touch"
+
+
+###############
+Terminology
+###############
+
+General Terms
+
+	ML		Machine Lerning
+	LLM		Large Language Model
+	NMT		Neural Machine Translation
+	GPT		Generative Pre-Trained Transformer
+	MIME	Multipurpose Internet Mail Extension; type of file format for translating
+	
+	API		Application Programmer Interface
+	SDK		Software Development Kit
+	IDE		Integrated Development Environment	
+	Python	Object-oriented programming language
+	
+ML
+A subfield of artificial intelligence (AI) that gives computers the ability to learn without explicitly being programmed; the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions.
+
+
+LLM
+An artificial intelligence (AI) system that can understand, process, and generate human language. LLMs are trained on large amounts of data, such as books and articles, using machine learning techniques.
+
+
+NMT
+A method of automated translation that uses artificial neural networks to translate text from one language to another, essentially mimicking the human translation process by learning patterns from large datasets to predict the most likely sequence of words in the target language; a data-driven approach to machine translation considering the entire sentence context rather than just individual words.
+
+
+GPT
+A type of artificial intelligence (AI) model that can create human-like text. GPT is a family of neural network models that use a transformer architecture. 
+
+
+MIME
+Many file types can be translated by Google Translate API (NMT model). Translation will keep the original format.
+
+Extension			MIME code Google API
+---------			---------------------
+.doc				application/msword
+.docx				application/vnd.openxmlformats-officedocument.wordprocessingml.document
+.pdf				application/pdf
+.ppt				application/vnd.ms-powerpoint
+.pptx				application/vnd.openxmlformats-officedocument.presentationml.presentation
+.xls				application/vnd.ms-excel
+.xlsx				application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+
+API
+A set of rules and protocols that allows different software applications to communicate with each other, enabling them to exchange data and functionality by defining a standardized way to request and receive information.
+
+
+SDK
+A collection of tools, libraries, and documentation provided to developers that allows them to create applications for a specific platform, operating system, or programming language, essentially offering everything needed to build and run software within that environment; [eg, Google Cloud CLI, Google Cloud SDK]
+
+IDE
+A software application that helps developers write, build, test, and package software. [eg, Spyder[
+
+
+Python
+a high-level, interpreted, object-oriented programming language known for its simple, readable syntax that closely resembles natural language, making it a popular choice for beginners and a versatile tool for various applications including web development, data analysis, automation, and machine learning
+
+
+##############
+AI Translation
+###############
+
+OpenAI offers:
+	GPT 4.o
+
+Google offers:
+    DeepL
+    Google Cloud Translation API	<== We will start here
+
+
+
+==========	Google Cloud Translation API	==============================
+Go thru--
+https://cloud.google.com/translate/?hl=en
+https://cloud.google.com/python/docs/reference/translate/latest
+https://cloud.google.com/python/docs/reference/translate/latest/client
+https://codelabs.developers.google.com/codelabs/cloud-translation-python3#0		<== tutorial
+
+
+
+---- Google-Specific Terms	---------------------------------------------------
+	ADC									Application Default Credentials
+	
+	Google Cloud SDK					Libraries and tools for interacting with Google Cloud products and services.
+	
+	Cloud Client Libraries				Computer programming language-based libraries (SDKs) for use with Google APIs
+	[Google API Client Libraries		Previous versions of the Cloud Client Libraries]
+	Python Cloud Client Libraries		Python-code specific libraries for APIs
+	
+
+ADC (Google)
+A strategy used by the authentication libraries to automatically find credentials based on the application environment. The authentication libraries make those credentials available to Cloud Client Libraries and Google API Client Libraries. When you use ADC, your code can run in either a development or production environment without changing how your application authenticates to Google Cloud services and APIs. 
+
+
+Google Cloud SDK
+A collection of tools that are used to interact with Cloud Client Libraries and services and manage the resources in your Google Cloud projects. Contains 
+	Google Cloud CLI		-- command-line tools that provide Cloud Shellfunctionality
+	Cloud Client Library	-- low-level details for enabling Cloud Client Libraries efficiently
+
+
+Cloud Client Libraries
+The recommended way to access Google Cloud APIs programmatically. The libraries provide high-level API abstractions so they're easier to understand. They embrace idioms of the programming language (Python, Java, PHP, C++, C#, Ruby. Go)
+
+Sample Python Cloud Client Libraries
+			AI Platform 						google-cloud-aiplatform
+			AI Platform Data Labeling Service 	google-cloud-datalabeling
+			API Gateway 						google-cloud-api-gateway
+			API Keys API 						google-cloud-api-keys
+			Access Approval 					google-cloud-access-approval
+			Analytics Data API 					google-analytics-data
+			...									...
+			**Cloud Translation 				google-cloud-translate 	<== we'll use this one!!
+
+
+Cloud Translation API 
+	As is 	==> use a Neural Machine Translation (NMT) model; general; the standard Google pre-trained model
+	Options ==> Adaptive Translation [w/ slightly customized LLMs]
+			==> AutoML Translation [w/ highly customized LLMs]
+
+Adaptive Translation
+	Creates custom translation models; trains a LLM on small amounts of specialized data; higher degree of accuracy than 
+	the standard Google pre-trained model
+
+AutoML Translation 
+	Creates custom translation models; trains a LLM on large amounts of specialized data; the most accurate translations possible for highly specialized or technical content; much higher degree of accuracy than the standard Google pre-trained model;  
+
+
+NB
+* If you don't want to access an API programmatically (ie, using scripts from home compu), you can access some of the same  functionality using the tools in the Google Cloud console	<== we'll do this first
+
+* Google Cloud Translation API NMT translates 194 language pairs (see below)
+
+
+-----	Creating a Google Cloud Account	-------------------------------
+https://console.cloud.google.com/
+https://cloud.google.com/resource-manager/docs/creating-managing-projects#before_you_begin
+
+
+Account Configuration: 
+	Sign in with your regular Google Account then
+		https://cloud.google.com/
+			==> go to console
+	
+NB
+	New Google Cloud users are eligible for the 90-day, $300 USD ($6000 MXN) Free Trial program
+	Access to all Google Cloud products and services
+	90 days to spend your credits
+	No billing during trial
+	12 projects in quota.
+	Mexico tracks your expenditures with Google....will need RFC and Regimen Fiscal
+
+Set up new project ----
+
+New Project Configuration
+	Project name
+    	<your project name>
+	Project ID
+		--assigned by Google
+	Project number
+    	-- number assigned by Google
+
+
+
+
+===============		Python	===============================
+
+#########################
+Bundled Python distros:
+Anaconda
+Miniconda
+###########################
+https://docs.anaconda.com/getting-started/
+
+Anaconda has ----
+Natural Language Processing
+    NLTK
+    Gensim
+    Transformers
+    spaCy
+
+AI and Machine Learning
+    scikit-learn
+    TensorFlow
+    Keras
+    PyTorch
+    XGBoost
+	
+NB
+	* We won't need Anaconda but it's fabulous for learning Python
+
+
+############
+An ideal IDE:
+Spyder
+##########
+
+https://www.spyder-ide.org/
+https://www.spyder-ide.org/download/
+
+NB
+	* Spyder comes with a python interpreter
+	* We will use Spyder
+
+
+################
+Python Tutorials
+################
+https://www.w3schools.com/python/
+Code Infinity
+Code Academy
+
+##########
+Python References
+#####################
+Lutz_LearningPython.pdf
+Lutz_PythonPocketReference.pdf
+
+
+	
+
+==============	Marron Python scripts for Translation	=======================
+
+Workflow_gCloudShell_StandardNMT_GeneralTranslation_excerpts.py
+	* Runs in Google Cloud Shell
+	* Good for text excerpts only
+
+
+Workflow_gcloudAPI_StandardNMT_GeneralTranslation_docs.py
+	* Runs from your computer
+	* Good for big files (.pdf, .docx, etc)
+	* Keeps original doc formats
+
+
+
+
+
+==========	Google Cloud Translate API Language Codes (194 language pairs)	=========================
+ab        Abkhaz
+ace       Acehnese
+ach       Acholi
+af        Afrikaans
+sq        Albanian
+alz       Alur
+am        Amharic
+ar        Arabic
+hy        Armenian
+as        Assamese
+awa       Awadhi
+ay        Aymara
+az        Azerbaijani
+ban       Balinese
+bm        Bambara
+ba        Bashkir
+eu        Basque
+btx       Batak Karo
+bts       Batak Simalungun
+bbc       Batak Toba
+be        Belarusian
+bem       Bemba
+bn        Bengali
+bew       Betawi
+bho       Bhojpuri
+bik       Bikol
+bs        Bosnian
+br        Breton
+bg        Bulgarian
+bua       Buryat
+yue       Cantonese
+ca        Catalan
+ceb       Cebuano
+ny        Chichewa
+zh        Chinese (Simplified)
+zh-CN     Chinese (Simplified)
+zh-TW     Chinese (Traditional)
+cv        Chuvash
+co        Corsican
+crh       Crimean Tatar
+hr        Croatian
+cs        Czech
+da        Danish
+dv        Dhivehi
+din       Dinka
+doi       Dogri
+dov       Dombe
+nl        Dutch
+dz        Dzongkha
+en        English
+eo        Esperanto
+et        Estonian
+ee        Ewe
+fj        Fijian
+tl        Filipino
+fil       Filipino
+fi        Finnish
+fr        French
+fy        Frisian
+ff        Fulani
+gaa       Ga
+gl        Galician
+ka        Georgian
+de        German
+el        Greek
+gn        Guarani
+gu        Gujarati
+ht        Haitian Creole
+cnh       Hakha Chin
+ha        Hausa
+haw       Hawaiian
+iw        Hebrew
+he        Hebrew
+hil       Hiligaynon
+hi        Hindi
+hmn       Hmong
+hu        Hungarian
+hrx       Hunsrik
+is        Icelandic
+ig        Igbo
+ilo       Ilocano
+id        Indonesian
+ga        Irish
+it        Italian
+ja        Japanese
+jw        Javanese
+jv        Javanese
+kn        Kannada
+pam       Kapampangan
+kk        Kazakh
+km        Khmer
+cgg       Kiga
+rw        Kinyarwanda
+ktu       Kituba
+gom       Konkani
+ko        Korean
+kri       Krio
+ku        Kurdish (Kurmanji)
+ckb       Kurdish (Sorani)
+ky        Kyrgyz
+lo        Lao
+ltg       Latgalian
+la        Latin
+lv        Latvian
+lij       Ligurian
+li        Limburgish
+ln        Lingala
+lt        Lithuanian
+lmo       Lombard
+lg        Luganda
+luo       Luo
+lb        Luxembourgish
+mk        Macedonian
+mai       Maithili
+mak       Makassar
+mg        Malagasy
+ms        Malay
+ms-Arab   Malay (Jawi)
+ml        Malayalam
+mt        Maltese
+mi        Maori
+mr        Marathi
+chm       Meadow Mari
+mni-Mtei  Meiteilon (Manipuri)
+min       Minang
+lus       Mizo
+mn        Mongolian
+my        Myanmar (Burmese)
+nr        Ndebele (South)
+new       Nepalbhasa (Newari)
+ne        Nepali
+no        Norwegian
+nus       Nuer
+oc        Occitan
+or        Odia (Oriya)
+om        Oromo
+pag       Pangasinan
+pap       Papiamento
+ps        Pashto
+fa        Persian
+pl        Polish
+pt        Portuguese (Brazil)
+pa        Punjabi (Gurmukhi)
+pa-Arab   Punjabi (Shahmukhi)
+qu        Quechua
+rom       Romani
+ro        Romanian
+rn        Rundi
+ru        Russian
+sm        Samoan
+sg        Sango
+sa        Sanskrit
+gd        Scots Gaelic
+nso       Sepedi
+sr        Serbian
+st        Sesotho
+crs       Seychellois Creole
+shn       Shan
+sn        Shona
+scn       Sicilian
+szl       Silesian
+sd        Sindhi
+si        Sinhala
+sk        Slovak
+sl        Slovenian
+so        Somali
+es        Spanish
+su        Sundanese
+sw        Swahili
+ss        Swati
+sv        Swedish
+tg        Tajik
+ta        Tamil
+tt        Tatar
+te        Telugu
+tet       Tetum
+th        Thai
+ti        Tigrinya
+ts        Tsonga
+tn        Tswana
+tr        Turkish
+tk        Turkmen
+ak        Twi
+uk        Ukrainian
+ur        Urdu
+ug        Uyghur
+uz        Uzbek
+vi        Vietnamese
+cy        Welsh
+xh        Xhosa
+yi        Yiddish
+yo        Yoruba
+yua       Yucatec Maya
+zu        Zulu

@@ -1,0 +1,103 @@
+﻿							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
+Curso:			IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Horario:		Jueves 16:00 – 19:00
+Grupo:			6A
+
+
+
+
+#####################
+HW
+Study Guide
+#####################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+“To have another language is to possess a second soul.”
+			– Charlemagne
+			
+			
+---- Content
+
+Notes on HW
+	Watch formatting [Easy "A" ]
+	Watch references [Easy "A" ]
+	
+	Watch voice
+		In general, use 3rd person Point of View (POV) AND active voice in academic writing
+		the active voice. (Strunk and White p 23)
+		1. Place yourself in the background. (Strunk and White p. 64)
+		17. Do not inject opinion.(Strunk and White p. 71)
+		
+	Watch foreign phrases
+		italicized to indicate that they are not in English. (APA)
+	
+	Watch outline vs. paper
+	
+	Watch punctuation
+	
+
+
+
+HW_03.1		[Due: 6 Feb 2025]
+Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
+	System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+	Intensive property
+		(temperature, pressure, velocity, density)
+		
+	Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
+
+	Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)
+		
+
+
+Itś time to build your Personal Glossary/Dictionary
+	Use a simple text file (ASCII/Unicode character set)
+	Here's why....
+	
+	
+	
+
+And now Translation -- Academic Papers
+	General Structure and Format of Science/Engineering papers
+		Introduction to APA Style.pdf
+		Whitesides_ScientificPapers.pdf
+
+Read thru Abstracts / Conclusions for vocab
+	LIMAYMANTA_Suelos-de-Transición-Línea12.pdf
+	Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+
+
+
+Missing HW!!
+	HW_01.1	[Due: 23 Jan 2025] field of science
+	HW_01.2 [Due: 23 Jan 2025] summary Carli & Calaresu's "Language and Science" (missing!)
+	HW_02.1 [Due: 30 Jan 2025] jargonize
+	HW_02.2	[Due: 30 Jan 2025] mental process to solve a problem
+	HW_03.1	[Due: 06 Feb 2025] engineering systems definitions 
+
+
+
+
+
+
+---- Work Time
+
+
+
+

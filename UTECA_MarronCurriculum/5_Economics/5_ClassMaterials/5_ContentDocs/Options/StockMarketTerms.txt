@@ -1,0 +1,140 @@
+
+1. Financial Market:
+    Definition: A broad term encompassing all markets where financial instruments are traded, such as stocks, bonds, derivatives, currencies, and more.
+    Purpose: Facilitates the flow of money between borrowers and lenders, enabling economic activities.
+    Types:
+		1.1 Capital Market: Long-term borrowing and lending (see below).
+        1.2  Money Market: Short-term borrowing and lending (e.g., treasury bills, commercial paper).
+        1.3  Foreign Exchange Market (Forex): Currency trading.
+        1.4  Derivatives Market: Trading financial contracts based on underlying assets.
+
+1.1. Capital Market:
+    Definition: A subset of the financial market where long-term financial instruments (maturing in more than a year) like stocks and bonds are traded.
+    Purpose: Helps businesses and governments raise funds for long-term investments and infrastructure projects.
+    Participants: Corporations, governments, institutional investors, and retail investors.
+    Divisions:
+        1.1.1  Primary Market: Where new securities are issued (e.g., IPOs).
+        1.1.2  Secondary Market: Where existing securities are traded among investors.
+
+1.1.2. Stock Market:
+    Definition: A specific part of the capital market focused exclusively on the buying, selling, and issuance of equities (stocks/shares).
+    Purpose: Provides companies with access to capital and investors with partial ownership in companies.
+    Example: NYSE, NASDAQ, London Stock Exchange.
+    Activities:
+        Primary Market Activities: IPOs (Initial Public Offerings) or direct stock offerings.
+        Secondary Market Activities: Trading of stocks between investors.
+
+Key Differences:
+Aspect		Financial Market							Capital Market							Stock Market
+Scope	Broad (all financial instruments)			Focused on long-term instruments			Focused on equity trading
+Instruments	Stocks, bonds, currencies, derivatives, etc.	Stocks and bonds	Only stocks
+Purpose	General financial intermediation	Long-term funding and investment	Ownership in companies
+Examples	Money Market, Forex Market	Primary and Secondary Markets	NYSE, NASDAQ
+
+	
+	
+##################################
+General Terms (US) Stock Market
+###################################
+
+    Stock: A share representing ownership in a company.
+    Bond: A fixed-income instrument representing a loan made by an investor to a borrower.
+    Dividend: A portion of a company's earnings distributed to shareholders.
+    Bull Market: A market condition where prices are rising or are expected to rise.
+    Bear Market: A market condition where prices are falling or are expected to fall.
+    Portfolio: A collection of investments owned by an individual or organization.
+    IPO (Initial Public Offering): The process of offering shares of a private corporation to the public for the first time.
+    Market Capitalization (Market Cap): The total value of a company's outstanding shares of stock.
+    Stock Exchange: A marketplace where securities are bought and sold (e.g., NYSE, NASDAQ).
+    Liquidity: The ease with which an asset can be converted into cash.
+
+
+Indices
+    DJIA (Dow Jones Industrial Average): A stock market index tracking 30 large publicly-owned companies.
+    S&P 500 (Standard & Poor's 500): An index of 500 leading publicly traded companies in the U.S.
+    NASDAQ: A global electronic marketplace for buying and selling securities, also an index tracking tech and growth-oriented companies.
+
+
+
+Trading Terms
+    Bid Price: The highest price a buyer is willing to pay for a stock.
+    Ask Price: The lowest price a seller is willing to accept for a stock.
+    Spread: The difference between the bid price and the ask price.
+    Limit Order: An order to buy or sell a stock at a specific price or better.
+    Market Order: An order to buy or sell a stock at the current market price.
+    Short Selling: Borrowing shares to sell with the expectation of buying them back later at a lower price.
+    Stop Loss Order: An order to sell a stock once it reaches a certain price to limit losses.
+
+
+Performance Metrics
+    EPS (Earnings Per Share): A company's profit divided by the number of outstanding shares.
+    P/E Ratio (Price-to-Earnings Ratio): A valuation metric comparing a company's share price to its earnings per share.
+    ROI (Return on Investment): A measure of profitability calculated as net profit divided by the investment cost.
+    Beta: A measure of a stock's volatility compared to the market as a whole.
+
+
+Regulatory Bodies
+    SEC (Securities and Exchange Commission): U.S. agency regulating the securities markets.
+    FINRA (Financial Industry Regulatory Authority): An independent regulatory organization overseeing broker-dealers in the U.S.
+
+
+Investment Vehicles
+    ETF (Exchange-Traded Fund): A fund traded on stock exchanges, holding a basket of assets like stocks or bonds.
+    Mutual Fund: An investment vehicle pooling funds from multiple investors to invest in a diversified portfolio.
+    REIT (Real Estate Investment Trust): A company that owns, operates, or finances income-producing real estate.
+
+
+Economic Indicators
+    GDP (Gross Domestic Product): A measure of a country's economic output.
+    CPI (Consumer Price Index): An indicator of inflation by measuring the average change in prices over time.
+    Unemployment Rate: The percentage of the labor force that is jobless and actively seeking employment.
+
+
+Other Acronyms
+    OTC (Over-the-Counter): A decentralized market for securities not listed on major exchanges.
+    ADR (American Depository Receipt): A way for U.S. investors to own shares in foreign companies.
+    ETF (Exchange-Traded Fund): A basket of securities that trades like a stock.
+    NAV (Net Asset Value): The value per share of a mutual fund or ETF
+	
+	
+	
+########################################
+Mexican Stock Market Terms and Acronyms
+Key Institutions and Indexes
+################################
+
+    BMV (Bolsa Mexicana de Valores): The Mexican Stock Exchange, the primary stock exchange in Mexico.
+    IPC (Índice de Precios y Cotizaciones): The benchmark index of the BMV, equivalent to the S&P 500 in the U.S.
+    BIVA (Bolsa Institucional de Valores): Mexico's second stock exchange, launched in 2018 to increase competition in the market.
+    INDEVAL (Instituto para el Depósito de Valores): Mexico’s central securities depository, handling the custody of securities.
+
+Market Participants
+
+    CNBV (Comisión Nacional Bancaria y de Valores): National Banking and Securities Commission, Mexico’s financial regulatory agency.
+    CASA (Casa de Bolsa): Brokerage firms authorized to operate on the stock exchange.
+    AFORE (Administradoras de Fondos para el Retiro): Retirement fund administrators that invest in the stock market.
+
+Investment Instruments
+
+    CPO (Certificados de Participación Ordinaria): Ordinary Participation Certificates, commonly used in real estate investments.
+    FIBRA (Fideicomisos de Infraestructura y Bienes Raíces): Real estate investment trusts (REITs) in Mexico.
+    CKD (Certificados de Capital de Desarrollo): Development Capital Certificates, used for long-term investment in infrastructure and private equity projects.
+    CERPI (Certificados de Proyectos de Inversión): Investment Project Certificates, similar to CKDs but with more flexibility.
+    UDIS (Unidades de Inversión): Inflation-indexed investment units used for certain financial products.
+
+Stock Market Metrics
+    PE Ratio (Relación Precio/Ganancias): Price-to-Earnings ratio, a common metric to evaluate stock valuations.
+    Dividend Yield (Rendimiento por Dividendo): Indicates the return on investment in dividends.
+
+Trading and Operations
+    TIIE (Tasa de Interés Interbancaria de Equilibrio): Mexico's interbank equilibrium interest rate, often used as a reference for financial instruments.
+    Operaciones al Contado: Cash transactions in the stock market.
+    Venta en Corto: Short selling, where traders bet on a stock's price decline.
+
+Regulatory Framework
+    Ley del Mercado de Valores: The Securities Market Law governing stock market operations in Mexico.
+    AML/CFT (Prevención de Lavado de Dinero y Financiamiento del Terrorismo): Anti-Money Laundering and Combating the Financing of Terrorism regulations.
+	
+
+
+

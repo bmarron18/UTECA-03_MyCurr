@@ -1,0 +1,196 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
+
+
+
+
+######################
+HW_05.1	[Due: 06 Mar 2025]
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+
+These guides should be in the same document separated by main headings. You do not need to follow the standard format, except for the document header.
+
+
+HW_05.2 [Due: 06 Mar 2025]
+Complete the Python script, "HW_05.2.py" by filling it with the code snippets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+
+Be sure to run each code snippet in Spyder. You may turn in a paper copy by printing the .py file from your text file editor; or you may show me the completed document by opening the .py file in class.
+
+Hints:
+	* Open https://www.w3schools.com/python/
+	* Open "HW_05.2.py" in Spyder
+	* Add new cells with ctrl+2
+	* Cut/paste each new code snippet into a new cell
+
+########################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+"Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks."
+		--- Stephen Hawking
+
+
+---- Content 
+
+=========	Git and GitHub workflow	============================
+
+
+Recall-------
+#########################################
+Onsite Git repository set up AND 
+synch to Offsite Github repo
+##########################################
+See " git_usage_Windows.txt" (start line 84)
+
+	# open yout GitHub acct and copy the URL of your newly-created repository
+	# create a new folder on your desktop to house your GitHub (cloned) repo
+	
+	# Right-clic to open Git BASH terminal in the new folder (Windows)
+	# Go to the new folder and open a Terminal (Mac)
+
+$ git clone <your Github URL>
+
+	# close Bash terminal (Windows) or Terminal (Mac)
+	# open the newly-cloned folder and open a new BASH terminal (Windows) or Terminal (Mac)
+	# check the repo (p.69 ProGit2)
+
+$ git remote -v
+$ git remote show origin
+
+
+Last Piece---
+#########################################
+Git Workflow
+track || stage || commit || push
+##########################################
+
+	# copy in additional subdirectories and files
+	# Copy/paste your dictionary into git-tracked repo
+ 
+
+	$ git status
+	$ git add --all
+	$ git commit -a -m "<date>"
+	$ git push origin --all			<== GitHub login name
+									<== GitHub token
+	$ git status
+	$ git last
+	$ gitk
+
+
+
+gitk options for Mac
+*	$ git visual
+
+*	git config --global alias.visual 'gitk'
+*	git config --global alias.visual 'log --oneline --decorate --graph --all'
+	$ git log
+
+
+
+
+############
+An ideal IDE:
+Spyder
+##########
+
+https://www.spyder-ide.org/
+https://www.spyder-ide.org/download/
+
+NB
+	* Spyder comes with a python interpreter
+	* We will use Spyder
+
+
+###############################
+Creating a Google Cloud Account
+################################
+https://console.cloud.google.com/
+https://cloud.google.com/resource-manager/docs/creating-managing-projects#before_you_begin
+
+Sign in with your regular Google Account
+		https://cloud.google.com/
+			==> go to console
+
+
+
+==========  Intro to AI-Based Translation	=========================
+
+* UTECA_Translation-in-the-21st-C_Prezy
+* LessonPlan_Cloud-BasedTranslation
+* Workflow_gCloudShell_StandardNMT_GeneralTranslation_excerpts.py
+* Workflow_gcloudAPI_StandardNMT_GeneralTranslation_docs.py
+
+
+
+
+
+
+
+
+--- Work time
+HW_04.1 [Due: 27 Feb 2025]
+Begin your personal translation dictionary. 
+
+HW_04.2 [Due: 27 Feb 2025]
+Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728). Provide a very brief summary of this section (English and Spanish) and answer the following questions:
+	1. Do you think that an FDIC-like system is a good idea? Explain.
+	2. The analogous entity to the FDIC in Mexico is the Instituto Para La Proteccion al Ahorro
+Bancario (IPAB). Read the first few pages of S&P's Global Ratings Report for the IPAB. Is the IPAB a fiscally sound institution? Explain. Standard format applies. 
+
+HW_05.1	[Due: 04 Mar 2025]
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+
+
+HW_05.2 [Due: 04 Mar 2025]
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+
+
+-------Next
+* HW_??
+Read Hall and Lieberman, BASIC BACKGROUND, WHY DO PEOPLE HOLD STOCK?, TRACKING THE STOCK MARKET (pp 872-875). Provide a very brief summary of these sections (English and Spanish) and answer the following questions:
+	1. What is a share of stock?
+	2. Why do individuals choose to hold their wealth in stocks?
+
+Lastly, define the following terms and provide a Spanish translation. Add unfamiliar terms to your personal dictionary.
+
+Terms
+	stock market
+	stock
+	share
+	public offering
+	dividends
+	capital gains
+	Dow Jones Industrial Average
+	Standard & Poor’s 500
+	NASDAQ index
+
+Standard format applies.  
+
+
+* THE STOCK MARKET AND THE MACROECONOMY (p 872 Hall&Lieberman)

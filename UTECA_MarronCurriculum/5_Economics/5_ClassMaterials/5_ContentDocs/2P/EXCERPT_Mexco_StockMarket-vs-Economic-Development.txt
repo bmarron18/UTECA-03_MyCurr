@@ -1,0 +1,18 @@
+
+#####################################################################################
+EXCERPTS " Stock Market Development and Economic Performance: The Case of Mexico",
+Ramon A. Castillo-Ponce et al., Revista de Análisis Económico, 
+Vol. 30, No 1, pp. 41-56 (Abril 2015)
+######################################################################################
+
+Abstract
+We evaluate the association between stock market development and
+the aggregate economy for the long-run and the short-run. We perform
+cointegration and common cycle tests considering various stock market
+indicators, real GDP and industrial production for the Mexican economy.
+While controlling for structural breaks in the series, we identify the existence
+of common trends but not common cycles. Specifically, stock market activity
+and real variables exhibit a positive and significant relationship in the
+long-run; however, they appear to have different responses to transitory
+shocks. These results confirm that stock market development is conducive
+to economic growth.

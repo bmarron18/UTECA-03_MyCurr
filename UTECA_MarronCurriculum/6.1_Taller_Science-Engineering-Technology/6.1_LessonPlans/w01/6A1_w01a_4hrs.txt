@@ -1,0 +1,117 @@
+							LESSON PLAN  (200 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+####
+HW_01
+Due: 21 Jan 2025
+####
+-- HW_01.1
+Select two (2) fields of engineering. You will become an expert in these fields and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a two-page paper on the history of each field of engineering. The first page of each paper will be dedicated to the general history the field. The second page of each paper will be dedicated to the history of the field in Mexico. 
+
+For this assignment and for all subsequent assignments in this class, the following format requirements apply:
+	* Papers must be double-spaced, have 0.5 inch margins and 12-point Times New Roman font
+	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date. That is, your upper right-hand corner should look like this:
+
+                         <Your Name>
+                         IT0629 (Marron)
+						 <Assignment ID>
+                         Date
+
+	* The title of your paper should be centered in bold.
+	* Unless told otherwise, you must include references in a standard format (eg, APA)
+	* The assignment must be printed for submission although students should save a copy in PDF format.
+
+For this assignment you should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. Remember, your deliverable will be the original paper, written in either English or Spanish, and the translated paper, written in either Spanish or English. Be prepared to present and share your findings with the class. Please note that 'presenting and sharing your findings with the class' implies a somewhat informal presentation. I would expect about a 10 min overview of your findings with a focus on Mexico. 
+
+-- HW_01.2
+Read the following excerpts from Picon's,"Engineers and engineering history: problems and perspectives" 
+	p.2 - p.5, paragraph 2
+ 	p.7 - p.8 
+
+Write a one-page summary of the excerpts in English and translate the summary into Spanish. The format requirements above apply.
+
+Hint: To help organize this summary try to find the facts, the questions to be addressed, and the theses or possible answers to the questions to be addressed. Picon suffers from a diffuse and rambling style of academic prose that leaves the reader wondering, "Ẅhat the heck is this guy trying to say?" Your summary must cut to the chase.
+
+#######
+Today
+#######
+
+---- Open 
+
+Intros
+
+Go thru
+	* Course description and scope
+	* Course sequence
+	* Course contract
+
+
+---- Content 
+
+"A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering."
+		-- Freeman Dyson (theoretical physicist)
+
+
+Round Table
+	* What is engineering?
+	* Difference between science and engineering?
+	* Fields of engineering?
+
+
+Reading techniques
+	* slow and focused
+	* rapid scan
+	* speed reading
+	
+Speed Reading Practice
+	Picon, Anton (Harvard University | Harvard Graduate School of Design)
+	"Engineers and engineering history: problems and perspectives"
+	in History and Technology, December 2004
+	
+Translation Problems in Picon
+		..major interrogations are still left unanswered 
+		..complex articulation between continuities and discontinuities thatcharacterizes engineering 
+		history
+		.. the history of engineers and engineering has seen spectacular development.
+		.. I will envisage in particular the interest of notions such as...
+
+
+I found these in Picon....................................
+Facts
+	two fundamental aspects of the history of engineers
+		the history of social framework for engineers
+		the history of the technical innovations
+
+	extreme diversity of fields of engineering
+		civil, mechanical, electrical, ...
+
+	extreme diversity of responsibilities for engineers
+		technical functions
+		management
+
+
+Questions Addressed
+	What defines engineering history?
+	Is the history of engineers primarily about the engineering profession and its evolution,or is it about the evolution of innovation and technical achievements?
+
+
+Theses
+	Engineering looks more like a continent marked by striking contrasts than like a unified field. On this continent, no self-evident link seems to exist between the organization of the profession and the various activities engineers are involved in.
+
+	The lack of relations between these two fundamental aspects of the history of engneers is partly attributable to the extreme 	diversity of their jobs and realizations. Besides the distance that separates civil, mechanical or electrical engineering, engineers—since the second half of the 19th century at least—have occupied all kinds of positions between purely technical functions and management responsibilities.
+...................................
+
+---- Work time
+
+
+
+
+

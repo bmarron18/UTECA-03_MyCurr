@@ -1,0 +1,187 @@
+
+###########
+All HW
+###########
+
+####
+3p
+####
+
+HW_09.1	[Due: 01 Apr 2025]
+The standard format applies to all tasks EXCEPT for double-spacing of text. 
+If possible, please print your assignment double-sided or duplex.
+--- Task 1
+Read/Scan:
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] <== in Class Materiels, RefDocs
+	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
+--- Task 2
+Answer Questions:
+	Answer Qs #1 - #33 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf in English
+--- Task 3
+Translate:
+	Translate pp 2-7 CFE_ModeloContrato.pdf into English
+
+
+HW_08.1	[Due: 25 Mar 2025]
+The standard format applies to all tasks EXCEPT for double-spacing.
+--- Task 1
+Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts. Translate the following "teses aisladas" into English:
+	Registro 160371
+	Registro 193185
+	Registro 215624
+	Registro 2004757
+	Registro 2010576
+	Registro 2011752
+--- Task 2
+Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf.
+Answer the following:
+	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description ofthe "prueba" in English.
+	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
+--- Task 3
+Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN 
+(see https://sjf2.scjn.gob.mx/busqueda-principal-tesis). Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. Be sure to correctly and completely cite the "jurisprudencia" document you slected.
+---- Task 4 
+Define the following terms in English and Spanish.
+TERMS
+
+
+HW_07.1	[Due: 18 Mar 2025]
+--- Task 1
+Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
+--- Task 2
+Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
+both English and Spanish.
+TERMS
+
+
+####
+2P
+####
+HW_06.1	[Due: 11 Mar 2025]
+Perform the tasks listed below. The standard format applies with the tasks listed as major headings.
+--- Task 1 
+Translate "EXCERPTS_P1_Que-hace-la-SCJN.txt" into English.
+--- Task 2 
+Answer and/or summarize the following questions:
+	1. ¿Qué hace la Suprema Corte de Justicia de la Nación?
+	2. What are the periods of the SCJN ?
+	3. What is the Semanario Judicial de la Federación y su Gaceta?
+	4. ¿Quiénes pueden emitir jurisprudencia en el Poder Judicial de la Federación?
+	5. ¿Para quiénes es obligatoria la jurisprudencia de la SCJN?
+	6. ¿Cómo se integra la jurisprudencia de la SCJN?
+--- Task 3
+Add any new words from Task 1 above to your dictionary (Spanish and English). 
+
+
+HW_05.1	[Due: 04 Mar 2025]
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+These guides should be in the same document separated by mmain headings. You do not need to follow the standard format, except for the document header.
+
+
+HW_05.2 [Due: 04 Mar 2025]
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+Be sure to run each code snippet in Spyder. You may turn in a paper copy by printing the .py file from your text file editor; or you may show me the completed document by opening the .py file in class.
+Hints:
+	* Open https://www.w3schools.com/python/
+	* Open "HW_05.2.py" in Spyder
+	* Add new cells with ctrl+2
+	* Cut/paste each new code snippet into a new cell
+
+
+HW_04.1	[Due: 26 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+		https://notepad-plus-plus.org/downloads/
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+		https://github.com/
+		https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
+		https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-
+		personal-access-tokens
+	3) Installation of Git on Windows (Mac)
+		https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+	
+How-To Guides (aka a set of instructions) must be clear, simple, and direct. The 'step-by-step' method of organizing instructions is usually best. This assignment will use the following modified document format:
+	* Name, Class ID, Assignment ID, and Date in upper RH corner
+	* The three (3) How-To Guides will each have their own main section. Thus,
+	The first main heading will be, 
+		"How-To Guide for Installation of Notepad++ on Windows (en Español)"
+	The second main heading will be, 
+		"How-To Guide for Getting Started with GitHub (en Español)"
+	The third heading will be, 
+		"How-To Guide for Installation of Git for Windows (en Español)"
+		
+	* Under each main heading you may organize the instructions and hints as you wish; numerical list 
+	format and single-space text is fine.
+
+
+####
+1P
+####
+
+HW_03.2		[Due: 5 Feb 2025]
+Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage).
+In a one-page+ paper provide:
+	* The Title where the civil law appears (e.g. marriage is covered by Title V)
+	* The Chapters that cover the civil law (e.g. marriage proper is covered by 
+	Chapters I - IV)
+	* The Articles that cover the civil law (e.g. marriage proper is covered by 
+	Articles 146 - 182)
+	* A brief summary of a small handful of interesting (to you) Articles
+	* A direct English translation of a couple of the Articles
+The standard format requirements apply. Be ready to share your findings with the class (informally).
+
+
+HW_03.1		[Due: 4 Feb 2025]
+Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage). From within the topic, find an Article that has been changed (use Justia for this.) For example:
+
+Artículo 148
+Para contraer matrimonio es necesario haber cumplido dieciocho años de edad.
+(ARTÍCULO REFORMADO D.O.F. 14 DE MARZO DE 1973, 23 DE DICIEMBRE DE 1974, 09 DE ABRIL DE 2012, 03 DE JUNIO DE 2019)
+
+Investigate and trace the changes through the Diario Oficial de la Federación  (D.O.F.) and report your findings in a one-page+ paper (English). The standard format requirements apply. 
+
+
+HW_02.2		[Due: 29Jan2025]
+The legal systems of Mexico and of the US are fundamentally different because of their history. That is, Mexico's legal system is structured around civil law, while the US legal system is structured around common law. Explore these differences in a two-page paper. 
+As a first step in your investigation, check out the following links to Cornell Law School's Legal Information Institute:
+
+	legal systems
+	https://www.law.cornell.edu/wex/legal_systems
+
+	civil law (Mexico via Spain and France)
+	https://www.law.cornell.edu/wex/civil_law
+https://www.law.cornell.edu/wex/
+	common law (US via England)
+	https://www.law.cornell.edu/wex/common_law
+The final deliverable will include the original paper (two pages) and its translation. Note that the standard format applies and that references must be included.
+
+
+HW_02.1		Due: 28Jan2025
+Read Grossfield's, "Language and the Law." Write a one-page summary of the paper in English and translate the summary into Spanish. Standard format requirements apply.
+
+
+HW_01.1
+Select two (2) fields of law. You will become an expert in these fields and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a two-page paper on the history of each field of law. The first page of each paper will be dedicated to the general history the field. The second page of each paper will be dedicated to the history of the field in Mexico. 
+
+For this assignment and for all subsequent assignments in this class, the following format requirements apply:
+	* Papers must be double-spaced, have 0.5 inch margins and 12-point Times New Roman font
+	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date. That is, your upper right-hand corner should look like this:
+
+                         <Your Name>
+                         IT0733 (Marron)
+						 <Assignment ID>
+                         Date
+
+	* The title of your paper should be centered in bold.
+	* Unless told otherwise, you must include references in a standard format (eg, APA)
+	* The assignment must be printed for submission although students should save a copy in PDF format.
+
+For this assignment you should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. Remember, your deliverable will be the original paper, written in either English or Spanish, and the translated paper, written in either Spanish or English. Be prepared to present and share your findings with the class. Please note that 'presenting and sharing your findings with the class' implies a somewhat informal presentation. I would expect about a 10 min overview of your findings with a focus on Mexico. 
+
+	

@@ -1,0 +1,134 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
+
+
+
+
+######################################											
+
+######################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+No Class and no HW bc students out for Interpretation Gig
+
+
+---- 	REVIEW	-------------------------------------------------
+
+	
+
+----	NEW	--------------------
+
+
+
+
+
+
+
+---- Coming up
+################
+Economic Reports
+################
+Open Access journals...
+	
+	SERIES - Journal of the Spanish Economic Association 
+	https://link.springer.com/search?query=&search-within=Journal&package=openaccessarticles&facet-journal-id=13209
+
+
+	Oxford Open Economics
+	https://academic.oup.com/ooec
+	https://academic.oup.com/ooec/pages/general-instructions
+
+
+https://www.eleconomista.com.mx/mercados/Que-es-un-CKD-Certificados-de-Capital-de-Desarrollo-20170918-0146.html
+
+
+--- Work time
+
+####
+3P
+####
+HW_08.1	[Due 27 Mar 2025]
+--- Task 1 From the document, 1f_CKD_Prospectus_2.pdf, TRANSLATE i) Section 2 (La Oferta), ii) Section 2.1 (Características de los Valores), and iii) Section 2.2 (Destino de los Fondos) into English. 
+	Challenge: Can you describe how this program of CKDs is set up?
+--- Task 2 Define terms (13) in Spanish and English
+--- Task 3 Translate the Executive Summary (pp. 8 -10) from tGrupo Modelo's annual report to the BMV (2c_GrupoModelo_AnnualReport_toBMV.pdf) into English
+
+
+HW_07.2	[Due 20 Mar 2025]
+	Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English (25)
+
+HW_07.1	[Due 20 Mar 2025]
+	Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms 
+	(25)
+
+####
+2P
+####
+HW_06.1	[Due 13 Mar 2025]
+--- Task 1
+Read Hall and Lieberman, pp. 854-857. Answer questions in English
+--- Task 2
+Read "EXCERPT_WorldBank_StockMarket-vs-Economic-Development.txt" and translate the entire excerpt into Spanish.
+--- Task 3
+Read i) "EXCERPT_China_StockMarket-vs-Economic-Development.txt", and ii) "EXCERPT_Mexco_StockMarket-vs-Economic-
+Development.txt" and answer questions
+--- Task 4
+Define economic terms in both English and Spanish (56)
+
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+	Complete the Python script, "HW_05.2.py" 
+	
+HW_05.1	[Due: 04 Mar 2025]	EXTRA CTREDIT!!
+	Write How-To Guides in Spanish for 
+		1) Creating a Google Cloud Account and creating a project
+		2) Installation of Spyder on Windows/Mac
+	
+HW_04.2 [Due: 27 Feb 2025]
+	Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728), very brief summary (English and Spanish) and 
+	answer questions
+
+HW_04.1 [Due: 27 Feb 2025]
+	Begin your personal translation dictionary. 
+
+
+####
+1P
+####
+HW_03.1  [Due: 6 Feb 2025] 
+	Ley del Banco de México	
+
+HW_02.2  [Due: 30 Jan 2025] 
+	Critique the axioms/theorems/corollaries of standard econ
+
+HW_02.1  [Due: 30 Jan 2025] 
+	Summary Nelson's, "Chapter 1: An Overview of Economics"
+
+HW_01.1  [Due: 23 Jan 2025] 
+	Fields of econ and investing
+	
+
+
+
+
+
+
+
+

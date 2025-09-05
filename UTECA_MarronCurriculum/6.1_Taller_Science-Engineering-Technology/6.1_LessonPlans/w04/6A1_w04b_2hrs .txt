@@ -1,0 +1,57 @@
+							LESSON PLAN  (100 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+
+######################
+
+######################################
+
+#######
+Today
+#######
+---- Open
+
+" The most technologically efficient machine that man has ever invented 
+is the book."
+		-- Northrop Frye
+
+
+
+---- Content
+
+Introduction to Git and GitHub VCS
+
+1.1 Getting Started - About Version Control
+	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+
+1.3 Getting Started - What is Git?
+	https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+
+1.4 Getting Started - The Command Line
+https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
+
+1.5 Getting Started - Installing Git
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+
+
+
+
+
+---- Work Time
+
+
+
+
+
+
+
+

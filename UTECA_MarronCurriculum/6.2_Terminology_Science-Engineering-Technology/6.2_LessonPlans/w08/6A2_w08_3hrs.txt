@@ -1,0 +1,180 @@
+﻿							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
+Curso:			IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Horario:		Jueves 16:00 – 19:00
+Grupo:			6A
+
+
+
+
+#####################
+HW_06.1	[Due: 13 Mar 2025]
+
+--- Task 1
+Read the entire document, "Semiconductores-Tecnológico-Nacional-México.pdf" and write a brief summary of the article in English.
+
+
+--- Task 2
+Translate the following excerpts into English:
+	EXCERPTS_P1_Semiconductores-Tecnológico-Nacional-México.txt
+	EXCERPTS_P2_Semiconductores-Tecnológico-Nacional-México.txt
+
+--- Task 3
+Define the following terms in both English and Spanish. Add any new terms to your dictionary.
+
+Terms
+	actuadores
+	adheridos
+	afloramiento
+	agrietamiento
+	aluviales
+	ambiental
+	analógico
+	anclado
+	anclaje
+	apuntalamiento
+	arcillas
+	arseniuro de galio (GaAs)
+	baterías avanzadas
+	capacitores
+	cadenamientos
+	cimentaciones
+	circuitos electrónicos
+	combustible
+	Complementary Metal-Oxide Semiconductor (CMOS)
+	compuesta
+	compuesto
+	controladores
+	cuaternario
+	deslizamiento
+	desplantadas
+	dictamen
+	diodos
+	discontinuidades
+	dispositivos electrónicos
+	discretización
+	drones
+	Digital Signal Processors (DSPs)
+	electrosoldada
+	empaquetar
+	estratigrafía
+	estratos
+	fabricantes
+	Field Programmable Gate Arrays (FPGAs)
+	fracturamiento
+	gravas
+	heterogénea
+	incongruencias
+	infraestructura
+	ingenieril
+	intemperismo
+	interpolación
+	layout
+	lacustre
+	lahares
+	limosas
+	LEDs
+	mediciones
+	microprocesadores
+	microtemores
+	microtremores
+	neuronal
+	nitruro
+	nitruro de galio (GaN)
+	perceptron
+	pilas desplantadas
+	pilas empotradas
+	pilotes
+	planteamiento
+	pluvial
+	resonancia magnética
+	semicompensado
+	sostenibilidad
+	subsuelo
+	subyacente
+	subyaciendo
+	subzonas
+	superconductores
+	talud
+	taludes
+	telecomunicaciones
+	tirantes
+	topográfico
+	topología
+	transistores
+	ultrasonido
+	unidades de estado sólido (SSD
+	vectores
+	zapatas convencionales
+	zapatas octogonales
+#####################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+	"Mathematics is the most beautiful and most powerful creation of the human spirit. "
+ 			--- Stefan Banach 
+			(Polish mathematician considered one of the 20th century's most important and influential 
+			mathematicians)
+
+
+---- Content
+
+
+go rapidly thru--
+HW_05.2	[Due: 06 Mar 2025]
+Read Section 3.2 in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 44-48)
+
+
+
+Quickly review 
+	Semiconductores-Tecnológico-Nacional-México.pdf
+
+Look at
+	Figura 1
+
+
+
+
+---- Save
+7. Document Translation
+	7.1 Academic Texts and Papers
+	7.2 Manuals and Standard Operating Procedures (SOPs)
+	7.3 Request for Proposals (RFPs) and Proposals
+	7.4 Analytical Evaluations, White Papers, and Lab Reports
+	7.5 Science Reporting Articles
+
+
+---- Work Time
+
+HW_06.1	[Due: 13 Mar 2025]
+--- Task 1 Read the entire document, "Semiconductores-Tecnológico-Nacional-México.pdf" and write a brief summary of the article in English.
+--- Task 2 Translate the following excerpts into English:
+--- Task 3 Define the following terms in both English and Spanish. Add any new terms to your dictionary.
+
+
+HW_05.2	[Due: 06 Mar 2025]
+Read Section 3.2 in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 44-48)
+
+HW_05.1	[Due: 06 Mar 2025]
+	Translate the Intro  (3 paragraphs) from, "H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-waste.pdf" into Spanish.
+	Translate the INTRODUCCIÓN (1 paragraph) from,"Paniagua_Deslizamiento_de_Talud.pdf" into English. 
+
+HW_04.1	[Due: 27 Feb 2025] 
+	Translate Intro. "LIMAYMANTA_Suelos-de-Transición-Línea12.pdf" (English)
+	Translate Abstract "Steffen et al. 2018_Trajectories ...Anthropocene.pdf" (Spanish)
+
+HW_04.2 [Due: 27 Feb 2025] 
+	Read Sec 3.1 Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 39-43)
+	
+
+

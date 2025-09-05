@@ -1,0 +1,107 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos Jurídicos
+Curso:			IT0733
+Licenciatura: 	Interpretación y Traducción
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
+Grupo:			7A
+
+################
+HW
+Study Guide
+################
+
+
+#########
+Today
+#########
+
+---- Open 
+
+"Discourage litigation. Persuade your neighbors to compromise whenever you can. As a peacemaker the lawyer has superior opportunity of being a good man. There will still be business enough."
+			--- Abraham Lincoln
+
+
+
+
+---- Content 
+
+Setting up Your Personal Dictionary (It's time!)
+
+	simple.txt file highly recommended
+	Here's why.......https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/capitulo-ix/
+
+
+
+
+
+
+
+
+
+
+
+
+IF NEEDED	==>
+Landlord-Tenant Law: México and US
+
+WEX LII
+Business Sectors
+	Landlord-Tenant Law
+	https://www.law.cornell.edu/wex/landlord-tenant_law
+
+
+Justia
+https://mexico.justia.com/derecho-civil/contratos-civiles/contrato-de-arrendamiento/preguntas-y-respuestas-sobre-contrato-de-arrendamiento/
+
+
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/
+Libro Cuarto - De las Obligaciones
+Especies de Contratos
+		Título Sexto - Del Arrendamiento
+			
+
+Eviction 		-- Artículo 2489
+Termination		-- Artículo 2490
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/capitulo-ix/
+
+The Study Guide
+	Attempt to answer all questions, even if you are uncertain. Whenever possible, provide answers in bullet list format with complete content. Tasks will be evaluated by sub-tasks. Three (3) points are available for each sub-task: Accuracy (1 pt), Completeness (1 pt), and Sufficiency (1 pt). Points will be awarded in 0.1 increments. 
+
+
+Missing Assignments!!
+	Check with me during work time
+
+	HW_01.1	[Due: 22 Jan 2025] two field of law
+		HW_01.2	[changed to 2.1]
+	HW_02.1	[Due today] summary Grossfield's, "Language and the Law.
+	HW_02.2	[Due tomorrow] civil vs. common law report
+	HW_03.1	[Due: 4 Feb 2025] civil law topic; trace the changes through the D.O.F
+	HW_03.2	[Due: 5 Feb 2025] civil law topic; outline structure and translate Articles
+
+
+
+
+Introduction to Git and GitHub VCS
+
+1.1 Getting Started - About Version Control
+	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+
+1.3 Getting Started - What is Git?
+	https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+
+1.4 Getting Started - The Command Line
+https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
+
+1.5 Getting Started - Installing Git
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+
+
+
+
+
+
+---- Work Time

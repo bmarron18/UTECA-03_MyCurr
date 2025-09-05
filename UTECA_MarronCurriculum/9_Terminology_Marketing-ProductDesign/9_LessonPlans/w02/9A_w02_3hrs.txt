@@ -1,0 +1,219 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Mercadotécnica y Diseño
+Curso:			IT0942
+Licenciatura: 	Interpretación y Traducción
+Horario:		Miércoles 18:00 – 21:00
+Grupo:			9A
+
+
+#############
+HW_02.1	[Due: 29 January 2025]
+Read the following sections from Ch.3 'What’s the Story? Analysing Marketing Discourse' in Ellis et al., "Marketing: A Critical Textbook":
+	* 3.1 Introduction
+	* 3.2 Discourse and ‘Grand’ Narratives
+	* 3.3 Marketing Discourse
+	
+Write a paper in English that i) summarizes section 3.1, and critiques the other two sections (3.2 and 3.3) of the chapter. Follow the Chesapeake College format for critique and provide your conclusions in both English and Spanish. That is, your paper will be organized as follows: 
+
+																	Name
+																	IT0942 (Marron)
+																	HW_02.1
+																	29 Jam 2025
+																	
+																	
+	Summary of Section 3.1 from Ellis et al., ¨Marketing: A Critical Textbook¨
+	
+	
+	Critique of Sections 3.2 and 3.3 from Ellis et al., ¨Marketing: A Critical Textbook¨
+		Summary 
+		Analysis and Critique 
+		Conclusions (English)
+		Conclusiones (Español)
+
+The standard format applies.
+########################################
+
+
+
+#######
+Today
+#######
+
+---- Open 
+
+“Marketing is no longer about the stuff that you make, but about the stories you tell.” 
+		— Seth Godin (dot com guy; entrepreneur)
+		
+
+
+
+---- Content 
+Highlights HW_01.1 (Ellis et al.)
+	1.2 The Early Development of Marketing Thought
+	1.3 The First Courses in Marketing in the Early Twentieth Century
+
+
+
+Highlights HW_01.2 (Konrod)
+Language (European) 
+	composed of sounds, which combine into words, which combine into sentences, which combine 
+	into text (discourse). Discourse is anything longer than one sentence.
+
+Phonetics 
+	Relates to the study and classification of the sounds of speech. Unlike other sounds, speech 
+	sounds (also called phonemes), are produced within the oral cavity with the intention to 
+	construct a sign (e.g., a word) that conveys meaning. 
+	
+Phonemes
+	the smallest unit of linguistic analysis, which are usually combined into words.
+	
+Meanings can change with sound
+	The voicing, the place of articulation, the order and the stress on certain sounds can 
+	change the meaning of a word. (eg desert , permit)
+	
+Morphology
+	the study of the way phonemes can be combined into words using rules and exceptions.
+
+Semantics
+	the study of meaning in words
+	
+Synonyms
+	different words that refer to the same (or almost the same) meaning.
+	
+Polysemy
+	when the same word has several meanings
+	
+Grammatical and syntax 
+	Rules relate to the way embedding different word forms in a particular order in a sentence 
+	produces meaning. ==> “Let’s eat, grandma!” vs. “Let’s eat grandma!”
+	
+Word order
+	usually important for meaning but some languages flexible ==> ¨the purple lamp fell off the 
+	yellow table’ will" (English) == ‘off the table yellow the lamp fell purple’ (Russian).
+
+NB. Most important!! 
+	know how the text flows. fundamentally, how sounds and meanings flow
+
+Advertising genre
+	a form of mass communication with the purpose of persuading a large audience to do something (usually to consider an offering). This purpose dictates the use of specific linguistic aspects such as exaggeration (puffery), figurative language and other rhetorical devices.
+
+
+Other Rhetorical Devices
+https://www.merriam-webster.com/grammar/rhetorical-devices-list-examples
+
+
+
+Highlights HW_01.1 (Ellis)
+	1.4 Marketing, Efficiency and Utility Creation
+
+Marketing
+	performs a useful and valuable role in helping to distribute goods and services, and in so doing, enhancing the quality of life
+	
+Is advertising useful to the consumer, by aiding them in making more effective decisions?
+
+Marketing as ‘applied economics’
+	use economic theory to improve marketing practice AND using the knowledge gained from studying the market to critically examine economic theory especially consumer utility
+	
+
+
+
+General Economic Concepts and Terms
+
+Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the goods and services we might desire. In other words, society faces a scarcity of resources.
+
+	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and 
+	services  we need. We are economically linked to others in hundreds—even thousands—of 
+	different ways.
+	
+	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange 
+	because specialization and exchange enable us to enjoy greater production, and higher living 
+	standards than would otherwise be possible.
+
+
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must 
+shift resources away from producing something else. “There is no such thing as a free lunch.”
+		
+	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, 
+	they are constrained by the resources they control.
+	
+		Corrollary 1: We do not all start in the same place in the economic race. Individuals 
+		may have more or less resources under their control than others.
+		
+
+
+Terms
+	Economics
+		the study of choice under conditions of scarcity.
+		
+	Scarcity
+		Lack of goods (commodities) and services
+		
+	Resources
+		The land, labor, and capital that are used to produce goods and services.
+		
+	Land
+		Natural resources incl. agriculture (renewable and nonrenewable)
+		
+	Labor
+		Time human beings spend producing goods and services
+		
+	Capital
+		Long-lasting tools used in producing goods and services. (human and physical)	
+		
+	Supply and Demand
+		The relationship between the availability of a product/service (supply) and the desire 
+		for that product/service (demand)
+		
+    Opportunity Cost
+		The cost of the next best alternative foregone when a decision is made.
+		
+	Comparative Advantage 
+		The ability to produce a good or service at a lower opportunity cost than other 
+		producers.
+		
+	Resource Allocation 
+		A method of determining which goods and services will be produced, how they will be 
+		produced, and who will get them.
+		
+	Traditional Economy 
+		An economy in which resources are allocated according to long-lived practices from the 
+		past.
+		
+	Command or Centrally Planned Economy 
+		An economic system in which resources are allocated according to explicit instructions 
+		from a central authority.
+		
+	Market Economy 
+		An economic system in which resources are allocated through individual decision making.
+		
+	Market 
+		A group of buyers and sellers with the potential to trade with each other.
+		
+	Economic System
+		Composed of two features: a mechanism for allocating resources and a mode of resource 
+		ownership.
+
+	Microeconomics
+		The study of the behavior of individual households, firms, and governments; the 
+		choices they make; and their interaction in specific markets.
+		
+	Macroeconomics
+		The study of the economy as a whole.
+
+
+
+Circular Flow Model 
+[Harris and Roach, "Environmental and Natural Resource Economics: A Contemporary Approach" p 6-7 (Chapter 1)
+
+
+
+Review 
+	"Helpful Hints for Writing A Critique"
+	Chesapeake College
+
+
+
+--- Work time

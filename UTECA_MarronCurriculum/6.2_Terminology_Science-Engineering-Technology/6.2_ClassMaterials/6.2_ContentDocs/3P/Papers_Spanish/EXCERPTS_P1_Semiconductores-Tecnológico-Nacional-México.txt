@@ -1,0 +1,48 @@
+INTRODUCCIÓN
+La tecnología electrónica es vital para la seguridad nacional y la defensa de los países; los sistemas de
+comunicación, radares, satélites, drones y otros equipos militares dependen de tecnologías electrónicas
+avanzadas. Es una piedra angular de la transformación digital, habilitando tecnologías emergentes como
+la inteligencia artificial, la robótica, la realidad virtual y aumentada, y la computación en la nube, están
+cambiando la forma en que vivimos y trabajamos. En el aspecto económico, la industria electrónica es altamente globalizada, con cadenas de suministro que abarcan múltiples países, esto fomenta el comercio
+internacional y las relaciones económicas entre naciones. Países como China, Estados Unidos, Japón, Corea
+del Sur y Alemania son líderes en la producción y exportación de productos electrónicos que generan trillones
+de dólares en ingresos y crean millones de empleos en todo el mundo, desde la investigación y el desarrollo
+hasta la fabricación, el marketing y la distribución.
+
+La industria electrónica moderna está basada en los materiales semiconductores, estos son la columna
+vertebral de la electrónica moderna ya que se utilizan en la fabricación de dispositivos fundamentales
+como transistores, diodos y circuitos integrados, que son componentes esenciales en prácticamente todos
+los dispositivos electrónicos. El uso de materiales semiconductores ha permitido la miniaturización de
+componentes electrónicos, lo que ha llevado al desarrollo de dispositivos más pequeños, más rápidos y
+efiientes. Los microprocesadores y los circuitos electrónicos están hechos de materiales semiconductores
+como el silicio, estos dispositivos son esenciales para el funcionamiento de computadoras y servidores, lo que
+los hace vitales para la industria de la computación.
+
+La infraestructura de comunicaciones modernas también depende en gran medida de los semiconductores.
+Los dispositivos como teléfonos móviles, redes de telecomunicaciones y sistemas de transmisión de datos
+utilizan componentes semiconductores para funcionar, también juegan un papel crucial en la gestión y
+conversión de energía. Los dispositivos como paneles solares, LEDs, y controladores de efiiencia energética
+utilizan materiales semiconductores para mejorar la conversión y el uso de energía de manera más efiiente. En
+la industria de la automoción y en sistemas de automatización industrial, los semiconductores son esenciales
+para la operación de sensores, actuadores y sistemas de control. Los vehículos eléctricos y los sistemas de
+gestión de energía utilizan semiconductores para mejorar el rendimiento y la efiiencia.
+
+Los dispositivos médicos avanzados, como escáneres de resonancia magnética, equipos de ultrasonido y
+dispositivos portátiles de monitoreo de salud, dependen de los semiconductores para su funcionamiento.
+Estos materiales permiten una mejor precisión y funcionalidad en el diagnóstico y tratamiento médico.
+Son fundamentales para el desarrollo de tecnologías emergentes como la inteligencia artificial, la realidad
+aumentada y virtual, y la computación cuántica. Estas tecnologías dependen de la capacidad de los
+semiconductores para manejar grandes cantidades de datos y realizar operaciones complejas. La investigación
+en materiales semiconductores ha llevado al desarrollo de superconductores como el arseniuro de galio
+(GaAs) y el nitruro de galio (GaN), que tienen propiedades eléctricas de conducción superiores que están
+impulsando nuevas áreas de desarrollo tecnológico, por ejemplo, para el desarrollo de nuevas tecnologías de
+almacenamiento de datos, como las unidades de estado sólido (SSD), que ofrecen mayores velocidades de
+proceso en comparación con los métodos tradicionales de almacenamiento (Kaeslin, 2008).
+
+La industria electrónica y de semiconductores, en denitiva, son de las más importantes a nivel global, con
+un impacto económico significativo. Las empresas de semiconductores generan miles de millones de dólares
+en ingresos y crean numerosos empleos en la investigación, desarrollo, fabricación y comercialización. En
+resumen, estas industrias son esenciales para el progreso tecnológico, el crecimiento económico, la mejora de
+la calidad de vida y la sostenibilidad global. Su inuencia abarca una amplia gama de sectores, haciendo de
+estas, industrias estratégicas y fundamentales en el mundo moderno. Los avances en la ciencia y la tecnología
+de semiconductores continúan impulsando la innovación y el desarrollo económico a nivel global.

@@ -1,0 +1,79 @@
+﻿							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
+Curso:			IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Horario:		Jueves 16:00 – 19:00
+Grupo:			6A
+
+
+NB. HW_03 will be last HW on 1st partial. Next week study guide.
+
+##########
+HW_03.1		[Due: 6 Feb 2025]
+Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
+	System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+	Intensive property
+		(temperature, pressure, velocity, density)
+		
+	Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
+
+	Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)
+		
+ As a point of reference see p 29-32, *Richards_BASIC-ENGINEERING-SCIENCE.pdf. The standard format applies.
+##################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+"All models are wrong; some are useful"
+		 -- George Box, a British statistician
+			
+			
+---- Content 
+
+
+	HW_01.1	[Due: 23 Jan 2025] field of science
+	HW_01.2 [Due: 23 Jan 2025] summary Carli & Calaresu's "Language and Science" (missing!)
+	HW_02.1 [Due: today 30 Jan 2025] jargonize
+	HW_02.2	[Due: today 30 Jan 2025] mental process to solve a problem
+	HW_03.1	[Due: 6 Feb 2025] engineering systems definitions 
+
+Hand back HW
+	Notes
+
+
+Read Out / Jargonized HW_02.1 
+
+
+Share Out / Problem solving process HW_02.2	
+
+
+
+
+Engineering Terms
+2.1: System, Property, State, Process, Accounting
+	(p 29-34, *Richards_BASIC-ENGINEERING-SCIENCE)
+
+
+9.3: Appendix C- Summary of Conservation and Accounting Equations, (p 399)
+The fundamental laws are related to six extensive properties—mass, charge, linear momentum, angular momentum, energy, and entropy. 
+
+
+
+---- Work Time
+
+
+
+

@@ -1,0 +1,88 @@
+﻿							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
+Curso:			IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Horario:		Jueves 16:00 – 19:00
+Grupo:			6A
+
+
+
+
+#####################
+HW_04.1	[Due: 27 Feb 2025]
+i) Translate the Introduction (5 paragraphs) from, "LIMAYMANTA_Suelos-de-Transición-Línea12.pdf" into English. 
+ii) Translate the Abstract (1 paragraph) from,"Steffen et al. 2018_Trajectories of the Earth System in the Anthropocene.pdf" into Spanish. 
+
+Both translations should be in the same paper separated by main headings. 
+The first heading will be, 
+	Translation of the Introduction from Limaymanta et al.,"Delimitación neuronal de zonas 
+	geológicas usando ruido sísmico: Suelos de Transición en la línea 12 del Metro" 
+
+The second heading will be,
+	Translation of the Abstract from, Steffen et al., "Trajectories of the Earth System in the 
+	Anthropocene"
+	
+Standard format applies.
+
+
+HW_04.2	[Due: 27 Feb 2025]
+Read Conservation of Mass, Section 3.1 Four Questions in Richards_BASIC-ENGINEERING-SCIENCE.pdf 
+(pp 39-43)
+#####################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+"The original is unfaithful to the translation."
+	– Jorge Luis Borges, Argentinian writer
+
+"Translation is entirely mysterious. Increasingly I have felt that the art of writing is itself
+translating, or more like translating than it is like anything else. What is the other text, the
+original? I have no answer. I suppose it is the source, the deep sea where ideas swim, and
+one catches them in nets of words and swings them shining into the boat… where in this
+metaphor they die and get canned and eaten in sandwiches.
+	– Ursula K. Le Guin
+
+
+---- Content
+
+Go through exam
+
+
+
+
+Recall ==> your Personal Glossary/Dictionary
+	now .git tracked
+	
+
+Translation -- Academic Papers
+	Recall ==> General Structure and Format of Science/Engineering papers
+		Focus on Abstract / Intro / Conclusions for vocab and translation
+
+Recall ==> 	LIMAYMANTA_Suelos-de-Transición-Línea12.pdf
+			Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+
+Go thru both docs for vocab
+
+Read Conservation of Mass, Section 3.1 Four Questions in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 39-43)
+
+
+
+
+
+
+---- Work Time
+
+HW_04.1	[Due: 27 Feb 2025] 
+	Translate Intro. "LIMAYMANTA_Suelos-de-Transición-Línea12.pdf" (English)
+	Translate Abstract "Steffen et al. 2018_Trajectories ...Anthropocene.pdf" (Spanish)
+HW_04.2 [Due: 27 Feb 2025] 
+	Read Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 39-43)

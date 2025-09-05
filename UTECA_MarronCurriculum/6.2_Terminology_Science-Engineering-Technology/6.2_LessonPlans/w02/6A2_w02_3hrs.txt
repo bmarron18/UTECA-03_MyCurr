@@ -1,0 +1,195 @@
+﻿							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
+Curso:			IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Horario:		Jueves 16:00 – 19:00
+Grupo:			6A
+
+
+#########################
+HW_02.1 [Due: 30Jan2025]
+Take about five or six lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
+		i) The original material and its source
+		ii) Your jargonized version of the original in both English and Spanish
+		
+Standard format applies. We will try to guess the original when you read the jargonized version in class.
+
+
+HW_02.2	[Due: 30Jan2025]
+Investigate the mental process that engineers and scientists use to solve a problem. More specifically, 
+	i) Given a design or conceptual problem, what is a first step that engineers and scientists 
+	are likely to take? Why?
+	
+	ii) What are the accepted foundations for conceptualizing a problem? That is, what is the 
+	worldview or the overarching mental model that lies at the very foundation of science and 
+	engineering? What are the components of this worldview?
+	
+	iii) What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin 
+	modeling a problem?
+	
+	iv) When are models useful for reaching a solution to a problem? If no solution presents 
+	itself what can the engineer or scientist do?
+	
+The results of your investigations will be delivered in a one-page+ paper. The original paper is to be written in English and you must provide a Spanish translation. Standard format applies and references must be included.
+###############################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+"Everything should be made as simple as possible, but not simpler."
+
+"Any intelligent fool can make things bigger and more complex... It takes a touch of genius and a lot of courage to move in the opposite direction."
+		-- Einstein
+
+
+
+---- Content 
+
+Presentations
+	Just a quick note of what field investigated; not a graded prezy.
+
+
+
+
+On Jargon
+"SCIENTIFIC JARGON, GOOD AND BAD" by Russel Hirst
+J. TECHNICAL WRITING AND COMMUNICATION, Vol. 33(3) 201-229, 2003
+
+To be, or the contrary? Whether the former or the latter be preferable would
+seem to admit of some difference of opinion; the answer in the present case
+being of an affirmative or of a negative character according as to whether one
+elects on the one hand to mentally suffer the disfavour of fortune, albeit in
+an extreme degree, or on the other to boldly envisage adverse conditions in
+the prospect of eventually bringing them to a conclusion 
+
+
+[To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles
+And by opposing end them.]
+	-- Hamlet
+
+--------------
+
+Objective consideration of contemporary phenomena compels the conclusion
+that success or failure in competitive activities exhibits no tendency to be
+commensurate with innate capacity, but that a considerable element of the
+unpredictable must invariably be taken into account
+
+Ecclesiastes 9:11
+I returned, and saw under the sun, that the race is not to the swift, nor the battle
+to the strong, neither yet bread to the wise, nor yet riches to men of under-
+standing, nor yet favour to men of skill; but time and chance happeneth
+to them all.
+
+
+
+Jargon (positive; "good jargon")
+	* the specialized language of any trade, organization, profession, or science
+	* specialized vocabularies
+	* proper and effective use of scientific and technical terms
+
+Jargon (negative; "bad jargon")
+	* the pretentious, excluding, evasive, or othenvise unethical and offensive 
+	use of specialized vocabulary
+	* showy or shoddy use of language
+	* technical terms and phrases invented by a Government departments hich are understood 	
+	inside the department but are unintelligible to outsiders ("bureacratese,"). Usually a 
+	mixture of technical terms, words used in a special sense, plus acronyms
+	
+Scientific jargon
+	* the many thousands of words and phrases often appropriated from Latin and Greek in 
+	order to name (or re-name) the tools, machines, processes, substances, structures, 
+	properties, causes, effects, laws, objects, animals, minerals, and vegetables that 
+	scientists and engineers study and manipulate.
+
+
+Jargon vs Style
+	* Scientific jargon does not constitute a separate language, nor can "scientific language" 
+	in any sense, broad or narrow, legitimately stand aloof from the rules of good style that 
+	govern other kinds of discourse. 
+	* Scientific and technical discourse in its various manifestations does have legitimate 
+	distinguishing features, including accepted methods of arguing, organizing, illustrating, 
+	and designing communications.
+	
+
+Jargon vs. "Fat"
+	Due to the fact that the compressor ceased functioning prior to our finalization of the work 
+	project,we informed the contracting party at that point in time that unless he agreed to 
+	convey a functioning compressor to our job site free of additional charge or cost to us, we 
+	would render null and void our contract with him
+	
+	Since the compressor broke down before we finished the job, we told the contractor to bring 
+	us another one, at no extra cost, or we 'd cancel our contract with him.
+
+Getting to Good Jargon
+	* Aldous Huxley said that if a person really knows the subject, "s/he will be able to speak 
+	of it in an easy language and with the completeness of conviction with which s/he talks of 
+	an ordinary every-day matter. If s/he does not, s/he will be afraid to wander beyond the 
+	limits of the technical phraseology which he has got up"
+	
+	1. It is economical (condenses complex ideas into few words).
+	2. It is precise (uses Latinate vocabulary to name things not accurately named, nor not 
+	named at all, in common speech).
+	3. It is stable (not much influenced by vernacular, fickle cultural changes, language 
+	shifts).
+	4. It is flexible (Greek and Latin are excellent sources for synthetic vocabulary).
+	5. It is nearly universal (because of the dominance of Latin and Greek,  passages of jargon-
+	filled scientific prose are largely intelligible to fellownscientists around the world even 
+	if they are not familiar with the primary language ofthe writer).
+	6. It enhances cohesion among the sciences 
+	7. It connects us with previous scientific thought (Greek and Latin scientists and 
+	subsequent thinkers using Latin/Greek in their treatises).
+	8. It is prose that conserves the reader's mental energy 
+	
+Jargon in Style
+	* Use no more words than are necessary to express your meaning
+	* do not use superfluous adjectives and adverbs and do not use roundabout phrases where 
+	single words would serve
+	* Use words with a precise meaning rather than https://www.merriam-
+	webster.com/grammar/rhetorical-devices-list-examplesthose that are vague
+	
+
+
+
+
+Language Structures and Functions in Engineering 
+	(from Richards', BASIC-ENGINEERING-SCIENCE )
+
+	Look at a standard curriculum (p 9-11; p 16-20
+	Look at language structures used by engineers
+
+	Language structure create mental models
+	The structures are a result of:
+			*natural laws and mathematics as a common language
+			*the methodology and process of problem solving using heuristics and models
+			*developing models from fundamental principles (the hallmark of engineering courses)
+		
+
+	Look at the engineer's mental paradigm
+		*analysis (models) and design (models)
+		*Nature (and problems) are studied with models
+		*ASSUMES natural laws and mathematics can yield useful models for MOST problems
+		
+
+	A model is a purposeful representation of reality.
+	
+	
+	Look at Figure A-1 (p 386) Heuristic for Problem Solving 
+	(Richards_BASIC-ENGINEERING-SCIENCE)
+
+
+
+---- Work Time
+
+
+
+

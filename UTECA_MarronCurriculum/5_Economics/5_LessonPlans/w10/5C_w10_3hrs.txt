@@ -1,0 +1,607 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
+
+
+
+
+######################################											
+HW_08.1	[Due 27 Mar 2025]
+ For all tasks, the standard format applies EXCEPT for double spacing.
+ 
+--- Task 1 
+The document, 1f_CKD_Prospectus_2.pdf is a prospectus for a CKD public offering (PROGRAMA DE CERTIFICADOS BURSÁTILES FIDUCIARIOS). The public offering was authorized up to the amount of $5,500’000,000.00 (CINCO MIL QUINIENTOS MILLONES DE PESOS 00/100). 
+
+Read the first 2 (two) pages of the document (1f_CKD_prospectus_2.pdf) which briefly summarize the offer. Next read Section 1.2 (Resumen Ejecutivo) and Section 1.2.1 (Breve Descripción de la Operación). Lastly, TRANSLATE i) Section 2 (La Oferta), ii) Section 2.1 (Características de los Valores), and iii) Section 2.2 (Destino de los Fondos) into English. 
+
+Challenge: Can you describe how this program of CKDs is set up?
+		
+--- Task 2
+Define the following terms in Spanish and English
+TERMS(13)
+	Activos (de una empresa)
+	Amortization
+	AFORE
+	CKD
+	Colocador
+	Depreciation
+	EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)
+	Fideicomiso
+	Fiduciaria
+	Fidelcomitente
+	Fideicomisario (ACREEDORES)
+	Prospectus
+	UDIs
+
+--- Task 3
+The documnet, 2c_GrupoModelo_AnnualReport_toBMV.pdf, is Grupo Modelo's annual report to the BMV. Translate the Executive Summary (pp. 8 -10) from this document into English. Please note that ONLY the row labels need be translated from the tables.
+
+######################################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+---- Content
+
+
+
+---- REVIEW	-------------------------------------------------
+######################
+Controlling Market Manipulation:
+Securities Exchange Commission (SEC)
+Comisión Nacional Bancaria y de Valores (CNBV)
+######################
+
+
+###########################
+CNBV Legal Standing:
+in Federal Law
+	==> Ley del Mercado de Valores
+########################
+
+########################
+Instrumentos Reconocidos 
+por el SHCP and CNBV 
+####################
+(pp 1-3) 1b_Instrumentos-SHCP-BVM.pdfhttps://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/
+	Acciones
+	Títulos Opcionales (Warrants)
+	Obligaciones
+	Pagarés
+	Certificados de Participación
+	Certificados Bursátiles (Fiduciarios)								<== Stock Certificates issued by a Trust
+		Certificados Bursátiles Fiduciarios de Capital de Desarrollo
+			Certificados Bursátiles Fiduciarios Preferentes
+		Certificados Bursátiles Fiduciarios de Proyectos de Inversión
+		Certificados Bursátiles Fiduciarios Inmobiliarios (Fibras)
+		Certificados Bursátiles Fiduciarios de Inversión en Energía e Infraestructura (Fibra E)
+	
+	Valores Estructurados
+	Principales Instrumentos Gubernamentales
+	Instrumentos Bancarios
+		Pagarés con Rendimiento Liquidable al Vencimiento
+		Certificados de Depósito Bancario
+		Bonos Bancarios
+		Obligaciones Subordinadas
+
+###############
+Financial Evaluation
+by the CNBV (2024)
+################
+1c_AHORRO-FINANCIERO-Y-FINANCIAMIENTO-MÉXICO.pdf
+
+
+(pp 18-19) Look at % PIB (Producto Interno Bruto!!)	<== GDP
+	B.2 Emisión de deuda interna y certificados bursátiles fiduciarios
+	
+
+
+---------	NEW	--------------------
+########################################
+Certificados Bursátiles Fiduciarios (CBF) 
+[Trust Asset Stock]
+#########################################
+Títulos de crédito emitidos por un fideicomiso (el Fideicomiso Emisor, or Trust), que representan la participación en un crédito colectivo y otorgan a sus tenedores derechos sobre los activos fideicomitidos, como bienes inmuebles o proyectos de inversión
+
+
+Both private and public CBFs are regulated by the Ley del Mercado de Valores to (ideally) guarantee transparency, and protect investors
+
+
+
+Many types of CBFs here in Mexico ....
+CBF				Certificados bursátiles fiduciarios
+*CBFI 			Certificados Bursátiles Fiduciarios Inmobiliarios o Fibras
+*CERPIS			Certificados de proyectos de inversión
+*CKD			Certificados de capital de desarrollo
+
+*FARAC			Fideicomiso de Apoyo al Rescate de Autopistas Concesionadas
+*FIBRA E		Fideicomisos de inversión en energía e infraestructura
+*FIBRA			Fideicomisos de infraestructura y bienes raíces
+
+
+#######
+CKDs
+Certificados de capital de desarrollo
+Certificados Bursátiles Fiduciarios
+#######
+https://www.eleconomista.com.mx/mercados/Que-es-un-CKD-Certificados-de-Capital-de-Desarrollo-20170918-0146.html
+
+CKDs
+Los Certificados de Capital de Desarrollo o CKD son instrumentos de inversión creados por la Bolsa Mexicana de Valores (BMV), que entraron en vigor el 10 de agosto del 2009.  Se les encuentra listados en los intrumentos de capital, junto a las acciones, las fibras y los títulos opcionales. Con su establecimiento, la BMV inauguró el mercado de capital de desarrollo en México.
+
+Los CKD están enfocados 
+	- al financiamiento de actividades y proyectos que consumen recursos a un corto plazo y generan flujos en un largo 
+	plazo (infraestructura, inmobiliarios, empresariales, mineros,etc)
+	- the Trust can be public or private 
+	- Diferentes de otros instrumentos de inversión, los CKD cuentan con un plazo de liquidación o vencimiento fijo que 
+	puede ser hasta de 50 años
+	- sólo se pueden emitir a "inversionistas calificados" (En contraste con los Fideicomisos de Inversión en Bienes 
+	Raíces (Fibras) en los que cualquiera puede invertir).
+	- Un instrumento de inversión cuyo diseño es atractivo para las AFORES (Administradoras de Fondos para el Retiro) y 
+	aseguradoras, entre otros (big investors)
+
+TERMS 
+Fideicomiso (a Trust)
+	- a legally binding CONTRACT mediante el cual una persona física o moral (Fideicomiso Emisor or Fidelcomitente) 
+	transmite la titularidad  de bienes o derechos a una institución fiduciaria (Fiduciaria), para que ésta destine los 
+	mismos a la realización de  ciertas finalidades. 
+	- Los fideicomisos se utilizan para administrar patrimonios, proteger activos, y mitigar impuestos
+	
+	Fidelcomitente
+		- La persona (natural o jurídica) que transfiere bienes o derechos para crear un patrimonio separado. 
+		- Establece las condiciones y normas de uso de los bienes del fideicomiso
+	
+	Fiduciaria (like an escrow)
+		- La institución encargada de la administración del Fideicomiso; La persona o entidad que recibe los bienes o 
+		derechos del fideicomitente para administrarlos
+		- Solo se puede ser instituciones que cuenten con la concesión de Estado/Gobierno Secretaria de Hacienda y Credito 
+		Publico (SHCP); una institución o sociedad nacional de crédito (eg, Nacional Financiera, S.N.C., Institución de 
+		Banca de Desarrollo, Dirección Fiduciaria)
+		- Debe administrar los bienes para el beneficio del fideicomitente, no para el suyo.
+	
+	Fideicomisario (Acreedores o Tenedores)
+		- La persona (física o moral o jurídica) designada por el Fideicomitente para recibir los benefhttps://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/icios del 
+		Fideicomiso
+		- El destinatario final de los bienes puestos en fiducia
+		- El propietario legal de los activos
+		
+		
+Activos (Real Assests)
+	- Los recursos que posee y controla una empresa, y que se espera que le generen un valor económico en el futuro 
+	(pueden ser bienes, derechos, patrimonio en efectivo, documentos, inmuebles y cuentas por cobrar) 
+	- Los activos de una empresa permiten que esta funcione y cumpla con sus obligaciones
+
+UDIs (Unidad de Inversión0
+	- Monetary units creadas por el Banco de México para proteger el poder adquisitivo de los ahorros y créditos, 
+	- ajustándo a la inflación
+
+Colocador (Stock Broker / Brokerage Firm / Casas de Bolsa))
+	- Una entidad financiera autorizada que facilita la venta y distribución de valores (como acciones o bonos) de un 
+	emisor a inversores, a cambio de una comisión. 
+
+
+Intermediarios Colocadores
+	- se encargan de la colocación de valores que ayudan a las empresas a obtener fondos del mercado al revisar la 
+	documentación y asegurar la inscripción de los valores
+
+
+
+CKD Properties
+	- Inicially created by a Trust ("fideicomiso") that transfers rights/real property to an escrow-like entity (the 	
+	  "fiduciaria")
+	  
+	- Offers shareholders/investors the right to profits acquired by the enterprise with the possibility of 
+	  a high ROI; but with commensurate risks (no guarantees)
+	  
+	- Los CKDs no están sujetos a una calificación crediticia, pues no son instrumentos de deuda, pero si deben cumplir 
+	  con los requisitos de revelación de información y con las normas y estándares de gobierno corporativo establecidos 
+	  por la Comisión Nacional Bancaria y de Valores (CNBV) y la Ley del Mercado de Valores, para las empresas que 
+	  cotizan en la BMV.
+	  
+	- Not to be confused with certificados bursátiles directos o certificados bursátiles fiduciarios which are created 
+	  to raise (debt-based) funds
+	  
+	- CKDs channel investments provided principally by institutional investors who are focused on infrastructure 
+	  devlopment in the areas of energy, real estate, and private equity
+	  
+	- Again, CKDs are not associated with loan paymets (principal; interest) but seek profit on the underlying activity 
+	  itself in the long-term
+	  
+	- The idea of "derecho fideicomisario" in a CKD is that a shareholder (tenedor) would have the right to earnings, 
+	profits, real properties/equipment/materials as established in the offering (a legal contract) IF they exist at the 
+	close of the contract (5 to 50 years)
+	  
+	- CKDs provide a  funding source for "greefield" projects (those projects not yet under development) as well as for 
+	"brownfield" projects (those project already underway). Especially useful for big infrastructure projects (highways, 
+	airports, railways, energy plants, water purification plants, large buildings, technology, etc)
+	
+	-
+look at Figure in ....
+	1d_CKDsESP.pdf
+
+
+
+##################
+Active CKDs
+en BMV
+##################
+www.bmv.com.mx 
+	==> sección de Empresas Listadas
+		==> apartado de Info de Emisora
+			==> Capital Markets; CKDs; Servicios Financieros; Entidades Financieros; Grupos Financieros
+		
+
+Clave 		Series 		Fideicomitente 					Fiduciario
+BALAMCK 	16,18 										BANCO CITI MÉXICO, S.A., 
+														INSTITUCIÓN DE BANCA MÚLTIPLE, GRUPO FINANCIERO CITI MÉXICO
+														
+BOCELCK 	20 		VALORES BOCEL, S.A. DE C.V. 		BANCO MONEX, S.A., INSTITUCION DE BANCA MULTIPLE, 
+														MONEX GRUPO FINANCIERO
+DELTACK 	18 		ADMINISTRADORA CKDELTA,SA de CV		BANCO INVEX, S.A., 
+														INSTITUCION DE BANCA MULTIPLE, 
+														INVEX GRUPO FINANCIERO
+														
+EXI2CK 		17 											BANCO CITI MÉXICO, S.A.,INSTITUCIÓN DE BANCA MÚLTIPLE, GRUPO 															FINANCIERO CITI MÉXICO
+
+EXI3CK 		20, 21 										BANCO ACTINVER, S.A. INSTITUCION DE BANCA MULTIPLE, 
+														GRUPO FINANCIERO ACTINVER
+
+FFBANCK 	18 	PMIC LATAM, S.A.P.I. DE C.V.			BANCO INVEX, S.A., INSTITUCION DE BANCA MULTIPLE, INVEX GRUPO 															FINANCIERO
+....
+
+
+
+
+##################
+A Real Prospectus
+##################
+
+1e_CKD_Prospectus_1.pdf
+
+
+
+Look at HW,,,
+
+
+
+==========	Corporations	=========================================
+############
+Corporations
+#############
+TYPES OF BUSINESS FIRMS p. 157 
+
+
+
+Sole proprietorship
+	- easy to start
+	- taxes pass through
+	- Self-employment tax
+	- capitalization a problem
+	- unlimited liability
+
+Partnership
+	- easy
+	- all the profit
+	- taxes pass through
+	- capitalization a problem
+	- unlimited liability
+
+Corporations
+*	Ownership is divided among those who buy shares of stock. 
+*	Each share of stock entitles its owner to a vote for the board of directors, which in turn hires the corporation’s 
+	top managers. And each share of stock entitles its owner to a share of the corporation’s profit—some of which is paid 
+	out as dividends. 
+*	The corporate form of organization makes it easier to raise additional funds: The corporation simply sells additional 
+	shares of stock, thereby bringing in new owners. 
+*	People are less hesitant to become co-owners of a corporation because of its other chief advantage: LIMITED LIABILITY 
+	The owners (stockholders) of a corporation can lose only what they have paid for the stock they own; they will never 
+	have to reach into their own pockets to honor the firm’s obligations.
+
+	- legal filings (municipal, state, federal)
+	- "articles of incorporation"
+	- limited liability
+	- complicated taxes
+	- issue stock!!
+	
+	for profit (LLC, C Corps)
+		-yearly reports
+	
+	non profit ("401 C 3")
+		-yearly reports
+
+Articles of Incorporation
+	-purpose, structure, and key operating principles. 
+	-company's name, address, purpose, types of stock, and information about the board of directors
+	-filed with the Secretary of State (or a similar government body) in the state where the company intends to operate. 
+ 	-purpose, mission, values, goals, and structure of an organization. 
+	-legal accountability. 
+
+
+
+	
+###############
+Corp.s in Mexico
+################
+https://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/
+
+Ley General de Sociedades Mercantiles
+	(Última Reforma DOF 20-10-2023)
+
+
+La Ley General de Sociedades Mercantiles reconoce a 
+	- la sociedad en nombre colectivo, 
+	- la sociedad en comandita simple, 
+	- la sociedad de responsabilidad limitada, 
+	- la sociedad anónima, 
+	- la sociedad en comandita por acciones, 
+	- la sociedad cooperativa y 
+	- la sociedad por acciones simplificada. 
+
+La ley contiene disposiciones relativas a las formalidades de la constitución de las sociedades y su inscripción en el Registro Público de Comercio, a las del contrato social y de las asambleas. Esta legislación también regula las formas de administración y vigilancia de las sociedades. Además, la ley contiene disposiciones sobre la fusión, transformación y escisión de las sociedades, así como sobre la disolución y liquidación de las mismas.
+
+    Capítulo I - De la Constitución y Funcionamiento de las Sociedades en General (Artículo 1o. - Artículo 24)
+    Capítulo II - De la Sociedad en Nombre Colectivo (Artículo 25 - Artículo 50)
+    Capítulo III - De la Sociedad en Comandita Simple (Artículo 51 - Artículo 57)
+    Capítulo IV - De la Sociedad de Responsabilidad Limitada (Artículo 58 - Artículo 86)
+    Capítulo V - De la Sociedad Anónima (Artículo 87 - Artículo 88)
+    Capítulo VI - De la Sociedad en Comandita por Acciones (Artículo 207 - Artículo 211)
+    Capítulo VII - De la Sociedad Cooperativa (Artículo 212)
+    Capítulo VIII - De las Sociedades de Capital Variable (Artículo 213 - Artículo 221)
+    Capítulo IX - De la Fusión, Transformación, y Escisión de las Sociedades (Artículo 222 - Artículo 228 Bis)
+    Capitulo X - De la Disolución de las Sociedades (Artículo 229 - Artículo 233)
+    Capítulo XI - De la Liquidación de las Sociedades (Artículo 234 - Artículo 249 Bis 1o.)
+    Capítulo XII - De las Sociedades Extranjeras (Artículo 250 - Artículo 251)
+    Capítulo XIII - De la Asociación en Participación (Artículo 252 - Artículo 259)
+    Capítulo XIV - De la Sociedad por Acciones Simplificada (Artículo 260 - Artículo 273)
+
+Sociedad Anónima (S.A.):
+    This is a corporation with fixed capital, similar to a public limited company. 
+
+Sociedad Anónima de Capital Variable (S.A. de C.V.):
+	This is a corporation with variable capital, meaning the capital can be increased by a resolution of the board of 
+	directors. 
+	
+Sociedad de Responsabilidad Limitada (S. de R.L.):
+	This is a limited liability company, offering a structure similar to an LLC in the United States, where partners' 
+	assets are protected from business liabilities. 
+
+Simplified Stock Corporation (S.A.S.):
+	This is a newer type of entity in Mexico, designed to streamline the incorporation process for small businesses. 
+
+Sociedad Anónima Promotora de Inversión (S.A.P.I): 
+	This is a type of corporation that is usually used before going public, has flexibility in voting rights and types of 
+	shares. 
+
+Persona Física (Sole Proprietorship):
+	This is the simplest form of business entity in Mexico, owned and operated by a single individual. 
+
+
+Int'l Co.s in Mexico
+Branch Office/Subsidiary:
+	These are common structures for foreign companies looking to establish a presence in Mexico. 
+Representative Office:
+	These are used for companies that want to have a presence in Mexico without establishing a legal entity. 
+
+Maquiladoras:
+These are factories operating under a special tax regime. 
+
+
+
+##########
+Start ups
+##########
+*	Mexico has a vibrant startup ecosystem
+
+*	Mexico has seen an increase in venture capital and other resources essential for a thriving entrepreneurial ecosystem.
+
+*	Mexico has several "unicorn" companies (startups that reach a valuation of $1 billion and are not listed on the stock 
+	market
+
+
+SMEs	small and medium-sized enterprises
+PyMEs	pequeña y mediana empresas
+
+
+Notable Startups:
+Kavak: 		An online marketplace and financing company for pre-owned vehicles, known as Mexico's first unicorn and one 
+			of LatAm's highest-valued startups. 
+Bitso: 		A cryptocurrency exchange and trading platform, a leading player in the Mexican fintech space. 
+Clip: 		A fintech company focused on digital trading and payments. 
+Konfio: 	An online financial services platform that empowers small and medium-sized enterprises (SMEs). 
+Merama: 	An e-commerce company focused on acquiring and expanding digital commerce businesses. 
+Stori: 		A fintech company offering credit cards with no annual fees. 
+Nowports: 	A digital freight forwarder, focusing on logistics. 
+Clara: 		A fintech company providing expense management and corporate credit cards. 
+Covalto: 	A Mexican SME-focused digital banking platform that is set to go public via a merger with a special purpose 
+			acquisition company (SPAC). 
+Motive: 	Builds productivity and safety products for driver safety and equipment tracking. 
+
+
+Unicorn Companies:
+private companies valued at over $1 billion
+
+
+################
+Start up CDMX
+################
+
+Requisitos Legales (generales)
+    * Elaborar el ACTA CONSTITIVA de la empresa con la ayuda de un notario. La constitución de una empresa puede costar 
+	  entre $15,000 y $18,000 MXN, dependiendo de la notaría y el tipo de sociedad. Tally que ofrecen un pago único de 
+	  $13,000 MXN
+	* Hacer el aviso de uso de denominación. 
+	
+
+Requisitos Fiscales  
+	* Documentación para la inscripción en el RFC (Registro Federal de Contribuyentes)
+		Acuse de preinscripción al RFC
+
+	* Comprobante de domicilio fiscal
+		Puede ser un recibo de servicios públicos (luz, agua, gas, teléfono) a nombre de la empresa o representante 
+		legal, un contrato de arrendamiento, o un estado de cuenta bancario. 
+
+	* Identificación oficial con fotografía: 
+		Del representante legal o de los socios (en caso de ser una sociedad). 
+
+	* CURP: (Clave Única de Registro de Población). 
+		Acta constitutiva de la empresa: (copia certificada). 
+
+	* Poder Notarial: 
+		Que acredite al representante legal 
+
+	* Documentación para la operación y cumplimiento fiscal:
+		+Facturas: Tanto las que se emiten como las que se reciben, deben contener la información requerida por el SAT. 
+		+Recibos de nómina: Si la empresa tiene empleados, debe emitir recibos de nómina electrónicos. 
+		+Registros de ingresos y gastos: 
+		+Declaraciones fiscales: Es necesario presentar las declaraciones fiscales correspondientes (ISR, IVA, etc.). 
+		+Constancia de situación fiscal: Documento que contiene la información fiscal de la empresa. 
+		+Certificado de Firma Electrónica: Necesario para generar el Certificado de Sello Digital (CSD)
+		+Alta Patronal ante el IMSS: Si la empresa contrata trabajadores
+
+
+Financiamiento y Apoyo a Emprendedores en CDMX:
+	* FONDESO (Fondo para el Desarrollo Social): 
+    Ofrece financiamiento para crear o fortalecer empresas, con montos que van desde $100,000 a $500,000 MXN y tasas de 
+	interés del 6% anual. Puedes encontrar información sobre sus programas y requisitos en 
+	https://www.fondeso.cdmx.gob.mx/programas
+
+	* Programa de Apoyo Financiero para Microempresas Familiares (Crédito a la Palabra): 
+	Ofrece apoyo financiero a microempresas familiares. Puedes registrarte en https://mipymes.economia.gob.mx/ para 	
+	solicitar el apoyo. 
+
+	* Préstamos Bienestar: 
+    Si eres microempresario y cumples con los requisitos (ser mayor de 18 años, tener un micronegocio con al menos seis 
+	meses de operación, ser residente en México por al menos 30 años o haber sido beneficiario de programas sociales), 
+	puedes solicitar un préstamo Bienestar.  Puedes encontrar información y solicitar el préstamo en el portal oficial de 
+	FINABIEN (https://www.gob.mx/finabien). 
+
+
+Curso Emprendedores: 
+    El CONDUSEF ofrece un curso gratuito y en línea sobre emprendimiento.  Puedes encontrar más información en 
+	https://emprendimiento.condusef.gob.mx/. 
+
+
+
+A closer look.......
+########################################
+Grupo Modelo, S.A.B. De C.V. (GMODELOC)		<== clave de cotizacion
+########################################
+https://www.bmv.com.mx/es/emisoras/perfil/GMODELO-5443
+
+Look at ...
+	2a_Grupo Modelo_Perfil_BMV.pdf
+	2b_GrupoModelo_AnnualReport_2022.pdf
+	2c_GrupoModelo_AnnualReport_BMV.pdf
+	2d_GrupoModelo_3QReport_.pdf
+	2e_GrupoModelo_FinancialEval_BMV.pdf
+	2f_Grupo Modelo_StockSale.pdf
+
+https://mexico.justia.com/federales/leyes/ley-general-de-sociedades-mercantiles/
+
+
+
+
+
+---- Coming up
+################
+Economic Reports
+################
+Open Access journals...
+	
+	SERIES - Journal of the Spanish Economic Association 
+	https://link.springer.com/search?query=&search-within=Journal&package=openaccessarticles&facet-journal-id=13209
+
+
+	Oxford Open Economics
+	https://academic.oup.com/ooec
+	https://academic.oup.com/ooec/pages/general-instructions
+
+
+https://www.eleconomista.com.mx/mercados/Que-es-un-CKD-Certificados-de-Capital-de-Desarrollo-20170918-0146.html
+
+
+--- Work time
+
+####
+3P
+####
+HW_08.1	[Due 27 Mar 2025]
+--- Task 1 From the document, 1f_CKD_Prospectus_2.pdf, TRANSLATE i) Section 2 (La Oferta), ii) Section 2.1 (Características de los Valores), and iii) Section 2.2 (Destino de los Fondos) into English. 
+	Challenge: Can you describe how this program of CKDs is set up?
+--- Task 2 Define terms (13) in Spanish and English
+--- Task 3 Translate the Executive Summary (pp. 8 -10) from tGrupo Modelo's annual report to the BMV (2c_GrupoModelo_AnnualReport_toBMV.pdf) into English
+
+
+HW_07.2	[Due 20 Mar 2025]
+	Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English (25)
+
+HW_07.1	[Due 20 Mar 2025]
+	Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms 
+	(25)
+
+####
+2P
+####
+HW_06.1	[Due 13 Mar 2025]
+--- Task 1
+Read Hall and Lieberman, pp. 854-857. Answer questions in English
+--- Task 2
+Read "EXCERPT_WorldBank_StockMarket-vs-Economic-Development.txt" and translate the entire excerpt into Spanish.
+--- Task 3
+Read i) "EXCERPT_China_StockMarket-vs-Economic-Development.txt", and ii) "EXCERPT_Mexco_StockMarket-vs-Economic-
+Development.txt" and answer questions
+--- Task 4
+Define economic terms in both English and Spanish (56)
+
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+	Complete the Python script, "HW_05.2.py" 
+	
+HW_05.1	[Due: 04 Mar 2025]	EXTRA CTREDIT!!
+	Write How-To Guides in Spanish for 
+		1) Creating a Google Cloud Account and creating a project
+		2) Installation of Spyder on Windows/Mac
+	
+HW_04.2 [Due: 27 Feb 2025]
+	Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728), very brief summary (English and Spanish) and 
+	answer questions
+
+HW_04.1 [Due: 27 Feb 2025]
+	Begin your personal translation dictionary. 
+
+
+####
+1P
+####
+HW_03.1  [Due: 6 Feb 2025] 
+	Ley del Banco de México	
+
+HW_02.2  [Due: 30 Jan 2025] 
+	Critique the axioms/theorems/corollaries of standard econ
+
+HW_02.1  [Due: 30 Jan 2025] 
+	Summary Nelson's, "Chapter 1: An Overview of Economics"
+
+HW_01.1  [Due: 23 Jan 2025] 
+	Fields of econ and investing
+	
+
+
+
+
+
+
+
+

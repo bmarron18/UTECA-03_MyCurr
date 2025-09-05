@@ -1,0 +1,160 @@
+							LESSON PLAN  (200 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+######################
+HW_05.1	[Due: 04 Mar 2025]
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+
+These guides should be in the same document separated by mmain headings. You do not need to follow the standard format, except for the document header.
+
+
+HW_05.2 [Due: 04 Mar 2025]
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+
+Be sure to run each code snippet in Spyder. You may turn in a paper copy by printing the .py file from your text file editor; or you may show me the completed document by opening the .py file in class.
+
+Hints:
+	* Open https://www.w3schools.com/python/
+	* Open "HW_05.2.py" in Spyder
+	* Add new cells with ctrl+2
+	* Cut/paste each new code snippet into a new cell
+
+########################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+"Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks."
+		--- Stephen Hawking
+
+
+---- Content 
+
+=========	Git and GitHub workflow	============================
+
+
+Recall-------
+#########################################
+Onsite Git repository set up AND 
+synch to Offsite Github repo
+##########################################
+	# open yout GitHub acct and copy the URL of your newly-created repository
+	# create a new folder on your desktop to house your GitHub (cloned) repo
+	# Right-clic to open Git BASH terminal in the new folder (Windows)
+	# Go to the new folder and open a Terminal (Mac)
+
+$ git clone <your Github URL>
+
+	# close Bash terminal (Windows) or Terminal (Mac)
+	# open the newly-cloned folder and open a new BASH terminal (Windows) or Terminal (Mac)
+	# check the repo (p.69 ProGit2)
+
+$ git remote -v
+$ git remote show origin
+
+
+Last Piece---
+#########################################
+Manually dump in additional subdirectories and files
+Make changes to existing files
+track || stage || commit || push
+##########################################
+
+	# copy in additional subdirectories and files
+	# Copy/paste your dictionary into git-tracked repo
+ 
+	
+	# show files and their status 
+$ git status
+
+	# TRACK and STAGE all files!!!
+$ git add --all
+$ git status
+
+	#COMMIT all files
+$ git commit -a -m "<date>"
+ 
+ 	# PUSH all files to offsite repo (aka 'origin')
+$ git remote -v
+$ git push origin --all
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean
+
+	# See file changes and commit history
+	# gitk - The Git repository browser
+$ gitk
+
+
+#############
+Git Workflow
+#############
+	$ git status
+	$ git add --all
+	$ git commit -a -m "<date>"
+	$ git push origin --all			<== GitHub login name
+									<== GitHub token
+	$ git status
+	$ git last
+	$ gitk
+
+
+
+gitk options for Mac
+*	$ git visual
+
+*	git config --global alias.visual 'gitk'
+
+*	git config --global alias.visual 'log --oneline --decorate --graph --all'
+	$ git log
+
+		
+
+==========  Intro to AI-Based Translation	=========================
+
+* UTECA_Translation-in-the-21st-C_Prezy
+* LessonPlan_Cloud-BasedTranslation
+* Workflow_gCloudShell_StandardNMT_GeneralTranslation_excerpts.py
+* Workflow_gcloudAPI_StandardNMT_GeneralTranslation_docs.py
+
+
+
+Google Search
+Construye el Futuro en la Nube | Google Cloud
+
+
+
+
+---- Work time
+
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+HW_05.1	[Due: 04 Mar 2025] <== Extra Credit
+	2) Installation of Spyder on Windows/Mac
+	
+HW_05.2 [Due: 04 Mar 2025] <== Extra Credit
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set

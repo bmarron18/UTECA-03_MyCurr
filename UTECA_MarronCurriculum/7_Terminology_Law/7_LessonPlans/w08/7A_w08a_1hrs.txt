@@ -1,0 +1,408 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos Jurídicos
+Curso:			IT0733
+Licenciatura: 	Interpretación y Traducción
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
+Grupo:			7A
+
+
+
+######################
+HW_06.1	[Due: 11 Mar 2025]
+Perform the tasks listed below. The standard format applies with the tasks listed as major headings.
+
+--- Task 1 
+Translate "EXCERPTS_P1_Que-hace-la-SCJN.txt" into English.
+
+--- Task 2 
+Answer and/or summarize the following questions:
+	1. ¿Qué hace la Suprema Corte de Justicia de la Nación?
+	2. What are the periods of the SCJN ?
+	3. What is the Semanario Judicial de la Federación y su Gaceta?
+	4. ¿Quiénes pueden emitir jurisprudencia en el Poder Judicial de la Federación?
+	5. ¿Para quiénes es obligatoria la jurisprudencia de la SCJN?
+	6. ¿Cómo se integra la jurisprudencia de la SCJN?
+
+--- Task 3
+Add any new words from Task 1 above to your dictionary (Spanish and English). 
+
+Terms (17)
+	amparo
+	apelacion
+	disposiciones vigentes
+	ejecutorias
+	en virtud
+	jurisprudencia
+	parte considerativa de tesis
+	plenos
+	plenos regionales
+	Consejo de la Judicatura Federal
+	juzgados y tribunales
+	medios de control de la constitucionalidad
+	ministr@
+	procedimiento de unificación de criterios
+	resoluciones
+	Semanario Judicial de la Federación y su Gaceta
+	tesis
+########################
+
+
+
+#########
+Today
+#########
+
+---- Open 
+
+"On the whole, we think of our consumers - other judges, lawyers, the public. The law that the Supreme Court establishes is the law that they must live by, so all things considered, it's better to have it clearer than confusing."
+		-- Ruth Bader Ginsburg
+
+---- Content 
+
+** The SCJN
+** Jurisprudencia
+** Semanario Judicial de la Federacion y su Gaceta
+
+
+#################################
+Poder Judicial de la Federación
+#################################
+Está integrado por:
+
+    La Suprema Corte de Justicia de la Nación
+    El Consejo de la Judicatura Federal
+    Los Plenos Regionales
+    Los Tribunales Colegiados de Circuito
+    Los Tribunales Colegiados de Apelación
+    Los Juzgados de Distrito
+    El Tribunal Electoral del Poder Judicial de la Federación
+
+
+
+##################
+Salas de la SCJN 
+#################
+
+Se advierte que, además del Pleno, 
+	* en las Épocas Quinta, Séptima y Octava llegaron a integrarse hasta cinco Salas
+	* en la Sexta funcionaron cuatro Salas
+	* a partir de la Novena Época la SCJN funciona en Pleno y en dos Salas
+
+Épocas Quinta, Séptima y Octavo en la SCJN
+	Pleno
+	Primera Sala (Penal)
+	Segunda Sala (Administrativa)
+	Tercera Sala (Civil)
+	Cuarta Sala (Laboral)
+	Sala Auxiliar desaparición en 1956
+	
+a partir de la Novena Época la SCJN 
+	Pleno
+	Primera Sala (Civiles, Penal)
+	Segunda Sala (Administrativa, Laboral)
+
+
+Funciones del Pleno de la SCJN 
+https://www.scjn.gob.mx/conoce-la-corte/que-hace-la-scjn
+    Elegir al presidente de la Corte
+    Conceder licencias a los ministros
+    Fijar los días y horas de sesión
+    Determinar la competencia de las Salas
+    Distribuir los asuntos entre las Salas
+    Remitir asuntos a las Salas para su resolución
+    Velar por la autonomía de los órganos del Poder Judicial de la Federación
+    Velar por la independencia de los miembros del Poder Judicial de la Federación
+
+
+###########################################################
+Epocas
+	SCJN
+	Semanario Judicial de la Federación y su Gaceta (SJF)
+##############################################################
+Se ha dividido a las Épocas del Semanario Judicial de la Federación en
+dos grandes periodos constitucionales: antes y después de 1917. Dicha división
+obedece a que las tesis de jurisprudencia que fueron publicadas en las Épocas
+Primera a Cuarta (antes de 1917), hoy son inaplicables, no tienen vigencia, y
+por ello se agrupan dentro de lo que se ha llamado "jurisprudencia histórica". Las
+Épocas Quinta a Undécima (de 1917 a la fecha) comprenden lo que se considera
+el catálogo de la "jurisprudencia aplicable".
+
+Jurisprudencia Histórica
+	Primero		1871 a septiembre de 1875				[7 tomos]
+	Segundo		enero de 1881 a diciembre de 1889		[17 tomos]
+	Tercero		enero de 1890 a diciembre de 1897		[12 tomos]
+	Cuarta		enero de 1898 y finaliza en 1914		[52 tomos]
+
+Jurisprudencia Aplicable
+	Quinto		1917 al 30 de junio de 1957				[132 tomos]
+	Sexto		julio de 1957 de 1968					[138 tomos]
+	Septimo		enero 1969 hasta enero de 1988			[228 tomos]
+	Octavo		enero 1988 hasta febrero de 1995		[15 tomos]
+	Noveno		febrero 1995 a octubre de 2011			[1 obra]
+	Decimo		junio de 2011 a abril 2021				[111 libros]
+	Undecimo	1 de mayo 2021 ...						[45 libros (to date)...
+
+
+Por epoca SCJN publishes
+	https://www.scjn.gob.mx/publicaciones-de-la-suprema-corte-de-justicia-de-la-nacion/gaceta
+	(p.63 SJF_NuevaParadigma_11Epoca_2022)
+	(p.72 Textbook_Gonzales-etal_RedactarTesisJuridicos)
+
+	Tesis de jurisprudencia that result from Tribunales Colegiados de Circuito 
+	Tesis published in "Semanario Judicial de la Federacion y su Gaceta" (SJF)
+	Tesis are archived by Registro No.
+	Tesis en el área de lo jurídico son 
+		Tesis histórica jurídica
+		Tesis jurídico comparativa
+		Tesis jurídico descriptiva
+		Tesis jurídico exploratoria
+		Tesis jurídico proyectiva
+		Tesis jurídico propositiva
+
+
+Materias de Tesis
+	https://sjf2.scjn.gob.mx/thesauro-materias
+
+ABANDONO   [430 Tesis]
+ABANDONO DE PERSONA   [105 Tesis]
+ABIGEATO   [174 Tesis]
+...
+
+
+
+################################################
+Semanario Judicial de la Federacion y su Gaceta
+#################################################
+https://sjf2.scjn.gob.mx/
+
+El Semanario Judicial de la sFederación es el medio oficial de difusión de los criterios obligatorios y relevantes emitidos por los órganos competentes del Poder Judicial de la Federación. Fue creado en 1870, mediante decreto promulgado por el presidente Benito Juárez, con el objetivo de difundir las decisiones de los tribunales federales.
+
+Desde entonces el Semanario ha pasado por épocas, las cuales constituyen etapas cronológicas en las que se agrupan los criterios. El inicio de cada una de ellas ha sido determinado por diversas causas, tales como reformas constitucionales y legales o movimientos políticos y sociales que han tenido gran relevancia en el sistema jurídico nacional. Asimismo, cada Época ha estado marcada por ajustes significativos en la manera en que se recopila, organiza y publica la jurisprudencia. Las épocas se dividen en dos períodos: el de la “Jurisprudencia Histórica”, que abarca de 1871 a 1914, y el de la “Jurisprudencia Aplicable”, que comprende de 1917 a la fecha. Los criterios recogidos en el primer periodo tienen como base la Constitución de 1857, mientras que los del segundo han sido emitidos dentro de nuestro marco constitucional vigente.
+
+A partir del 1 de mayo de 2021 se integra la Undécima Época del Semanario, el cual, gracias a su constante evolución, actualmente constituye un sistema digital que compila, sistematiza y difunde los principales criterios y resoluciones emitidos por los tribunales federales, mediante la publicación de tesis, sentencias y otros documentos en la página de Internet de la Suprema Corte de Justicia de la Nación.
+
+Con el sistema de consulta del Semanario, la Suprema Corte de Justicia de la Nación reafirma su compromiso de mantenerse cercana a la sociedad y de proporcionar herramientas que faciliten el acceso a la justicia para todos. 
+
+
+
+
+##############################
+Manual del Justiciable 
+##############################
+El Manual del Justiciable es un documento valioso del poder judicial, que
+evidencia y simplifica la mayoría de los procedimientos que pueden
+aplicarse a cada caso en particular. El documento denota que fue elaborado de manera minuciosa y está avalado por grandes juristas.
+
+
+Available from Biblioteca Digital de la Suprema Corte
+[https://sistemabibliotecario.scjn.gob.mx]
+
+MANUAL DEL JUSTICIABLE, ELEMENTOS DE TEORíA GENERAL DEL PROCESO, 1stEd.,2003
+MANUAL DEL JUSTICIABLE, MATERIA CIVIL, 1stEd.,2003
+						MATERIA DE AMPARO
+						MATERIA PENAL
+						MATERIA ADMINISTRATIVA
+						MATERIA LABORAL
+						MATERIA AGRARIA
+s
+
+#############
+THE Legal Dictionary
+(massive!)
+#####################
+[https://biblio.juridicas.unam.mx/bjv/resultados?ti=diccionario+juridico]
+
+
+
+#############################
+OnLine Legal Dictionary
+############################
+[https://diccionariojuridico.org/indice-materia/
+https://diccionariojuridico.org/libro/]
+
+Definitions given from the areas of:
+	Doctrina
+	Legislacion
+	Jurisprudencia
+
+Materias incluidos:
+    Comercio exterior
+    Derecho administrativo
+    Derecho agrario
+    Derecho ambiental
+    Derecho civil		s	<== We will focus here
+    Derecho constitucional
+    Derecho de acceso a la información
+    Derecho del trabajo
+    Derecho diplomático
+    Derecho económico
+    Derecho electoral
+    Derecho familiar
+    Derecho fiscals
+    Derecho informático
+    Derecho internacional
+    Derecho mercantil
+    Derecho notarial
+    Derecho penal
+    Derecho procesal
+    Derecho registral
+    Derecho romano
+    Filosofía / Teoría del derecho
+    Historia del derecho
+    Locuciones latinas
+    Propiedad intelectual
+    Sociología jurídica
+    Teoría del Estado
+    Teoría política
+	This is a closed book exam; however, you may bring one (1) 8 in. x 11 in. ¨cheat sheet” to the exam
+
+
+Derecho Civil (Terminos)
+    Abandono
+    Abogado    
+    Absolución de posiciones  
+    Abuso del derecho    https://diccionariojuridico.org/indice-materia
+    Accesión    
+    Acción de jactancia    
+    Acción estimatoria    
+    Acción oblicua    
+    Acción pauliana    
+    Acción plenaria de posesión    
+    Acción redhibiditoria    
+    Acción reivindicatoria    
+    Aceptación de herencia   
+    Acreedor   
+    Acta Notarial   
+    Acto de administración    
+    Acto jurídico    
+    Acto simulado    
+    Actos consensuales    
+    Actos de administración    
+    Actos de disposición   
+    Actos de dominio   
+    Actos de molestia  s  
+    Actos inexistentes    
+    Actos para pleitos y cobranza  
+    Actos privativos    
+    Adjudicación    
+    Adjunción    
+    Adopción internacional    
+    Adquisición a título universal    
+    Agravio    
+    Agregación    
+    Agrupación    
+    Albacea    
+    Alegatos    
+    Alienación parental    
+    Alimentos    
+    Allanamiento    
+    Aluvión   s
+    Animales bravíos   
+    Antecedente registra    
+    Anticresis    
+    Apariencia jurídica   
+    Apelación    
+    Arras    
+    Arrendamiento    
+    Arrendamiento financiero    
+    Arrendamiento puro    
+    Asamblea de Notarios del Distrito Federal    
+    Asiento de presentación    
+    Asientos registrales    
+    Asistencia privada    
+    Asistente de menores   
+    Asociación   
+    Atributos de las personas fí­sicas   
+    Audiencia    
+    Aval    
+    Avenimiento    
+    Aviso preventivo    
+    Avulsión   
+    Beneficio de inventario  
+    Bien económico   
+    Bien jurídico 
+    Bien propio    
+    Bienes    
+    Bienes Corpóreos
+    ...
+	...
+    Usufructo    
+    Usufructo simultáneo    
+    Usufructo sucesivo    
+    Usura    
+    Venta con pacto de no vender a determinada persona    
+    Venta con pacto de preferencia    
+    Venta de cosa esperada    
+    Venta de cosa futura    
+    Venta por acervo o "as la vista"    
+    Venta por acervo o a precio alzsado    
+    Ventas a domicilio    
+    Veracidad    
+    Vía de apremio    
+    Vicio del consentimiento    
+    Vicio redhibitorio    
+    Vicios ocultos   
+    Vida privada    
+    Violencia    
+    Violencia económica    
+    Violencia familiar    
+    Violencia física    
+    Violencia psicoemocional    
+    Violencia sexual    s
+    Vocación de herencia
+
+
+
+Exam---
+	This is a closed book exam; however, you may bring one (1) 8 in. x 11 in. ¨cheat sheet” to the exam
+
+
+
+Next time ---
+Begin an in-depth look at civil law in Mexico.
+
+
+
+
+
+
+
+------ Work time
+
+Contratos
+	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
+
+Código Civil Federal
+› Libro Cuarto - De las Obligaciones
+› Primera Parte - De las Obligaciones en General
+› Título Primero - Fuentes de las Obligaciones
+› Capítulo I - Contratos
+
+
+
+HW_06.1	[Due: 11 Mar 2025]
+---Task 1: Translate the following into English : EXCERPTS_P1_Que-hace-la-SCJN.txt 
+---Task 2: Questions
+---Task 3: Add any new words to your dictionary. The focus should be on legal terms and at a minimum must include
+the following:
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows/Mac
+	
+
+
+

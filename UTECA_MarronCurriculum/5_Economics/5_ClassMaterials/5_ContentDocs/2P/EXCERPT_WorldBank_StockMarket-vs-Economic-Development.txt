@@ -1,0 +1,196 @@
+
+####################################################
+EXCERPTS World Bank Report 1582, 
+"Stock Market Development and Long-Run Growth", 
+Ross Levine and Sara Zervos, 1996
+####################################################
+
+
+World stock markets are booming. Developing country stock markets compose a
+disproportionately large amount of this growth. Over the past 10 years, world stock market
+capitalization rose from $4.7 trillion to $15.2 trillion, and emerging market capitalization jumped
+from less than 4 percent to almost 13 percent of total world capitalization. Similarly, over this
+decade, the trading of shares on emerging stock exchanges rose from less than 3 percent to 17
+percent of the total value of transactions on the world's stock exchanges. Further, Korajczyk
+(1996) shows that emerging markets have become more integrated with world capital markets
+during the past seven years. The blossoming of emerging stock markets has attracted the
+attention of international investors. Portfolio equity flows to emerging markets jumped from
+$150 million in 1984 to over $39 billion in 1995. Yet, there exists very little empirical evidence
+on the relationship between stock market development and long-run economic growth.
+
+To assess whether stock markets are merely burgeoning casinos where more and more
+players are coming to place bets or whether stock markets are importantly linked to economic
+growth, this paper reviews a diffuse theoretical literature and presents new empirical evidence. In
+terms of theory, a growing literature argues that stock markets provide services that boost
+economic growth. Specifically, Greenwood and Smith (1996) show that large stock markets can
+lower the cost of mobilizing savings and thereby facilitate investment in the most productive
+technologies. Bencivenga, Smith, and Starr (1996) and Levine (1991) argue that stock market
+liquidity -- the ability to trade equity easily -- is important for growth. Specifically, although many
+profitable investments require a long-run commitment of capital, savers do not like to relinquish
+control of their savings for long periods. Liquid equity markets ease this tension by providing an
+asset to savers that they can quickly and inexpensively sell. Simultaneously, firms have permanent
+access to capital raised through equity issues. Moreover, Kyle (1984) and Holmstrom and Tirole
+(1995) argue that liquid stock markets can increase incentives to get information about firms and
+improve corporate governance. Finally, Obstfeld (1994) shows that international risk sharing
+through internationally integrated stock markets improves resource allocation and can accelerate
+the rate of economic growth.
+
+Theoretical disagreement exists, however, about the importance of stock markets for
+economic growth. Mayer (1988) argues that even large stock markets are unimportant sources of
+corporate finance. Stiglitz (1985, 1993) says that stock market liquidity will not enhance
+incentives for acquiring information about firms or exerting corporate governance. Moreover,
+Devereux and Smith (1994) emphasize that greater risk sharing through internationally integrated
+stock markets can actually reduce saving rates and slow economic growth. Finally, Shleifer and
+Summers' (1988) and Morck, Shleifer, and Vishny's (1990a,b) analyses suggest that stock market
+development can hurt economic growth by easing counterproductive corporate takeovers.
+
+Considering the conflicting theoretical perspectives on the importance of well-functioning
+stock markets for economic growth, this paper uses cross-country regressions to examine the
+association between stock market development and economic growth. To conduct this
+investigation, we need measures of stock market development. Theory, however, does not
+provide a unique concept or measure of stock market development. Theory suggests that stock
+market size, liquidity, and integration with world capital markets may affect economic growth.
+Consequently, this paper uses a conglomerate index of overall stock market development
+constructed by Demirguc-Kunt and Levine (1996). This index combines information on stock
+market size, liquidity, and international integration to produce an overall measure of stock market
+development.
+
+More specifically, we use pooled cross-country, time-series regressions to evaluate the
+relationship between stock market development and economic growth. Using data on 41
+countries over the period 1976-1993, we split the sample period, so that each country has two
+observations (data permitting) with data averaged over each sub-period. In the tradition of recent
+work [Barro (1991)], we regress the growth rate of Gross Domestic Product (GDP) per capita on
+a variety of variables designed to control for initial conditions, political stability, investment in
+human capital, and macroeconomic conditions. We then include the conglomerate index of stock
+market development. Thus, we evaluate whether there is a relationship between economic growth
+and stock market development that is independent of other variables associated with economic
+growth.
+
+This paper builds on Atje and Jovanovic's (1993) study of stock market trading and
+economic growth in two ways. We use conglomerate indexes of stock market development that
+combine information on stock market size, trading, and integration. Second, we control for initial
+conditions and other factors that may affect economic growth in light of evidence that many
+cross-country regression results are fragile to changes in the conditioning information set [Levine
+and Renelt (1992)]. Thus, we gauge the robustness of the relationship between overall stock
+market development and economic growth to changes in the conditioning information set.
+
+We find a strong correlation between overall stock market development and long-run
+economic growth. After controlling for the initial level of GDP per capita, initial investment in
+human capital, political stability, and measures monetary, fiscal, and exchange rate policy, stock
+market development remains positively and significantly correlated with long-run economic
+growth. The results are consistent with theories that imply a positive relationship between stock
+market development and long-run economic growth. The results are inconsistent with theories
+that predict no correlation or a negative association between stock market development and
+economic performance.
+
+This paper empirically evaluated the relationship between stock market development and
+long-run growth. The data suggest that stock market development is positively associated with
+economic growth. Moreover, the instrumental variables procedures indicate a strong connection
+between the predetermined component of stock market development and long-run economic
+growth. While these cross-country growth regressions imply a strong link between stock market
+development and economic growth, the results should be viewed as suggestive partial correlations
+that stimulate additional research rather than as conclusive findings.
+
+Much work remains to better understand the relationship between stock market
+development and economic growth. Specifically, careful case studies might better identify the
+causal interactions between stock market development and economic growth. Similarly, this
+paper examined the cross-sectional relationship between stock market development and growth.
+Future research could also exploit the time-series properties of the relationship. Finally, this paper
+says nothing about policy. While stock market development is strongly correlated with long-run
+economic growth, future research needs to identify the policies that will ease sound securities
+market development.
+
+World stock markets are booming. Developing country stock markets compose a
+disproportionately large amount of this growth. Over the past 10 years, world stock market
+capitalization rose from $4.7 trillion to $15.2 trillion, and emerging market capitalization jumped
+from less than 4 percent to almost 13 percent of total world capitalization. Similarly, over this
+decade, the trading of shares on emerging stock exchanges rose from less than 3 percent to 17
+percent of the total value of transactions on the world's stock exchanges. Further, Korajczyk
+(1996) shows that emerging markets have become more integrated with world capital markets
+during the past seven years. The blossoming of emerging stock markets has attracted the
+attention of international investors. Portfolio equity flows to emerging markets jumped from
+$150 million in 1984 to over $39 billion in 1995. Yet, there exists very little empirical evidence
+on the relationship between stock market development and long-run economic growth.
+
+To assess whether stock markets are merely burgeoning casinos where more and more
+players are coming to place bets or whether stock markets are importantly linked to economic
+growth, this paper reviews a diffuse theoretical literature and presents new empirical evidence. In
+terms of theory, a growing literature argues that stock markets provide services that boost
+economic growth. Specifically, Greenwood and Smith (1996) show that large stock markets can
+lower the cost of mobilizing savings and thereby facilitate investment in the most productive
+technologies. Bencivenga, Smith, and Starr (1996) and Levine (1991) argue that stock market
+liquidity -- the ability to trade equity easily -- is important for growth. Specifically, although many
+profitable investments require a long-run commitment of capital, savers do not like to relinquish
+control of their savings for long periods. Liquid equity markets ease this tension by providing an
+asset to savers that they can quickly and inexpensively sell. Simultaneously, firms have permanent
+access to capital raised through equity issues. Moreover, Kyle (1984) and Holmstrom and Tirole
+(1995) argue that liquid stock markets can increase incentives to get information about firms and
+improve corporate governance. Finally, Obstfeld (1994) shows that international risk sharing
+through internationally integrated stock markets improves resource allocation and can accelerate
+the rate of economic growth.
+
+Theoretical disagreement exists, however, about the importance of stock markets for
+economic growth. Mayer (1988) argues that even large stock markets are unimportant sources of
+corporate finance. Stiglitz (1985, 1993) says that stock market liquidity will not enhance
+incentives for acquiring information about firms or exerting corporate governance. Moreover,
+Devereux and Smith (1994) emphasize that greater risk sharing through internationally integrated
+stock markets can actually reduce saving rates and slow economic growth. Finally, Shleifer and
+Summers' (1988) and Morck, Shleifer, and Vishny's (1990a,b) analyses suggest that stock market
+development can hurt economic growth by easing counterproductive corporate takeovers.
+
+Considering the conflicting theoretical perspectives on the importance of well-functioning
+stock markets for economic growth, this paper uses cross-country regressions to examine the
+association between stock market development and economic growth. To conduct this
+investigation, we need measures of stock market development. Theory, however, does not
+provide a unique concept or measure of stock market development. Theory suggests that stock
+market size, liquidity, and integration with world capital markets may affect economic growth.
+Consequently, this paper uses a conglomerate index of overall stock market development
+constructed by Demirguc-Kunt and Levine (1996). This index combines information on stock
+market size, liquidity, and international integration to produce an overall measure of stock market
+development.
+
+More specifically, we use pooled cross-country, time-series regressions to evaluate the
+relationship between stock market development and economic growth. Using data on 41
+countries over the period 1976-1993, we split the sample period, so that each country has two
+observations (data permitting) with data averaged over each sub-period. In the tradition of recent
+work [Barro (1991)], we regress the growth rate of Gross Domestic Product (GDP) per capita on
+a variety of variables designed to control for initial conditions, political stability, investment in
+human capital, and macroeconomic conditions. We then include the conglomerate index of stock
+market development. Thus, we evaluate whether there is a relationship between economic growth
+and stock market development that is independent of other variables associated with economic
+growth.
+
+This paper builds on Atje and Jovanovic's (1993) study of stock market trading and
+economic growth in two ways. We use conglomerate indexes of stock market development that
+combine information on stock market size, trading, and integration. Second, we control for initial
+conditions and other factors that may affect economic growth in light of evidence that many
+cross-country regression results are fragile to changes in the conditioning information set [Levine
+and Renelt (1992)]. Thus, we gauge the robustness of the relationship between overall stock
+market development and economic growth to changes in the conditioning information set.
+
+We find a strong correlation between overall stock market development and long-run
+economic growth. After controlling for the initial level of GDP per capita, initial investment in
+human capital, political stability, and measures monetary, fiscal, and exchange rate policy, stock
+market development remains positively and significantly correlated with long-run economic
+growth. The results are consistent with theories that imply a positive relationship between stock
+market development and long-run economic growth. The results are inconsistent with theories
+that predict no correlation or a negative association between stock market development and
+economic performance.
+
+This paper empirically evaluated the relationship between stock market development and
+long-run growth. The data suggest that stock market development is positively associated with
+economic growth. Moreover, the instrumental variables procedures indicate a strong connection
+between the predetermined component of stock market development and long-run economic
+growth. While these cross-country growth regressions imply a strong link between stock market
+development and economic growth, the results should be viewed as suggestive partial correlations
+that stimulate additional research rather than as conclusive findings.
+
+Much work remains to better understand the relationship between stock market
+development and economic growth. Specifically, careful case studies might better identify the
+causal interactions between stock market development and economic growth. Similarly, this
+paper examined the cross-sectional relationship between stock market development and growth.
+Future research could also exploit the time-series properties of the relationship. Finally, this paper
+says nothing about policy. While stock market development is strongly correlated with long-run
+economic growth, future research needs to identify the policies that will ease sound securities
+market development.
+

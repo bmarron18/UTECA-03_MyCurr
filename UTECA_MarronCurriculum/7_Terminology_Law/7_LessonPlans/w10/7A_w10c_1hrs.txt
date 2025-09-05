@@ -1,0 +1,163 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos Jurídicos
+Curso:			IT0733
+Licenciatura: 	Interpretación y Traducción
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
+Grupo:			7A
+
+######################
+HW_07.1	[Due: 18 Mar 2025]
+Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
+
+
+HW_07.2 [Due: 18 Mar 2025]
+Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
+both English and Spanish.
+
+TERMS
+	acto reclamado
+	abrogación
+	acusatorio
+	amparo adhesivo
+	desahogadas
+	“alegato de oidas” o “alegato de oreja”
+	apelación
+	aportaciones
+	aquilatar
+	atendibles
+	cabal
+	congruentes
+	contrafianza
+	declaratorias
+	decreto
+	disposiciones
+	doctrina
+	Entidades Federativas
+	"interés legítimo"
+	"interés jurídico"
+	intervenciones orales
+	juicio de amparo
+	laudos
+	litigación
+	mandato
+	normativas
+	“oralidad procesal”
+	preclusión
+	progresiva implantación
+	procesales civiles
+	queja
+	reposición
+	rezagadas
+	sentencias
+	supletoridad
+	supletorio
+	tratados internacionales 
+	tribunales
+	valoración
+
+########################
+
+
+
+#########
+Today
+#########
+
+---- Open 
+
+
+---- Content 
+
+
+Finish Exam
+
+
+
+##############
+Concept of Amparo
+################
+from, EXCERPTS_P2_Que-hace-la-SCJN.txt
+
+writ
+a legal document from a law court that tells you that you will be involved in a legal process and explains what you must do
+
+Highlights--
+*	The "writ of support" can be used to challenge laws, regulations, or actions by government officials that are deemed unconstitutional or that violate individual rights.
+
+*	Mexico is one of many nations that support human rights in this manner
+
+*	Applies to any and all person that find themselves in Mexico including minors, private companies, officials, and foreigners
+
+*	 6 Jun 2011 Mexico updated and extended its support for human rights to align with international 
+	treaties
+		- writ of support available for both Constitutional violation and treaty violations
+		- writ of support available as a class action suit
+		- writ of support available not only in cases of legal interest but also for cases of 
+		legitimate interest
+		- writ of support available for plantiffs and defendents
+		- The SCJN has formed a lower court to handle human rights cases
+		- The SCJN has established new sanctions for non-compliance
+		- The SCJN has eliminated the statute of limitations for cases
+		- The SCJN will not close a case until all sentencing has been completed
+		- The SCJN has granted the Executive Branch rapid access to some (urgent) cases
+		- The SCJN has limited the abuse of a suspension clause that would permit the continued 
+		infringement or violation 
+		  of rights of the affected person
+
+
+#####################################
+Intro to
+Código Nacional de 
+Procedimientos Civiles y Familiares
+#######################################
+Some Highlights--
+*
+
+
+
+
+
+--- Save
+Contratos
+	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
+
+Código Civil Federal
+› Libro Cuarto - De las Obligaciones
+› Primera Parte - De las Obligaciones en General
+› Título Primero - Fuentes de las Obligaciones
+› Capítulo I - Contratos
+
+
+
+------ Work time
+
+HW_07.2 [Due: 18 Mar 2025]
+Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
+both English and Spanish.
+
+HW_07.1	[Due: 18 Mar 2025]
+Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
+
+
+HW_06.1	[Due: 11 Mar 2025]
+---Task 1: Translate the following into English : EXCERPTS_P1_Que-hace-la-SCJN.txt 
+---Task 2: Questions
+---Task 3: Add any new words to your dictionary. The focus should be on legal terms and at a minimum must include
+the following:
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows/Mac

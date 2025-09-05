@@ -1,0 +1,158 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
+
+
+
+
+################
+-- HW_03.1  [Due: 6 Feb 2025]
+Review CAPITULO III (De las Operaciones), ARTICULO 7o of Ley del Banco de México (BANXICO). In a one-page+ paper, translate the entirety of ARTICULO 7o into English. The standard format requirements apply.
+
+#########################
+
+
+---- Open
+
+
+
+---- Content
+	
+	HW_01.1  [Due: 23 Jan 2025] fields of econ and investing
+	HW_02.1  [Due: 30 Jan 2025] summary Nelson's, "Chapter 1: An Overview of Economics"
+	HW_02.2  [Due: 30 Jan 2025] critique the axioms/theorems/corollaries of standard econ
+	HW_03.1  [Due: 6 Feb 2025] Ley del Banco de México
+
+NB. HW_03 will be last HW on 1st partial. Next week study guide.
+
+
+Hand back HW
+	Margins
+	Text; double space
+	Header; single space
+	Organization titles
+		centred; bold; caps first words
+			L; underlined; caps first words
+	Paragraph options
+		Indent
+		Space
+	Widows/Orphans
+	
+	
+
+Share Out HW_02.2 / thoughts and critique
+
+
+
+Banking Systems
+
+	Balance sheet		A financial statement showing assets, liabilities, and net worth at a 
+						point in time.
+	
+	Assets
+	
+	Liabilities
+	
+	Bonds				An IOU issued by a corporation or government agency when it borrows 
+						funds.
+	
+	Loans				An IOU issued by a household or noncorporate business when it borrows 
+						funds.
+	
+	IOUs				I Owe You (money)
+	
+	Reserves 			Vault cash plus balances held at the Fed.
+	
+	Required reserves 	The minimum amount of reserves a bank must hold, depending on the amount 
+						of its deposit liabilities.
+	Required reserve 
+	ratio 				The minimum fraction of checking account balances that banks must hold 
+						as reserves.
+
+	Net worth 			= Total assets - Total liabilities.
+	
+	Central bank 		A nation’s principal monetary authority.
+
+
+
+
+The US Banking System (p 708-713;  Hall&Lieberman)
+The Mexican Banking System (p 3 MexicanBankingSystem)
+
+The Bank of Mexico (Banxico) ---  Central bank
+US Federal Reserve System --- 	12 Federal Reserve districts each one served by its own Federal 								Reserve Bank
+
+BoM and the Fed have similar functions
+	Issue currency 
+	Interest rate regulation
+	Money supply management
+	Payment system facilitation (check clearing)
+	
+Other BoM functions
+	Foreign exchange regulation
+	Monetary policy
+	International reserve (stability of peso thru int'l reserves)
+	Lender of last resort
+
+
+https://www.banxico.org.mx/marco-normativo/legislacion-interes-disposici.html
+https://mexico.justia.com/federales/leyes/
+https://mexico.justia.com/federales/leyes/ley-del-banco-de-mexico/
+	98. Ley del Banco de México (BANXICO) 
+
+
+
+Banks
+* financial intermediaries 
+	A business firm that specializes in brokering between savers and borrowers.
+
+* specialize in assembling loanable funds from households and firms whose revenues exceed their expenditures, and channeling those funds to households and firms (and sometimes the government)
+
+
+
+US banks
+	depository institutions (accept deposits from the general public and lend the deposits to 		borrowers)
+	
+Types of US banks
+* 	Savings and loan associations (S&Ls) obtain funds through their customers’ time, savings, 		and checkable deposits and use them primarily to make mortgage loans.
+
+* 	Mutual savings banks accept deposits (called shares) and use them primarily tomake mortgage 	loans. They differ from S&Ls because they are owned by their depositors, rather than outside 	investors.
+
+* 	Credit unions specialize in working with particular groups of people, such as members of a 		labor union or employees in a specific field of business. They acquire funds through their 		members’ deposits and make consumer and mortgage loans to other members.
+
+* 	Commercial banks are the largest group of depository institutions. They obtain
+	funds mainly by issuing checkable deposits, savings deposits, and time deposits
+	and use the funds to make business, mortgage, and consumer loans.
+
+
+Types of Mexican banks 
+    Commercial banks: Accept deposits from savers and lend to borrowers (depository)
+    Development banks: Provide financial services
+    Savings institutions: Provide financial services (depository)
+    Cooperative credit societies: Provide financial services (depository)
+
+Non-banking intermediaries 
+    Insurers: Provide financial services
+    Stock exchanges: Provide financial services
+    Investment- and pension-fund managers: Provide financial services 
+
+Regulatory agencies
+    Banco de México
+	Comisión Nacional Bancaria y de Valores (CNBV)
+		regulates and oversees the banking and brokerage sectors 
+	Instituto para la Protección al Ahorro Bancario (IPAB)
+	Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros 	
+	(Condusef)
+	National Banking and Securities Commission (CNBV) 
+	
+
+
+
+--- Work time
+

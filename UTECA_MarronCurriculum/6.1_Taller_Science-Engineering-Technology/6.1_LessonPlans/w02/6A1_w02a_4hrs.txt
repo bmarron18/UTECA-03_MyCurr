@@ -1,0 +1,143 @@
+							LESSON PLAN  (200 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+####
+HW_02
+####
+--- HW_02.1		[Due: 23 Jan 2025]
+	Read Chap. III The Nature of Normal Science in Thomas Kuhn's, "The Structure of Scientific Revolutions." Extract  3-5 main points from the text. Be prepared to share these in class.
+	
+--- HW_02.2		[Due: 28 Jan 2025]
+	From "An Overview of Thomas Kuhn's, 'The Structure of Scientific Revolutions'", translate part B. 'Remarks On The Nature of Normal Science' into Spanish. Standard format requirements apply.
+
+
+#######
+Today
+#######
+
+---- Open
+
+“Science can amuse and fascinate us all, but it is engineering that changes the world.”
+	—Isaac Asimov, American writer, professor of biochemistry
+
+
+
+
+---- Content
+
+Socratic Seminar / Silent reading
+	Jeremy Ramsden, "The Differences Between Engineering and Science"
+
+
+	General perception 
+		“industry, science and technology create jobs and create wealth”
+
+						
+	Three states 	1) academic science and scientists
+						“knowledge obtained by observation, by experiment and by subsequent deduction 
+						... the object of the scientist is the determination of general laws and the 
+						deduction of principles from the effects which are observed”.	<== lacks of 
+						empirical support "how improbable quantitative discovery by quantitative 
+						measurement is.”
+						
+						independent mission to uncover hidden truths about nature are guided by their 
+						intuition about what is important to investigate, which 
+						may only be slightly influenced by practical human needs
+						
+						the scientist has an easier task — he or she is only dealing with the absolute 
+						arbiter of nature;All that is required of him is unimpeachable integrity,
+						
+					2) engineers 
+						“the science of the industrial arts”, applies scientific principles and 
+						imagination to the creation of useful products required by society.
+						
+						the engineer, when confronted by problems, for which existing knowledge is 
+						inadequate, will not wait for the scientist but will forge ahead, using 
+						heuristic methods to establish a bridgehead in unknown territory, achieving 
+						what the scientists may have deemed to be “impossible”
+						
+						the engineer himself expands knowledge as necessary when what he needs has not 
+						been made available by the scientist
+						
+						there is a strong ethical, hence ultimately arbitrary, dimension to the work 
+						of the engineer. For who is to decide what is vital or necessary in human 
+						society? Is there really such a thing as a social consensus, vague and 
+						impalpable perhaps, but which nevertheless results in a distinct dynamism in a 
+						particular direction? Or is it a matter of unshakeable personal conviction?
+						
+						the engineer is forcing changes (“transforming the conditions of life”) that 
+						cannot be absolutely justified in any way.
+						
+						the engineer has more in common with the lawyer than with the scientist: facts 
+						and opinions must be marshalled in order to achieve a desired result; 
+						engineering is definitely not just “applied science”
+
+
+					3) innovation, “the development of new products, services and processes" (both 
+					scientists and engineers)
+						
+						derived from ==> important problems that emerge from some kind of social 
+						consensus (e.g., the United Nations “Millennium Goals”.
+						
+						social responsibility was strong in theminds of the early Victorian engineers 
+						later became distorted ==> as early as  1886, “beneficial undertakings had 
+						been proved profitable; [later] it was assumed that a business,  as long as it 
+						is profitable, does not require to be proved beneficial”.
+						
+						profitability has become the sole criterion of vital necessity
+						
+
+
+
+Presentations
+(one of two fields)
+
+
+
+
+Thoughts on Picon HW (Students)
+I found these in Picon....................................
+Facts
+	two fundamental aspects of the history of engineers
+		the history of social framework for engineers
+		the history of the technical innovations
+
+	extreme diversity of fields of engineering
+		civil, mechanical, electrical, ...
+
+	extreme diversity of responsibilities for engineers
+		technical functions
+		management
+
+
+Questions Addressed
+	What defines engineering history?
+	Is the history of engineers primarily about the engineering profession and its evolution,or is it about the evolution of innovation and technical achievements?
+
+
+Theses
+	Engineering looks more like a continent marked by striking contrasts than like a unified field. On this continent, no self-evident link seems to exist between the organization of the profession and the various activities engineers are involved in.
+
+	The lack of relations between these two fundamental aspects of the history of engneers is partly attributable to the extreme diversity of their jobs and realizations. Besides the distance that separates civil, mechanical or electrical engineering, engineers—since the second half of the 19th century at least—have occupied all kinds of positions between purely technical functions and management responsibilities.
+...................................
+
+Turn in HW
+
+---break
+
+Intro to Kuhn's SSR
+Read Aloud / Silent Read
+	An Overview Of Thomas Kuhn's, "The Structure of Scientific Revolutions
+	St Mary's College of Maryland 
+
+
+
+---- Work time

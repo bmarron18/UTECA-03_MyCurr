@@ -1,0 +1,55 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos Jurídicos
+Curso:			IT0733
+Licenciatura: 	Interpretación y Traducción
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
+Grupo:			7A
+
+######################
+
+########################
+
+
+
+#########
+Today
+#########
+
+---- Open 
+
+
+
+
+---- Content 
+
+Prep for exam next week
+
+
+
+
+------ Work time
+
+HW_06.1	[Due: 11 Mar 2025]
+---Task 1: Translate the following into English : EXCERPTS_P1_Que-hace-la-SCJN.txt 
+---Task 2: Questions
+---Task 3: Add any new words to your dictionary. The focus should be on legal terms and at a minimum must include
+the following:
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows/Mac
+	
+

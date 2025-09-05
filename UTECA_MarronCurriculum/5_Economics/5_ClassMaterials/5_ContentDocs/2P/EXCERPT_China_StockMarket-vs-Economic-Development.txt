@@ -1,0 +1,24 @@
+
+#################################################################################
+EXCERPTS Monash Business School Discussion Paper 16/16, 
+"Stock Market Development and Economic Growth: Empirical Evidence from China",
+Lei Pan and Vinod Mishra, 2016
+####################################################################################
+
+Abstract:
+It is important to understand the interplay between stock market and real economy to figure out
+the various channels through which financial markets drive economic growth. In the current
+study we investigate this relationship for Chinese economy, the fastest growing and largest
+emerging economy in the world. Using the methodology of unit root testing in the presence of
+structural breaks and using an ARDL model, we find that Global Financial Crises had a
+significant impact on both China’s real sector and financial sector. Our findings also suggest
+that Shanghai A share market has a long run negative association with the real sector of the
+economy, however the magnitude of impact is tiny and can be ignored. We conjecture that this
+negative relationship is the proof of so called existence of irrational prosperity on the stock
+market and the bubbles in China’s financial sector. We do not find any evidence of a
+relationship between stock market and real economy in the short run. Toda Yamamoto
+causality test supports the demand-driven hypothesis that economic growth spurs development
+of stock markets for China’s B share market.
+
+
+

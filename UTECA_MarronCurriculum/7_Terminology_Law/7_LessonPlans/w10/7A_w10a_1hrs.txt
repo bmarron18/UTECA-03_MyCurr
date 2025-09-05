@@ -1,0 +1,354 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos Jurídicos
+Curso:			IT0733
+Licenciatura: 	Interpretación y Traducción
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
+Grupo:			7A
+
+
+
+######################
+HW_08.1	[Due: 25 Mar 2025]
+The standard format applies to all tasks EXCEPT for double-spacing.
+
+--- Task 1
+Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts. Translate the following "teses aisladas" into English:
+	Registro 160371
+	Registro 193185
+	Registro 215624
+	Registro 2004757
+	Registro 2010576
+	Registro 2011752
+
+
+--- Task 2
+Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf.
+Answer the following:
+	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description ofthe "prueba" in English.
+	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
+
+--- Task 3
+Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN 
+(see https://sjf2.scjn.gob.mx/busqueda-principal-tesis). Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. Be sure to correctly and completely cite the "jurisprudencia" document you slected.
+
+
+---- Task 4 
+Define the following terms in English and Spanish.
+TERMS (9)
+	cúmulo de sospechas
+	dictamen
+	eficacia probatoria
+	perito
+	probanza judicial
+	prueba pericial
+	prueba circunstancial
+	sentencia
+	writ
+	
+--- Task 5
+Explain the difference between "tesis aislada" and "jurisprudencia" in English.
+	
+##################################
+
+
+
+#########
+Today
+#########
+
+Hand back exams
+
+---- Open 
+
+"Scientists want to know the evidence behind a statement; they want reproducible tests and verifiable facts. There is a big difference in the thought process of a trial lawyer who is interested not in what's true but what he can convince a jury is true."
+			--- Bill Foster, lawyer/mayor
+
+
+
+%%%%%%%%%	Content %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+---- Review
+
+##############
+Concept of Amparo
+################
+from, EXCERPTS_P2_Que-hace-la-SCJN.txt
+
+writ
+a legal document from a law court that tells you that you will be involved in 
+a legal process and explains what you must do
+
+Highlights--
+*	The "writ of support" can be used to challenge laws, regulations, or actions by government officials that are deemed 
+	unconstitutional or that violate individual rights.
+
+*	Mexico is one of many nations that support human rights in this manner
+
+*	Applies to any and all person that find themselves in Mexico including minors, private companies, officials, and 
+	foreigners
+
+*	 6 Jun 2011 Mexico updated and extended its support for human rights to align with international 
+	 treaties
+		- support available for both Constitutional violation and treaty violations
+		- support available as a class action suit
+		- support available not only in cases of legal interest but also for cases of legitimate interest
+		- support available for plantiffs and defendents
+		
+		- Also the SCJN has 
+			+ formed a lower court to handle human rights cases
+			+ established new sanctions for non-compliance
+			+ eliminated the statute of limitations for cases
+			+ will not close a case until all sentencing has been completed
+			+ granted the Executive Branch rapid access to some (urgent) cases
+			+ limited the abuse of a suspension clause that would permit the continued infringement or violation 
+			  of rights of the affected person
+
+----NEW
+#####################################
+Intro to
+Código Nacional de 
+Procedimientos Civiles y Familiares
+#######################################
+Some Highlights--
+---- Constitutional Changes
+*	Article 16 Constitutional amendment... not everything has to be recorded in writing, but that the parties and the 
+	judge can make oral statements that are recorded through audio and video. 
+	
+*	Article 17 ..."Whenever equality between the parties, due process or other rights are not affected in trials or 
+	proceedings carried out in the form of a trial, the authorities must prioritize the resolution of the conflict over 
+	procedural formalities."
+	
+*	Article 73 ...added section "XXX. To issue unique legislation on civil and family procedural matters." This provision 
+	allows for the unification of procedural regulations in civil and family matters (i.e., Código Nacional de  
+	Procedimientos Civiles y Familiares)
+
+---- Advantages of Legislative Unification
+*	Procedural unification will help standardize legal practice throughout the country ans serve as a benchmark for 
+	lawyers. jurists, and legal scholars. This happened with the 2014 enactment of the National Code of Criminal 
+	Procedures ... bottom line: uniformity of interpretation throughout the country
+
+--- Historical Antecedents
+meh
+
+
+--- Quantitative Importance of Civil and Family Cases in Mexico
+*	Although the media highlights the impact of criminal law, the judiciary is mostly occupied with family and civil law 
+	cases....76.2% of the total sentences issued by the courts 
+
+*	1.5 million new cases enter civil and family courts per year
+	(about 3 million people pass through civil and family courts per year
+
+---- Important Elements in the National Code of Civil and Family Procedures
+*	Article 7 ... guiding principles
+	a) access to justice; 
+	b) concentration;
+	c) collaboration; 
+	d) continuity;
+	e) contradiction; 
+	f) procedural direction; 
+	g) procedural equality; 
+	h) immediacy;
+	i) best interests of the child; 
+	j) procedural impetus
+	1) open litigation; m) orality; n) gender perspective;
+	o) preclusion; 
+	p) privacy; and 
+	q) publicity
+	
+*	Article 11 ... classifification of actions in civil and family matters
+	a) real actions;
+	b) personal actions; and 
+	c) actions of the civil status of persons.
+
+*	Article 63 ... procedural exceptions
+
+*	Article 77 ... defines jurisdictional competence
+
+*	Article 104 ... lists 16 instances in which the jurisdictional authorities will be prevented from continuing to hear
+	a case (clarifies "subjective jurisdiction")
+	
+*	Article 343 ... validation of evidence
+
+*	Articles 432, 661 ... legal standing of notaries in s
+*	Article 445 ... support for individuals with disabilities
+
+*	Article 855 ... revamps class action suites (now 15 people)
+
+*	Article 861 ... extends the statute of limitations (no 5 yrs)
+
+*	Article 905 ... three appeal measures (appeal, reconsideration, and complaint)
+
+* 	Article 933 ... allows for "digital justice"
+
+---- Once only Federal, now National
+*	Many procedural elements in other laws must be supplemented because what was one federal now applies nationally
+
+*	Especially true when no clear codes exist in other laws, the procedures in Código Nacional de 
+	Procedimientos Civiles y Familiares will fill in
+
+*	Registro digital: 2003161
+	SUPLETORIEDAD DE LAS LEYES. REQUISITOS PARA QUE OPERE.
+
+###############
+Teses Aislados
+vs
+Jurispreduncias
+################
+https://diccionariojuridico.org/indice-materia/
+
+Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes contenidos en las sentencias. Tesis aislada es un criterio de interpretación que orienta a los jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es obligatoria, mientras que la tesis aislada no lo es. 
+
+Tesis aislada 
+    +Es un criterio de interpretación que orienta el trabajo de los jueces.
+    +No es obligatoria.
+    +Puede ser utilizada para orientarse en un caso.
+    +Puede ser modificada por una jurisprudencia si el Pleno sustenta una tesis contraria. 
+
+Jurisprudencia
+   + Es la interpretación de la ley, de observancia obligatoria. 
+	+Puede ser confirmatoria de Ley, supletoria o interpretativa. 
+	+Se establece cuando se sustenta un mismo criterio en cinco sentencias no interrumpidas por otra en contrario. 
+	+Se emite por la SCJN funcionando en Pleno o en Salas, y por los Tribunales Colegiados de Circuito. 
+
+
+
+Look at prueba pericial ....
+	En el ámbito legal, una "prueba pericial" significa la opinión o dictamen de un experto (perito) sobre un hecho 
+	específico, aportando conocimientos técnicos o científicos para ayudar al juez a entender aspectos que no son de 
+	conocimiento común. 
+
+PRUEBA PERICIAL given by Carbonell as general guideance for the new Código Nacional de Procedimientos Civiles y Familiares (teses aislados)
+
+
+Look at ...
+	Registro 160371
+
+
+
+
+
+
+
+---- Coming Up
+
+#############
+Contracts
+#############
+Contratos (Legal)...
+	Código Civil Federal
+	› Libro Cuarto - De las Obligaciones
+	› Primera Parte - De las Obligaciones en General
+	› Título Primero - Fuentes de las Obligaciones
+	› Capítulo I - Contratos
+
+Contracts Textbooks..
+	Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
+		Read pp 1 - 9
+		Answer Q 1-33 (pp 9-10)
+		
+
+Real Contracts...
+	2015_may_obras_lpn_2.pdf
+	CFE_Anexo 3 Modelo Contrato.pdf
+	Anaconda Terms of Service
+	
+
+#####################
+Intĺ Law 
+#####################
+Open Access Journals.........
+	International Journal of Law in Context (Cambridge)
+	https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
+		+ Vulnerabilitys-legal-life-an-ambivalent-force-of-migration-governance.pdf
+
+	International Journal of Law
+	https://www.lawjournals.org/
+
+
+
+
+
+------ Work time
+####
+3P
+####
+HW_08.1	[Due: 25 Mar 2025]
+--- Task 1. Investigate the concept of "prueba" (proof) as pieces of admissible evidence from experts. Translate six (6) "teses aisladas" into English:
+--- Task 2 Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf and answer two questions
+--- Task 3 Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN. Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. 
+---- Task 4  Define nine legal terms in English and Spanish.
+--- Task 5 Explain the difference between "tesis aislada" and "jurisprudencia" in English.
+
+
+
+HW_07.1	[Due: 18 Mar 2025]
+--- Task 1
+Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
+
+--- Task 2
+Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
+both English and Spanish (39)
+
+
+####
+2P
+####
+HW_06.1	[Due: 11 Mar 2025]
+--- Task 1
+	Translate the following into English : EXCERPTS_P1_Que-hace-la-SCJN.txt 
+--- Task 2
+	Answer six Questions on the Supreme Corte (SCJN)
+--- Task 3
+	Define 17 legal terms in English and Spanish
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows/Mac
+
+
+####
+1P
+####
+
+HW
+	Study Guide
+
+HW_03.2	[Due: 5 Feb 2025] 
+	civil law topic; outline structure and translate Articles
+
+HW_03.1	[Due: 4 Feb 2025] 
+	civil law topic; trace the changes through the D.O.F
+
+HW_02.2	[Due: 29 Jan 2025] 
+	civil vs. common law report
+
+HW_02.1	[Due: 28 Jan 2025] 
+	summary Grossfield's, "Language and the Law.
+
+HW_01.1	[Due: 22 Jan 2025] 
+	report on two fields of law
+
+	
+	---- SAVE
+Textbook_Andrade_ContratosCiviles_Oxford.pdf		<== save
+
+	
+	
+
+
+
+

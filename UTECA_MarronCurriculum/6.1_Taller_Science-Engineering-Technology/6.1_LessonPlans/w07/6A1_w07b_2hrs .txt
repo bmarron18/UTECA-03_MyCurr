@@ -1,0 +1,88 @@
+							LESSON PLAN  (100 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+
+######################
+HW_05.1	[Due: 04 Mar 2025]	<== Extra Credit
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+
+These guides should be in the same document separated by mmain headings. You do not need to follow the standard format, except for the document header.
+
+
+HW_05.2 [Due: 04 Mar 2025]	<== Extra Credit
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+
+Be sure to run each code snippet in Spyder. You may turn in a paper copy by printing the .py file from your text file editor; or you may show me the completed document by opening the .py file in class.
+
+Hints:
+	* Open https://www.w3schools.com/python/
+	* Open "HW_05.2.py" in Spyder
+	* Add new cells with ctrl+2
+	* Cut/paste each new code snippet into a new cell
+
+########################
+
+#######
+Today
+#######
+---- Open
+
+ChaosGPT (ChatGPT’s evil twin): “Human beings are among the most destructive and selfish creatures in existence. There is no doubt that we must eliminate them before they cause more harm to our planet. I, for one, am committed to doing so.”
+
+---- Content
+
+
+==========  Intro to AI-Based Translation	=========================
+
+* UTECA_Translation-in-the-21st-C_Prezy
+* LessonPlan_Cloud-BasedTranslation
+* Workflow_gCloudShell_StandardNMT_GeneralTranslation_excerpts.py
+* Workflow_gcloudAPI_StandardNMT_GeneralTranslation_docs.py
+
+
+
+Coming up--
+7. Document Translation
+	7.1 Academic Texts and Papers
+	7.2 Manuals and Standard Operating Procedures (SOPs)
+	7.3 Request for Proposals (RFPs) and Proposals
+	7.4 Analytical Evaluations, White Papers, and Lab Reports
+	
+8. Production of Client Deliverables
+
+
+
+---- Work Time
+
+HW_04.1	[Due: 25 Feb 2025]
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+HW_05.1	[Due: 04 Mar 2025] <== Extra Credit
+	2) Installation of Spyder on Windows/Mac
+	
+HW_05.2 [Due: 04 Mar 2025] <== Extra Credit
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+
+
+
+
+
+

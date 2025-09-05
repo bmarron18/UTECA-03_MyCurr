@@ -1,0 +1,195 @@
+							LESSON PLAN  (100 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+
+#########################################
+HW_08.1	[Due: 25 Mar 2025]
+--- Task 1 
+Translate the following two documents into English. The documents form part of the RFP issued by the CFE in March 2025  (CFE-0104-CACON-0030-2025). Standard format applies EXCEPT for double-spaced text.
+	i)  CFE_01 Convocatoria CACON 0030 2025.pdf
+	ii) CFE_Anexo-2_07_PROGRAMA_SUMINISTRO_DE_MATERIALES_CONTRATISTA.pdf
+
+--- Task 2 
+Define the terms below in both Spanish and English. Add any new words to your dictionary.
+
+Terms (56)
+	ABOCINADO
+	ABRAZADERA
+	ACARREOS
+	ACEITADO
+	AMPERES
+	ARANDELA
+	ASBESTOS
+	AUTOCAD
+	BARRENOS
+	BASTIDOR
+	CANALIZACIÓN
+	CERRADURA
+	COLGANTEO
+	CONDUCTOR
+	CONDUIT
+	CONDUMEX
+	CORTAFUEGO
+	DESMONTABLES
+	DIELÉCTRICO
+	DUCTO
+	ELECTROMECÁNICA
+	ELECTROSOLDADA
+	ELECTROSTÁTICA
+	ELECTROZINCADO
+	EMPALMES
+	ESMALTE
+	ESTRATIFICADO
+	EXOTÉRMICA
+	GALVANIZADA
+	HALOGENO
+	HIDRÁULICO
+	IMPERMEABILIZANTE
+	INTERRUPTOR
+	JUMPER
+	LAMINADO
+	LOSA
+	LOTE
+	MONOMODO
+	MULTIMODO
+	PLETINA
+	POLICLORURO
+	POLIETILENO
+	POLIMÉRICO
+	RANURADA
+	RECTIFICACIÓN
+	RIEL
+	SOLDADURA
+	SOLERA DE HORMIGÓN
+	SOLVENTES
+	SUBESTACIÓN
+	TERMOFUSIÓN,
+	TERMOMAGNÉTICO
+	TEZONTLE
+	VINILO
+#############################################
+
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+---- Review 
+
+###########
+RFIs
+RFQs
+RFPs
+###########
+
+	RFI (Request for Information)
+		a formal business process used to gather information from potential suppliers about their capabilities, products, 
+		or services, typically in the early stages of a procurement process, before issuing a Request for Proposal (RFP) 
+		or Request for Quotation (RFQ). The primary goal of an RFI is to gather market intelligence and understand the 
+		offerings of potential vendors before making a purchasing decision
+
+
+	RFQ (Request for Quotes)
+	a formal document used to solicit price quotes or bids from potential suppliers or vendors for specific products or 
+	services, typically when the buyer has well-defined requirements and is primarily focused on obtaining the best price 
+	The primary goal of an RFQ is to obtain competitive pricing information from multiple suppliers for a specific 
+	product or service
+	
+	Examples
+		rfq-acnur-mex-2023-092.pdf
+		rfq-acnur-mex-2023-092_anexo_a.pdf
+		PNZC-OCT24-005_Consultor_Financiamiento_Climático_Enmienda001 Q&A.pdf
+		Artifact_DEQ_RFQforPlatformSecurityTesting_Final_ 20200331.pdf
+
+
+	RFPs (Request for Proposals)
+		a formal document used to solicit detailed proposals from potential vendors for complex goods or services, 
+		allowing them to showcase their expertise and approach alongside pricing. RFPs are used when the buyer needs a 
+		more detailed proposal outlining how a vendor would approach fulfilling their needs. An RFP typically outlines 
+		the project scope, requirements, evaluation criteria, and timeline for proposals0
+
+		Examples
+			AQ_RfP_FINAL_en_es.pdf
+			Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico.pdf
+			Palladium+RFP+-+Managing+Body+Mundo+Maya+Mexico+-+Mexico.pdf
+			UNHCR_RFP-MEX-2020-206.pdf
+			sdp_unfpa_mex_sdp_23_001_bidding_document.pdf
+	
+
+CFE (CFE-0104-CACON-0030-2025)
+"CONSTRUCCIÓN DE OBRA CIVIL Y ELECTROMECÁNICA PARA OBRAS DE LA RED ELÉCTRICA
+INTELIGENTE, SE AHZ, SE CIP, SE CLT, SE MLT, SE TIX, SE TCE, SE TAN, ZONA CHILPANCINGO"
+	--- a very complex project with a complex RFP
+
+Look at ---
+	01 Convocatoria CACON 0030 2025.pdf
+	02 Pliego de Requisitos CACON 0030 2025.pdf
+	Anexo 2 04 CATALOGO DE CONCEPTOS.xlsx
+	Anexo 2 07 PROGRAMA SUMINISTRO DE MATERIALES CONTRATISTA.pdf
+	Anexo 5 Programa CFE 0104 CACON 0030 2025.pdf
+
+
+
+---- NEW
+
+
+
+--- Coming up
+################
+White Papers / 
+Reviews
+################
+
+White papers and review papers, while both in-depth reports, differ significantly in purpose and target audience.
+
+White Paper
+		+ Persuasive, industry-focused reports aiming to educate and persuade potential stakeholders
+        + Designed to educate and persuade a specific audience (often potential customers) about a particular product, 
+		service, or viewpoint
+        + Presents a problem, explores potential solutions, and often advocates for a specific approach or technology, 
+		using facts and logic to support its claims.
+        + Typically not peer-reviewed, and often written by marketing or internal company personnel.
+
+Reviews (Science, Engineering, Medicine, etc)
+       + Designed to provide a comprehensive overview and synthesis of existing research on a specific topic, for 
+	    researchers, academics, and other experts in the relevant field
+       + Summarizes, analyzes, and critically evaluates existing research, identifying key findings, gaps in knowledge, 
+	    and areas for future research.
+       + Typically peer-reviewed by experts in the field, ensuring the quality and validity of the research presented
+   
+#########
+Reviews
+#########
+Open Acces Journals.....
+
+IEEE  
+https://open.ieee.org/publishing-options/topical-journals/
+	
+	IEEE Open Journal of the Communications Society
+		6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions.pd
+		Survey_on_6G_Frontiers_Trends_Applications_Requirements_Technologies_and_Future_Research.pdf
+
+	IEEE Open Journal of Engineering in Medicine and Biology
+		A Review on Recent Advancements of Biomedical Radar for Clinical Applications
+		Grand Challenges at the Interface of Engineering and Medicine
+
+#######################
+Client Deliverables
+####################
+
+

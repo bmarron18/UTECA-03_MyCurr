@@ -1,0 +1,274 @@
+							LESSON PLAN  (200 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A1
+
+
+#########################################
+HW_08.1	[Due: 25 Mar 2025]
+--- Task 1 
+Translate the following two documents into English. The documents form part of the RFP issued by the CFE in March 2025  (CFE-0104-CACON-0030-2025). Standard format applies EXCEPT for double-spaced text.
+	i)  CFE_01 Convocatoria CACON 0030 2025.pdf
+	ii) CFE_Anexo-2_07_PROGRAMA_SUMINISTRO_DE_MATERIALES_CONTRATISTA.pdf
+
+--- Task 2 
+Define the terms below in both Spanish and English. Add any new words to your dictionary.
+
+Terms (56)
+	ABOCINADO
+	ABRAZADERA
+	ACARREOS
+	ACEITADO
+	AMPERES
+	ARANDELA
+	ASBESTOS
+	AUTOCAD
+	BARRENOS
+	BASTIDOR
+	CANALIZACIÓN
+	CERRADURA
+	COLGANTEO
+	CONDUCTOR
+	CONDUIT
+	CONDUMEX
+	CORTAFUEGO
+	DESMONTABLES
+	DIELÉCTRICO
+	DUCTO
+	ELECTROMECÁNICA
+	ELECTROSOLDADA
+	ELECTROSTÁTICA
+	ELECTROZINCADO
+	EMPALMES
+	ESMALTE
+	ESTRATIFICADO
+	EXOTÉRMICA
+	GALVANIZADA
+	HALOGENO
+	HIDRÁULICO
+	IMPERMEABILIZANTE
+	INTERRUPTOR
+	JUMPER
+	LAMINADO
+	LOSA
+	LOTE
+	MONOMODO
+	MULTIMODO
+	PLETINA
+	POLICLORURO
+	POLIETILENOCFE (CFE-0104-CACON-0030-2025)
+	POLIMÉRICO
+	RANURADACFE (CFE-0104-CACON-0030-2025)
+	RECTIFICACIÓN
+	RIEL
+	SOLDADURA
+	SOLERA DE HORMIGÓN
+	SOLVENTES
+	SUBESTACIÓN
+	TERMOFUSIÓN,
+	TERMOMAGNÉTICO
+	TEZONTLE
+	VINILO
+#############################################
+
+
+
+#######
+Today
+#######
+
+Hand back 6A2 exam and other work
+
+---- Open
+
+"The real technical problems came because people working on the project didn't really follow my proposal at all, but set out to do other things instead of making a laser."
+		--- Gordon Gould, laser inventor
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+---- Review 
+
+
+
+---- NEW
+###########
+RFIs
+RFQs
+RFPs
+###########
+
+	RFI (Request for Information)
+		a formal business process used to gather information from potential suppliers about their capabilities, products, 
+		or services, typically in the early stages of a procurement process, before issuing a Request for Proposal (RFP) 
+		or Request for Quotation (RFQ). The primary goal of an RFI is to gather market intelligence and understand the 
+		offerings of potential vendors before making a purchasing decision
+
+
+	RFQ (Request for Quotes)
+	a formal document used to solicit price quotes or bids from potential suppliers or vendors for specific products or 
+	services, typically when the buyer has well-defined requirements and is primarily focused on obtaining the best price 
+	The primary goal of an RFQ is to obtain competitive pricing information from multiple suppliers for a specific 
+	product or service
+	
+
+	Examples
+		rfq-acnur-mex-2023-092.pdf
+		rfq-acnur-mex-2023-092_anexo_a.pdf
+		PNZC-OCT24-005_Consultor_Financiamiento_Climático_Enmienda001 Q&A.pdf
+		Artifact_DEQ_RFQforPlatformSecurityTesting_Final_ 20200331.pdf
+
+
+	RFPs (Request for Proposals)
+		a formal document used to solicit detailed proposals from potential vendors for complex goods or services, 
+		allowing them to showcase their expertise and approach alongside pricing. RFPs are used when the buyer needs a 
+		more detailed proposal outlining how a vendor would approach fulfilling their needs. An RFP typically outlines 
+		the project scope, requirements, evaluation criteria, and timeline for proposals0
+
+		Examples
+			AQ_RfP_FINAL_en_es.pdf
+			Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico.pdf
+			Palladium+RFP+-+Managing+Body+Mundo+Maya+Mexico+-+Mexico.pdf
+			UNHCR_RFP-MEX-2020-206.pdf
+			sdp_unfpa_mex_sdp_23_001_bidding_document.pdf
+	
+
+CFE (CFE-0104-CACON-0030-2025)
+"CONSTRUCCIÓN DE OBRA CIVIL Y ELECTROMECÁNICA PARA OBRAS DE LA RED ELÉCTRICA
+INTELIGENTE, SE AHZ, SE CIP, SE CLT, SE MLT, SE TIX, SE TCE, SE TAN, ZONA CHILPANCINGO"
+	--- a very complex project with a complex RFP
+
+Look at ---
+	01 Convocatoria CACON 0030 2025.pdf
+	02 Pliego de Requisitos CACON 0030 2025.pdf
+	Anexo 2 04 CATALOGO DE CONCEPTOS.xlsx
+	Anexo 2 07 PROGRAMA SUMINISTRO DE MATERIALES CONTRATISTA.pdf
+	Anexo 5 Programa CFE 0104 CACON 0030 2025.pdf
+
+
+
+
+
+--- Coming up
+################
+White Papers / 
+Reviews
+################
+
+White papers and review papers, while both in-depth reports, differ significantly in purpose and target audience.
+
+White Paper
+		+ Persuasive, industry-focused reports aiming to educate and persuade potential stakeholders
+        + Designed to educate and persuade a specific audience (often potential customers) about a particular product, 
+		service, or viewpoint
+        + Presents a problem, explores potential solutions, and often advocates for a specific approach or technology, 
+		using facts and logic to support its claims.
+        + Typically not peer-reviewed, and often written by marketing or internal company personnel.
+
+Reviews (Science, Engineering, Medicine, etc)
+       + Designed to provide a comprehensive overview and synthesis of existing research on a specific topic, for 
+	    researchers, academics, and other experts in the relevant field
+       + Summarizes, analyzes, and critically evaluates existing research, identifying key findings, gaps in knowledge, 
+	    and areas for future research.
+       + Typically peer-reviewed by experts in the field, ensuring the quality and validity of the research presented
+   
+#########
+Reviews
+#########
+Open Acces Journals.....
+
+IEEE  
+https://open.ieee.org/publishing-options/topical-journals/
+	
+	IEEE Open Journal of the Communications Society
+		6G_Wireless_Communication_Systems_Applications_Requirements_Technologies_Challenges_and_Research_Directions.pd
+		Survey_on_6G_Frontiers_Trends_Applications_Requirements_Technologies_and_Future_Research.pdf
+
+	IEEE Open Journal of Engineering in Medicine and Biology
+		A Review on Recent Advancements of Biomedical Radar for Clinical Applications
+		Grand Challenges at the Interface of Engineering and Medicine
+
+#######################
+Client Deliverables
+####################
+
+
+
+
+
+
+---- Work time
+####
+3P
+####
+
+HW_07.2  [Due: 18 Mar 2025]
+	Provide definitions of the terms below in Spanish and English. Some definitions in English are provided.
+	(78 terms)
+
+HW_07.1	[Due: 18 Mar 2025]
+Scan five Standard Operating Procedure (SOP) documents (1a-1c): For each SOP, do the following:
+	1. Extract the title and the basic outline headings from the first two tiers of the outline
+	2. Translate the outline headings into Spanish.
+
+####
+2P
+####
+HW_06.1	[Due: 11 Mar 2025]
+Perform the tasks listed below. The standard format applies with tasks listed as major headings.
+	Translate the following text document into Spanish: EXCERPTS_P1_EPA_Guidance-for-SOPs.txt
+	Translate the following text document into Spanish: EXCERPTS_P2_EPA_Guidance-for-SOPs.txt
+	Translate the following text document into Spanish: EXCERPTS_P3_EPA_Guidance-for-SOPs.txt
+	Answer and/or summarize questions
+	Terms and definitions in both English and Spanish
+	
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+####
+1P
+####
+HW_03.1 [Due: 4 Feb 2025] 
+	Normal science vs wicked problems
+
+HW_02.2 [Due: 28 Jan 2025] 
+	fr. St Mary's Overview of Kuhn, translate part B.
+
+HW_02.1 [Due: 23 Jan 2025]
+	Read Chap. III Kuhn3-5 main points share out
+
+HW_01.2 [Due: 21 Jan 2025]
+	excerpts from Picon's paper
+
+HW_01.1 [Due: 21 Jan 2025]
+	two (2) fields of engineering
+	 
+	
+---- SAVE
+Textbook_Andrade_ContratosCiviles_Oxford.pdf		<== save
+
+RFPs
+https://www.proyectosmexico.gob.mx/en/home/
+https://www.proyectosmexico.gob.mx/en/projects-hub/
+
+Procedimiento No. CFE-0104-CACON-0030-2025
+https://www.cfe.mx/concursoscontratos/pages/programanualadquis.aspx
+https://msc.cfe.mx/Aplicaciones/NCFE/Concursos/
+https://msc.cfe.mx/Aplicaciones/NCFE/Concursos/Procedure/Details
+	 
+

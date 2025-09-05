@@ -1,0 +1,206 @@
+﻿							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos de Tecnología e Ingeniería
+Curso:			IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Horario:		Jueves 16:00 – 19:00
+Grupo:			6A2
+
+
+
+
+#####################
+HW_09.1	[Due: 10 Apr 2025]
+
+Use the standard format EXCEPT for double-spaced text: text should be single-spaced. 
+If possible, print your assignment double-sided or duplex.
+All materials for the assignment are in Class Materials >> ContentDocs_3P >> Papers_English
+
+--- Task 1
+Read/scan the following documents:
+	a) "Lithium-ion battery components are at the nexus of sustainable energy and environmental release of per- and polyfluoroalkyl substances".pdf
+	b) "Significantly wetter or drier future conditions for one to two thirds of the world’s 
+	population".pdf
+	c) "Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering".pdf
+
+--- Task 2
+Translate into Spanish:
+	i)   The Abstract from Document a) in Task 1
+	ii)  The Abstract from Document b) in Task 1
+	iii) The Abstract, and a brief summary of the Discussion section from Document c) in Task 1
+
+--- Task 3
+Provide definitions in English and Spanish for the vocab below. Add any new terms to your dictionary.
+Vocab (17):
+	aggregated
+	alkaline
+	ANOVA
+	anthropogenic
+	bioaccumulation
+	gradient
+	groundwater
+	hydrology
+	Large Language Model
+	leachate
+	neurotoxic
+	parasitology
+	polymer
+	recalcitrant
+	scenario
+	teratogenic
+	toxicology
+	uncertainty
+	
+#####################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+	
+	
+
+
+%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+---- Review
+
+	*3P
+	*HW
+	*Final
+
+
+---- NEW
+
+########################
+Academic Research Papers	<== Final week
+(Open Access journals)
+##########################
+https://www.nature.com/nature-portfolio/open-access
+https://www.nature.com/nature/articles					<== look for open access tag
+
+Open Access Journals
+	Nature Communications ==> https://www.nature.com/ncomms/
+		*Lithium-ion battery components are at the nexus of sustainable energy and environmental release 
+		 	of per- and polyfluoroalkyl substances
+		
+		*Significantly wetter or drier future conditions for one to two thirds of the world’s population
+		
+
+
+	Scientific Reports ==> https://www.nature.com/srep/
+		*Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
+		
+		
+
+---- Coming up
+
+
+---- Save
+
+			
+
+---- Work Time
+####
+3P
+####
+HW_09.1	[Due: 10 Apr 2025]
+--- Task 1
+Read/scan the following documents:
+	a) "Lithium-ion battery components are at the nexus of sustainable energy and environmental release of per- and polyfluoroalkyl substances".pdf
+	b) "Significantly wetter or drier future conditions for one to two thirds of the world’s 
+	population".pdf
+	c) "Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering".pdf
+--- Task 2
+Translate into Spanish:
+	i)   The Abstract from Document a) in Task 1
+	ii)  The Abstract from Document b) in Task 1
+	iii) The Abstract, and a brief summary of the Discussion section from Document c) in Task 1
+--- Task 3
+Provide definitions in English and Spanish for the vocab below. Add any new terms to your dictionary.
+Vocab (17):
+
+
+HW_08.1	[Due: 03 Apr 2025]
+--- Task 1
+Read/Scan:
+	a) NatureComms_Engineerig_AISpeeach.pdf
+	b) Challenges_high-quality_battery_production.pdf
+	c) Virtual-reality_plus_AI‐based_framework_for_advanced_digital_manufacturing_Mexico.pdf
+--- Task 2
+Translate and Evaluate:
+For each report in Task 1 above,
+	i) Translate the Abstract into Spanish
+	ii) Summarize the Introduction in English
+	iii) Summarize the Conclusions in English
+--- Task 3
+Vocab (40):
+
+
+HW_07.1	[Due: 27 Mar 2025]
+--- Task 1 Read two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+Do your best to get the gist (main ideas) of each excerpt and write a summary of each excerpt in English. 
+--- Task 2 Define the following terms in both English and Spanish. Add any new words to your dictionary.
+TERMS (64)
+
+
+HW_06.1	[Due: 20 Mar 2025]
+--- Task 1
+	Read the entire document, "Semiconductores-Tecnológico-Nacional-México.pdf" and write a brief summary of the article 
+	in English.
+--- Task 2
+	Translate the following excerpts into English:
+		EXCERPTS_P1_Semiconductores-Tecnológico-Nacional-México.txt
+		EXCERPTS_P2_Semiconductores-Tecnológico-Nacional-México.txt
+--- Task 3
+	Define the following terms in both English and Spanish. Add any new terms to your dictionary.
+		(84 terms)
+####
+2P
+####
+HW_05.2	[Due: 06 Mar 2025]
+	Read Section 3.2 in Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 44-48)
+
+HW_05.1	[Due: 06 Mar 2025]
+	Translate the Intro  (3 paragraphs) from, "H.Bockhorn et al._EnvironmentalEngineering-Stepwise-pyrolysis-of-plastic-
+	waste.pdf" into Spanish.
+	Translate the INTRODUCCIÓN (1 paragraph) from,"Paniagua_Deslizamiento_de_Talud.pdf" into English. 
+
+HW_04.2 [Due: 27 Feb 2025] 
+	Read Sec 3.1 Richards_BASIC-ENGINEERING-SCIENCE.pdf (pp 39-43)
+
+HW_04.1	[Due: 27 Feb 2025] 
+	Translate Intro. "LIMAYMANTA_Suelos-de-Transición-Línea12.pdf" (English)
+	Translate Abstract "Steffen et al. 2018_Trajectories ...Anthropocene.pdf" (Spanish)
+
+####
+1P
+####
+HW	Study Guide
+
+HW_03.1	[Due: 06 Feb 2025] 
+	engineering systems definitions 
+
+HW_02.2	[Due: 30 Jan 2025] 
+	mental process to solve a problem
+
+HW_02.1 [Due: 30 Jan 2025] 
+	jargonize
+
+HW_01.2 [Due: 23 Jan 2025] 
+	summary Carli & Calaresu's "Language and Science" (missing!)
+
+HW_01.1	[Due: 23 Jan 2025] 
+	field of science
+	
+	
+	
+	

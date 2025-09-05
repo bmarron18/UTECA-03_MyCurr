@@ -1,0 +1,232 @@
+
+
+
+###########
+Vocab
+##########
+
+
+%%%%%% 3P	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	aggregated
+	alkaline
+	ANOVA
+	anthropogenic
+	bioaccumulation
+	gradient
+	groundwater
+	hydrology
+	leachate
+	neurotoxic
+	parasitology
+	polymer
+	recalcitrant
+	scenario
+	teratogenic
+	toxicology
+	uncertainty
+
+	accelerometer
+	acoustic
+	amplitude
+	amyotrophic
+	anneal
+	articulate
+	cardiac
+	cardiovascular
+	compatibility
+	constrained
+	cross-section
+	decibel
+	decoding
+	deformation
+	depict
+	diagnostics
+	dielectric
+	dysphonia
+	eigenvector
+	electrode
+	encapsulate
+	epidermal
+	Fourier transform
+	impedance
+	imperceptible
+	larynx
+	nanoengineering
+	neonatal
+	optoelectronic
+	phonemes
+	piezoelectric
+	randomized
+	self-powered
+	spectroscopy
+	transducer
+	waveform
+	zwitterion
+
+%%%%%% 2P	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TERMS (64)
+	allele
+	alpha, beta, gamma, delta
+	asexual reproduction
+	asymmetrical
+	Bayesian statistics
+	bigram
+	binary
+	camouflaged
+	catalyst
+	code breaking
+	collating
+	conjecture
+	constraint
+	crossover
+	cypher
+	deleterious
+	deterministic
+	differential
+	diploid
+	Dirichlet process
+	discernible
+	DNA
+	ecosystem
+	empirical
+	emulate
+	enzymatic
+	eugenic
+	false-negative
+	false-positive
+	fitness (evolution)
+	Gaussian distribution
+	genome
+	genotype
+	haploid
+	histogram
+	homogeneous
+	logarithm
+	Mandelbrot set
+	mutation
+	nonlinear
+	nucleotide
+	parameter
+	parthenogenesis
+	permutation
+	phenotype
+	precursor
+	probability
+	probability distribution
+	progeny
+	qualitative
+	quantitative
+	quantized
+	recombination (genetics)
+	self-replicating
+	sexual reproduction
+	spurious
+	statistics
+	symmetry
+	synchronized
+	transcription (genetics)
+	translation (genetics)
+	trigram
+	unicellular
+
+
+Terms
+	actuadores
+	adheridos
+	afloramiento
+	agrietamiento
+	aluviales
+	ambiental
+	analógico
+	anclado
+	anclaje
+	apuntalamiento
+	arcillas
+	arseniuro de galio (GaAs)
+	baterías avanzadas
+	capacitores
+	cadenamientos
+	cimentaciones
+	circuitos electrónicos
+	combustible
+	Complementary Metal-Oxide Semiconductor (CMOS)
+	compuesta
+	compuesto
+	controladores
+	cuaternario
+	deslizamiento
+	desplantadas
+	dictamen
+	diodos
+	discontinuidades
+	dispositivos electrónicos
+	discretización
+	drones
+	Digital Signal Processors (DSPs)
+	electrosoldada
+	empaquetar
+	estratigrafía
+	estratos
+	fabricantes
+	Field Programmable Gate Arrays (FPGAs)
+	fracturamiento
+	gravas
+	heterogénea
+	incongruencias
+	infraestructura
+	ingenieril
+	intemperismo
+	interpolación
+	layout
+	lacustre
+	lahares
+	limosas
+	LEDs
+	mediciones
+	microprocesadores
+	microtemores
+	microtremores
+	neuronal
+	nitruro
+	nitruro de galio (GaN)
+	perceptron
+	pilas desplantadas
+	pilas empotradas
+	pilotes
+	planteamiento
+	pluvial
+	resonancia magnética
+	semicompensado
+	sostenibilidad
+	subsuelo
+	subyacente
+	subyaciendo
+	subzonas
+	superconductores
+	talud
+	taludes
+	telecomunicaciones
+	tirantes
+	topográfico
+	topología
+	transistores
+	ultrasonido
+	unidades de estado sólido (SSD
+	vectores
+	zapatas convencionales
+	zapatas octogonales
+
+%%%%%% 1P	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+Intensive property
+		(temperature, pressure, velocity, density)
+		
+Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
+
+Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)

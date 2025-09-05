@@ -1,0 +1,216 @@
+acciones
+accumulation
+acquisition
+Activos (de una empresa)
+adaptive market hypothesis
+affiliation
+AFORE
+allocation
+Amortization
+appraisal
+arbitrage
+arbitrageur
+Assets
+asymmetric tail dependence
+asymmetries
+austerity measures
+Balance sheet
+bearish market
+benchmark
+bibliometrics
+black market
+blockchain
+blue chip stocks
+Bonds
+Bonos Bancarios
+Bonos de Desarrollo del Gobierno Federal (Bonos M, Udibonos o Bondes
+Bonos de Protección al Ahorro Bancario (BPS)
+bullish market
+Capital
+capital gains
+carbon offsets
+carbon sequestration
+causality institutions (economics)
+CBOE Volatility Index (VIX)
+Central bank
+Certificados Bursátiles
+Certificados Bursátiles Fiduciarios de Capital de Desarrollo
+Certificados Bursátiles Fiduciarios de Inversión en Energía e Infraestructura (Fibra E)
+Certificados Bursátiles Fiduciarios de Proyectos de Inversión
+Certificados Bursátiles Fiduciarios Inmobiliarios (Fibras)
+Certificados Bursátiles Fiduciarios Preferentes
+Certificados Bursátiles Fiduciarios Subordenados
+Certificados de Depósito Bancario
+Certificados de Participación
+Certificados de Participación AMORTIZABLES
+Certificados de Tesorería (Cetes)
+CKD
+CNBV (Comisión Nacional Bancaria y de Valores)
+Colocador
+Comisión
+Command or Centrally Planned Economy
+Comparative Advantage
+conglomerate
+Consorcio
+Consumer Price Index (CPI)
+Control
+corporate takeover
+cryptocurrency
+debt for nature swaps
+debt restructuring
+debunking
+defensive stocks
+Depreciation
+derivatives
+Directivos relevantes
+diversified portfolio
+dividends
+Dow Jones Industrial Average
+Dutch Disease
+EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)
+economic efficiency
+Economic Policy Uncertainty (EPU)
+economic structure
+Economic System
+economic welfare
+Economics
+economy of scale
+ecosystem services
+elasticities
+Emisora
+Emisora simplificada
+Emissions Trading Systems (ETS) ("cap-and-trade" systems)
+endogenous
+Entidades financieras
+entropy (information theory
+Environmental, social, and corporate governance (ESG)
+Environmental, Social, Governance (ESG
+Eventos relevantes
+Exchange Traded Fund (ETF)
+externality
+Fideicomisario (ACREEDORES)
+Fideicomiso
+Fidelcomitente
+Fiduciaria
+Filial
+FIRE economy
+forecast curve fitting
+Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) models
+going long
+going short
+Granger causality
+green bonds
+Gross Domestic Product (GDP)
+growth stocks
+Grupo de personas
+Grupo empresarial
+hard commodities
+hedging
+heteroskedasticity
+imperfect market competition
+implied volatility estimation
+incentivize
+income stocks
+inefficient market
+Influencia significativa
+Información relevante
+information asymmetries
+Initial Public Offering (IPO)
+Inscripción simplificada
+Institución financiera del exterior
+Instrumentos Bancarios
+Instrumentos financieros derivados
+Intermediación con valores
+International Monetary Fund (IMF)
+Inversionista calificado
+Inversionista institucional
+IOUs
+Keynesian pump priming
+Labor
+Land
+Liabilities
+liquidity
+Loans
+Macroeconomics
+Market
+market capitalization
+Market Economy
+market indicator
+market structure
+Microeconomics
+monopolies
+multifractal
+mutual funds
+NASDAQ
+natural capital
+Net worth
+neural network
+NO AMORTIZABLES
+Normative economics
+Obligaciones Inmobiliarios (CPIs)
+Obligaciones Ordinarios (CPOs)
+Obligaciones Subordinadas
+OECD
+Oferta pública
+oligopolies
+Opportunity Cost
+Pagarés
+Pagarés con Rendimiento Liquidable al Vencimiento
+partial correlation
+penny stocks
+perfect market competition
+Personas relacionadas
+Poder de mando
+Positive economics
+preferred stocks
+Price to Earnings Ratio (PER)
+Principales Instrumentos Gubernamentales
+Prospectus
+proxy
+public offering
+Registro
+regression analysis
+regulatory restrictions
+relinquish
+rent seeking behavior
+Required reserve ratio
+Required reserves
+Reserves
+Resource Allocation
+Resources
+retained earnings
+rigidities (economics)
+robust
+safe haven asset
+scalability
+Scarcity
+securities
+Securities Exchange Commission (SEC)
+share
+shocks (economics)
+Sociedad controladora filial
+soft commodities
+sovereign risk
+speculation (economics)
+spillover effect
+Standard 
+stochastic
+stock market (or stock exchange)
+stock options
+stockholder
+stockholder revolt
+stocks (or equities
+straddling (economics)
+Supply and Demand
+sustainability linked bonds (SLBs)
+tail events
+Traditional Economy
+tragedy of the commons
+turnover ratio
+Títulos Opcionales (Warrants)
+UDIs
+Unidades de Inversión (UDI)
+Valores
+Valores Estructurados
+value stocks
+

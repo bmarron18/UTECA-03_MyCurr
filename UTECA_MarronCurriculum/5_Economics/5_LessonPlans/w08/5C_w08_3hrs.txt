@@ -1,0 +1,382 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
+
+
+
+
+##############################################
+HW_06.1	[Due 13 Mar 2025]
+Perform the tasks listed below. The standard format applies with the tasks listed as major headings.
+
+--- Task 1
+Read/scan Hall and Lieberman, pp. 214-218; pp.245-249; pp. 274-276; pp. 854-857. Answer the following questions in English:
+
+	1. What is a share of stock?
+	2. There are many types of stocks. List and define four(4) different types of stocks (see Task 4 below).
+	3. What is the difference between bonds and stocks?
+	4. Explain the differences in types of competition in markets. That is, what are the differences between markets with perfect 
+	competition, market monopolies,  and markets with imperfect competition (monopolistic competition markets and market oligopolies)
+	5. Why do many individuals choose to hold their wealth in stocks?
+	6. The authors state, "By early 2000, the average U.S. household held more wealth in the stock market than in real estate, 
+	including the value of their own home." Do you consider stock investments a wise choice? Explain.
+	7. Explain the data in Table 1 on p. 857. 
+
+--- Task 2
+Read "EXCERPT_WorldBank_StockMarket-vs-Economic-Development.txt" and translate the entire excerpt into Spanish.
+
+
+--- Task 3
+Read i) "EXCERPT_China_StockMarket-vs-Economic-Development.txt", and ii) "EXCERPT_Mexco_StockMarket-vs-Economic-Development.txt".
+Based on the three excerpts you have read, answer the following questions in English:
+
+	1. Why does the stock market matter? 
+	2. What is the role of the stock market in the economy? 
+	3. Why do economists consider stock markets to be perfect competition markets? Are they?
+	4. Do you think evidence and data support the claim that there is a strong empirical association between stock market development 
+	and long-term economic growth?
+	5. Evaluate the claim that greater stock market development encourages more diffuse corporate ownership and this diffusion of 
+	ownership impedes effective corporate governance.
+
+--- Task 4
+Define the following terms in both English and Spanish. Add any unfamiliar terms to your personal dictionary.
+
+Terms
+	acquisition
+	arbitrageur
+	asymmetries
+	capital gains
+	CNBV (Comisión Nacional Bancaria y de Valores)
+	conglomerate
+	corporate takeover
+	derivatives
+	diversified portfolio
+	dividends
+	Dow Jones Industrial Average
+	economic efficiency
+	economic welfare
+	economy of scale
+	elasticities
+	going long
+	going short
+	Gross Domestic Product (GDP)
+	imperfect market competition
+	Initial Public Offering (IPO)
+	information asymmetries
+	liquidity
+	market indicator
+	market capitalization
+	market structure
+	monopolies
+	mutual funds
+	NASDAQ
+	oligopolies
+	partial correlation
+	perfect market competition
+	Price to Earnings Ratio (PER)
+	public offering
+	regulatory restrictions
+	relinquish
+	retained earnings
+	securities
+	Securities Exchange Commission (SEC)
+	share
+	sovereign risk
+	Standard & Poor’s 500
+	stocks (or equities)
+		blue chip stocks
+		defensive stocks
+		Environmental, social, and corporate governance (ESG) stocks
+		growth stocks
+		income stocks
+		Initial Public Offering (IPO) stocks
+		penny stocks
+		value stocks
+		preferred stocks				
+	stockholder
+	stockholder revolt
+	stock market (or exchange)
+	stock options 
+	turnover ratio
+######################################
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+	"Given a 10% chance of a 100 times payoff, you should take that bet every time." 
+			— Jeff Bezos
+
+
+---- Content
+######################
+Market Classifications 
+[rating scale 0 - 100]
+######################
+	Perfect Competition	<== 0
+		* There are large numbers of buyers and sellers, and each buys or sells only 
+		  a tiny fraction of the total quantity in the market
+		* Sellers offer a standardized product
+		* Sellers can easily enter into or exit from the market; minimal or no barriers
+		* Short-run profits
+
+
+	Monopoly <== 100 
+		* A monopoly firm is the only seller of a good or service with no (close) substitutes.
+		* The market in which the monopoly firm operates is called a monopoly market.
+		* Key concept: substitutability
+		* Substitute is truly a substitute? Substitute in the market?
+		* !Ojo! Different tastes and characteristics ==> different opinions about what is, and what is not, 
+		 a “close” substitute ==> people say " ... will accept no substitutes!"
+		* Long-run profits 
+		 
+		* A natural monopoly exists when, 
+			==> due to economies of scale, one firm can produce at a lower cost per unit than can other firms 
+			(w/o intervention)
+			
+		* Small local monopolies exist when 
+			==> goods/services available only at one place "... the only store in town" 
+		
+		* Large non-local monopolies exist when
+			==> there is control of supply ==> Al bauxite for aluminum cans
+			==> Govt sponsored (postal service)
+		
+	
+		
+	Imperfect Competition / Partial Monopoly <== 0 < x < 100
+	(Monopolistic Competition and Oligopoly)
+		* market structures somewhere between perfect competition and monopoly
+		* may be more than one seller, but too few to create a truly competitive market 
+		* may be differentiated products (cars, restaurants, etc); but not standardized products (Prozac)
+		* may be free entry and exit or barriers
+		* may be strategic interdependence; not independence
+		
+	
+NB
+Market classification (as above) is a function of the number of buyers/sellers at temporal scale and spatial scale
+(movies in your neighborhood; movies in CDMX; movies in the world))
+(movies in 1960; movies in 1990; movies in 2025)
+
+NB
+	==> In perfect competition, economic profit is (theoretically) "relentlessly" reduced to zero by the entry of other 
+	firms == short-term profits
+	==> in monopoly, economic profit can continue indefinitely == long-run profits
+
+
+############
+Stock Market
+Stock Exchange
+###########
+	* a collection of individual, perfectly competitive markets for particular corporations’ shares
+	
+	* A place where shares of joint stock corporations are bought and sold. Most modern stock markets no longer 
+	have a physical presence, but rather consist of connected computer networks.
+	
+	* A stock exchange is a marketplace for the buying and selling of shares, bonds and securities.
+	
+	* There are 60 major global stock exchanges that range in size and trading volume 
+	
+	* Top 10 stock exchanges 
+		
+   		New York Stock Exchange
+			The New York Stock Exchange’s market capitalisation was $23.12 trillion in March 2018 – this is nearly 40% 
+			of the total world stock market value. There are over 2400 companies listed on the New York Stock Exchange, 
+			which span sectors such as finance, healthcare, consumer goods and energy.
+			
+   		NASDAQ (National Association of Securities Dealers Automated Quotations)
+			The NASDAQ market capitalisation reached $10.93 trillion in March 2018, which places it as the second 
+			largest stock exchange. However, it has the largest market capitalisation of technology stocks 
+		
+   		Tokyo Stock Exchange
+			There are over 3575 companies listed on the Tokyo Stock Exchange, which has taken the TSE’s market 
+			capitalisation to $6.22 trillion as of March 2018. The Tokyo Stock Exchange’s benchmark index is 
+			the Nikkei 225
+			
+   		Shanghai Stock Exchange
+			Each stock listed on the SSE has ‘A’ shares that are priced in the local yuan currency, and ‘B’ shares that 
+			are quoted in US dollars. ‘A’ shares are for domestic investment only, with the exception of investors who 
+			qualify for the foreign investment scheme, while ‘B’ shares are available to both domestic and foreign 
+			investors.
+			
+			The Shanghai Stock Exchange’s market capitalisation reached $5.01 trillion in March 2018. Traders can track 
+			the performance of stocks listed on the Shanghai Stock Exchange using the SSE Composite index, also known 
+			as the Shanghai Composite. 
+    	
+		Hong Kong Stock Exchange
+			The Stock Exchange of Hong Kong is the third-largest stock exchange in Asia, and the fifth largest in the 
+			world with a market capitalisation of $4.46 trillion in March 2018. The Hong Kong Stock Exchange trades in 
+			Hong Kong Dollars (HKD), as the companies listed are primarily based in Hong Kong. There are 1955 companies 
+			listed on the Hong Kong Stock Exchange – a large portion of the Hong Kong Stock Exchange’s market c
+			apitalisation comes from its 20 largest stocks, which include AIA, Tencent Holdings and HSBC Holdings.
+			
+    	London Stock Exchange
+			The LSE is owned by the London Stock Exchange Group, which was created in 2007 when the LSE merged with the 
+			Borsa Italiana. It is the most international stock exchange, with over 3000 companies across 70 countries.
+
+			The market capitalisation of the London Stock Exchange was $4.38 trillion in March 2018. Traders can track 
+			the performance of the LSE, and its market capitalisation, with the Financial Times Stock Exchange Index 
+			100 Share Index, or FTSE 100.
+   		
+		Euronext
+			Euronext is the seventh largest stock exchange in the world, with a market capitalisation of $4.36 
+			trillion. Because the exchange includes several countries, there are 1300 listed companies and 30 stock 
+			indices that can be used to track its performance. However, the dominant stock index for Euronext-listed 
+			companies is the Euronext 100, which is made up of the largest and most liquid stocks on the Euronext Stock 
+			Exchange – including AXA, Christian Dior and Renault.
+		
+    	Shenzhen Stock Exchange
+			The Shenzhen Stock Exchange had a market capitalisation of $3.49 trillion in March 2018, which made it the 
+			eighth largest stock exchange in the world.
+			
+    	Toronto Stock Exchange
+			The TSX is the third-largest stock exchange in North America by market capitalisation, and the ninth 
+			largest in the world – in March 2018, the market capitalisation of the Toronto Stock Exchange was $2.29 
+			trillion. Some of the most significant companies listed on the Toronto Stock Exchange include the Royal 
+			Bank of Canada and Suncor Energy Inc. The top 100 companies on the TSX can be tracked using the S&P/TSX 
+			Composite Index
+			
+    	Deutsche Boerse
+			The market capitalisation of the Frankfurt Stock Exchange was $2.22 trillion in March 2018, which places it 
+			as the tenth largest stock exchange in the world. The companies listed on the Frankfurt Stock Exchange are 
+			primarily based in Germany and other countries that trade using the euro. The primary index used to track 
+			the performance of the Frankfurt Stock Exchange is the DAX – a blue-chip stock market index for the top 30 
+			companies on the FWB, which includes companies such as Adidas, BMW and E.ON.
+			
+			
+NB Market capitalization (market cap) represents the total value of a company's outstanding shares, calculated by multiplying the current market price per share by the total number of outstanding shares. It reflects the market's perception of a company's total equity value.		
+			
+			
+################################			
+BMV (Bolsa Mexicano de Valores)
+###############################
+
+	* The BMV is the second largest stock exchange in Latin America (after São Paulo) and the fifth largest stock 
+	exchange in the Americas
+	
+	* The BMV has 144 listed companies and a domestic market capitalization	459,708 million US
+						
+	* The IPC (Índice de Precios y Cotizaciones) is the main Mexican stock market performance index, a capitalization 
+	weighted index of the 35 leading companies traded on the BMV.
+
+	* The BMV is now a publicly traded company following its IPO in June 2008, and its shares are traded on the BMV 
+	equities market.
+
+
+##################
+Stock Markets vs.
+Economic Growth
+##################
+According to IG, a world-leading online trading provider that gives you access to opportunities across thousands of financial markets,
+
+	* "Stock exchanges can serve as a measure for the health of the national economy, and can also be a key indicator 
+	of world economic strength. This is because the growth of the financial market equates to higher standards of 
+	living and employment rates."
+
+
+#################################
+Complex Financial Instruments
+Traded in the Stock Market
+################################
+	* Derivatives
+		options and warrants
+		forwards
+		futures
+		CFDs (contract for difference)
+	
+	* Hybrid/Compound Instruments
+		convertible debt
+		debt with detachable warrants
+		perpetual debt
+
+
+NB. Securities are stocks and options.
+
+NB. Long positions and short positions refer to the securities an investor owns or securities an investor needs to own. 
+
+Long Position 
+	If an investor has a long position, it means that the investor has bought and owns securities, such as shares of 
+	stocks. For instance, an investor who owns 100 shares of Tesla stock in their portfolio is said to be long 100 
+	shares. This investor has paid for the shares in full. They will make money if the shares rise in value and they 
+	sell them for more than they paid.
+	
+	For options, an investor has a long position when they buy or hold a call or put option. That is, they own the 
+	right to buy or sell the security at a specified price
+
+
+Short Position
+	If the investor has a short position, it means that the investor sold shares of a stock [that they don't own!!] 
+	(and thus, owes them to some other investor who buys them), but does not actually own them yet. For instance, an 
+	investor who has sold 100 shares of Tesla without owning them is said to be short 100 shares. When the trade 
+	settles, the investor with the short position must fulfill their transaction obligation by purchasing the shares in 
+	the market so that they may deliver them. 
+
+	An investor has a short position when they sell (or write) a call or put option. They are obligated to sell or buy 
+	the shares.
+
+
+
+
+
+Exam---
+	This is a closed book exam; however, you may bring one (1) 8 in. x 11 in. ¨cheat sheet” to the exam
+
+
+Next time --
+Enforcing laws against market manipulation:
+	The Securities Exchange Commision (SEC)
+	The Comisión Nacional Bancaria y de Valores (CNBV)
+		Estudios de investigación de la CNBV
+		[https://www.gob.mx/cnbv/documentos/estudios-de-investigacion?idiom=es]
+
+
+
+
+
+--- Work time
+
+
+HW_06.1	[Due 13 Mar 2025]
+Perform the tasks listed below. The standard format applies with the tasks listed as major headings.
+
+--- Task 1 Read Hall and Lieberman, pp. 854-857. Answer questions in English:
+--- Task 2 Read "EXCERPT_WorldBank_StockMarket-vs-Economic-Development.txt" and translate the entire excerpt into Spanish.
+--- Task 3 Read i) "EXCERPT_China_StockMarket-vs-Economic-Development.txt", and ii) "EXCERPT_Mexco_StockMarket-vs-Economic-
+	Development.txt" and answer the following questions in English:
+--- Task 4 Define terms in both English and Spanish. Add any unfamiliar terms to your personal dictionary.
+
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set. The four (4) tutorial modules are¨
+	Python Syntax
+	Python Comments
+	Python Variables
+	Python Data Types
+	
+HW_05.1	[Due: 04 Mar 2025]	EXTRA CTREDIT!!
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+
+HW_04.2 [Due: 27 Feb 2025]
+Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728), very brief summary (English and Spanish) and answer questions:
+
+HW_04.1 [Due: 27 Feb 2025]
+Begin your personal translation dictionary. 
+
+
+
+
+
+
+-------Next
+

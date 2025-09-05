@@ -1,0 +1,139 @@
+							LESSON PLAN  (100 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Taller de Traducción Ingeniería y Adelantos Tecnológicos
+Curso:			IT0629 
+Licenciatura: 	Interpretación y  Traducción
+Horario:		Martes 15:00 – 19:00; Jueves 19:00 – 21:00
+Grupo:			6A
+
+
+
+#########################################
+HW_06.1	[Due: 11 Mar 2025]
+Perform the tasks listed below. The standard format applies with tasks listed as major headings.
+
+--- Task 1
+Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish
+
+--- Task 2
+Translate "EXCERPTS_P2_EPA_Guidance-for-SOPs.txt" into Spanish
+	
+--- Task 3z
+Translate "EXCERPTS_P3_EPA_Guidance-for-SOPs.txt" into Spanish.
+	
+
+--- Task 4
+Answer and/or summarize the following:
+	1. Define a Standard Operating Procedure (SOP).
+	2. Why are SOPs written? What is their purpose?
+	3. What are the organizational benefits from using SOPs?
+	4. Who should write SOPs?
+	5. What should be the technical level of an SOP? Why?
+	6. Who should review and approve SOPs?
+	7. How often should SOPs be revised?
+	8. What is document control?
+	9. How should SOPs be archived?
+
+--- Task 5
+Add any new words from Task 1 through Task 3 above to your dictionary. Terms and definitions should be in both English and Spanish.  The focus should be on technical terms and at a minimum must include the following:
+
+Terms
+	analytical method
+	archival
+	audits
+	bioassessment
+	calibration
+	certification
+	checklists
+	comparability
+	compliance
+	conformance
+	consistency
+	corrective action
+	criteria
+	credibility
+	cumbersome
+	degradation
+	deliverable
+	document status
+	document tracking
+	documentation
+	electronic submission
+	extraction
+	functional programmatic procedure
+	implementation
+	immunoassay
+	integrity
+	invalidation of results
+	legal defensibility
+	oversight
+	pertinent
+	procedure
+	programmatic
+	protocol
+	qualifications
+	Quality Assurance (QA)
+	Quality Control (QC)
+	QC limits
+	Quality Management Plan (QMP)
+	rationale
+	reconstructing
+	regulatory
+	repetitive
+	replicates
+	retrieval
+	rinsate
+	risk assessment
+	specimen
+	spikes
+	stakeholder “buy-in”
+	Standard Operating Procedure (SOP)
+	Total Quality Management (TQM)
+	troubleshooting
+	validation
+	variability
+#############################################
+
+
+#######
+Today
+#######
+---- Open
+
+
+
+---- Content
+
+Coming up---
+
+################################
+Los Alamos National Laboratory
+(LANL) SOPs
+##################################
+https://engstandards.lanl.gov/ESM_Chapters.shtml
+
+
+LANL ENGINEERING STANDARDS MANUAL (ESM), STD-342-100
+Ch.1-General 		
+Ch.2-Fire 	 	
+Ch.3-Civil 	 	
+Ch.4-Architectural 		
+Ch.5-Structural 	 	
+Ch.6-Mechanical 	 	
+Ch.7-Electrical 	 	
+Ch.8-I&C 
+Ch.9-Security
+Ch.10-Hazardous Process
+Ch.11-Radiation Protection 
+Ch.12-Nuclear
+Ch.13-Welding, Joining & NDETerms and definitions should be in both English and Spanish
+Ch.14-Sustainable Design
+Ch.15-Commissioning
+Ch.16-Building Code Program
+Ch.17-Pressure Safety
+Ch.18-Secure Communications
+Ch.19-Communications
+Ch.20-Systems Engineering
+Ch. 21-Software

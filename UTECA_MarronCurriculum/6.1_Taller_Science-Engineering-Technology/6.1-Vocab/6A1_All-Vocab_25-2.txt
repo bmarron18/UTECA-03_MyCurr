@@ -1,0 +1,352 @@
+
+###########
+All Vocab
+###########
+
+
+
+
+%%%%%	3P	%%%%%%%%%%%%%%%%%%%%
+
+	aberrations
+	ablation
+	agnosia
+	albeit
+	alleviate
+	analgesics
+	anomaly
+	antigen
+	autoimmune
+	autonomous
+	axon
+	bioengineering
+	bioinformatics
+	biomarker
+	blood-brain barrier
+	burgeoning
+	cardiovascular
+	chromatin
+	coherent
+	convergence
+	corpus
+	CRISPR
+	decoupling
+	deleterious
+	diagnostic
+	discretized
+	eigenstate
+	entanglement
+	en vitro
+	epidemiologist
+	epigenetic
+	exobrain
+	extrapolation
+	fMRI
+	genome
+	Hamiltonian
+	harbinger
+	holistic
+	homeostasis
+	homology
+	immunology
+	lattice
+	lymphatic
+	meticulously
+	mitosis
+	nanoengineering
+	necrotic
+	neurophysiology
+	non-linear
+	parameters
+	pathogens
+	photon
+	progenitor
+	proliferation
+	prosthetic
+	quantum
+	quantum computer
+	spectroscopic
+	state-of-the-art
+	stochastic
+	superconductor
+	synergistic
+	synthesis
+	vascular
+
+
+	actuator
+	ad-hoc
+	algorithm
+	anions
+	autonomous
+	attenuation
+	backscatter communication
+	bandwidth
+	beamformimg
+	big data analytics
+	biosensors
+	blockchain
+	cations
+	cell-free communications
+	channel capacity
+	converge
+	cost-effective
+	cryptography
+	cyber-attacks
+	cybersecurity
+	dataset
+	decentralized
+	demodulation
+	deployment
+	diffusion
+	disengage
+	disruptive
+	dynamic network slicing
+	embedded
+	erogeneity
+	far-infrared
+	fidelity
+	free-space optical network
+	gadgets
+	hologram
+	holographic beamforming
+	illegitimate
+	immutability
+	impedance
+	incentivize
+	indispensable
+	infeasible
+	infrastructure
+	intelligent reflecting surface
+	interface
+	interference
+	interoperability
+	intrinsically
+	legacy
+	latency
+	machine-learning
+	malicious
+	MIMO
+	modulation
+	multiplexing
+	mandatorily
+	nanoscale
+	optimization
+	pharmaceutical
+	photodetector
+	polysomnography
+	proliferate
+	propagation
+	protocols
+	quantum communications
+	relays
+	sabotage
+	scalable
+	self-optimization
+	superimposing
+	surveillance
+	synergistic
+	three-dimensional networking
+	virtualization
+	wireless optical technology
+
+
+	ABOCINADO
+	ABRAZADERA
+	ACARREOS
+	ACEITADO
+	AMPERES
+	ARANDELA
+	ASBESTOS
+	AUTOCAD
+	BARRENOS
+	BASTIDOR
+	CANALIZACIÓN
+	CERRADURA
+	COLGANTEO
+	CONDUCTOR
+	CONDUIT
+	CONDUMEX
+	CORTAFUEGO
+	DESMONTABLES
+	DIELÉCTRICO
+	DUCTO
+	ELECTROMECÁNICA
+	ELECTROSOLDADA
+	ELECTROSTÁTICA
+	ELECTROZINCADO
+	EMPALMES
+	ESMALTE
+	ESTRATIFICADO
+	EXOTÉRMICA
+	GALVANIZADA
+	HALOGENO
+	HIDRÁULICO
+	IMPERMEABILIZANTE
+	INTERRUPTOR
+	JUMPER
+	LAMINADO
+	LOSA
+	LOTE
+	MONOMODO
+	MULTIMODO
+	PLETINA
+	POLICLORURO
+	POLIETILENO
+	POLIMÉRICO
+	RANURADA
+	RECTIFICACIÓN
+	RIEL
+	SOLDADURA
+	SOLERA DE HORMIGÓN
+	SOLVENTES
+	SUBESTACIÓN
+	TERMOFUSIÓN,
+	TERMOMAGNÉTICO
+	TEZONTLE
+	VINILO
+
+POC				Point of Contact
+Clarify			To make a document understandable and free from confusion.
+Interpret		To formally provide an acceptable method of compliance
+Variance		A deviation from the explicit expectations; an exception.
+Equivalency		An alternate method; alternatives to how a requirement in a directive is
+				fulfilled in cases where the ”how” is specified. These represent an acceptable alternative 
+				approach to achieving the goal of the directive.
+BMP				Best management practice
+GIS				Geographic Information System
+UTM				Universal Transverse Mercator
+LEED			Leadership in Energy and Environmental Design					
+
+
+3-wire, 60 Hertz (Hz)
+amps
+benchmark
+bollards
+cast-in-place
+centerline
+circuit breaker
+cisterns
+coagulation chemicals
+cohesiveness
+culverts
+downspouts
+drainpipe
+duct
+ductwork
+dust-free
+electrical circuit
+erosion
+evapotranspiration
+facade
+fenestration
+floodplains
+HVAC system
+geodynamics
+glazing
+gradient
+green roofs
+guidelines
+gutters
+hardscape
+hardscape surfaces
+hot-mix asphalt
+hydrants
+hydrology
+impervious
+infiltrate
+infrastructure
+intrusions
+kilowatt (kW)
+nominal
+non-potable water
+outlets
+parapeted
+photoelectric detector
+porous
+radioactive
+reforestation
+revegetation
+right-of-way
+riparian buffers
+seismic control
+sewer
+site-specific
+submittals
+surge protection
+surveying
+swales
+transformer
+trellises
+utilities
+voltage
+walkways
+watershed
+
+
+%%%%%	2P	%%%%%%%%%%%%%%%%%%%%
+Terms
+	analytical method
+	archival
+	audits
+	bioassessment
+	calibration
+	certification
+	checklists
+	comparability
+	compliance
+	conformance
+	consistency
+	corrective action
+	criteria
+	credibility
+	cumbersome
+	degradation
+	deliverable
+	document status
+	document tracking
+	documentation
+	electronic submission
+	extraction
+	functional programmatic procedure
+	implementation
+	immunoassay
+	integrity
+	invalidation of results
+	legal defensibility
+	oversight
+	pertinent
+	procedure
+	programmatic
+	protocol
+	qualifications
+	Quality Assurance (QA)
+	Quality Control (QC)
+	QC limits
+	Quality Management Plan (QMP)
+	rationale
+	reconstructing
+	regulatory
+	repetitive
+	replicates
+	retrieval
+	rinsate
+	risk assessment
+	specimen
+	spikes
+	stakeholder “buy-in”
+	Standard Operating Procedure (SOP)
+	Total Quality Management (TQM)
+	troubleshooting
+	validation
+	variability
+
+
+%%%%%	1P	%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+

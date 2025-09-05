@@ -1,0 +1,90 @@
+
+###########
+All HW
+###########
+
+####
+3P
+######
+
+HW_09.1	[Due: 01 Apr 2025]
+--- Task 1 
+Read/Scan:
+6G_Wireless1.pdf 
+6G_Wireless2.pdf 
+
+--- Task 2
+Translate:
+Translate the Abstract and the Introduction of 6G_Wireless1.pdf into Spanish
+Translate the Abstract and Section II.A (What Should 6G Be?) of 6G_Wireless2.pdf into Spanish.
+
+--- Task 3
+Critique:
+Assuming that the descriptions and predictions of the 6G world come to pass, is this a world you want to live in? That is, highlight some of the advantages and disadvantages of a such a world. Do have ethical, moral, or other concerns about this world?
+
+--- Task 4
+Vocab:
+Define 76 terms in both Spanish and English.
+
+
+
+HW_08.1	[Due: 25 Mar 2025]
+--- Task 1 
+Translate two RFP documents from the CFE into English. The documents form part of the RFP issued by the CFE in March 2025  (CFE-0104-CACON-0030-2025). 
+--- Task 2 
+Define terms (56)below in both Spanish and English. 
+
+
+HW_07.1	[Due: 18 Mar 2025]
+Scan five Standard Operating Procedure (SOP) documents (1a-1c): For each SOP, do the following:
+	1. Extract the title and the basic outline headings from the first two tiers of the outline
+	2. Translate the outline headings into Spanish.
+	
+HW_07.12 [Due: 18 Mar 2025]
+	Provide definitions of (78) terms below in Spanish and English. 
+
+
+
+####
+2P
+####
+HW_06.1	[Due: 11 Mar 2025]
+Perform the tasks listed below. The standard format applies with tasks listed as major headings.
+	Translate the following text document into Spanish: EXCERPTS_P1_EPA_Guidance-for-SOPs.txt
+	Translate the following text document into Spanish: EXCERPTS_P2_EPA_Guidance-for-SOPs.txt
+	Translate the following text document into Spanish: EXCERPTS_P3_EPA_Guidance-for-SOPs.txt
+	Answer and/or summarize questions
+	Terms and definitions in both English and Spanish
+	
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows (Mac)
+	
+####
+1P
+####
+HW_03.1 [Due: 4 Feb 2025] 
+	Normal science vs wicked problems
+
+HW_02.2 [Due: 28 Jan 2025] 
+	fr. St Mary's Overview of Kuhn, translate part B.
+
+HW_02.1 [Due: 23 Jan 2025]
+	Read Chap. III Kuhn3-5 main points share out
+
+HW_01.2 [Due: 21 Jan 2025]
+	excerpts from Picon's paper
+
+HW_01.1 [Due: 21 Jan 2025]
+	two (2) fields of engineering
+	
+	

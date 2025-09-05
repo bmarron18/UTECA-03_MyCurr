@@ -1,0 +1,362 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Económica y Mercados Bursátiles
+Curso:			IT0524
+Licenciatura: 	Interpretación y Traduccíon
+Horario:		Jueves 11:00 – 14:00	(11:00 - 13:30)
+Grupo:			5C
+
+
+
+
+######################################
+HW_09.1	[DUE 10 Apr 2025]
+
+Use the standard format EXCEPT for double-spaced text: text should be single-spaced. 
+If possible, print your assignment double-sided or duplex.
+All materials for the assignment are in Class Materials >> ContentDocs_3P >> Journal_Articles
+
+---Task 1
+Read/Scan the following documents:
+	a) "Economic structures, institutions and economic performance".pdf
+	b) "Bitcoin as a financial asset: a survey".pdf
+	c) "On Debt and climate".pdf
+	
+--- Task 2
+Translate into Spanish:
+	i)   The Abstract, and the first five (5) paragraphs of the Intro from Document a) in Task 1
+	ii)  The Abstract, the first parargraph of the Intro, and the Conclusions from Document b) 
+	in Task 1
+	iii) The Abstract, the first five (5) paragraphs of the Introduction, and the Conclusion from 
+	Document c) in Task 1
+
+--- Task 3
+Provide definitions in English and Spanish for the vocab below. Add any new terms to your dictionary.
+Vocab (66):
+	accumulation
+	adaptive market hypothesis
+	affiliation
+	allocation
+	appraisal
+	arbitrage
+	asymmetric tail dependence
+	austerity measures
+	bearish market
+	benchmark
+	bibliometrics
+	black-market
+	blockchain
+	bullish market
+	carbon offsets
+	carbon sequestration
+	causality institutions (economics)
+	CBOE Volatility Index (VIX)
+	Consumer Price Index (CPI)
+	cryptocurrency
+	debt-for-nature swaps
+	debt restructuring
+	debunking
+	“Dutch Disease” 
+	Economic Policy Uncertainty (EPU) index
+	economic structure
+	ecosystem services
+	endogenous
+	entropy (information theory)
+	Environmental, Social, Governance (ESG) issues
+	Emissions Trading Systems (ETS) ("cap-and-trade" systems)
+	Exchange-Traded Fund (ETF)
+	externality
+	FIRE economy
+	forecast curve fitting
+	Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) models
+	Granger causality
+	green bonds
+	heteroskedasticity
+	hard commodities
+	hedging
+	implied volatility estimation
+	incentivize
+	inefficient market
+	International Monetary Fund (IMF)
+	Keynesian "pump priming"
+	multifractal
+	natural capital
+	neural network
+	OECD
+	proxy
+	regression analysis
+	rent-seeking behavior
+	rigidities (economics)
+	robust
+	safe-haven asset
+	scalability
+	shocks (economics)
+	soft commodities
+	speculation (economics)
+	spillover effect
+	stochastic
+	straddling (economics)
+	sustainability-linked bonds (SLBs)
+	tail events
+	"tragedy of the commons"
+	
+######################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+	*3P
+	*Final and wrap up
+
+
+%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+---- 	REVIEW	-------------------------------------------------
+
+*	3P exam and last HW
+*	take-home final
+
+
+----	NEW	--------------------
+
+################
+Economic Reports
+and Papers
+################
+
+Open Access journals...
+
+
+
+The Journal of Economic Structures
+https://www.springeropen.com/journals
+
+**Economic structures, institutions and economic performance
+	*Mexico’s economic infrastructure: international benchmark and its impact on growth
+	*The role of intermediate inputs in a multisectoral balance‐of‐payments‐constrained growth model: the 
+	case of Mexico
+
+
+Financial Innovation (FIN)
+https://www.springeropen.com/journals
+	**Bitcoin as a financial asset: a survey
+		 Bitcoin faces ESG-related challenges, such as energy consumption due to mining and its use in 
+		 illicit activities
+		 
+		 Bitcoin exhibits characteristics of a safe-haven asset due to its asymmetric tail dependence 
+		 and negative correlation within certain asset classes
+
+
+Oxford Open Economics
+https://academic.oup.com/ooec
+
+**On Debt and climate
+	*Potterian economics
+
+
+
+###################
+Consulting:
+Clients, Transmittals, and Deliverables
+####################
+
+Marron's Rules for Consultants
+-------------------------------
+	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every 
+	document with the word, DRAFT and state in the transmittal that the draft was per client request)
+
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT 
+	EVERYTHING!)
+	
+	3. Archive, Archive, Archive!
+	
+	4. Be real but absolutely professional AT ALL TIMES.
+	
+	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+
+
+
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
+
+
+The transmittal letter:
+	+ a formal cover letter that accompanies a larger document or package, introducing the document and 
+	providing context or instructions for the recipient
+	
+	+ standard business letter format, with a clear and concise tone
+	
+	+ explanations, instructions, new info (as needed)
+	
+	+ "Do not hesitate to call..." statement
+	
+	+ "thank you (appreciation)" statement (as appropriate)
+
+
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
+	+ Attached to transmittal letter or drive address to files
+
+
+
+
+
+--- Work time
+
+Herbert Simon "Science of the Artifical"
+Thomas Schelling agent-based modelinhg
+Kenneth Arrowś Impossibility Theorem
+no democratic voting system can perfectly aggregate individual preferences into a collective preference while simultaneously satisfying certain desirable fairness criteria, 
+
+
+Adaptive Market Hypothesis (AMH) 
+is a theory that financial markets are governed by evolutionary principles, suggesting that market efficiency varies over time as investors learn, adapt, and innovate, reconciling rational behavior with periods of irrationality
+
+Asymmetric tail dependence
+a situation where the dependence between two variables in their extreme (tail) values is stronger when one variable is in the upper tail (positive extreme) compared to when it's in the lower tail (negative extreme), or vice versa
+
+bullish market
+represented by rising stock prices of various securities in the market, especially equity instruments. Growth of at least 20% or more has to be registered by several stock exchanges in terms of trade volume and purchases to be categorised as a bull market
+
+causality institutions (economics)
+explores whether institutions (like legal frameworks, social norms, and organizations) are the cause of economic outcomes (like growth, development, or inequality), or if economic conditions themselves shape institution
+
+CBOE Volatility Index (VIX)
+VIX is the ticker symbol and the popular name for the Chicago Board Options Exchange's CBOE Volatility Index, a popular measure of the stock market's expectation of volatility based on S&P 500 index options
+
+Consumer Price Index (CPI)
+a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.
+
+“Dutch Disease” 
+an economic phenomenon where a sudden influx of income from a specific sector, like resource extraction, leads to a decline in other sectors, potentially causing overall economic problems
+[David Ricardo --- specializing in producing goods where they have a comparative advantage, even if they are less efficient at producing all goods than other countries]
+
+Economic Policy Uncertainty (EPU) index
+an index constructed based on newspaper articles regarding policy uncertainty from leading newspapers. It counts the number of newspaper articles containing the terms uncertain or uncertainty, economic or economy, and one or more policy-relevant terms
+
+OECD
+Organisation for Economic Co-operation and Development
+
+Granger causality
+a statistical concept that determines if one time series can be used to predict the future values of another, meaning if past values of one variable improve the forecasting of anothe
+
+heteroskedasticity 
+a situation where the variance of the error term in a regression model is not constant across all observations, meaning the spread of the residuals varies
+
+rent seeking behavior
+activities where individuals or entities use their resources to gain wealth or advantages without creating new wealth or value for society, often through political or regulatory means
+
+rigidities
+situations where prices and wages are slow to adjust to changes in economic conditions, either due to nominal or real factors, impacting macroeconomic stability and market equilibrium
+
+spillover effect
+(also known as an externality) describes the unintended consequences or impacts of an economic activity on parties not directly involved, which can be either positive or negative
+
+stochastic
+randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely.
+
+straddling (economics)
+a situation where an economic entity, such as a business or individual, is positioned in a way that allows them to benefit from or navigate multiple, potentially conflicting, economic conditions or markets. 
+
+
+####
+3P
+####
+HW_09.1	[DUE 10 Apr 2025]
+---Task 1
+Read/Scan:
+	a) "Economic structures, institutions and economic performance".pdf
+	b) "Bitcoin as a financial asset: a survey".pdf
+	c) "On Debt and climate".pdf
+--- Task 2
+Translate into Spanish:
+	i)   The Abstract, and the first four (4) paragraphs of the Intro a)
+	ii)  The Abstract, first three (3) parargraphs of the Intro, and the Conclusions from b)
+	iii) The Abstract, the Introduction, and the Conclusion from c)
+--- Task 3
+Provide definitions in English and Spanish. Add any new terms to your dictionary.
+Vocab (66):
+
+
+HW_08.1	[Due 03 Apr 2025]
+--- Task 1 From the document, 1f_CKD_Prospectus_2.pdf, TRANSLATE i) Section 2 (La Oferta), ii) Section 2.1 (Características de los Valores), and iii) Section 2.2 (Destino de los Fondos) into English. 
+	Challenge: Can you describe how this program of CKDs is set up?
+--- Task 2 Define terms (13) in Spanish and English
+--- Task 3 Translate the Executive Summary (pp. 8 -10) from tGrupo Modelo's annual report to the BMV (2c_GrupoModelo_AnnualReport_toBMV.pdf) into English
+
+
+HW_07.2	[Due 20 Mar 2025]
+	Read the document, "1b_Instrumentos-SHCP-BVM.pdf" and define the terms below in Spanish and in English (25)
+
+HW_07.1	[Due 20 Mar 2025]
+	Read Ley del Mercado de Valores, Artículos 1-3, 61-64 and provide definitions (Spanish and English) for the terms 
+	(25)
+
+####
+2P
+####
+HW_06.1	[Due 13 Mar 2025]
+--- Task 1
+Read Hall and Lieberman, pp. 854-857. Answer questions in English
+--- Task 2
+Read "EXCERPT_WorldBank_StockMarket-vs-Economic-Development.txt" and translate the entire excerpt into Spanish.
+--- Task 3
+Read i) "EXCERPT_China_StockMarket-vs-Economic-Development.txt", and ii) "EXCERPT_Mexco_StockMarket-vs-Economic-
+Development.txt" and answer questions
+--- Task 4
+Define economic terms in both English and Spanish (56)
+
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+	Complete the Python script, "HW_05.2.py" 
+	
+HW_05.1	[Due: 04 Mar 2025]	EXTRA CTREDIT!!
+	Write How-To Guides in Spanish for 
+		1) Creating a Google Cloud Account and creating a project
+		2) Installation of Spyder on Windows/Mac
+	
+HW_04.2 [Due: 27 Feb 2025]
+	Read Hall and Lieberman, BANK FAILURES AND BANKING PANICS (pp 725-728), very brief summary (English and Spanish) and 
+	answer questions
+
+HW_04.1 [Due: 27 Feb 2025]
+	Begin your personal translation dictionary. 
+
+
+####
+1P
+####
+HW_03.1  [Due: 6 Feb 2025] 
+	Ley del Banco de México	
+
+HW_02.2  [Due: 30 Jan 2025] 
+	Critique the axioms/theorems/corollaries of standard econ
+
+HW_02.1  [Due: 30 Jan 2025] 
+	Summary Nelson's, "Chapter 1: An Overview of Economics"
+
+HW_01.1  [Due: 23 Jan 2025] 
+	Fields of econ and investing
+	
+
+
+
+
+
+
+
+

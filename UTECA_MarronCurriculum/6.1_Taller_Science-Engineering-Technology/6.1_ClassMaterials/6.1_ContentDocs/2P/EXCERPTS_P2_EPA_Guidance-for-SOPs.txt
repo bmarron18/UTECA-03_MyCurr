@@ -1,0 +1,98 @@
+
+#####################################################
+ENVIRONMENTAL PROTECTION AGENCY (EPA)
+GUIDANCE FOR PREPARING STANDARD OPERATING PROCEDURES
+######################################################
+2.0	SOP PROCESS
+
+2.1	SOP Preparation
+The organization should have a procedure in place for determining what procedures or
+processes need to be documented. Those SOPs should then be written by individuals
+knowledgeable with the activity and the organization's internal structure. These individuals are
+essentially subject-matter experts who actually perform the work or use the process. A team
+approach can be followed, especially for multi-tasked processes where the experiences of a
+number of individuals are critical, which also promotes “buy-in” from potential users of the SOP.
+
+SOPs should be written with sufficient detail so that someone with limited experience
+with or knowledge of the procedure, but with a basic understanding, can successfully reproduce
+the procedure when unsupervised. The experience requirement for performing an activity should
+be noted in the section on personnel qualifications. For example, if a basic chemistry or
+biological course experience or additional training is required that requirement should be
+indicated.
+
+2.2 SOP Review and Approval
+SOPs should be reviewed (that is, validated) by one or more individuals with appropriate
+training and experience with the process. It is especially helpful if draft SOPs are actually tested
+by individuals other than the original writer before the SOPs are finalized.
+
+The finalized SOPs should be approved as described in the organization’s Quality
+Management Plan or its own SOP for preparation of SOPs. Generally the immediate supervisor,
+such as a section or branch chief, and the organization’s quality assurance officer review and
+approve each SOP. Signature approval indicates that an SOP has been both reviewed and
+approved by management. As per the Government Paperwork Elimination Act of 1998, use of
+electronic signatures, as well as electronic maintenance and submission, is an acceptable
+substitution for paper, when practical.
+
+2.3 Frequency of Revisions and Reviews
+SOPs need to remain current to be useful. Therefore, whenever procedures are changed,
+SOPs should be updated and re-approved. If desired, modify only the pertinent section of an
+SOP and indicate the change date/revision number for that section in the Table of Contents and
+the document control notation.
+
+SOPs should be also systematically reviewed on a periodic basis, e.g. every 1-2 years, to
+ensure that the policies and procedures remain current and appropriate, or to determine whether
+the SOPs are even needed. The review date should be added to each SOP that has been
+reviewed. If an SOP describes a process that is no longer followed, it should be withdrawn from
+the current file and archived.
+
+The review process should not be overly cumbersome to encourage timely review. The
+frequency of review should be indicated by management in the organization’s Quality Management Plan. That plan should also indicate the individual(s) responsible for ensuring that SOPs are current.
+
+2.4 Checklists
+Many activities use checklists to ensure that steps are followed in order. Checklists are
+also used to document completed actions. Any checklists or forms included as part of an activity
+should be referenced at the points in the procedure where they are to be used and then attached to
+the SOP.
+
+In some cases, detailed checklists are prepared specifically for a given activity. In those
+cases, the SOP should describe, at least generally, how the checklist is to be prepared, or on what
+it is to be based. Copies of specific checklists should be then maintained in the file with the
+activity results and/or with the SOP.
+
+Remember that the checklist is not the SOP, but a part of the SOP.
+
+2.5 Document Control
+Each organization should develop a numbering system to systematically identify and
+label their SOPs, and the document control should be described in its Quality Management Plan.
+Generally, each page of an SOP should have control documentation notation, similar to that
+illustrated below. A short title and identification (ID) number can serve as a reference
+designation. The revision number and date are very useful in identifying the SOP in use when
+reviewing historical data and is critical when the need for evidentiary records is involved and
+when the activity is being reviewed. When the number of pages is indicated, the user can
+quickly check if the SOP is complete. Generally this type of document control notation is
+located in the upper right-hand corner of each document page following the title page.
+
+													Short Title/ID #
+													Rev. #:
+													Date:
+													Page 1 of
+
+
+2.6 SOP Document Tracking and Archival
+The organization should maintain a master list of all SOPs. This file or database should
+indicate the SOP number, version number, date of issuance, title, author, status, organizational
+division, branch, section, and any historical information regarding past versions. The QA
+Manager (or designee) is generally the individual responsible for maintaining a file listing all
+current quality-related SOPs used within the organization. If an electronic database is used,
+automatic “Review SOP” notices can be sent. Note that this list may be used also when audits
+are being considered or when questions are raised as to practices being followed within the organization.
+
+
+As noted above in Section 2.3, the Quality Management Plan should indicate the
+individual(s) responsible for assuring that only the current version is used. That plan should also
+designated where, and how, outdated versions are to be maintained or archived in a manner to
+prevent their continued use, as well as to be available for historical data review.
+
+Electronic storage and retrieval mechanisms are usually easier to access than a hard-copy
+document format. For the user, electronic access can be limited to a read-only format, thereby
+protecting against unauthorized changes made to the document.

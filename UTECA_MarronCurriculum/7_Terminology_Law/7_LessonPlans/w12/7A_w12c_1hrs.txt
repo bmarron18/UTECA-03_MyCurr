@@ -1,0 +1,148 @@
+							LESSON PLAN  (50 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-2
+Materia: 		Terminología Especializada en Documentos Jurídicos
+Curso:			IT0733
+Licenciatura: 	Interpretación y Traducción
+Horario:		Martes 19:00 – 20:00, Miércoles 17:00 – 18:00, Jueves 15:00 – 16:00
+Grupo:			7A
+
+######################
+HW_09.1	[Due: 01 Apr 2025]
+The standard format applies to all tasks EXCEPT for double-spacing of text. 
+If possible, please print your assignment double-sided or duplex.
+
+--- Task 1
+Read/Scan:
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] 
+	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
+
+--- Task 2
+Answer Questions:
+	Answer Qs #1 - #33 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf in English
+
+--- Task 3
+Translate:
+	Translate pp 2-7 CFE_ModeloContrato.pdf into English
+
+##################################
+
+
+
+#########
+Today
+#########
+
+
+
+---- Open 
+
+
+%%%%%%%%%	Content %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+---- Review
+
+
+--- NEW
+
+
+
+---- Coming Up
+#####################
+Intĺ Law 
+#####################
+Open Access Journals.........
+	International Journal of Law in Context (Cambridge)
+	https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
+		+ Vulnerabilitys-legal-life-an-ambivalent-force-of-migration-governance.pdf
+
+	International Journal of Law
+	https://www.lawjournals.org/
+
+
+
+
+
+------ Work time
+####
+3P
+####
+HW_09.1	[Due: 01 Apr 2025]
+--- Task 1
+Read/Scan:
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] 
+	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
+--- Task 2
+Answer Questions:
+	Answer Qs #1 - #33 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf in English
+--- Task 3
+Translate:
+	Translate pp 2-7 CFE_ModeloContrato.pdf into English
+
+
+HW_08.1	[Due: 25 Mar 2025]
+--- Task 1. Investigate the concept of "prueba" (proof) as pieces of admissible evidence from experts. Translate six (6) "teses aisladas" into English:
+--- Task 2 Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf and answer two questions
+--- Task 3 Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN. Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. 
+---- Task 4  Define nine legal terms in English and Spanish.
+--- Task 5 Explain the difference between "tesis aislada" and "jurisprudencia" in English.
+
+
+HW_07.1	[Due: 18 Mar 2025]
+--- Task 1
+Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
+
+--- Task 2
+Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
+both English and Spanish (39)
+
+
+####
+2P
+####
+HW_06.1	[Due: 11 Mar 2025]
+--- Task 1
+	Translate the following into English : EXCERPTS_P1_Que-hace-la-SCJN.txt 
+--- Task 2
+	Answer six Questions on the Supreme Corte (SCJN)
+--- Task 3
+	Define 17 legal terms in English and Spanish
+
+HW_05.2 [Due: 04 Mar 2025] EXTRA CREDIT!!
+Complete the Python script, "HW_05.2.py" by filling it with the code snoppets from four (4) tutorial modules in the W3 Schools Python Tutorial set
+
+HW_05.1	[Due: 04 Mar 2025] EXTRA CREDIT!!
+Write How-To Guides in Spanish for 
+	1) Creating a Google Cloud Account and creating a project
+	2) Installation of Spyder on Windows/Mac
+	
+HW_04.1	[Due: 25 Feb 2025]	EXTRA CREDIT!!!
+Write How-To Guides in Spanish for 
+	1) Installation of Notepad++ on Windows
+	2) Setting up a GitHub account, obtaining a security token, and creating a repository
+	3) Installation of Git on Windows/Mac
+
+
+####
+1P
+####
+
+HW
+	Study Guide
+
+HW_03.2	[Due: 5 Feb 2025] 
+	civil law topic; outline structure and translate Articles
+
+HW_03.1	[Due: 4 Feb 2025] 
+	civil law topic; trace the changes through the D.O.F
+
+HW_02.2	[Due: 29 Jan 2025] 
+	civil vs. common law report
+
+HW_02.1	[Due: 28 Jan 2025] 
+	summary Grossfield's, "Language and the Law.
+
+HW_01.1	[Due: 22 Jan 2025] 
+	report on two fields of law
