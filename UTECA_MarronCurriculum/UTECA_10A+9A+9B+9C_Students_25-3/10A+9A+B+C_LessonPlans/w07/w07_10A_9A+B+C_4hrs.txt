@@ -1,0 +1,243 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9A+B+C
+
+
+#####################
+HW_07 [Due: 24 Jun 2025]	<== 9A+B+C (6:40 PM Meeting ended: 43m 23s)
+HW_07 [Due: 26 Jun 2025]	<== 10A
+
+
+--- Task 1
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and very briefly explain how the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first seven (7) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short; in one case just a single line.
+
+--- Task 2
+Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Development" and answer the following questions,
+	1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one kind or another. List three (3) broad categories of unfreedoms.
+	2. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
+	3. According to Sen, what are the five (5) distinct types of freedoms and why are they synergistic? 
+	4. Does Sen commend or chastise the role of markets?
+
+
+--- Task 3
+Read Chapter 3 and Chapter 4 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for Chapter 3 and five (5) questions from the list of questions for Chapter 4. See the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt" for the list of questions for each chapter. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+"It is true that SpaceX is partially a government contractor, but it would be unfair to say that SpaceX is entirely a government contractor.
+		--- Elon Musk
+
+
+The welfare of the people in particular has always been the alibi of tyrants.
+		--- Albert Camus 
+		(French philosopher, author, dramatist, journalist, world federalist, political 
+		activist. 1957 Nobel Prize in Literature)
+
+
+"If the people cannot trust their government to do the job for which it exists - to protect them and to promote their common welfare - all else is lost."
+		--- Barack Obama (44th President of the USA)
+
+
+Excellence of critiques
+Hold HW until tomorrow
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+--- Review
+
+--- New
+
+** Legal Docs 2
+Work in the Real World: Intro to RFPs
+
+RFP (Request for Proposal)
+		a formal document used to solicit detailed proposals from potential vendors for complex goods or 
+		services, allowing them to showcase their expertise and approach alongside pricing. RFPs are 
+		used when the buyer needs a more detailed proposal outlining how a vendor would approach 
+		fulfilling their needs. An RFP typically outlines the project scope, requirements, evaluation 
+		criteria, and timeline for proposals. Vendors respond with a proposal.
+
+Examples
+	Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico
+	UNHCR_RFP-MEX-2020-206
+	DEQ_RFQforPlatformSecurityTesting_Final_ 20200331
+	CFE_01 Convocatoria CACON 0030 2025
+	CFE_02 Pliego de Requisitos CACON 0030 2025
+	
+		
+	
+** Economics Docs 2
+Recall--
+*Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
+	**Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they 
+	are constrained by the resources they control.
+		***Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
+		more or less resources under their control than others.
+
+
+What is freedom?
+What is opportunity?
+What is development?
+What is welfare?
+What is agency?
+What is the role of government?
+
+
+Social democracies vs Other Democracies
+	Sweden, Norway, Denmark, The Netherlands, Canada
+					vs
+	England, France, USA, Mexico, Germany
+
+
+Sen, "Development as Freedom"
+	Nobel Banquet Speech
+		https://www.nobelprize.org/prizes/economic-sciences/1998/sen/speech/
+
+	
+
+Silent Reading
+	Preface
+	inter alia (among other things)
+
+
+
+Sen big ideas
+		==> free and sustainable agency as a major engine of development
+		==> Freedoms are not only the primary ends of development, 
+		they are also among its principal means
+		==> there are mutually reinforcing connections between the freedoms of different kinds
+		
+		
+Sen defines "unfreedoms"
+			economic poverty (no food, water, clothing, shelter, money)
+			lack of public facilities and social care (no health, education, security)
+			lack of political and civil liberties (restrictions on social, political and economic life)
+		
+Sen states that what people can positively achieve is influenced by substantive freedoms.
+Substantive freedoms are:
+	economic opportunities
+	political liberties
+	social powers
+	good health
+	basic education
+	encouragement and cultivation of initiatives
+	liberty to participate in social choice
+	liberty to participate in the making of public decisions
+	
+Five distinct types of freedom, seen in an "instrumental" perspective:
+	(1) political freedoms
+	(2) economic facilities
+	(3) social opportunities
+	(4) transparency guarantees
+	{5) protective security
+
+
+
+** More Murphy's English Grammar in Use
+	Unit			Pg 
+	137				p 274		Phrasal Verbs 1
+
+
+** Bless Me, Ultima
+https://www.singulart.com/blog/es/2023/11/09/obras-famosas-de-ansel-adams/?srsltid=AfmBOooGDh0NOdxN2BNwhYpLjhwyGvLud-nry6AFI65kasIS8wLuUdGr
+
+Review Chapter 1, Chapter 2
+	Rapid highlights from the book
+		Ultima came to stay with us the summer I was almost seven.
+		My mother was not a woman of the llano, she was the daughter of a farmer.
+		"And the children?" my father asked.
+		In my dream I flew over the rolling hills of the llano
+		"Is it true she is a witch?" Deborah asked.
+		"Antonio," she smiled.
+		And with Ultima came the owl.
+		
+		Dos
+		My father's dream was to gather his sons
+		"Ay que Lupito," he shook his head, "the war made him crazy
+		What I saw made my blood run cold.
+		"We have to kill him!" Jas6n's father shouted
+		"Marez is right!" I heard a booming voice on the bridge
+		"Hey Lupito! It is me, Narciso.
+		I had started praying to myself from the moment I heard the first shot,
+		The men of the town had murdered Lupito.
+		
+		
+		
+	Class reads answers to their questions
+
+Characters----
+Antonio Márez
+Gabriel Márez
+María Luna Márez
+Andrew, Eugene, and León Márez
+Deborah and Theresa Márez
+Ultima
+Prudencio Luna and his sons
+
+Narciso
+Lupito
+Tenorio Trementina and his three daughters
+Cico
+Florence
+Samuel
+Abel, Bones, Ernie, Horse, Lloyd, Red, and the Vitamin Kid
+
+Rosie
+Miss Maestas
+Miss Violet
+
+
+
+
+--- Coming up
+
+** Legal Docs 2
+	Contracts
+
+** Economics Docs 2
+	Herman Daly
+	
+** Bless Me, Ultima
+	Ch.s 5, 6, 7
+	
+** Murphy's
+	Phrasal verbs 2 in/out
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

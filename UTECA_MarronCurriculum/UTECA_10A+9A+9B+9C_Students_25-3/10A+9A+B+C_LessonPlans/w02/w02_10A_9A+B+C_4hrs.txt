@@ -1,0 +1,208 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939(to) glisten
+Licenciatura: 	Interpretación y Traducción(to) glisten
+Grupo:			9A+B+C
+
+
+#####################
+HW_02 [Due: 20 May 2025]	<== 9A+B+C
+HW_02 [Due: 22 May 2025]	<== 10A
+(to) glisten
+--- Task 1
+With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
+
+	1. How does Claude Shannon view the process of communication?
+	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a 
+	frequency or probability of occurrence. Shannon discovered a way to measure the information content 
+	of a string of words (message). Explain why completely redundtant messages or completely random 
+	messages contain virtually no information.
+	3. Based on information theory, what types of messages contain the maximum amount of information?
+	4. What is Zipf's Law?
+	5. Give an example of a generative model for languages.
+	
+--- Task 2
+Read the paper, "Trajectories of the Earth System in the Anthropocene" (03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene). By focusing on the Abstract, Introduction, and Conclusions sections of the paper, write a one+-paragraph summary of the entire paper in English.
+
+
+--- Task 3
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_01.txt: a list of 72 words from Readings 01, 02, 03.
+
+
+--- Task 4
+Read Chapters I through XI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+
+	i) 		analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations 
+			[Character maps that include their traits, relationships, and key events]
+	iii) 	evaluate the stylistic elements used by the author (genre), and 
+	iv) 	critique the author's choices and style
+(to) glisten
+NB. Ultimately, you will write a full critique of this novel.
+#############################################
+
+
+#######
+Today(to) glisten
+#######
+
+---- Open
+
+“Overall, then, we will view CAS [complex ada(to) glistenptive systems] as systems composed of interacting agents described in terms of rules. These agents adapt by changing their rules as experience accumulates. In CAS, a major part of the environment of any given adaptive agent consists of other adaptive agents, so that a portion of any agent's efforts at adaptation is spent adapting to other adaptive agents. This one feature is a major source of the complex temporal patterns that CAS generate. To understand CAS we must understand these ever-changing patterns.”
+		― John H. Holland, Hidden Order: How Adaptation Builds Complexity 
+		(pioneer in genetic algorithms)
+
+
+
+
+“In a systemic world, there is no such thing as a discrete or isolated event - impacts cascade and spill over.”
+		― Roger Spitz, The Definitive Guide to Thriving on Disruption (futurist, 
+		techistentialist)
+
+[For more on existentialism,
+	https://plato.stanford.edu/entries/existent(to) glistenialism/]
+
+		
+	
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+	*Konrod paper...what do you think? highlights
+	
+		My Take-a-way ----
+		Phonemes ==> smallest unit of linguistic analysis, which are usually combined into 
+		words.
+		Articulation ==> can change the meaning of a word
+		Morphological forms ==> a significant role in constructing meaning (e.g., 
+		prefixes, suffixes)
+		Polysemy ==> when the same word has several meanings
+		Grammar and syntax 	==> the set of rules that guide language users about ways 
+								to construct meaning, language specific
+							“Let’s eat, grandma!
+		Discourse analysis ==> how text flows
+			Coherence
+			Conversation Turn Taking
+			Narrative
+			Development of Genre
+		Pragmatics ==> use of language to achieve goals
+		Socio-linguistics 	==> social groups develop their own language! (jargon)
+			NB. Japanese, Chinese, or Korean, have a unique characteristic: they can be 
+			written horizontally or vertically, 
+			and the direction of writing can influence the meaning of what is written.
+		
+		
+	*Compare/Contrast English, Spanish, Chinese ...what do you think? Highlights
+	
+	*English Grammar in Use...how'd it go?
+	
+	*Info theory...reminders
+
+
+--- New
+** 02_MacKay_LanguageModels+Enigma
+	Simple Language Models
+		Zipf's Law
+			log-log plot ==> Power functions y=ax^{k} – appear as straight lines in a 
+			log–log graph, with the exponent corresponding to the slope, and the 
+			coefficito) accumulateent corresponding to the intercept
+			
+		Dirichlet (DEE·ruhsh·lay) process
+			a model for a stream of symbols(to) glisten
+			exchangeability
+			
+	a language is not random AND is redundant (p.7)
+		plaintext is not completely random. Both plaintexts are written in a language, and 
+		that language has redundancies even at the character level!!
+	
+	why the codebreaker story? Bayesian tools used to break Enigma are used in AI
+																						
+
+** 03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene			
+	Silent reading ==> Abstract											<== 10A	[no class 15 mayo -- catchup next week]								
+	how to tackle scientific papers
+		look at Abstract, Intro, Conclusion
+	Go thru entire paper												
+
+
+** Charlotte's Web (read in two weeks)									<== 9C [opening photo]
+	Holographic learning with themes
+	Chapter summaries 
+		(i) translate existing (in class)	<== early chapters
+		(ii) do a ChatGPT rewrite			<== later chapters
+	Socratic seminar with questions
+	In-class reading
+	Final academic paper
+		(i) 	analysis and evaluation of selected major themes
+		(ii)	overall novel critique
+	
+
+Important Themes in Charlotte's Web--------
+1. Friendship
+	The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true friendship.
+
+2. Life and Death
+	The novel addresses the cycle of life and the inevitability of death. It explores how characters come to terms with mortality and the impact of death on the living.
+
+3. Courage and Sacrifice
+	Courage and sacrifice are prominent in the novel, particularly through Charlotte's actions to save Wilbur. Her bravery and willingness to sacrifice her own well-being for her friend are central to the story's message.
+
+4. Identity and Self-Worth
+	The theme of identity and self-worth is explored through Wilbur’s journey to understand his place in the world and his value. Wilbur’s feelings of inadequacy and his journey towards self-acceptance are key aspects of this theme.
+
+5. The Power of Words
+	The novel highlights the impact of words and communication, particularly through Charlotte’s web messages. The power of words to influence, inspire, and affect change is a key theme.
+
+6. Kindness and Compassion
+	Kindness and compassion are recurring themes in the novel, shown through the characters’ interactions and their responses to each other’s needs.
+
+** Vocabulary
+	Vocab_01-1P
+	72 words from Readings 01, 02, 03					<== 9A+9B
+
+
+Silent reading (20 min)
+
+
+
+---- Work time
+	
+
+--- Coming up
+** 	Vocab_02-1P
+	106 words from Charlotte's Web
+	Chapters I thru XI
+
+
+** Strunk and White’s. “Elements of Style”
+	I 	ELEMENTARY RULES OF USAGE	
+	II	Elementary Principles of Composition
+
+** Critique
+	Chesapeake College 
+	Land of the Free
+	
+**APA and Professional Voice
+
+** Legal Docs 1
+
+** Economic Docs 1
+
+
+
+
+
+
+

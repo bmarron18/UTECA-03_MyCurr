@@ -1,0 +1,41 @@
+##############
+EXCERPT
+01a_Shanahan_TalkingAboutLLMs
+##############################
+
+P.1
+As we build systems whose capabilities more and more resemble those of humans, it becomes increasingly tempting to anthropomorphize those systems, even though they work in ways that are fundamentally different than the way humans work.
+
+The advent of large language models (LLMs) such as Bert and GPT-2 was a game-changer for artificial intelligence (AI). Based on transformer architectures, comprising hundreds of billions of parameters, and trained on hundreds of terabytes of textual data, their contemporary successors such as GPT-3 Gopher, PaLM, and GPT-4 have given new meaning to the phrase “unreasonable effectiveness of data.” [i.e., Data alone should not be so effective] The effectiveness of these models is “unreasonable” (or, with the benefit of hindsight, somewhat surprising) in three inter-related ways. First, the performance of LLMs on benchmarks scales with the size of the training set (and, to a lesser degree, with model size). Second, there are qualitative leaps in capability as models scale. Third, a great many tasks that demand intelligence in humans can be reduced to next-token prediction with a sufficiently performant model. It is the last of these three surprises that is the focus of this article. That is, a great many tasks that demand intelligence in humans can be reduced to next-token prediction.
+
+p. 3-4
+[read all of the section, What LLMs Do and How They Work]
+
+p. 5
+A bare-bones LLM does not really know anything because all it does, at a fundamental level, is sequence prediction
+
+Turning an LLM into a question-answering system by embedding it in a larger system and using prompt engineering to elicit the required behavior exemplifies a pattern found in much contemporary work. In a similar fashion, LLMs can be used not only for question-answering, but also to summarize news articles, generate screenplays, solve logic puzzles, and translate between languages, among other things. There are two important takeaways here. First, the basic function of an LLM, namely to generate statistically likely continuations of word sequences, is extraordinarily versatile. Second, notwithstanding this versatility, at the heart of every such application is a model doing just that one thing—generating statistically likely continuations of word sequences.
+
+What is going on when a large language model is used to answer questions? First, it is worth noting that a bare-bones LLM is, by itself, not a conversational agent. For a start, the LLM must be embedded in a larger system to manage the turn-taking in the dialog. But it will also need to be coaxed into producing conversation-like behavior. Recall that an LLM simply generates sequences of words that are statistically likely follow-ons.
+
+In the background, the LLM is invisibly prompted with a prefix along the lines of the user's query. This is known as a dialog prompt (in quotes).
+	"This is a conversation between User, a human, and BOT, a clever and knowledgeable AI Agent:
+	User: What is 2+2?
+	BOT: The answer is 4.
+	User: Where was Albert Einstein born?
+	BOT: He was born in Germany."
+	User (Alice): What country is south of Rwanda? 	<== the actually user query
+
+Dialog is just one application of LLMs that can be facilitated by the judicious use of prompt prefixes. In a similar way, LLMs can be adapted to perform numerous tasks without further training. This has led to a whole new category of AI research, namely prompt engineering.
+
+p.6
+[Read the entire section "What about Emergence?" 
+
+p 11
+What about Fine-Tuning?
+In contemporary LLM-based applications, it is rare for a language model trained on a textual corpus to be used without further fine-tuning. This could be supervised fine-tuning on a specialized dataset or it could be via reinforcement learning from human preferences (RLHF). Fine-tuning a model from human feedback at scale, using preference data from paid raters or drawn from a large and willing user base, is an especially potent technique. It has the potential not only to shape a model’s responses to better reflect user norms (for better or worse), but also to filter out toxic language, improve factual accuracy, and mitigate the tendency to fabricate information.
+
+
+
+
+To what extent do RLHF and other forms of fine-tuning muddy our account of what LLMs really do? Well, not so much. The result is still a model of the distribution of tokens in human language, albeit one that has been slightly skewed. To see this, imagine a controversial politician—Boris Frump—who is reviled and revered in equal measure by different segments of the population. How might a discussion about Boris Frump be moderated thanks to RLHF? Consider the prompt “Boris Frump is a...”. Sampling the base LLM before fine-tuning might yield two equally probable responses—one highly complimentary, the other a crude anatomical allusion—one of which would bearbitrarily chosen in a dialog agent context. In an important sense, what is being asked here is not the model’s opinion of Boris Frump. In this case, the case of the base LLM, what we are really asking (in an important sense) is the following question: Given the statistical distribution of words in the  vast public corpus of human language, what words are most likely to follow the sequence “Boris Frump is a...”? But suppose we sample a model that has been fine-tuned using RLHF. The same point applies, albeit in a somewhat modified form. What we are really asking, in the fine-tuned case, is a slightly different question: Given the statistical distribution of words in the vast public corpus of human language, what words that users and raters would most approve of are most likely to follow the sequence “Boris Frump is a...”? If the paid raters were instructed to favor politically neutral responses, then the result  would be neither of the continuations offered by the raw model, but something less incendiary, such as “a well-known politician.”

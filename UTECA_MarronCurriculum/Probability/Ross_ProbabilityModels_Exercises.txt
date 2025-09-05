@@ -429,7 +429,7 @@ Perfect! Here’s a **landscape, one-page, print-ready cheat sheet** version in 
 
 ---
 
-# 📄 Coupon Collector Cheat Sheet (General Probabilities)
+# Coupon Collector Cheat Sheet (General Probabilities)
 
 **Problem:**
 $m$ outcomes with probabilities $p_1,\dots,p_m>0$, $\sum p_i=1$.
@@ -503,7 +503,7 @@ print("E[X] =", coupon_collector_expectation(p))
 
 ---
 
-### 🔑 Tips for Printing
+### Tips for Printing
 
 * Use **landscape mode** with two columns for a perfect one-page fit.
 * Bold headings, monospace code block, and table make scanning easy.
@@ -532,13 +532,13 @@ Absolutely! Here’s a **ready-to-copy LaTeX document** formatted in landscape m
 
 \begin{multicols}{2}
 
-\section*{📄 Coupon Collector Cheat Sheet (General Probabilities)}
+\section*{Coupon Collector Cheat Sheet (General Probabilities)}
 
 \textbf{Problem:} $m$ outcomes with probabilities $p_1,\dots,p_m>0$, $\sum p_i=1$.\\
 $X =$ number of trials until \textbf{all outcomes appear at least once}.\\
 Define $q_S = \sum_{j\in S} p_j$ for subset $S \subseteq \{1,\dots,m\}$.
 
-\subsection*{🔹 Core Formulas}
+\subsection*{Core Formulas}
 \begin{tabular}{@{}ll@{}}
 \toprule
 \textbf{Quantity} & \textbf{Formula} \\
@@ -551,7 +551,7 @@ Sanity Check & $\mathbb P(X=m)=m!\prod p_i$; $\sum_{n\ge m} \mathbb P(X=n)=1$ \\
 \bottomrule
 \end{tabular}
 
-\subsection*{🔹 Quick Insights}
+\subsection*{Quick Insights}
 \begin{itemize}
     \item Tail behavior dominated by largest $1-q_{\{i\}} = 1-\min p_i$; decays geometrically.
     \item Uniform probs: $p_i=1/m \Rightarrow \mathbb E[X]=m H_m \approx m(\ln m+\gamma)$.
@@ -560,7 +560,7 @@ Sanity Check & $\mathbb P(X=m)=m!\prod p_i$; $\sum_{n\ge m} \mathbb P(X=n)=1$ \\
     \item First $m$ trials all distinct probability: $m!\prod p_i$.
 \end{itemize}
 
-\subsection*{🔹 Algorithm (Bitmask / Combinations)}
+\subsection*{Algorithm (Bitmask / Combinations)}
 \begin{enumerate}
     \item Enumerate all non-empty subsets $S$ (bitmask or itertools.combinations).
     \item Compute $q_S = \sum_{j\in S} p_j$.
@@ -568,7 +568,7 @@ Sanity Check & $\mathbb P(X=m)=m!\prod p_i$; $\sum_{n\ge m} \mathbb P(X=n)=1$ \\
     \item Verify probabilities sum to 1 within tolerance.
 \end{enumerate}
 
-\subsection*{🔹 Python Helper}
+\subsection*{Python Helper}
 \begin{lstlisting}[language=Python]
 from itertools import combinations
 

@@ -1,0 +1,217 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9A+B+C
+
+
+#####################
+NO HW
+
+
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+	“The moments of our life are not expendable, And the [possible] circumstances of death are beyond imagination. If you do not achieve an undaunted confident security now, What point is there in your being alive, O living creature?”
+		--- Padmasambhava, The Tibetan Book of the Dead. (First Complete Translation)
+		
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+--- Review
+** HW please!!!!!
+** 3P exam full review
+
+
+--- New (all are in ReferenceDocs in Teams)
+
+** Version Control (Git and GitHub)
+Class Materials
+	==> Reference Docs
+		==> RecordsManagement
+		
+		CFR-2011-title36-vol3-chapXII-subchapB
+		ISO_9001_Documents
+
+
+1.1 Getting Started - About Version Control
+	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+
+1.3 Getting Started - What is Git?
+	https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+
+1.4 Getting Started - The Command Line
+https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
+
+See this---
+	Linux_RapidWorkflow.txt
+
+
+
+
+** Google API for Translation
+	GeneralPython.py
+	Workflow_gcloudAPI_NMT_GenTrans_WINDOWS-1_docs-pdf.py
+	Workflow_gcloudAPI_NMT_GenTrans_LINUX_docs-pdf.py
+	
+
+
+
+
+** Marron's Rules for Consultants
+-------------------------------
+	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every document with the word, DRAFT and state in the transmittal that the draft was per client request)
+
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT EVERYTHING!)
+	
+	3. Archive, Archive, Archive!
+	
+	4. Be real but absolutely professional AT ALL TIMES.
+	
+	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+Transmittals, Deliverables, Cover Letters
+------------------------------------------
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
+
+
+The transmittal letter:
+	+ a formal cover letter that accompanies a larger document or package, introducing the document and providing context or instructions for the recipient
+	+ standard business letter format, with a clear and concise tone
+	+ explanations, instructions, new info (as needed)
+	+ "Do not hesitate to call..." statement
+	+ "thank you (appreciation)" statement (as appropriate)
+
+
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
+	+ Attached to transmittal letter or drive address to file(s)
+
+
+
+
+** More Murphy's English Grammar in Use		
+	Unit			Pg
+	112				224		even	<== done
+	113				226		although though 	<== only 9C
+							even though in spite of despite
+
+
+**
+Exam 3P -- Open Book
+T1
+	Why are LLMs called “large language models”?
+	What is a perceptron and how (basically) does it function?
+	What is it that LLMs actually do?
+
+T2
+	Explain i) the nature of an API, and ii) the nature of Python.
+	Briefly explain the concept of prompt engineering.
+	Select one of these metrics and briefly explain how it works.
+		Bilingual evaluation understudy (BLEU) metric OR
+		Metric for evaluation of translation with explicit ordering (METEOR). 
+	
+T3
+	--Briefly define what is meant by the Moral Accountability Gap?
+	2. Moral Accountability Gap -- AI may make individual persons less able to understand, explain, and reflect upon their own and other (human) agents’ behaviour.  
+	AI contributes to the creation of a more complex chain of decision-making and action (the “problem of many hands”)
+	AI due to its intrinsic opacity, might make a system’s behaviour extra hard to understand and explain
+	AI technology development and production is arguably pervaded by an increasing pressure towards deploying proprietary technologies that, even when working through mechanisms accessible to their developers and programmers, are designed to be inaccessible to public scrutiny
+
+
+	--Briefly define what is meant by the Public Accountability Gap?
+	Citizens not being able to get an explanation for decisions taken by public agencies, politicians, civil servants, and other human agents invested with a public function bc gov´t has outsourced to private companies AND/OR bc AI is opaque
+
+
+	--Briefly explain the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC)
+	MHC requires that two conditions be satisfied: “tracking” and “tracing”.
+	Tracking: the nature of the AI human-machine relationship is well-defined (AI is aligned with human goals, values, and intentions)
+	Tracing: the AI human-machine relationship requires human control and responsibility at every step (there is someone who understands the AI system and has the authority to accept responsibility from design through deployment).
+
+
+
+** Bless Me, Ultima
+
+Chapter 15
+	Tenorio unpunsished; few people remembered anything good about Narciso (p 177)
+	Ultima worked so hard to try to save his young wife (p 179)
+	Leon and Eugene return for a visit (in a cop car!)
+	Gabriel and his resentment (p 183)
+	Andrew leaves (p 185)
+
+
+Chapter 16
+	God is unfair; much confusion (Tenorio and Narciso)
+	Meeting Tenorio one afternoon on the way home; almost killed!
+	Tenorio's second daughter is dying
+	Ultima: You didnt pick anything up?
+	No acknowledgment of guilt and penance done for the wrong, there can be no forgiveness
+
+Chapter 17
+	Father Byrnes and the mysteries of God
+	spring dust storms and the A-bomb
+	Gabriel the ecologist
+	Florence, Tony and the Gang on religion
+	Eternity (p 201)
+
+Chapter 18
+	Catechism and Virgin Mary
+	Tony the Priest for the Gang
+	Florence and the blasphemy
+	"I am the priest! " I shouted back, "and I have absolved him of his sins!"
+
+Chapter 19
+	Easter Sunday and First Communion
+	The purity of confession
+	Now I would know the answers! 
+	But so many questions unanswered...but the Voice within me did not answer. There was only silence.
+	
+	
+
+
+
+on your own---
+Chapter 20
+Chapter 21
+Chapter 22
+
+
+
+--- Coming up
+
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

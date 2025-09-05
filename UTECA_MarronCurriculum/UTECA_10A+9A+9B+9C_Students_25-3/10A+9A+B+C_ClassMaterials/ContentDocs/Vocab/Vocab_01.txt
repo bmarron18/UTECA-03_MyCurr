@@ -1,0 +1,78 @@
+#########
+Vocab_01-1P
+72 words from Readings 01, 02, 03
+#########
+
+(to) accumulate
+anomaly
+(to) anthropomorphize
+archetypal
+articulation
+assertive
+augment
+bias
+(to) bifurcate
+biogeophysical
+biome
+boreal
+cascade
+cognitive
+congruent
+circumpolar
+(to) converge
+cryptography
+cypher
+decarbonization
+(to) degrade
+demographic
+deterministic
+discernible
+effective
+embedded
+empirical
+(to) enhance
+entity
+entropy
+firestorm
+function (math.)
+generative model (math.)
+granularity
+groundbreaking
+incongruent
+indistinguishable
+infrastructure
+innate
+information theory
+irreversible
+larynx
+lexicon
+logarithm
+millennia
+(to) mimic
+morphology
+nonlinear
+(to) oscillate
+permutation
+phoneme
+planetary threshold
+probability
+pragmatic
+(to) prevail
+prototype
+redundancy
+resilience
+rhetorical
+salient
+self-reinforcing feedbacks
+seminal
+spurious
+stratigraphy
+tangible
+thermodynamic
+tipping point
+(to) transgress
+(to) underestimate
+(to) utter
+well-rounded
+widespread
+

@@ -1,0 +1,130 @@
+
+Title:				Rapid Git and Github Workflow in Linux
+Project Descriptor:	UTECA Translator APIs
+Project ID:		
+Author:				bmarron
+Origin Date:		25Dec2024
+Revision Date:		08Jan2025
+
+
+
+###########
+Git Recovery
+#############
+stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+
+
+
+	git log					<== To check the commits
+							<== or in GitHub or Gitk
+
+	git checkout afe52								<== HASH
+	git checkout 'master@{1979-02-26 18:30:00}'		<== by date
+	git checkout @{14.days.ago}						<== by days
+
+To go back to where you were, just check out the branch you were on again:
+	git checkout master
+
+
+For those wanting to download a specific Commit from GitHub, steps are below:
+   	Click icon w/ number of commits(a clock-ish thing)
+	Click the "<>" icon to browse repo at various commits
+    Go back to the top of the repo at old commit
+	Click on "<> Code" icon
+    Select Clone or Download
+    Download ZIP
+
+
+Cloning a Commit In this case you can check out the old branch by using its branch name:
+	git clone --branch <branchname> <remote-repo-url-commit>
+
+
+
+###################
+Offsite (Github)
+Repositories Set up
+####################
+
+			#on-line go to: https://github.com/
+			#login
+			-- username: bmarron18  (soil.foodwebs@gmail.com)
+			-- password: 18AV1dd*67R [old ==> 756vop7C (as of 16 Sept 2016)]
+			# create new repo
+				'This will set master as the default branch'
+
+
+#########################################
+Onsite Git repository set up AND synch to offsite Github repo
+(must manually copy in additional subdirectories and files)
+##########################################
+	# open folder to house cloned repo
+$ git clone <Github URL>
+
+	# cd to new onsite repo folder and check (p.69 ProGit2)
+$ git remote -v
+$ git remote show origin
+
+
+#########################################
+Manually dump in additional subdirectories and files
+Make changes to existing files
+track || stage || commit || push
+##########################################
+ 
+	
+	# show files and their status 
+$ git ls-files
+$ git status
+
+	# TRACK all files per folder
+$ git add UTECA_5CStudents_1/\*.* &&
+git add UTECA_6AStudents_1/\*.* &&
+...
+
+	# TRACK all files!!!
+$ git add --all
+
+	# STAGE all files 
+$ git add --all
+$ git diff --staged
+$ git status
+
+	#COMMIT all files
+$ git commit -a -m "<date>"
+ 
+ 	# PUSH all files to offsite repo (aka 'origin')
+$ git remote -v
+$ git push origin --all
+
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean
+
+	# See file changes and commit history
+$ gitk
+
+#############
+Git Workflow
+#############
+	$ git status
+	$ git add --all
+	$ git commit -a -m "<date>"
+	$ git push origin --all			<== GitHub login name
+									<== GitHub token
+	$ git status
+	$ git last
+	$ gitk
+
+
+
+gitk options for Mac
+*	$ git visual
+
+*	git config --global alias.visual 'gitk'
+
+*	git config --global alias.visual 'log --oneline --decorate --graph --all'
+	$ git log
+
+
+

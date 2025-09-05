@@ -1,0 +1,30 @@
+##############
+EXCERPT from
+03a_Leiter_etal_Metrics_MachineTranslation
+############################################
+
+Abstract ---
+	All
+
+Introduction  ---
+	All
+	
+
+
+This concept paper aims at providing a systematic overview of the existing efforts in
+explainable MT evaluation metrics and an outlook for promising future research directions.
+The main focus of this work lies on explainable evaluation metrics for MT, although many
+of our observations and discussions can likely be adapted to other NLG tasks.
+We make the following contributions, outlined by the structure of our paper:
+
+	§2 Background & Terminology: We give an overview of concepts important for
+explainable MT evaluation. We also highlight different goals and the audiences that require
+them.
+	§4 Taxonomy: We provide a structured overview of previous efforts in explainable
+MT evaluation. An overview is shown in Figure 3. The process of selecting works for this
+taxonomy is described in §3 Literature Review & Selection.
+	§5 Future Work: An analysis of underexplored research directions, and a collection
+of exemplary methods from other NLP domains to illustrate potential future paths. Here,
+we also discuss the usage of recent large language models (LLMs), like ChatGPT (OpenAI,
+2023a) and GPT4 (OpenAI, 2023b).
+We provide an overview of Related Work in §6 and a Conclusion in §7.

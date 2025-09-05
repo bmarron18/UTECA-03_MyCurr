@@ -1,0 +1,117 @@
+##############
+EXCERPT from
+05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf
+############################################
+
+** AI and Rersponsibility
+
+---- The Problem Gaps in Responsibility with AI -------------------------------------------------
+Gaps appear in i) passive responsibility or the moral and legal consequences (human) agents must face in case something goes wrong. And gaps appear in ii) active responsibility or gaps in the goals, values, and legal norms that (human) agents (such as engineers) are supposed to promote and comply with, as well as the consequences they need to prevent and avoid (eg, the legal duty to provide high standards of safety).
+	
+1. Culpability Gap -- the risk that no human agent might be legitimately blamed or held culpable for the unwanted outcomes of actions mediated by AI systems
+		
+	When things go wrong and important interests or rights such as physical integrity or life are infringed on, 
+	we, as victims and as society, not only want to understand what happened but why. We also want to know 
+	whether the harm was the result of someone’s wrong behaviour, and if it turns out that the  wrong behaviour 
+	is one for which there is no justification or excuse, we want the author to be condemned, sanctioned, or 
+	even punished for their behaviour.
+		
+	[See p.6; the example of automated driving systems (ADS)]
+		
+	The use of AI and data-driven machine learning in decision-making importantly introduces a new element of 
+	technical opacity and lack of explainability that makes it more difficult for individual persons to satisfy 
+	the traditional conditions for moral and legal culpability:  intention, foreseeability, and control.
+		
+	The more that persons designing, regulating, and operating an AI system can legitimately (and possibly  
+	systematically) avoid blame for their wrong behaviour, the less these (human) agents will be incentivised 
+	to prevent these wrong behaviours. In fact, they will arguably have less incentives to strive for a 
+	high(er) level of safety, awareness, attention, motivation, and skilfulness.
+	
+2. Moral Accountability Gap -- AI may make individual persons less able to understand, explain, and reflect upon their own and other (human) agents’ behaviour. Functional society has the expectation that people answer (at least some) why-questions from other persons.
+	
+	Why-questions do not necessarily have the intention of judging or blaming but possibly to just engage in a 
+	conversation and to better understand each other’s reasons and expectations. [Why were you  late at the 
+	appointment, why did you start taking guitar classes, why did you turn down that job  offer...?] This is 
+	the core of what it means to be a reflective person in society. In this sense, being accountable, unlike 
+	being culpable, is something to be desired rather than avoided insofar as it is a constitutive part of 
+	being able to reflect on one’s actions and to participate in meaningful social relations. It also helps  
+	persons see events in the world as connected to their rational capacities and thereby supporting their 
+	sense of agency and responsibility.
+	
+	Moral accountability also has an instrumental value. The process of exchanging questions and reasons helps 
+	finding explanations for things that have happened, reinforces trust and social connections between (human) 
+	agents, and, by exposing persons to potential requests for explanation and justification, it also tends to 
+	reduce undesired behaviour by pushing persons to be more clearly aware of the impact of their actions on 
+	others and therefore motivated to prevent unwanted outcomes (and potential culpability)
+		
+	Moral accountability may be blurred in different ways by the introduction of artificial intelligence. 
+		First, in general and similar to what was observed above about culpability, AI contributes to the 
+	creation of a more complex chain of decision-making and action (the “problem of many hands”). AI may make 
+	it more difficult for individual agents to make sense  of the reasons why a certain decision was taken, 
+	what their role exactly was in the operation, and, in general, whose reasons and what reasoning were 
+	governing the system they are part of. 
+		Second, data-driven machine (deep) learning, due to its intrinsic opacity, might make a system’s 
+	behaviour extra hard to understand and explain.
+		Third, the whole process of technology development and production is arguably pervaded by an increasing 
+	pressure towards deploying proprietary technologies that, even when working through mechanisms 
+	accessible to their developers and programmers, are designed to be inaccessible to public scrutiny and 
+	the users themselves. Technology developers, driven by both the desire to minimise industrial espionage and 
+	maximise customers loyalty (by, e.g. binding them to their assistance network), will usually avoid sharing 
+	data and engineering insights. Thus, there is embedded difficulty for engineers and other (human) agents 
+	involved in the process of technological development to systematically discuss with one another their 
+	understanding of the goals, meaning, and results of the development process.
+	
+	[See example p. 9 a medical doctor using an AI-driven system for diagnosing]
+	
+	Ultimately, the moral accountability gap is the reduction of human agents’ capacity to make sense of – and 
+	explain to each other (ie to other humans) the “logic” of their behaviour, due to the mediation (ie the 
+	interposition) of opaque, unexplainable AI algorithms and complex autonomous systems and/or the lack of 
+	appropriate psychological, social incentives or institutional spaces that promote these explanations.
+
+
+3. Public Accountability Gap -- Citizens not being able to get an explanation for decisions taken by public agencies, politicians, civil servants, and other human agents invested with a public function.
+
+	Public accountability promotes democratic control (transparency) and limits abuses of power (corruption), 
+	but it also brings more effectiveness in the institutions. In fact, providing public administrators with 
+	information about their own functioning and forcing them to reflect on their successes and failures will 
+	eventually allow and encourage them and others to improve their future performances.
+
+	AI-based decision-making is often difficult to understand and explain to human agents due to the different 
+	and sometimes inscrutable ways of AI operations: the so-called “black box” problem. But the introduction of 
+	AI in public administration has also created or aggravated organisational and legal black boxes in 
+	governmental institutions.
+		First, development in information technologies is often outsourced to private parties or tech-giants, 
+	such as Google, who are not politically accountable and may not be willing to disclose critical information 
+	about the functioning of their systems. 
+		Second, more generally, the work of the software engineers and data professionals in public 
+	organisations is usually not visible nor subject to public and legal scrutiny. 
+		Finally, far more data are exchanged between many different public organisations than in the past. In  
+	this way, the introduction of AI makes the “problem of many hands” more acute
+
+
+4.  Active Responsibility Gap -- the risk that persons designing, using, and interacting with AI may not be sufficiently aware, capable, and/or motivated to see and act according to their moral obligations with respect to the behaviour of the systems they design, control, or use. In particular, this gap concerns the obligation to ensure that AI systems do not negatively impact the rights and interests of other persons and, ideally, ensure that such systems positively contribute to humanity's well-being.
+
+
+
+
+----- Problems with Partial Fixes -----------------------------------------
+Common approaches that have so far been taken towards addressing responsibility gaps but that fall short
+
+1. “fatalists” ==> underestimate the extent of the responsibility gap; their focus is too limited.
+
+2. “deflationists” ==> underestimate the novelty of the AI revolution and its implication for culpability attributions in morality (blameworthiness) and the law (liability); they also seem to underestimate the risks of gaps in the moral and political accountability of system designers as well as gaps in theirs and other (human) agents’ active responsibility for the behaviour of artificial intelligence.
+
+3. “technical solutionism” ==> Promoters of “explainable AI” and other scientific and technological improvements tend to ignore the psychological, social, and political dimension of the interaction with AI, thereby running the risk of embracing some form of “technical solutionism” by which all the moral and social problems of human responsibility for the behaviour of artificial intelligence can be fixed simply by an improvement of the working of AI techniques.
+
+4. “legal solutionism” ==> Lawyers and policy-makers proposing the revision of current legal liability regimes (including extension of strict and product liability regimes, and “electronic personhood”) may either underestimate the importance of maintaining some form of human moral responsibility on the behaviour of the artificial intelligence or recognise this need but without saying how moral and social practices – and not only legal rules – should change in order to govern a responsible transition to the use of AI. 
+
+
+----- Integrated Solution: Meaningful Human Control ----------------------
+The authors' solution is to promote a legally, ethically, and societally acceptable form of human control over AI systems. Their solution is called Meaningful Human Control (MHS).
+
+MHC requires that two conditions be satisfied: “tracking” and “tracing”. These two conditions must describe, respectively, i) the nature of the human-machine control relation (alignment with human goals, values, and intentions) and ii) the operational features of the human-machine control relation required to maintain human responsibility on the system (alignment of the system with the capacities of human agents).
+
+Tracking (i) requires that the socio-technical system – i.e. the whole combination of technical, AI, human, and organisational elements – is designed to demonstrably respond to the relevant reasons of the relevant agents and to the relevant facts in the environment. Tracking requires the alignment of the system with the
+values, reasons, and intentions of the relevant human agents.
+
+Tracing (ii) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify at least one human agent along the chain of design, development, and use that possesses both (a) sufficient knowledge of the capabilities and limitations of the system and (b) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the alignment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.

@@ -1,0 +1,439 @@
+
+#########
+All HW 3P
+#########
+
+HW_12 [Due: 30 Jul 2025] -- LAST ONE!	<== 9A+B+C
+HW_12 [Due: 31 Jul 2025] -- LAST ONE!  <== 10A
+--- Task 1
+Skim the paper 05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf and read 05b_EXCERPTS_ResponsibilityGaps_AI.txt. Answer the following questions regarding AI and responsibility:
+
+1. What is meant by the term, "responsibility gap" with regards to AI?
+2. Define the Culpability Gap and briefly explain why it matters.
+3. Define the Moral Accountability Gap and briefly explain why it matters.
+4. Define the Public Accountability Gap and briefly explain why it matters.
+5. Define the Active Responsibility Gap and briefly explain why it matters.
+6. What is the problem with "deflationist" solutions to AI responsibility gaps?
+7. What is the problem with "technical solutionism" with respect to to AI responsibility gaps?
+8. What is the problem with "legal solutionism" with respect to to AI responsibility gaps?
+9. Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
+
+--- Task 2
+Read Chapter 16, Chapter 17, Chapter 18, Chapter 19 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+
+HW_11 [Due: 23 Jul 2025]	<== 9A+B+C
+HW_11 [Due: 24 Jul 2025]	<== 10A
+--- Task 1
+Following the EXCERPT guides for each paper, read the appropriate sections in 
+	01a_Shanahan_TalkingAboutLLMs.pdf
+	02a_Balhorn_etal_ChatGPT-in-science-engineering.pdf
+	03a_Leiter_etal_Metrics_MachineTranslation.pdf
+	
+Define the following terms/acronyms:
+
+	perceptron
+	artificial neural network
+	large language model (LLM)
+	vision-language models (VLM)
+	supervised learning 
+	unsupervised learning
+	reinforcement learning with human feedback (RLHF)
+	
+	emergence
+	
+	application programmer interface (API)
+	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
+	crosslingual optimized metric for evaluation of translation (COMET)
+	bidirectional encoder representations from transformers (BERTScore)
+	
+	
+--- Task 2
+Read "04_ai-2027." What do think of this analysis? Are the scenario(s) presented plausible? Are the authors and their methods credible? Write an opinion piece (2+ paragraphs) expressing your thoughts.
+
+--- Task 3
+Read Chapter 13, Chapter 14, and Chapter 15 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+
+
+HW_10 [Due: 16 Jul 2025]	<== 9A+B+C
+HW_10 [Due: 17 Jul 2025]	<== 10A
+--- Task 1
+Read Chapter 11 and Chapter 12 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+HW_09 [Due: 15 Jul 2025]	<== 9A+B+C
+HW_09 [Due: 17 Jul 2025]	<== 10A
+
+EXTRA TIME!!
+--- Task 1
+Read Chapter 8, Chapter 9, and Chapter 10 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+--- Task 2
+Study for Exam 2P
+1
+	The legal systems in Mexico and US
+    The use of tesis aislada and jurisprudencia 
+2
+	Translation of a small piece of Mexican Federal Law (Spanish ==> English)
+3
+	The axioms and corollaries of standard economics
+4
+	Amartya Sen's thoughts on freedoms, unfreedoms, and development
+5
+	Responding to RFPs
+	Translation of technical language related to SOPs (English ==> Spanish)
+6
+	Herman Daly's, "The Perils of Free Trade"
+	Six (6) questions
+7
+	Summary of Bless Me, Ultima (up through Ch. 7)
+
+
+
+
+#########
+All HW 2P
+########
+
+**HW_08 [Due: 01 Jul 2025]	<== 9A+B+C
+**HW_08 [Due: 03 Jul 2025]	<== 10A
+--- Task 1
+Translate the document, "05_EXCERPT_EPA_Guidance-for-SOPs,pdf" into Spanish.
+
+---Task 2
+While David Ricardo is credited with the concept of free trade, as espoused through his ideas of comparative advantage, it was Milton Friedman who extended and polished the concept. Friedman and the Chicago School of Economics have championed the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
+
+	1. Daly notes that, at the time of writing the article, most if not all economists endorsed the idea of free trade; that is, free trade being a presumed good unless proven otherwise. Briefly, what is meant by the term, free trade? What is Daly's name for free trade?
+	2. How did Keynes see the relationship between national and international production?
+	3. What is the general economic argument used to promote free trade? From Daly's perspective what is the main flaw in this argument?
+	4. Daly calls free traders to task for aggrandizing mathematical theories over ground-truthing. What does he mean by this?
+	5. What is the modern reality of capital that undermines and invalidates a fundamental premise of Ricardo's theory of comparative advantage?
+	6. Daly notes that "for trade to be mutually beneficial, the gains must not be offset by higher liabilities." What are two obvious liabilities pointed out by Daly?
+	7. Why can the specialization required of free trade reduce a nation's range of occupational choices?
+	8. Again Daly calls free traders to task but this time for fundamental negligence. He notes that "the arguments for free trade run afoul of the three basic goals of all economic policies: the efficient allocation of resources, the fair distribution of resources and the maintenance of a sustainable scale of resource use." Explain how free trade violates each one of these three basic economic goals.
+	9. Free trade seems to fly under the banner, "Privatize the profits and externalize the costs." What does this slogan mean?
+	10. How can tariffs be used positively?
+	11. Do you think a binding, international legal system would help or hurt international trade?
+	12. Real wages for US nonsupervisory workers (i.e., employees) who make up about 80% of the US work force, have fallen 17 percent between 1973 and 1990. [Note: The Economic Policy Institute notes that while overall productivity in the US economy grew significantly from 1973 to 2013, the hourly compensation of production and nonsupervisory workers rose only 9%, compared to a 74% increase in productivity. This divergence between productivity growth and worker compensation is a key trend. In the decades following World War II, wages for the vast majority of workers grew roughly in line with productivity, but this changed after 1973. In large measure, the backlash from this trend brought Trump to office.] According to Daly, what is the real reason that US wages have fallen?
+	13. Daly delivers a scathing rebuke of NAFTA (the now expired North American Free Trade Agreement) with regards to corn production in Mexico. What does he say? Were his predictions accurate? [Note: The policies of Earl Butz, Secretary of Agriculture under Presidents Nixon and Ford destroyed the American family farm.]
+	14. Daly argues that "the legitimate case for restrictions on labor immigration is therefore easily extended to restrictions on capital emigration." What does this mean?
+	15. Like Steffen et al., Daly also uses a systems approach in defining the economy in relation to the biosphere. Look at the diagram on p.4. How does the definition of economy differ between neoclassical and steady-state (ecological) economics?
+	16. Daly states that when confronted with the real problems created by free trade (i.e., resource allocation problems, standards-lowering problems, absolute competitive advantage problems, biosphere degradation problems, etc), neoliberal economists shrug their shoulders and say that "growth" will fix all the problems. What is meant by here by "growth"? And why is this response anything but a cure for the problems? (In fact, Daly points out that such a cure is impossible.)
+	17. Who are the real beneficiaries of free trade? Why?
+	18. How is a steady-state economy analogous to an organism? 
+	19. "Once upon a time..." is the start of the fairy tale that neoliberal economists still hold on to; namely, that man-made and natural capital are good substitutes for one another. What is the current reality, as beautifully stated by Daly in terms of fishing boats and saw mills?
+	20. As in so many things, scale matters. Why is scale important in considering past and future economic impacts to the biosphere?
+	21. What is Daly's definition of development? Would Sen agree with him?
+	22. Finally, Daly notes that "by spatially separating the costs and benefits of environmental exploitation, international [free] trade makes them harder to compare." Without intervention, what does Daly see as the inexorable outcome of this failure in cost accounting?
+	
+
+--- Task 3
+Read Chapter 5, Chapter 6, and Chapter 7 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+
+**HW_07 [Due: 24 Jun 2025]	<== 9A+B+C (6:40 PM?Meeting ended: 43m 23s)
+**HW_07 [Due: 26 Jun 2025]	<== 10A
+--- Task 1
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and very briefly explain how the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first seven (7) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short; in one case just a single line.
+
+--- Task 2
+Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Development" and answer the following questions,
+	1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one kind or another. List three (3) broad categories of unfreedoms.
+	2. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
+	3. According to Sen, what are the five (5) distinct types of freedoms and why are they synergistic? 
+	4. Does Sen commend or chastise the role of markets?
+
+
+--- Task 3
+Read Chapter 3 and Chapter 4 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for Chapter 3 and five (5) questions from the list of questions for Chapter 4. See the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt" for the list of questions for each chapter. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+**HW_06 [Due: 17 Jun 2025]	<== 9A+B+C
+**HW_06 [Due: 19 Jun 2025]	<== 10A
+--- Task 1
+Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and C¢digos form the backbone of this system which is overseen by the Poder Judicial de la Federaci¢n. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
+
+		01_Ley-de-Poder-Judicial.pdf	<== Articulo 9 (I, II, III, IV) ONLY!!
+		02_TesisAislada_PruebaPericial.pdf
+		
+The documents can be found here in Teams:
+	Class Materials
+		==> Content Docs
+			==> 2P
+
+--- Task 2
+Translate the following two axioms from standard economics into Spanish:
+
+Axiom 1: As a society, our resources?land, labor, and capital?are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
+
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. ?There is no such thing as a free lunch.?
+		
+
+--- Task 3
+Read Chapter 1 and Chapter 2 of "Bless Me, Ultima" and answer the following questions:
+	i) Answer all of the questions from Chapter 1
+	ii) Answer five (of the 13) questions from Chapter 2. Your can choose which questions to answer.
+
+The novel can be found here in Teams:
+	Class Materials
+		==> Content Docs
+			==> Novels+StudyGuides
+				==> BlessMeUltima.pdf
+
+Questions, vocab, and chapter summaries for "Bless Me, Ultima" can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt." The document is located here in Teams:
+	Class Materials
+		==> Content Docs
+			==> Novels+StudyGuidesChapter 1, Chapter 2
+				==> UTECA_StudyGuide_Bless-Me-Ultima.txt
+
+
+NB. Organize your responses to the questions above using the chapter number as a Level 2 heading and a (modified) ordered list that states the question and then the response. That is,
+
+Chapter 1
+---------
+
+Q1. [State the question]
+... Response ...
+
+Q2. [State the question]
+... Response ...
+
+Q3. [State the question]
+... Response ...
+
+See Marron_StyleGuide_25-3.pdf for more details. The style guide is located here in Teams:
+	Class Materials
+		==> ReferenceDocs
+			==> Grammar
+				==> StyleGuides
+					==> Marron_StyleGuide
+						==>	Marron_StyleGuide_25-3.pdf
+
+
+
+**HW_05 [Due: 10 Jun 2025]	<== 9A+B+C
+**HW_05 [Due: 12 Jun 2025]	<== 10A
+--- Task 1
+Write a three+-page critique of Charlotte's Web. Use the Chesapeake College guide to organize your document and present your critique in the format below (see Marron_StyleGuide.pdf for more details). Please note that the questions and statements under each section below are for guidance only. Do not include the questions or the statements in your critique.
+
+
+	Task 1: A Critique of E.B. White's, "Charlotte's Web"
+
+Introduction					
+	* What is "Charlotte's Web"? Why is it important? 
+	* Who is E.B. White? Why is he famous? When did he publish the book?
+	* Provide a very brief overview of the book
+	* Briefly explain what your critique will accomplish
+
+	
+Major Theme Development		
+		* Theme 1			
+			==> Definition of the theme
+			==> Describe how the theme is developed citing examples from the book
+			==> Evaluate the author's ability to develop the theme
+		
+		* Theme 2
+			==> Definition of the theme
+			==> Describe how the theme is developed citing examples from the book
+			==> Evaluate the author's ability to develop the theme
+		
+Character Development	
+		* Character 1	
+			==> Description of the character==> ease of reading?
+			==> Describe how the character is developed citing examples from the book
+			==> Evaluate the author's ability to develop the character
+		
+		* Character 2
+			==> Description of the character==> ease of reading?
+			==> Describe how the character is developed citing examples from the book
+			==> Evaluate the author's ability to develop the character
+
+Story Arcs		
+		* Briefly define and/or diagram the major story arc (the chronological construction of the plot)
+		* Briefly provide examples of how minor story arcs are used by the author
+
+Evaluate E.B. White's writing style	
+			==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?
+			==> holds together logically?
+			==> genre?
+
+Conclusions		
+	* Summarize Major Theme Development section
+	* Summarize Character Development section
+	* Summarize Story Arcs section
+	* Summarize Writing Style section
+	* State your personal opinion of the work
+
+
+#########
+All HW 1P
+########
+
+**HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
+**HW_04 [Due: 05 Jun 2025]	<== 10A
+--- Task 1
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of 109 words from the second part of Charlotte's Web.
+
+--- Task 2
+If you haven't yet done so, finish reading "Charlotte's Web." Be prepared to begin your critique of the entire novel. The critique will be assigned next week and due .
+
+
+--- Task 3
+Prep for 1P exam. You should be able to:
+	* Compare and contrast Spanish, English, and Chinese (briefly)
+	* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+	* Define Zip's Law and explain why it is useful
+	* Define what generative text models are and very roughly, what they can do
+	* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+	* Read and evaluate new information regarding perspectives on academic writing
+	* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
+	* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt 
+	and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish 
+	translation on the exam
+
+
+
+
+
+**HW_03 [Due: 27 May 2025]	<== 9A+B+C
+**HW_03 [Due: 29 May 2025]	<== 10A
+--- Task 1
+Pullum (Pullum, Â¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
+
+	Task 1: A Critique of G. Pullum's, "Land of the Free"
+
+Introduction					<== Level 1
+	* What is Strunk and White's "Elements of St==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?* Writing Style						<== 9C doneyle"? Why is it important?
+	* Who is Geoffrey K. Pullum? What is his motive in writing the paper? When did he publish the paper?
+	* Provide a very brief overview of Pullman's paper
+	* Write your thesis statement
+
+Evaluation of Criticisms		<== Level 1
+	* Pullum Criticism #1	<== Level 2
+		==> briefly summarize the criticism
+		==> evaluate the amount and kinds of support used to back up the Criticism
+		==> your evaluation of the criticism
+		
+	* Pullum Criticism #2	<== Level 2
+		==> briefly summarize the criticism
+		==> evaluate the amount and kinds of support used to back up the Criticism
+		==> your evaluation of the criticism
+		
+Conclusions						<== Level 1
+	* Summarize your evaluations
+	* Present your final evaluation of the paper
+
+NB. Pullum can be found here:
+	Reference Docs
+		==> Grammar
+			==> Critique
+--- Task 2
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
+
+--- Task 3
+Read Chapters XII through XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 		analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) 	evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+NB. Ultimately, you will write a full critique of this novel.
+
+
+
+
+**HW_02 [Due: 20 May 2025]	<== 9A+B+C
+**HW_02 [Due: 22 May 2025]	<== 10A
+--- Task 1
+With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
+
+	1. How does Claude Shannon view the process of communication?
+	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a 
+	frequency or probability of occurrence. Shannon discovered a way to measure the information content 
+	of a string of words (message). Explain why completely redundtant messages or completely random 
+	messages contain virtually no information.
+	3. Based on information theory, what types of messages contain the maximum amount of information?
+	4. What is Zipf's Law?
+	5. Give an example of a generative model for languages.
+	
+--- Task 2
+Read the paper, "Trajectories of the Earth System in the Anthropocene" (03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene). By focusing on the Abstract, Introduction, and Conclusions sections of the paper, write a one+-paragraph summary of the entire paper in English.
+
+--- Task 3
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_01.txt: a list of 72 words from Readings 01, 02, 03.
+
+--- Task 4
+Read Chapters I through XI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+
+	i) 		analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations 
+			[Character maps that include their traits, relationships, and key events]
+	iii) 	evaluate the stylistic elements used by the author (genre), and 
+	iv) 	critique the author's choices and style
+NB. Ultimately, you will write a full critique of this novel.
+
+
+
+
+** HW_01 [Due: 13 May 2025]	<== 9A+B+C
+** HW_01 [Due: 15 May 2025]	<== 10A
+--- Task 1
+Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 5-11):
+	
+	  1. Introduction
+	  2. The Components of Language
+		 2.1 Phonetics (Sounds)
+		 2.2 Morphology and Semantics (The Structure and Meaning of Words)
+		 2.3 Syntax and Grammar (Sentence Structure)
+		 2.4 Discourse (Text)
+		 2.5 Pragmatics (Use)
+		 2.6 Cross-Cultural Linguistics and Sociolinguistics
+
+Write a one+-page summary of the excerpt in English and translate the summary into Spanish. Be prepared to discuss your summary in class.
+
+--- Task 2
+Reflect on the concept of language (its function, its components, its transmittal, etc). In a one+-page paper, compare and contrast Spanish, English and Chinese. What strikes you as fundamnetal similarities and differences between these three languages?  Frame your responses with reference to the concept of language and be prepared to discuss your responses in class.
+
+--- Task 3
+Work through the complete Study Guide in R. Murphy's, "English Grammar in Use". List every section with which you may need review. The Study Guide can be found on p. 326. The key to the Study Guide is given on p. 372.
+
+
+NB.
+For this assignment and for all subsequent written assignments in this class (unless duly noted), we will use a modified, APA formatting style. Specifically, documents will be:
+	* Single-spaced
+	* 0.5 inch margins (left and right)
+	* 12-point Times New Roman font
+	* print double-sided if possible
+References, if needed, in a standard format (eg, APA)
+See "StyleGuide_Marron.pdf" in
+
+	Reference Docs
+		==> Grammar
+			==> StyleGuides
+				==> Marron_StyleGuide
+for additional formatting requirements
+	
+Assignments always must be printed and submitted in class (unless duly noted). Students should save copies of all assignments in PDF format.

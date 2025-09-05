@@ -1,0 +1,38 @@
+##############
+EXCERPT from
+02a_Balhorn_ChatGPT-in-science-engineering
+############################################
+
+Abstract ---
+	All
+
+Introduction  ---
+	All
+	
+Discussion ---
+	All
+
+In conclusion, our assessment shows that ChatGPT answers scientific questions from various domains in
+advanced academic English and that its answers are between partly and mostly correct. However, these capa-
+bilities come with limitations. Most importantly, we perceive a lack of critical reflection in the answers from
+ChatGPT. In addition, the output from ChatGPT must be taken cautiously to avoid ethical pitfalls and potential
+negative consequences in real-world applications.
+
+
+
+
+
+Methods ---
+
+Collection of answers from ChatGPT through Python
+	We automatically submitted the questions collected in the previous step to ChatGPT 
+	through a Python interface for ChatGPT 
+		https://github.com/mmabrouk/chatgpt-wrapper					<== original
+
+	LLM Workflow Engine (LWE) is a Power Command Line Interface (CLI) and Workflow 
+	manager for LLMs.
+		https://github.com/llm-workflow-engine/llm-workflow-engine	<== the upgrade...wow
+
+	
+Table 1.  Assessment rubric with criteria sorted by skill categories. For each assessment criteria, the answer is scored between 1 (poor performance) and 5 (excellent performance). The average assessment from participants across the three educational levels is highlighted in bold font. Note that each row also has the assessment option “not applicable”.
+

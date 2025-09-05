@@ -1,0 +1,229 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9A+B+C
+
+
+#####################
+HW_03 [Due: 27 May 2025]	<== 9A+B+C
+HW_03 [Due: 29 May 2025]	<== 10A
+
+--- Task 1
+Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
+
+	Task 1: A Critique of G. Pullum's, "Land of the Free"
+
+Introduction					<== Level 1
+	* What is Strunk and White's "Elements of Style"? Why is it important?
+	* Who is Geoffrey K. Pullum? What is his motive in writing the paper? When did he publish the paper?
+	* Provide a very brief overview of Pullman's paper
+	* Write your thesis statement
+
+Evaluation of Criticisms		<== Level 1
+	* Pullum Criticism #1	<== Level 2
+		==> briefly summarize the criticism
+		==> evaluate the amount and kinds of support used to back up the Criticism
+		==> your evaluation of the criticism
+		
+	* Pullum Criticism #2	<== Level 2
+		==> briefly summarize the criticism
+		==> evaluate the amount and kinds of support used to back up the Criticism
+		==> your evaluation of the criticism
+		
+Conclusions						<== Level 1
+	* Summarize your evaluations
+	* Present your final evaluation of the paper
+
+NB. Pullum can be found here:
+	Reference Docs
+		==> Grammar
+			==> Critique
+--- Task 2
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
+
+--- Task 3
+Read Chapters XII through XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 		analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) 	evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+NB. Ultimately, you will write a full critique of this novel.
+
+
+
+
+#############################################
+
+
+#######
+Today
+#######
+
+!!!!Catch up with 10A and 9C from last week!!!!
+
+
+
+---- Open
+
+Sustainable development is the pathway to the future we want for all. It offers a framework to generate economic growth, achieve social justice, exercise environmental stewardship and strengthen governance. 			
+			--- Ban Ki-moon
+			(Eighth Secretary-General of the United Nations)
+
+NB. "Our Common Future", also known as the Brundtland Report, was published in October 1987 by the UN. Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime Minister and Chair of the World Commission on Environment and Development.
+The Land of the Free
+
+
+
+Writing is an act of faith, not a trick of grammar. 
+		-- E. B. White
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+** Grading
+	Good job! 
+	Grading Rubric
+	Common Errors doc
+		Grammar
+			==> ErrorCodes
+
+	Know what is asked of you
+	Format counts
+		
+	
+	"We"
+	Summarizing is not regurgitating
+		==> could relate the entire universe to see shell but...
+	Not focused on marketing 
+	
+	Widows/Orphans
+	Number conventions one to ten
+	Distinctive writing styles in the same document
+	Note: Please see me during work time for a detailed explanation and suggested amendments.
+	Language only for humans?? Quorum sensing in bacteria
+	
+
+--- Review
+
+*Language models
+	std linguistic (Konrod)
+	Zipf's Law and Dirichlet generative models
+
+* Complex adaptive systems and systems analysis
+	Hothouse Earth
+	
+
+--- New
+** Murphy's English Grammar in Use
+Found here:
+	Reference Docs
+		==> Grammar
+			==> Texts
+
+Units			Pg 
+	***34		 p.68
+
+
+** Strunk and White’s. “Elements of Style”		<== 10A
+Found here:
+	Reference Docs
+		==> Grammar
+			==> Texts
+			
+	I 	Elementary Rules of Usage	
+	II	Elementary Principles of Composition
+	V	An approach to Style
+
+** Critique
+Found here:
+	Reference Docs
+		==> Grammar
+			==> Critique
+			
+	Chesapeake College Guidelines				
+
+
+Found here:
+	Reference Docs
+		==> Grammar
+			==> Critique
+			
+	"Land of the Free" by Geoffrey K Pullum 	
+		
+		NB. Article in The Guardian:
+		A review - the pants rule and other pipe dreams
+		A breezy guide to grammar that sides with the ordinary Joe against the nitpickers
+		"The Truth About English Grammar" a book by Geoffrey K Pullum
+		
+		https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-grammar-by-geoffrey-k-pullum-review-the-
+		pants-rule-and-other-pipe-dreams
+
+
+** Charlotte's Web seminar		
+Found here:	runt 
+	Content Docs
+		==> Novels
+		
+	Goals:
+		* Summarize Major Theme Development
+		* Summarize Character Development
+		* Summarize Story Arc 
+		* Summarize Writing Style
+		* Your personal opinion of the work
+
+	Review chapter I-XI summaries / questions 	
+	runt 
+	Review the Important Themes --------
+		1. Friendship
+		2. Life and Death
+		3. Courage and Sacrifice
+		4. Identity and Self-Worth
+		5. The Power of Words
+		6. Kindness and Compassion
+		
+	Highlights and important events as plot elements, 
+	
+	Character Development
+		==> Character maps that include motivations, traits, relationships, and key events
+	
+	Stylistic elements used by the author (genre)
+	
+	Critique the author's choices and style
+
+
+
+** Vocab_01.txt 72 words from Readings 01, 02, 03
+** Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
+	
+
+
+--- Coming up
+** APA and Professional Voice
+
+** Final written critique Charlotte's Web
+
+** More Murphy's Grammar
+
+
+
+---- Work time
+Silent reading (20 min)
+	
+
+
+
+
+
+

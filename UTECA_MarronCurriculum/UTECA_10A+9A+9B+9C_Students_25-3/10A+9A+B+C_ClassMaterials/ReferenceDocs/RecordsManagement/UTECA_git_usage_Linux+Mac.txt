@@ -1,0 +1,898 @@
+
+Title:				git usage_Linux+Mac
+Project Descriptor:	Setting up a Git Version Control System with GitHub on Linux and Mac (Unix)
+Project ID:			UTECA1_TranslatorAPIs
+Author:				bmarron
+Origin Date:		25 Dec 2024
+Revision Date:		
+
+The steps below assume a Linux OS. For Mac you'll need to install Git and likewise work from the command line.
+The git-based commands will be the same because "Mac OS X is a Unix OS and its command line is 99.9% the same as 
+any Linux distribution." Some articles may help:
+
+https://git-scm.com/downloads/mac
+https://github.com/git-guides/install-git
+https://docs.github.com/en/get-started/getting-started-with-git/set-up-git
+https://git-scm.com/downloads
+https://www.freecodecamp.org/news/setup-git-on-mac/
+
+
+###################
+git install 
+##################
+$ sudo apt update &&
+  sudo apt install git-all &&
+  sudo apt install gitk
+
+
+####################
+help
+##################
+git help <verb>
+git <verb> --help
+man git-<verb>
+
+
+##############
+Definitions
+#############
+states of tracked files
+committed			the data is safely stored in your local database.
+
+modified			the file has been changed but not yet committed to your database
+
+staged				marked a modified file in its current version to go into your next commit snapshot
+
+
+
+HEAD				the head of a branch ( a line of work; a series of commits)
+					$ git checkout <branch name> 
+						moves HEAD to the head of that branch
+					$ git branch
+						a simple listing of your current branches
+						the * character indicates the branch that you currently have checked out 
+						(i.e., the branch that HEAD points to). This means that if you commit at this point, 
+						the checked out branch will be moved forward with your new work.
+
+origin			the default name Git gives to the (typically offsite) server you cloned from
+
+branch 			simply a reference to a line of work (ie, a series of commits)
+				
+
+master			The default branch name in Git is master.The “master” branch in Git is not a special branch. 
+				It is exactly like any other branch. The only reason nearly every repository has one is that 
+				the git init command creates it by default and most people don’t bother to change it.
+				
+				
+upstream		Adding an upstream remote to a forked Git repository allows you to keep your fork synchronized 
+				with the original repository, allowing you to fetch the latest changes from the upstream project
+				
+pull			two steps: fetch + merge (= pull)
+
+###########################
+General Git (local) set-up
+###########################
+
+$ git config --list		#if on a new compu, this returns nothing
+
+==== configure global settings =========================================
+	a. '--global' stores in /home/bmarron/.gitconfig (hidden) file
+
+	a1. set these globals (username to match GitHub username)
+	
+
+
+$ git config --global user.name "bmarron18" &&
+git config --global user.email "soil.foodwebs@gmail.com" &&
+git config --global core.editor "notepadqq"&&
+git config --global http.sslVerify false &&
+git config --global alias.visual '!gitk'&&
+git config --global alias.last 'log -1 HEAD' &&
+git config --global --unset credential.helper
+
+$ git config -l
+
+
+	a2. $ git config --global alias.last 'log -1 HEAD'			<== see last commit
+	a3. $ git visual											<== run external program, 'gitk' w/ command, 
+	a4. $ git config --global merge.tool kdiff3 				<== DO NOT USE
+	a5. $ git config --global credential.helper cache			<==cache to remember the token after a push
+		If needed, anytime you can delete the cache record by:
+		$ git config --global --unset credential.helper
+	a6. $ git config -l OR $ git config --list					<== check config changes (command line)
+
+
+	b. check from .git folder (GUI file manager)
+$ notepadqq /home/bmarron/.gitconfig
+[user]
+	name = bmarron18
+	email = marron.bruce.mx@gmail.com
+[core]
+	editor = gedit
+[alias]
+	last = log -1 HEAD
+	visual = !gitk
+
+
+###################
+General
+Repositories Set up
+####################
+
+Each 'repository' composed of an onsite repository and its offsite repository (image)
+
+Must have:
+	*an offsite repository in GitHub (https://github.com/) already setup
+		-- follow GitHub instructions for new repository setup
+
+	*an onsite repository setup by keying a compu folder with a (hidden) /.git subfolder  
+		-- (eg ~/Desktop/UTECA/UTECA_AI_TranslatorSetup/UTECA1_TranslatorAPIs has a /.git subfolder)
+
+
+###################
+Offsite (Github)
+Repositories Set up
+####################
+
+===== STEP 1: setup the offsite repository(s) in GitHub ====================================================
+			#on-line go to: https://github.com/
+			#login
+			-- username: bmarron18  (soil.foodwebs@gmail.com)
+			-- password: 18AV1dd*67R [old ==> 756vop7C (as of 16 Sept 2016)]
+
+
+			#GitHub charges for private repositories!!
+			#in public repositories can still choose who can commit
+			#select the READ ME file option so that you can check the interface to the onsite repository
+			# new repo
+				'This will set master as the default branch'
+				
+			# obtain a authetication token; Fine-grained token
+			# You can use a personal access token in place of a password when authenticating to GitHub in the command line 
+		https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+		Settings
+			==> <> Developer Settings
+				==> Personal Access Tokens (Fine-Grained)
+					==> Token_20241226
+					 	Access on @bmarron18 bmarron18
+						Repository access	This token has access to all repositories owned by you.
+
+					Token_20241226 (never expires)		<== NEVER put token in a doc to be 'pushed' to the 
+															offsite repo (the doc will contain a secret)
+					
+
+My personal (public) Repositories (as of 25 Dec 2024):
+
+	UTECA1_TranslatorAPIs
+ 				
+	Repo_1								<== Development of Dynamical Models for AgroEV
+			
+	Repro_2								<== Bayesian Stats, LANDIS
+				
+	ProjectFiles_LANDIS-II_Updates
+	
+
+
+
+#########################################
+Onsite repository set up AND synch to offsite repo
+(must manually copy in additional subdirectories and files)
+##########################################
+
+	#use 'git clone' 
+	#automatically creates a folder with local repository installed, branches set, fetch and pull set
+	#clones a repository into a newly created folder on desktop (local)
+		--creates remote-tracking branches for each branch in the cloned repository (visible using git branch -r)
+		--creates and checks out an initial branch that is forked from the cloned repository’s currently active branch
+
+
+	#open terminal in local folder [to be used to clone in the (empty) offsite repo]
+
+$ git clone https://github.com/bmarron18/UTECA1_TranslatorAPIs
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done
+
+
+	# open new terminal in recently cloned folder (the new onsite repo)
+	# check repo log
+	# >> Core-Model_GitHubLog_20160916.txt 		<== send log to text file
+
+$ git log --oneline --decorate 
+b47764e (HEAD -> master, origin/master, origin/HEAD) Initial commit
+
+
+	# cd to new onsite repo folder and check (p.69 ProGit2)
+	# the clone command implicitly adds the remote named, 'origin' 
+
+$ git remote -v
+origin	https://github.com/bmarron18/UTECA1_TranslatorAPIs (fetch)
+origin	https://github.com/bmarron18/UTECA1_TranslatorAPIs (push)
+
+	# full check of the remote named, 'origin' keyed to local folder, 'UTECA1_TranslatorAPIs'
+
+$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/bmarron18/UTECA1_TranslatorAPIs
+  Push  URL: https://github.com/bmarron18/UTECA1_TranslatorAPIs
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+
+
+	# examine the last commit
+$ git last
+commit b47764eeec697d186e85be9c1eb48f8b6fa5ab18 (HEAD -> master, origin/master, origin/HEAD)
+Author: Bruce D. Marron <soil.foodwebs@gmail.com>
+Date:   Fri Dec 27 07:50:57 2024 -0600
+
+
+	# dump in files/folder to new onsite repo and then track || stage || commit
+	# new onsite repo should be synched to offsite repo bc it was cloned
+
+		#Git-track all files per folder
+		 ---------
+		# ignore files to track (must set this up first)
+		#catalog of files to ignore for tracking/staging/committing/pushing
+
+
+$ cat .gitignore						
+*.[oa]
+* ̃
+		 
+		#track only .txt files
+$ git add Git/\*.txt			
+$ git add Python/\*.txt
+
+		#track all files!
+$ git add Git/\*.* &&
+git add Python/\*.*
+
+		# files and their status 
+$ git ls-files
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   Git/GHB_RepoSetUp.txt
+	....
+
+		#use 'git add --all' to add all files for staging
+												  --------
+$ git add --all
+$ git status
+
+		#use 'git commit -a -m "message"' to commit all staged files
+											 ------
+		# -a flag ==> all staged files committed
+		# -m flag ==> adds message to the commit
+			Please enter the commit message for your changes. Lines starting with '#' will be ignored, 
+			and an empty message aborts the commit.
+
+$ git commit -a -m "onsite repo initial files"
+[master ca8e3cf] onsite repo initial files
+ 57 files changed, 13494 insertions(+)
+ create mode 100644 Git/GHB_RepoSetUp.txt
+ ,,,,,
+ 
+ 	# push to offsite repo (aka 'origin')
+	# success!!!!!!
+	
+$ git remote -v
+origin	https://github.com/bmarron18/UTECA1_TranslatorAPIs (fetch)
+origin	https://github.com/bmarron18/UTECA1_TranslatorAPIs (push)
+
+
+
+$ git push --all
+Username: bmarron18
+Password: <full token>
+Username for 'https://github.com': bmarron18
+Password for 'https://bmarron18@github.com': 
+Enumerating objects: 60, done.
+Counting objects: 100% (60/60), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (59/59), done.
+Writing objects: 100% (59/59), 7.12 MiB | 1.74 MiB/s, done.
+Total 59 (delta 7), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (7/7), done.
+To https://github.com/bmarron18/UTECA1_TranslatorAPIs
+   b47764e..a39f141  master -> master
+
+$ git config --global credential.helper cache
+
+
+
+
+--- NB Error in push-----------------------------------------------------------------		
+	# cannot have token in any file!!!! (the token is the secret)
+	remote:       —— GitHub Personal Access Token ——————————————————————
+remote:        locations:
+remote:          - commit: ca8e3cf31a7a75444ac0bc75a312c6c5c6ffd9ff
+remote:            path: Git/git_usage1a.txt:144
+remote:          - commit: ca8e3cf31a7a75444ac0bc75a312c6c5c6ffd9ff
+remote:            path: Git/git_usage1a.txt:808
+remote:          - commit: ca8e3cf31a7a75444ac0bc75a312c6c5c6ffd9ff
+remote:            path: Git/git_usage1a.txt:815
+remote:          - commit: ca8e3cf31a7a75444ac0bc75a312c6c5c6ffd9ff
+remote:            path: Git/git_usage1a.txt:819
+remote:          - commit: ca8e3cf31a7a75444ac0bc75a312c6c5c6ffd9ff
+remote:            path: Git/git_usage1a.txt:820
+
+To https://github.com/bmarron18/UTECA1_TranslatorAPIs
+ ! [remote rejected] master -> master (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/bmarron18/UTECA1_TranslatorAPIs'
+
+	# Remove the secret from your code.
+    # To commit the changes, run git commit --amend --all. This updates the original commit that introduced the secret instead 
+	of creating a new commit.
+    # Push your changes with git push
+		https://docs.github.com/en/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#removing-a-secret-introduced-by-the-latest-commit-on-your-branch
+	#only works immediately after failed push (no other pushes!!!!)
+	# delete file git_usage1a.txt
+	
+$ git commit --amend --all
+master 0c5e18d] onsite repo initial files w/o secret again
+ Date: Fri Dec 27 10:30:40 2024 -0600
+ 1 file changed, 1049 deletions(-)
+ delete mode 100644 Git/git_usage1a.txt
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+############################################################################################
+Sample work flow: 
+make changes to a tracked file then stage it, commit it, and push it
+############################################################################################
+
+==== STEP 1. make changes and check status  ====================================
+
+		# add new files or make changes to an existing
+		#make changes to 'git_usage1a.txt' file
+		#check status
+		#unstaged: in red
+
+$ git status
+
+
+==== STEP 2. stage and check  ===========================================
+
+		#use 'git add <filename>'
+		#stage the modified file
+		OR 
+		# git add --all
+
+$ git add <file name>
+OR
+$ git add --all
+$ git status
+
+
+
+==== STEP 3. commit the staged file ==========================================
+
+		#use 'git commit -a -m "<message>"'
+			-a flag ==> all staged files committed
+			-m flag ==> adds the (required) message to the commit (o/w sends you to nano text editor)
+
+$ git commit -a -m "25Dec2024_2"
+[master 411e795] 25Dec2024_2
+ 1 file changed, 31 insertions(+), 56 deletions(-)
+
+
+
+==== STEP 4. push the committed file ===================================
+
+		# can also use 'git push <offsite name> HEAD'
+		#(HEAD ==> A handy way to push the current branch to the same name in the offsite)
+		#use 'git push <offsite name> <onsite branch>'
+
+$ git push --all
+
+
+
+
+
+
+
+
+
+
+
+###############################################################################
+Files ==> tracked/untracked, staged/unstaged, committed/uncommitted, pushed
+###############################################################################
+
+==== STEP 1. check for tracked/untracked files =================
+
+		#any file not tracked is untracked
+		#untracked/unstaged: in red
+
+$ git ls-files
+
+==== STEP 2. check for staged/unstaged files ====================================
+
+$ git status
+
+
+==== STEP 3. stage the unstaged and check status ==============================================
+
+		#stage new files by adding them
+			--use 'git add [<folder> | <file>]' to stage specific unstaged new folders and files (since last update)
+			--use 'git add --all' to stage everything (since last update)
+
+		#stage deleted files by removing them (ie the folder and all its contents)
+			--use 'git rm [<folder> -r | <file>]' to stage the unstaged deleted files (since last update)
+
+		#unstaging files deleted since last update --------------------------------------------------------------
+		$ git rm <folder> -r'
+
+$ git status
+$ git rm United_Way -r
+$ git status
+
+		#use 'git add --all' to add all files for staging
+$ git add --all
+
+$ git status
+
+==== STEP 4. commit the staged files ===============================================================
+
+	#use 'git commit -a -m "message"'
+	 -a flag ==> all staged files committed
+	 -m flag ==> adds the (required) message to the commit (o/w sends you to nano text editor)
+
+$ git commit -a -m "26Dec2024_b"
+
+==== STEP 5. push committed files in onsite repository to offsite repository ======
+
+	# option: use 'git push <offsite name> HEAD'
+	# (HEAD ==> A handy way to push the current branch to the same name in the offsite)
+	#Option: use 'git push <offsite name> <onsite branch>
+
+
+$ git push --all
+
+
+
+==== STEP 6: check that offsite repository has been updated ============================
+
+------ option 1 --------------------------------------------
+		#log in to GitHub (https://github.com/)
+		#go to offsite repository and look at files
+
+------ option 2 ----------------------------------------------
+		#use GUI 'gitk'
+
+$ gitk
+
+
+
+###################
+history
+#####################
+
+==== STEP 1. use GUI, 'gitk' ===========================
+
+		#shows history AND lists files extant and deleted in offsite repository!!!
+		#enter 'gitk' in onsite repository 
+
+~/Desktop/Projects$ gitk
+
+
+==== STEP 2. can check log (see git_usage2.txt or ProGit.pdf for custom log checking) ================================
+
+~/Desktop/Projects$ git log
+
+
+
+
+
+
+
+
+
+
+
+========== Misc Code	=============================
+
+
+#############################
+Alternate repos set up
+#############################
+==== STEP 2: set up the onsite repository(s) ====================================================
+		#select/create a folder to house an empty repository (/.git directory)
+		#go to folder address in Linux terminal
+		#use 'git init' to key the folder to the 'git' pkg and install the /.git subfolder
+		#NOTE	the presence of a README.md file in a folder means that this folder already is an onsite repository
+
+$ git init
+
+
+==== STEP 3: key the onsite repository(s) to the correct offsite repository(s) =======================================
+
+		# do even if already added an upstream!!!!
+			[$git remote add upstream <url>]
+		# assumes already set up the offsite repository in GitHub (https://github.com/)
+		# check out the help page for 'remote'
+			--$ git help remote
+			--$ git remote ==> to manage set of tracked repositories
+
+		#go to local repository folder address in Linux terminal
+		#use specific syntax to link local and GitHub repositories
+
+
+
+$ git remote add UTECA1_TranslatorAPIs https://github.com/bmarron18/UTECA1_TranslatorAPIs.git
+
+
+		#check --- link is properly forged 
+$ git remote -v
+UTECA1_TranslatorAPIs	https://github.com/bmarron18/UTECA1_TranslatorAPIs.git (fetch)
+UTECA1_TranslatorAPIs	https://github.com/bmarron18/UTECA1_TranslatorAPIs.git (push)
+
+
+		#check --- oops! Two links b/c mis-spelled name!!
+		#correct the error by removing the incorrect remote link
+			$ git remote rm Repo_2
+			$ git rm upstream
+
+
+==== STEP 4:  Get local changes in order before interface with the offsite repository ===================
+		# In older versions of Git, running git pull with uncommitted changes is discouraged: while possible, it leaves you in a
+       	state that may be hard to back out of in the case of a conflict.
+
+       # If any of the remote changes overlap with local uncommitted changes, the merge will be automatically canceled and the work	
+	   tree untouched. It is generally best to get any local changes in working order before pulling or stashing them away 
+	   (with git stash(1).
+
+
+		#Git-track all files per folder
+		 ---------
+$ git add Git/\*.*
+$ git add Python/\*.*
+
+		# files and their status 
+$ git ls-files
+$ git status
+
+		#use 'git add --all' to add all files for staging
+												  --------
+$ git add --all
+$ git status
+
+		#use 'git commit -a -m "message"'
+		# -a flag ==> all staged files committed
+		# -m flag ==> adds message to the commit
+		#Please enter the commit message for your changes. Lines starting with '#' will be ignored, 
+		and an empty message aborts the commit.
+
+$ git commit -a -m "onsite repo initial files"
+
+
+
+==== STEP 4b:  interface the onsite repository to the offsite repository ===================
+	# !!OJO!!	==> skip if cloned the repo for initial set up
+	
+	#two steps: fetch + merge (= pull)
+	# More precisely, git pull runs git fetch with the given parameters and then depending on configuration options 
+	or command line flags, will call either 'git rebase' or 'git merge' to reconcile diverging branches.
+	#<refspec> == <offsite name/branch> (usually)
+		$ git fetch <offsite name>	<==  grabs data from branch 'master' in the offsite repository 
+		$ git merge <offsite name/branch> 	<== creates branch 'master' and merges data to onsite repository
+		$ git pull <offsite name/branch> 
+	
+
+	
+
+$ git fetch UTECA1_TranslatorAPIs
+
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (3/3), 873 bytes | 873.00 KiB/s, done.
+From https://github.com/bmarron18/UTECA1_TranslatorAPIs
+ * [new branch]      master     -> UTECA1_TranslatorAPIs/master
+
+
+
+	#merge to onsite repository ==> merges the branch, 'master' 
+	#this means all files on UTECA1_TranslatorAPIs/master are copied to the onsite branch 'master'
+	#(ie adds the md file, READ ME to the onsite repository folder)
+
+$ git merge UTECA1_TranslatorAPIs/master
+fatal: refusing to merge unrelated histories
+
+		#check branch sync
+		#option -r causes the remote-tracking branches to be listed
+		#option -a shows both local and remote branches
+
+$ git branch -a
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/master
+
+
+
+
+==== STEP 5.  status of the onsite-to-offsite connection ============================
+
+		#check --- configuration correct
+$ git remote show UTECA1_TranslatorAPIs
+* remote UTECA1_TranslatorAPIs
+  Fetch URL: https://github.com/bmarron18/UTECA1_TranslatorAPIs.git
+  Push  URL: https://github.com/bmarron18/UTECA1_TranslatorAPIs.git
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+
+		#check --- adds the md file, READ ME to the onsite repository folder
+$ ls
+ESUR_IGERT  README.md  SoE
+
+
+
+
+
+
+===== Issues ===========================================================================================
+
+
+############
+problems with token
+#################
+remote: - GITHUB PUSH PROTECTION
+remote:   —————————————————————————————————————————
+remote:     Resolve the following violations before pushing again
+remote: 
+remote:     - Push cannot contain secrets		<== ie the Personal Token
+remote: 
+remote:     
+remote:      (?) Learn how to resolve a blocked push
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-block
+
+
+Removing a secret introduced by the latest commit on your branch
+If the blocked secret was introduced by the latest commit on your branch, you can follow the guidance below.
+
+    Remove the secret from your code.
+    To commit the changes, run git commit --amend --all. This updates the original commit that introduced the secret instead of creating a new commit.
+    Push your changes with git push.
+
+
+#################
+Token Authentication
+Problems
+########################
+https://www.geeksforgeeks.org/how-to-authenticate-git-push-with-github-using-a-token/
+https://www.mycyberuniverse.com/how-fix-fatal-authentication-failed-for-https-github-com.html
+https://github.com/cli/cli/releases
+gh_2.64.0_linux_amd64.deb		<== already installed
+
+Method 1	<== DOESNT WORK
+git remote set-url origin https://<TOKEN>@github.com/username/repository.git
+git remote set-url origin https://Token_20241226@github.com/bmarron18/UTECA1_TranslatorAPIs.git
+
+
+Method 2		<== DOESNT WORK
+https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+$ gh auth login
+? Where do you use GitHub? GitHub.com
+? What is your preferred protocol for Git operations on this host? HTTPS
+? Authenticate Git with your GitHub credentials? Yes
+? How would you like to authenticate GitHub CLI?  [Use arrows to move, type to filter]
+  Paste an authentication token
+
+gh config set -h github.com git_protocol https
+✓ Configured git protocol
+✓ Logged in as bmarron18
+
+Method 3	<== DOESNT WORK
+gh auth login --with-token <full token>
+
+Method 4	<== DOESNT WORK
+git config --global url."https://api:$.com/".insteadOf "https://github.com/"
+git config --global url."https://ssh:$<token>.com/".insteadOf "ssh://git@github.com/"
+git config --global url."https://git:$<token>.com/".insteadOf "git@github.com:"
+
+
+Method 5	<== DOESNT WORK
+git config --global credential.helper '!f() { sleep 1; echo "password=git token=<token>; }; f'
+
+
+https://github.com/cli/cli/discussions/6889
+cant push with gh command
+
+
+
+Method 6		<== WORKED once (didnt throw "secret violated" error)
+https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed
+Once GIT is configured, we can begin using it to access GitHub. Example:
+
+$ git push UTECA1_TranslatorAPIs master
+Username: <type your username>
+Password: <type your password or personal access token (GitHub)		<== type whole token, not name of token
+
+Now cache the given record in your computer to remembers the token:
+$ git config --global credential.helper cache
+
+If needed, anytime you can delete the cache record by:
+$ git config --global --unset credential.helper
+$ git config --system --unset credential.helper
+
+
+Method 7	<== USE THIS
+https://docs.github.com/en/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line
+
+
+emote:       —— GitHub Personal Access Token ——————————————————————
+remote:        locations:
+remote:          - commit: 1e2822f8500609bcf9b6eb3cac3db6cc10bb3556
+remote:            path: Git/git_usage1a.txt:77
+remote:          - commit: 1e2822f8500609bcf9b6eb3cac3db6cc10bb3556
+remote:            path: Git/git_usage1a.txt:97
+remote:          - commit: 1e2822f8500609bcf9b6eb3cac3db6cc10bb3556
+remote:            path: Git/git_usage1a.txt:104
+remote:          - commit: 1e2822f8500609bcf9b6eb3cac3db6cc10bb3556
+remote:            path: Git/git_usage1a.txt:108
+remote:          - commit: 1e2822f8500609bcf9b6eb3cac3db6cc10bb3556
+remote:            path: Git/git_usage1a.txt:109
+
+
+
+#########################################
+DONT USE
+onsite repository flash set up!
+(must manually copy in additional subdirectories and files)
+###########################################
+
+	#use 'git clone' and skip STEPS 2 - 5 below
+	#automatically creates a folder with local repository installed, branches set, fetch and pull set
+	#clones a repository into a newly created directory on desktop (local)
+		--creates remote-tracking branches for each branch in the cloned repository (visible using git branch -r)
+		--creates and checks out an initial branch that is forked from the cloned repository’s currently active branch
+
+	#after the clone
+		-- a plain git fetch without arguments will update all the remote-tracking branches
+		-- a git pull without arguments will in addition merge the remote master branch into the current master branch, if any 
+
+
+
+	a. cd to desired directory for the clone
+$ cd /home/bmarron/Desktop/UTECA/UTECA_AI_TranslatorSetup
+
+
+	b. clone the repo
+
+$ git clone https://github.com/bmarron18/UTECA1_TranslatorAPIs
+cloning into 'UTECA1_TranslatorAPIs'...
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 7 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (7/7), 13.64 KiB | 135.00 KiB/s, done.
+
+
+	c. check repo log
+
+$ git log --oneline --decorate >> Core-Model_GitHubLog_20160916.txt
+35921f6 (HEAD -> master, origin/master, origin/HEAD) Update README.md
+76cec69 Initial commit
+
+	d. cd to new repo folder
+	d1. check (p.69 ProGit2)
+	d2. the clone command implicitly adds the remote named, 'origin' 
+
+$ git remote -v
+origin	https://github.com/bmarron18/UTECA1_TranslatorAPIs (fetch)
+origin	https://github.com/bmarron18/UTECA1_TranslatorAPIs (push)
+
+
+	e. full check of the remote named, 'origin' keyed to local folder, 'UTECA1_TranslatorAPIs'
+
+$ git remote show
+origin
+
+
+$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/bmarron18/UTECA1_TranslatorAPIs
+  Push  URL: https://github.com/bmarron18/UTECA1_TranslatorAPIs
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+
+
+
+	f. examine the last commit
+$ git last
+commit 35921f6b074e747716177ed53863ca431657b1e4 (HEAD -> master, origin/master, origin/HEAD)
+Author: Bruce D. Marron <soil.foodwebs@gmail.com>
+Date:   Wed Dec 25 21:24:26 2024 -0600
+    Update README.md
+
+
+
+	g. set up synch to original (offsite) repo
+	g1. specify a new local remote named 'upstream' that links to the ORIGINAL_OWNER/ORIGINAL_REPOSITORY in GitHub
+	g2. check
+
+$ git remote add upstream https://github.com/bmarron18/UTECA1_TranslatorAPIs.git
+$ git remote rm upstream
+
+
+$ git remote -v
+origin	https://github.com/bmarron18/UTECA1_TranslatorAPIs (fetch)
+origin	https://github.com/bmarron18/UTECA1_TranslatorAPIs (push)
+upstream	https://github.com/bmarron18/UTECA1_TranslatorAPIs.git (fetch)
+upstream	https://github.com/bmarron18/UTECA1_TranslatorAPIs.git (push)
+
+
+????
+	h. update local (on box) repo from original LANDIS-II-Foundation repo 
+	h1. if changes from original repo, push to forked repo on GitHub (eg https://github.com/bmarron18/Core-Model)
+	h1. The push to the forked repo is what keeps the forked repo in sync
+	h2. fetch changes from ORIGINAL repo ==> merge changes from ORIGINAL repo to local (on box) repo ==> push changes to forked GitHub repo
+	h3. git push [forked repo remote name] [local repo branch name]
+
+$ git fetch upstream
+From https://github.com/LANDIS-II-Foundation/Core-Model
+ * [new branch]      Widgets    -> upstream/Widgets
+ * [new branch]      master     -> upstream/master
+bmarron@bmarron-HP-Compaq-6710b-RM406UT-ABA:~/Desktop/PSU/PhD_EES/2016SoE021_LANDIS_Upgrades/Works_InProgress/LANDIS-II-Foundation_ClonedRepos/Core-Model
+
+$ git checkout master
+Already on 'master'
+Your branch is up-to-date with 'origin/master'.
+
+$ git merge upstream/master
+Already up-to-date.
+
+$ git push origin master
+Username for 'https://github.com': bmarron18
+Password for 'https://bmarron18@github.com': 
+Everything up-to-date
+
+????
+
+
+
+#############
+kdiff3
+DO NOT USE!!!
+#############
+https://download.kde.org/stable/kdiff3/
+kdiff3-1.11.2.tar.xz
+
+extra-cmake-modules from Synaptic
+extra-cmake-modules is already the newest version (5.92.0-0ubuntu1).
+
+https://code.launchpad.net/ubuntu/+source/extra-cmake-modules/5.95.0-0ubuntu1
+extra-cmake-modules_5.95.0-0ubuntu1_amd64.deb
+
+Building KDiff3 requires the fallowing minimum versions:
+ 1)Qt 5.15 or later
+ 2)KF5 5.86+
+ 3)CMake 3.18
+ 4)ECM 5.86+
+ 5)boost 1.71+
+ Supported compilers:(Must have full c++17 support version cut offs are approximate)
+ 6)MSVC 2019+, gcc 9.0+, clang 10+
+
+To build KDiff3 run:
+  cmake . && make
+  sudo make install
