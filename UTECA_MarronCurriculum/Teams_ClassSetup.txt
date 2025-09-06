@@ -1,0 +1,21 @@
+
+
+#########
+Setting up 
+Teams Class Folders
+########################
+
+Class Materials
+	AdminDocs
+	ContentDocs_1p
+	ContentDocs_2p
+	ContentDocs_3p
+	GradingRubrics
+	LectureNotes
+	ReferenceDocs
+		AI_APIs_Python
+		Grammar
+		<Content Specific>
+		POV_and_Voice
+		StyleGuides_APA
+		VCS_Git
