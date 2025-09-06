@@ -1,0 +1,200 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9A+B+C
+
+
+#####################
+HW_11 [Due: 23 Jul 2025]	<== 9A+B+C
+HW_11 [Due: 24 Jul 2025]	<== 10A
+
+
+--- Task 1
+Following the EXCERPT guides for each paper, read the appropriate sections in 
+	01a_Shanahan_TalkingAboutLLMs.pdf
+	02a_Balhorn_etal_ChatGPT-in-science-engineering.pdf
+	03a_Leiter_etal_Metrics_MachineTranslation.pdf
+	
+Define the following terms/acronyms:
+
+	perceptron
+	artificial neural network
+	large language model (LLM)
+	vision-language models (VLM)
+	supervised learning 
+	unsupervised learning
+	reinforcement learning with human feedback (RLHF)
+	
+	emergence
+	
+	application programmer interface (API)
+	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
+	crosslingual optimized metric for evaluation of translation (COMET)
+	bidirectional encoder representations from transformers (BERTScore)
+	
+	
+--- Task 2Ausente
+Read "04_ai-2027." What do think of this analysis? Are the scenario(s) presented plausible? Are the authors and their methods credible? Write an opinion piece (2+ paragraphs) expressing your thoughts.
+
+--- Task 3
+Read Chapter 13, Chapter 14, and Chapter 15 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+	We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, 
+	transportation, communication, manufacturing.
+				--- Andrew Ng 
+			
+			
+	I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe 
+	a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years 
+	from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about 
+	overpopulation on Mars. 
+				--- Andrew Ng
+			(founder of DeepLearning.AI, Chairman and co-founder of Coursera, Adjunct Professor at 
+			Stanford University)
+
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Go over 2P exam
+
+
+"unfreedoms"
+		economic poverty (no food, water, clothing, shelter, money)
+		lack of public facilities and social care (no health, education, security)
+		lack of political and civil liberties (restrictions on social, political and economic life)
+		
+Substantive freedoms are:
+	economic opportunities
+	political liberties
+	social powers
+	good health
+	basic education
+	encouragement and cultivation of initiatives
+	liberty to participate in social choice
+	liberty to participate in the making of public decisions
+	
+Five distinct types of freedom, seen in an "instrumental" perspective:
+	(1) political freedoms
+	(2) economic facilities
+	(3) social opportunities
+	(4) transparency guarantees
+	{5) protective security
+
+
+--- Review
+
+
+--- New
+
+** Science -- AI and LLMs
+
+Translation in the 21 C... go thru prezy
+
+
+
+
+In class reading---
+Shanahan_TalkingAboutLLMs
+	EXCERPT 01b_Shanahan_TalkingAboutLLMs
+
+Balhorn_etal_ChatGPT’_natural-science_and_engineering
+	02b_ EXCERPTS_Balhorn.txt
+
+Leiter_etal_Metrics_MachineTranslation
+	03b_ EXCERPTS_Leiter_Metrics.txt
+	
+and now, the future?
+	04_ai-2027.pdf
+	
+
+
+
+** More Murphy's English Grammar in Use
+	Unit			Pg
+	141 			282		Phrasal verbs 5 on/off (2)
+	142				284		Phrasal verbs 6 up / down
+
+
+** Bless Me, Ultima
+Chapter 8, Chapter 9, Chapter 10, Chapter 11, Chapter 12
+	Read highlights
+	Class reads answers to questions
+	
+Ch 8
+	The bad blood of spring
+	Late nights gambling, etc
+	"We have to get the hell out'a here,'' Eugene said
+	Serrano's bull
+	
+**Ch 9
+	Tony's dream about innocence
+	Leon and Gene off to ABQ ...Andrew in school
+	Girls are only trouble when a man is young and wanting to get ahead.
+	Tony and Andrew on the bridge with the Kid
+	That year we waited for the world to end.
+	Fishing with Samuel ---Tony's a man !
+	Legend of The Golden Carp
+	
+**Ch 10 
+	Lucas and Ultima
+	No one can play with fate
+	The evil brujas! Tenorio's daughters
+	Antonio and Ultima against evil
+	Ultima nd Tenorio
+	Antonio and Lucas
+	Ultima...Es sin pecado,
+
+
+Ch 11
+	Do you know who lives there?" Cico pointed at a green arbor.
+	The gang teases Tony abouty Ultima and witchcraft
+	"I don't know," Cico answered, "except that people, grown-ups and kids, seem to want to hurt each other-
+	and it's worse when they're in a group."
+	Prophecy of the Golden Carp
+	
+Ch. 12
+	
+
+
+--- Coming up
+
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

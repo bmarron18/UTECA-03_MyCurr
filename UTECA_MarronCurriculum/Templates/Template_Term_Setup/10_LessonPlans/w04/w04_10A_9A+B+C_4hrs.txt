@@ -1,0 +1,266 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9A+B+C
+
+
+#####################
+HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
+HW_04 [Due: 05 Jun 2025]	<== 10A
+
+
+--- Task 1
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of 109 words from the second part of Charlotte's Web.
+
+--- Task 2
+If you haven't yet done so, finish reading "Charlotte's Web." Be prepared to begin your critique of the entire novel. The critique will be assigned next week and due .
+
+
+--- Task 3
+Prep for 1P exam. You should be able to:
+* Compare and contrast Spanish, English, and Chinese (briefly)]
+* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+* Define Zip's Law and explain why it is useful
+* Define what generative text models are and very roughly, what they can do
+* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+* Read and evaluate new information regarding perspectives on academic writing
+* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
+* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish translation on the exam
+
+
+	
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+"Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on."
+		--- Paula Abdul
+		(singer, dancer, choreographer, actress, and television personality)
+
+
+
+
+
+
+“If you are going through hell, keep going.” 
+		-- Winston Churchill
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+HW Notes
+	Watch formatting!
+		header
+		No UTECA logo
+		titles
+		font
+		margins
+		widows/orphans
+		
+	Be clear on tasks
+		only reading for Charlotte's Web
+		a summary is a summary
+		
+	Be careful on injecting opinion
+		
+	Use a standard format for lists (ordered or unordered)
+	
+	T/O == throughout
+
+
+--- Review
+	* Strunk and White’s. “Elements of Style”
+	* Critique and Pullman
+	* Charlotte's Web
+
+
+--- New
+** More Murphy's English Grammar in Use
+	Unit			Pg 
+	70				p 152
+
+
+** APA and Professional Voice
+	Rapid review of APA-style docs
+
+
+** Charlotte's Web seminar			<== 9A (finished Ch 11;
+											Round 2 to )
+									<== 9B (finished Ch 10;
+											Round 2 to )
+									<== 9C (started Ch 11;
+											Round 2 to )
+									<== 10A (finished Ch 4;
+											Round 2 to )
+	Ch. 1 - 11
+	Ch. 12 - 22 and entire novel (next week)
+	
+	* Characters and  Character Development / Character Maps
+		Round 1: A simple, Who is this? A main character?
+		
+		Round 2:  Motivations, traits, personality, relationships, key events
+		(after Important Events)
+
+			Fern
+			Avery
+			Mr. Arable
+			Mrs. Arable
+			Wilbur
+			The Goose
+			Templeton
+			Charlotte
+			The Old Sheep
+			Homer and Edith Zuckerman
+			Lurvy
+
+			Henry Fussy
+			Dr. Dorian
+			Uncle
+			Joy, Aranea, and Nellie
+			
+	* Important events (as plot elements and key events for characters)
+		Rapid scan thru entire novel highlighting events
+
+	* Important Themes
+		1. Friendship
+		2. Life and Death
+		3. Courage and Sacrifice
+		4. Identity and Self-Worth
+		5. The Power of Words
+		6. Kindness and Compassion
+		
+	
+	* The Story Arc and Mini-arcs
+		1. Time / Space
+		2. Plot
+	
+	
+	* Writing Style
+		==> ease of reading?
+		==> flow?
+		==> dialog?
+		==> wordiness?
+		==> emotive?
+		==> holds together logically?
+		==> genre?
+	
+	
+	* Your personal opinion of the work
+
+
+
+
+** Final written critique Charlotte's Web ==> HW_05 (write AFTER exam)
+Write a three+-page critique of Charlotte's Web, Use the Chesapeake College guide to organize your document and present your critique in the following format (see Marron Style Guide):
+
+	Task 1: A Critique of E.B. White's, "Charlotte's Web"
+
+Introduction					
+	* What is "Charlotte's Web"? Why is it important? 
+	* Who is E.B. White? Why is he famous? When did he publish the book?
+	* Provide a very brief overview of the book
+
+Evaluation and Criticism		
+	* Define the upcoming sections
+	
+	Major Theme Development	
+		* Theme 1
+			==> Definition of the theme
+			==> Describe how the theme is developed citing examples from the book
+			==> Evaluate the author's ability to develop the theme
+		
+		* Theme 2
+			==> Definition of the theme
+			==> Describe how the theme is developed citing examples from the book
+			==> Evaluate the author's ability to develop the theme
+		
+	Character Development	
+		* Character 1
+			==> Description of the character
+			==> Describe how the character is developed citing examples from the book
+			==> Evaluate the author's ability to develop the character
+		
+		* Character 2
+			==> Description of the character
+			==> Describe how the character is developed citing examples from the book
+			==> Evaluate the author's ability to develop the character
+
+	Story Arc 		
+		* Briefly define and/or diagram the story arc (the chronological construction of the plot)
+
+	Writing Style	
+		* Evaluate E.B. White's style
+			==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?
+			==> holds together logically?
+			==> genre?
+
+Conclusions						
+	* Summarize Major Theme Development section
+	* Summarize Character Development section
+	* Summarize Story Arc section
+	* Summarize Writing Style section
+	* State your personal opinion of the work
+
+
+** Prep for Exam 1P (Task 3)
+	* Compare and contrast Spanish, English, and Chinese (briefly)
+	* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+	* Define Zip's Law and explain why it is useful
+	* Define what generative text models are and very roughly, what they can do
+	* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+	* Read and evaluate new information regarding perspectives on academic writing
+	* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
+	* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt 
+	and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish 
+	translation on the exam.
+
+
+
+--- Coming up
+	* Exam 1P
+	
+	* Legal Docs 1
+	
+	* Econ Docs I
+	
+	*"Bless Me, Ultima"
+
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

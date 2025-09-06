@@ -1,0 +1,165 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9A+B+C
+
+
+#####################
+NO HW
+
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+	"Por lo tanto, crearon [la gente a sus crias] instintos arificiales que permitieron que millones de extraños cooperaran de manera efectiva. Este red se llama <<cultura>>....A diferencia de las leyes de la fisica, que carecen inconsistencias, todo orden creado por el hombre está repleto de contradicciones internas. Las culturas intentan constantemente reconciliar dichos contradicciones, y este proceso impulsa el cambio [en la cultura]."
+			--- Yuval Noah Harari, "Sapiens: Breve Historia de la Humanidad"
+		
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+**Exam 3P
+
+
+--- Review
+** Exam 3P quick review
+** Again, requirements for critique (final exam)
+** HW please!!!
+
+
+--- New
+
+** More Murphy's English Grammar in Use		<== DO both!!
+	Unit			Pg 
+	114				228		in case
+	115				230		unless as long as provided
+
+
+
+**
+Exam 3P -- Open Book
+T1
+	Why are LLMs called “large language models”?
+	What is a perceptron and how (basically) does it function?
+	What is it that LLMs actually do?
+
+T2
+	Explain i) the nature of an API, and ii) the nature of Python.
+	Briefly explain the concept of prompt engineering.
+	Select one of these metrics and briefly explain how it works.
+		Bilingual evaluation understudy (BLEU) metric
+		(n-gram comparisons) OR
+		Metric for evaluation of translation with explicit ordering (METEOR)
+		(n-grams, synonymy, stemming, word order)
+		In METEOR, synonymy involves matching words with similar meanings (like "cat" and "feline"), using resources such as WordNet, while stemming reduces words to their root form (e.g., "plays" to "play"), allowing for matches between morphological variations of the same word using tools like the Porter Stemmer. These two processes are crucial for METEOR's comprehensive word-to-word alignment, which includes exact matches, stemmed matches, and synonym matches, leading to a more human-like and accurate evaluation of machine translation quality than metrics that rely solely on surface-level matches.
+		
+T3
+	--Briefly define what is meant by the Moral Accountability Gap?
+	2. Moral Accountability Gap -- AI may make individual persons less able to understand, explain, and reflect upon their own and other (human) agents’ behaviour.  
+	AI contributes to the creation of a more complex chain of decision-making and action (the “problem of many hands”)
+	AI due to its intrinsic opacity, might make a system’s behaviour extra hard to understand and explain
+	AI technology development and production is arguably pervaded by an increasing pressure towards deploying proprietary technologies that, even when working through mechanisms accessible to their developers and programmers, are designed to be inaccessible to public scrutiny
+
+
+	--Briefly define what is meant by the Public Accountability Gap?
+	Citizens not being able to get an explanation for decisions taken by public agencies, politicians, civil servants, and other human agents invested with a public function bc gov´t has outsourced to private companies AND/OR bc AI is opaque
+
+
+	--Briefly explain the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC)
+	MHC requires that two conditions be satisfied: “tracking” and “tracing”.
+	Tracking: the nature of the AI human-machine relationship is well-defined (AI is aligned with human goals, values, and intentions)
+	Tracing: the AI human-machine relationship requires human control and responsibility at every step (there is someone who understands the AI system and has the authority to accept responsibility from design through deployment).
+
+
+
+
+** Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge
+	Enrique Lamadrid
+	
+--- The Dialectics of Knowledge
+	In essence, the dialectics of knowledge provides a framework for understanding knowledge as a complex, evolving entity, shaped by internal contradictions and external interactions, rather than a fixed and unchanging body of information.
+	A perspective that views knowledge as a dynamic, It emphasizes the interplay of opposing forces, such as individual and social knowledge, or new and obsolete knowledge, to understand how knowledge develops and changes over time. This approach, often rooted in dialectical materialism, sees knowledge as a social and material process, not a static collection of facts
+
+
+--- Mythical Realism (cf. magical realism)
+	Myth, the collective interpretation of the contradictions in the historical and ecological experience of a people.
+	
+--- Problem Statement 
+	Anaya penetrates deeply the mythical conscience of the reader through the relationship of Ultima (sorceress) and Antonio (apprentice). How does he do it?
+	Something exceptional about the emerging consciousness of the boy...mystically harmonious with nature but a dynamic, even dialectical awareness of historical forces....invites a reexamination of the relation of myth and social consciousness, often considered antithetical incompatible categories that undermine and erode each other....the novel apparently transcends this impasse
+	Despite their enthusiasm for his novel, critics have thus far been unable to define the parameters of this response nor prove the reason for its depth
+
+--- Thesis
+	What is proposed here is a more dynamic critical approach to myth which goes beyond scholasticism and the tracing of classical mythologies. Myth is here considered to be an ongoing process of interpreting and mediating the contradictions in the everyday historical experience of the people. At the novel's heart is the process which generates social and historical consciousness.
+	
+	
+--- Ultima and Antonio as the Constructs of the Thesis
+	The ultimate focus is not that Ultima is the repository of an ancient system of knowledge nor the usual supernatural feats of a curandera.....it is her role as a cultural mediator and Antonio's natural inclination towards a similar calling that link them to their real power...the ability to recognize and resolve the internal contradictions of their culture
+	People turn to Ultima and Antonio at crucial moments in their lives because they are instinctively aware that mediators (curanderas and trickters) possess an overview or power of synthesis that can help them resolve their problems.
+	The power invested in the mythical process is the knowledge derived from seeing the world as a totality and understanding its contradictions in a dialectical manner.
+
+
+
+** Bless Me, Ultima
+Chapter 16
+	God is unfair; much confusion (Tenorio and Narciso)
+	Meeting Tenorio one afternoon on the way home; almost killed!
+	Tenorio's second daughter is dying
+	Ultima: You didnt pick anything up?
+	No acknowledgment of guilt and penance done for the wrong, there can be no forgiveness
+
+Chapter 17
+	Father Byrnes and the mysteries of God
+	spring dust storms and the A-bomb
+	Gabriel the ecologist
+	Florence, Tony and the Gang on religion
+	Eternity (p 201)
+
+Chapter 18
+	Catechism and Virgin Mary
+	Tony the Priest for the Gang (Lord of the Flies!!)
+	Florence and the blasphemy
+	"I am the priest! " I shouted back, "and I have absolved him of his sins!"
+
+Chapter 19
+	Easter Sunday and First Communion
+	The purity of confession
+	Now I will know the answers! 
+	But so many questions unanswered...the Voice within me did not answer. There was only silence.
+
+
+** 3P Exam (last two hours)
+
+	
+
+--- Coming up
+
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+
