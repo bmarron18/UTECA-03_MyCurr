@@ -6,6 +6,16 @@ Author:				bmarron
 Origin Date:		25Dec2024
 Revision Date:		08Jan2025
 
+#########
+Repo Name Change
+################
+
+	#if change name of repo in GitHub
+	open local repo and reset origin
+
+$ git remote show origin
+$ git remote set-url origin NEW_URL
+$ git remote show origin
 
 
 ###########
@@ -14,19 +24,30 @@ Git Recovery
 stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
 
 
-
-	git log					<== To check the commits
-							<== or in GitHub or Gitk
-
-	git checkout afe52								<== HASH
+----  Check the commits in local repo on compu------
+	git log	
+	git checkout afe52								<== HASH abbrev
 	git checkout 'master@{1979-02-26 18:30:00}'		<== by date
 	git checkout @{14.days.ago}						<== by days
+	
+	Find file/directory and SaveAs
 
-To go back to where you were, just check out the branch you were on again:
-	git checkout master
+To go back to current repo, just check out the branch (normally 'master') you were on again:
+	git clone --branch <branchname> <remote-repo-url-commit>
+	git clone --branch master <remote-repo-url-commit-hash>
 
 
-For those wanting to download a specific Commit from GitHub, steps are below:
+---- Check the commits in GitHub ---------
+	
+under the green "<Code>" button clic on  [clock + # Commits] symbol
+		==> list of commits by data
+		select a commit and clic on "<>" [browse repo at this point]
+
+Download file
+	Once in an old commit find file of interest
+	Open the file and download using the download symbol
+
+Download a specific Commit [ie, all of the repo at that time] from GitHub :
    	Click icon w/ number of commits(a clock-ish thing)
 	Click the "<>" icon to browse repo at various commits
     Go back to the top of the repo at old commit
@@ -35,8 +56,9 @@ For those wanting to download a specific Commit from GitHub, steps are below:
     Download ZIP
 
 
-Cloning a Commit In this case you can check out the old branch by using its branch name:
-	git clone --branch <branchname> <remote-repo-url-commit>
+Cloning a Commit 
+	In this case you can check out the old commit by using its branch name:
+	git clone <remote-repo-url_commit-hash>
 
 
 
