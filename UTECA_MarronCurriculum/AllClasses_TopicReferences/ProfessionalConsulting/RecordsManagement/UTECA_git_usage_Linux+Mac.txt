@@ -224,6 +224,8 @@ $ git remote show origin
   Local ref configured for 'git push':
     master pushes to master (up to date)
 
+	#if change name of repo
+$ git remote set-url origin NEW_URL
 
 	# examine the last commit
 $ git last
