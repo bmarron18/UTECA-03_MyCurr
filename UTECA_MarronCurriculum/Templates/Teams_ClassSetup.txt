@@ -3,19 +3,22 @@
 #########
 Setting up 
 Teams Class Folders
+(Select structure based on class)
 ########################
 
 Class Materials
 	AdminDocs
-	ContentDocs_1p
-	ContentDocs_2p
-	ContentDocs_3p
-	GradingRubrics
-	LectureNotes
+	ContentDocs
+		1p
+		2p
+		3p
+		Texts
+		Textbooks
+		Novels
+	
 	ReferenceDocs
-		AI_APIs_Python
+		AI-Based_Translation
 		Grammar
-		<Content Specific>
-		POV_and_Voice
-		StyleGuides_APA
-		VCS_Git
+		InformationTheory_SystemsScience_Inference
+		Marron_StyleGuide-ErrorsKey
+		ProfessionalConsulting
