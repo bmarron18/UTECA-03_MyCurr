@@ -10,14 +10,13 @@ Lexile Reading Level = 930L
 352 pages; 16 Chapters
 ###############################################
 
-%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
 1. Mother-Daughter Relationships
 The novel explores the complex relationships between Chinese-American immigrant mothers and their American-born daughters. It delves into the expectations and cultural differences that create tension and misunderstanding between the generations.The mothers’ traditional values and expectations often clash with their daughters' desires for independence and assimilation. 
 
 2. Cultural Identity and Assimilation
-The theme of cultural identity is central to the novel, focusing on the immigrant experience and the challenge of maintaining one’s heritage while assimilating into a new culture.
-There is conflict between traditional Chinese values and American culture and the characters struggle to reconcile their cultural identity with their desire to fit into American society.
+The theme of cultural identity is central to the novel, focusing on the immigrant experience and the challenge of maintaining one’s heritage while assimilating into a new culture. There is conflict between traditional Chinese values and American culture and the characters struggle to reconcile their cultural identity with their desire to fit into American society.
 
 3. Generational Conflict
 The novel portrays the generational conflicts between immigrant parents and their children, highlighting the differences in values, expectations, and life experiences. There is a generational gap in understanding and communication and the generational differences affect family dynamics.
@@ -25,19 +24,49 @@ The novel portrays the generational conflicts between immigrant parents and thei
 4. Self-Discovery and Empowerment
 The characters’ journeys toward self-discovery and empowerment are central to the novel. Each woman grapples with her own identity, desires, and sense of agency. There is personal growth of each character as they confront their past and cultural expectations.
     
-5. Family and Legacy
-The theme of family and legacy explores the impact of family history and heritage on individual lives and the ways in which the past influences the present and future.
+5. Family Legacy and Loyalty
+The theme of family legacy and loyalty explores the impact of family history and heritage on individual lives and the ways in which the past influences the present and future.
 
 6. Communication and Misunderstanding
 The novel highlights the difficulties of communication and the misunderstandings that arise from cultural and generational differences. Language barriers affect relationships and the characters attempt to bridge gaps in understanding.
 
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother					Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair	—>	Lena St. Clair
+
+%%%%%%%%%%%%	Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+First Section Intro: Feathers From a Thousand LI Away
+	Ch. 1	o The Joy Luck Club: Jing-Mei Woo
+	Ch. 2	o Scar: An-Mei Hsu
+	Ch. 3	o The Red Candle: Lindo Jong
+	Ch. 4	o The Moon Lady: Ying-Ying St. Clair
+Second Section Intro: The Twenty-Six Malignant Gates
+	Ch. 5	o Rules of the Game: Waverly Jong
+	Ch. 6	o The Voice from the Wall: Lena St. Clair
+	Ch. 7	o Half and Half: Rose Hsu Jordan
+	Ch. 8	o Two Kinds: Jing-Mei Woo
+Third Section Intro: American Translation
+	Ch. 9	o Rice Husband: Lena St. Clair
+	Ch. 10	o Four Directions: Waverly Jong
+	Ch. 11	o Without Wood: Rose Hsu Jordan
+	Ch. 12	o Best Quality: Jing-Mei Woo
+Fourth Section Intro: Queen Mother of the Western Skies
+	Ch. 13	o Magpies: An-Mei Hsu
+	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+	Ch. 15	o Double face: Lindo Jong
+	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
 
 
 
 %%%%%%%%% Synopsis, Vocab and Discussion Questions	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
---- Chapter 3
+--- Rules of the Game: Waverly Jong (Ch. 3)
 In Chapter 3 of The Joy Luck Club, titled "Rules of the Game," the narrative centers on the story of Waverly Jong, a young Chinese-American girl living in San Francisco. Waverly is introduced as a prodigy in chess, a talent that her mother, Lindo Jong, helps nurture. Lindo is highly ambitious and strict, pushing Waverly to excel in chess and follow her own rules of discipline. This chapter details Waverly’s rise in the chess world and the tense, often contentious, relationship she has with her mother, who exerts immense pressure on her. As Waverly becomes increasingly successful, the dynamic between her and her mother becomes more strained, highlighting the broader theme of cultural expectations versus personal desires.
 
 Vocabulary
@@ -71,7 +100,7 @@ Qs
 
 
 
---- Chapter 2
+--- Scar: An-Mei Hsu (Ch 2)
 In Chapter 2 of "The Joy Luck Club," the story centers on a young Chinese-American girl named Waverly Jong and her experiences with her mother, who is fiercely determined to make her a chess champion. The chapter explores Waverly’s journey as she becomes a child chess prodigy. Her mother’s strict and demanding nature pushes Waverly to excel in chess, but it also creates tension between them. The story illustrates the high expectations placed on Waverly and her struggle to reconcile her own desires with her mother’s ambitions.
 
 Vocab
@@ -87,12 +116,12 @@ Qs
    	How does the story reflect the cultural values of Chinese-American families regarding achievement and success?
    	What cultural differences between Waverly and her mother might contribute to their conflicts?
 	What does chess symbolize in Waverly’s life and her relationship with her mother?
-    How does the game of chess reflect broader themes in the story?
+  
 
 
 
 
---- Chapter 1
+--- The Joy Luck Club: Jing-Mei Woo (Ch 1)
 Chapter 1 introduces the formation of the Joy Luck Club, a gathering of four Chinese-American immigrant women who come together to play mahjong and share their experiences and hopes. The chapter is narrated from the perspective of June (Jing-mei) Woo, the daughter of one of the original members, Suyuan Woo. June reflects on her mother’s legacy and the club's significance. After her mother's death, June is asked to take her place in the club and tell the story of her mother to the other members. This chapter sets up the central theme of generational and cultural conflicts and introduces the intertwining lives and stories of the club's members.
 
 Vocab
@@ -100,30 +129,17 @@ Vocab
     predecessor
 
 Qs
-		Why is the swan feather so meaningful?
-		
-        What is the purpose of the Joy Luck Club, and why is it important to the members?
+		What is the purpose of the Joy Luck Club, and why is it important to the members?
         How does June feel about taking her mother’s place in the club?
 		How does Suyuan Woo’s legacy affect June and the other members of the club?
         What do you think Suyuan hoped to pass on to her daughter and the other members through the Joy 
 		Luck Club?
-		How does the chapter reflect the cultural traditions and values of the Chinese-American 
-		community?
-        In what ways do the cultural traditions in the novel create a sense of identity for the 
-		characters?
-		How does June’s relationship with her mother reflect generational and cultural differences?
-        What challenges do the characters face in reconciling their own identities with their parents’ 	
-		expectations?
+		
+---	Section: Feathers From a Thousand LI Away
 
-
-
-
-
-
-
-
-
-
+Qs
+		Why is the swan feather so meaningful to Suyuan Woo
+		
 
 
 
