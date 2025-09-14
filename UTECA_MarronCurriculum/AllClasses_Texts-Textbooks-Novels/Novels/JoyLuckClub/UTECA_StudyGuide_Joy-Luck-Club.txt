@@ -39,23 +39,23 @@ An-mei Hsu			—>	Rose Hsu Jordan
 Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair	—>	Lena St. Clair
 
-%%%%%%%%%%%%	Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-First Section Intro: Feathers From a Thousand LI Away
+%%%%%%%%%%%%	Preambles and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+First Section Preamble: Feathers From a Thousand LI Away
 	Ch. 1	o The Joy Luck Club: Jing-Mei Woo
 	Ch. 2	o Scar: An-Mei Hsu
 	Ch. 3	o The Red Candle: Lindo Jong
 	Ch. 4	o The Moon Lady: Ying-Ying St. Clair
-Second Section Intro: The Twenty-Six Malignant Gates
+Second Section Preamble: The Twenty-Six Malignant Gates
 	Ch. 5	o Rules of the Game: Waverly Jong
 	Ch. 6	o The Voice from the Wall: Lena St. Clair
 	Ch. 7	o Half and Half: Rose Hsu Jordan
 	Ch. 8	o Two Kinds: Jing-Mei Woo
-Third Section Intro: American Translation
+Third Section Preamble: American Translation
 	Ch. 9	o Rice Husband: Lena St. Clair
 	Ch. 10	o Four Directions: Waverly Jong
 	Ch. 11	o Without Wood: Rose Hsu Jordan
 	Ch. 12	o Best Quality: Jing-Mei Woo
-Fourth Section Intro: Queen Mother of the Western Skies
+Fourth Section Preamble: Queen Mother of the Western Skies
 	Ch. 13	o Magpies: An-Mei Hsu
 	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
 	Ch. 15	o Double face: Lindo Jong
@@ -129,16 +129,36 @@ Vocab
     predecessor
 
 Qs
+		What is odd about June's father's understanding of his wife's death?
+		What is odd about the deaqth as perceived by the members of the Joy Luck Club?
+		How is June's Chinese? How do we know?
+		Judging from the immigration suitcase, what is the nature of June's parent's relationship?
+		And the family's wealth?
+		Why is it that, "In China, everybody dreamed about Kweilin"? Why did June's mom go there?
+		There is an extreme hierarchy in Kweilin ("Everybody looked down on someone else.") Why?
+		What was theoriginal inspiration fortheJoyLuck club?
+		Is June's mom superstitious? How would you describe her rationale for items to be brought to the Joy Luck Club?
+		Is it right to celebrate in the midst of desperation? "But to despair was to wish back for something already lost....What was worse, we asked among ourselves, to sit and wait for our own deaths
+with proper somber faces? Or to choose our own happiness?"
+	What is the real ending to the Kweilin story? How did it make you feel?
+	How does June feel about taking her mom's place? Why?
+	What's so smart about the new ways people can have joy and luck at the Joy Luck Club?
+	What type of person is June's mom? Accepting of others? Critical?
+	What is June's mom's version of organic chemistry? Do you know of this cosmology?
+	Do the ladies at the mah jong table take the game seriously?
+	Does the game "translate" well? (eg to Jewish players?)
+		
+		
+
 		What is the purpose of the Joy Luck Club, and why is it important to the members?
         How does June feel about taking her mother’s place in the club?
 		How does Suyuan Woo’s legacy affect June and the other members of the club?
         What do you think Suyuan hoped to pass on to her daughter and the other members through the Joy 
 		Luck Club?
 		
----	Section: Feathers From a Thousand LI Away
-
+---First Section Preamble: Feathers From a Thousand LI Away
 Qs
-		Why is the swan feather so meaningful to Suyuan Woo
+	Why is the swan feather so meaningful to Suyuan Woo
 		
 
 
