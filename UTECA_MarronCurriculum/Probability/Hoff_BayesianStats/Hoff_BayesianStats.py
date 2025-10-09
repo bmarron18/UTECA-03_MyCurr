@@ -49,7 +49,7 @@ Hoff, 1.2.1 Est. prob of a rare event
 # Binomial (discrete)
     # https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html#scipy.stats.binom
     
-    # binom.ppf(q, n, p, loc=0)  <== % point fxn, percentiles (inverse of cdf)
+    # binom.ppf(q, n, p, loc=0)  <== % point fxn, percentiles (inverse cdf)
     # binom.pmf(k, n, p, loc=0)  <== prob mass fxn
     #   k = count of successes/type a
     #   n = total count of trials/slots
@@ -62,7 +62,7 @@ Hoff, 1.2.1 Est. prob of a rare event
 # Beta (continuous)
     # https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.beta.html#scipy.stats.beta
 
-    # beta.ppf(q, a, b, loc=0, scale=1) <== % point fxn, percentiles (inverse of cdf)
+    # beta.ppf(q, a, b, loc=0, scale=1) <== % point fxn, percentiles (inverse cdf)
     # beta.pdf(x, a, b, loc=0, scale=1) <== prob density fxn
     # beta.cdf(x, a, b, loc=0, scale=1) <== cumulative density fxn (the integral of the pdf)
 
@@ -75,30 +75,33 @@ Hoff, 1.2.1 Est. prob of a rare event
     #   == Y/Z == θ (true) (unk)
     
     # PRIOR INFO:
-    #   θ (true) may be [0,1] (thus, a rv)
+    #   θ (true) is [0,1] (thus, a rv)
     #   Other cities report/believe θ (true) == [0.05, 0.20] centered ~0.10
 
 
 # --- Technical/Modeling Approach ---------------------------------------
     # Estimate θ (true) from a (random) sample of the city pop 
-    #   == ct all infected in (random) sample/ct of (random) sample from pop 
-    #   == y^/z^ == θ^
+    #   ==> ct all infected in (random) sample/ct of (random) sample from pop 
+    #       == y^/z^ == θ^
 
     # Can set z^ (sample size) but the value of  y^ is TBD (thus, a rv)
     #   z^ == 20
-    # ASSUME a prob model for the rv y^ (sampling model) 
-    #   == p(y^|θ^) == binomial dist
+    # ASSUME a prob model for the rv y^ (a sampling model) 
+    #   ==> p(y^|θ^) == binomial dist
     
-    # θ (true) is UNK (thus, a rv) with a parameter space [0,1]
-    # ASSUME a prob model for the rv θ (true) (prior model)
-    #   == p(θ (true)) == beta(2, 20)
+    # θ (true) is UNK (a rv) with a parameter space [0,1]
+    # ASSUME a prob model for prior info about the rv θ (true) (a prior model)
+    #   ==> p(θ (true)) == beta(2, 20)
 
 
 # --- Outcome Space from Actual Sampling -----------------------------------------  
     # If take a sample of 20 people and the output for each person is either
     # type a or type b then there is/are
     #   1048576 possible unique sequences (permutations) for the data
-    #       == 2^20 == 2**20
+    #       ==> 2^20 == 2**20
+    # The output space of unique sequences is now closed (1048576 entities)
+    
+    
     #   1 sequence with 0 infected == 20!/0!20! == math.comb(20,0)
     #   20 sequences with one infected == 20!/1!19! == math.comb(20,1)
     #   190 sequences with two infected == 20!/2!18! == math.comb(20,2)
