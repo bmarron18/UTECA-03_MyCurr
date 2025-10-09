@@ -46,8 +46,9 @@ with open(output_f, "w", encoding="utf-8") as f:
 Hoff, 1.2.1 Est. prob of a rare event
 '''
 # --- Statistical functions (scipy.stats) --------------------
+# Binomial (discrete)
     # https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html#scipy.stats.binom
- 
+    
     # binom.ppf(q, n, p, loc=0)  <== % point fxn, percentiles (inverse of cdf)
     # binom.pmf(k, n, p, loc=0)  <== prob mass fxn
     #   k = count of successes/type a
@@ -57,6 +58,14 @@ Hoff, 1.2.1 Est. prob of a rare event
     #   loc=0 <== endpoint of distro
     
     # ctrl+Shift+U 03B8  θ
+    
+# Beta (continuous)
+    # https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.beta.html#scipy.stats.beta
+
+    # beta.ppf(q, a, b, loc=0, scale=1) <== % point fxn, percentiles (inverse of cdf)
+    # beta.pdf(x, a, b, loc=0, scale=1) <== prob density fxn
+    # beta.cdf(x, a, b, loc=0, scale=1) <== cumulative density fxn (the integral of the pdf)
+
 
 
 # --- Problem Statement and Prior Info --------------------------------------
@@ -99,8 +108,15 @@ Hoff, 1.2.1 Est. prob of a rare event
     #   ...
     #   1 sequence with 20 infected == 20!/20!0! == math.comb(20,20)
 
+# %%
 
-# --- Plot Various pmfs of Sampling Model --------------------------
+'''
+Hoff, 1.2.1 Est. prob of a rare event
+(cont'd)
+'''
+
+
+# --- Plot Various pmfs of the Sampling Model --------------------------
 import math
 import numpy as np
 import pandas as pd
@@ -136,10 +152,76 @@ theta3
 ggsave(theta3, "theta3.jpeg")
 
 
+
 # %%
 
+'''
+Hoff, 1.2.1 Est. prob of a rare event
+(cont'd)
+'''
+
+import math
+import numpy as np
+import pandas as pd
+from scipy.stats import binom, beta
+from plotnine import ggplot, aes, labs, geom_line, geom_col, ggsave
 
 
+# --- Plot pdf of the Prior --------------------------
+
+a, b = 2, 20
+x = np.linspace(beta.ppf(0.0, a, b), beta.ppf(1.0, a, b), 100)
+#x = np.linspace(0, 1.0, 100)
+y = beta.pdf(x, a, b)
+df = pd.DataFrame({'x':x,'y':y})
+
+
+theta_prior = (
+    ggplot(df)
+    + aes(x="x", y="y")
+    + labs(
+        x="theta",
+        y="???",
+    )
+    + geom_line()
+#    + geom_col()
+)
+
+    # see plot in "Plots" window Spyder
+theta_prior
+
+    # saves in current working directory (/home/bmarron18)
+ggsave(theta_prior, "theta_prior.jpeg")
+
+
+# --- Prob Calcs of the Prior --------------------------
+# https://www.statology.org/how-to-use-the-beta-distribution-in-python/
+
+    # mean
+mean = beta.mean(a, b, loc=0, scale=1)
+    
+    
+    # mode (max in pdf)
+df['y'].max()       # <== the max point (y-value) in the distro
+df['y'].idxmax()    # <== location (index) of the max in the df
+df.loc[5]           # <== values of the x,y coords at the location
+                    #   x-value is the (approx) mode
+
+    # NB. Inverses of cdf / percentiles (NOT of pdf)
+beta.cdf(0.05, a, b, loc=0, scale=1)                # <== gives 0.2830281551829153
+beta.ppf(0.2830281551829153, a, b, loc=0, scale=1)  # <== gives 0.05
+
+   
+    # Pr (theta < 0.10)
+beta.cdf(0.1, a, b, loc=0, scale=1)    
+    
+    
+    # # Pr (0.05 < θ < 0.20)
+(beta.cdf(0.2, a, b, loc=0, scale=1)) - (beta.cdf(0.05, a, b, loc=0, scale=1))
+
+
+
+# %%
 
 
 
