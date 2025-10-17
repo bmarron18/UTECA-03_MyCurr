@@ -20,6 +20,11 @@
 
 \usepackage[utf8]{inputenc}  
 \usepackage{fix-cm}  % this package allows large \fontsize
+
+\usepackage{sectsty}
+\chapternumberfont{\huge} 
+\chaptertitlefont{\huge}
+
 \usepackage{tikz}    % this is for graphics. e.g. rectangle on title page
 
 % The following dimensions specify 4.75" X 7.5" content on 6 3/8" by 9 1/4"
@@ -138,7 +143,7 @@ License: \booklicense
 %----- Preface ----------------------------
 % The asterisk excludes chapter from the table of contents.
 \chapter*{Preface}
-This book is dedeicated to hours of NOT understanding probability theory.
+This book is dedeicated to hours of NOT understanding probability theory and applied statistics. For my part, I want a deeper understanding of the mechanisms of assumption and the mechanisms of application that arise in the study of both probability and statistics. I am awed by those excellent mathematical statisticians who can rapidly manipulate the requisite symbologies to acheive end results. But I am often left thinking that in the swirl of manipulations there are hidden assumptions of which I am unaware; there are prerequisites and extensions that I am missing. I am forever grateful to Andrew ??? and Cosmo ??? (two of those excellent mathematical statisticians) who honestly report the limitations of statistical modeling and thus have encouraged me to dig deeper. I also owe a huge intellectual debt to E.T. Jaynes, Sir Harold Jefferies, and David J.C. MacKay for their use of probability theory as the logic of science, and to W. Ross Ashby for his tremendous insights on mechanism in observation via cybernetics.
 
 
 % ---------Three-level Table of Contents ----------------
@@ -150,12 +155,22 @@ This book is dedeicated to hours of NOT understanding probability theory.
 
 
 %--------- Chapter 1 -------------------------
-\chapter{Introduction}
-Introduction to Probabi;lity Models, 10th edition by Sheldon Ross
+\chapter{Discrete Entity Generators and Their Ouputs}
+\section{Introduction}
+The standard textbook rhetoric for introducing discrete probability usually includes dice, cards.
+
+\section{Discrete Entity Generators}
+Discrete entity generators ouput sets of observable entities with observable characteristics. Both the entities and the characteristics are uniquely identifiable through observation at a specified scale. The casual mechanisms operating in the generation of outputs are acknowledged but are generally left outside of the system under investigation.  
+\section{Output Spaces}
+\subsection*{Sequences}
+\subsection*{Collections}
+\section{Counts in the Output Spaces}
+\subsection*{Sequences}
+\subsection*{Collections}
 
 
-
-\section{Ross Examples}
+\section{Introduction to Probability Models, Sheldon Ross}
+\subsection*{Ross Examples}
 
 Suppose that n independent trials, each of which results in any of m possible outcomes with respective probabilities p1 , . . . , pm , $\sum pi = 1$, are continually performed. Let X denote the number of trials needed until each outcome has occurred at least once. Define the equation for X=n and explain the reasoning.\\
 

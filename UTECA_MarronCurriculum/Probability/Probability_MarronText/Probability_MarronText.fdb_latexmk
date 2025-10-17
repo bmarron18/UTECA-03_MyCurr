@@ -1,12 +1,12 @@
 # Fdb version 3
-["makeindex Probability_MarronText.idx"] 1757086556 "Probability_MarronText.idx" "Probability_MarronText.ind" "Probability_MarronText" 1757086622
-  "Probability_MarronText.idx" 1757086622 988 5311a3409e0b7c3dc59bd0d3756839cc "pdflatex"
+["makeindex Probability_MarronText.idx"] 1760723231 "Probability_MarronText.idx" "Probability_MarronText.ind" "Probability_MarronText" 1760725181
+  "Probability_MarronText.idx" 1760725181 988 5311a3409e0b7c3dc59bd0d3756839cc "pdflatex"
   (generated)
   "Probability_MarronText.ilg"
   "Probability_MarronText.ind"
-["pdflatex"] 1757086621 "Probability_MarronText.tex" "Probability_MarronText.pdf" "Probability_MarronText" 1757086622
-  "/etc/texmf/web2c/texmf.cnf" 1685675355 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/bmarron/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1688521848 11524 60b0ab9df777ef1a45a36a902322d84f ""
+["pdflatex"] 1760725180 "Probability_MarronText.tex" "Probability_MarronText.pdf" "Probability_MarronText" 1760725181
+  "/etc/texmf/web2c/texmf.cnf" 1697989211 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/bmarron18/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1760721420 11524 232d824f3c01d4b86abac8a5beec8c6a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrb7t.tfm" 1136768653 960 4ab65358b8406f30ef5496c8c096d22b ""
@@ -151,6 +151,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1601326656 325 f9f16d12354225b7dd52a3321f085955 ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty" 1586716065 803 1508145d595475dad3d7fb46782a0f94 ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd" 1137110629 985 1ed784d7bfe47179f3550d2303b073f8 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty" 1137110779 22423 d476012cd03f82f9475ad54ba6cd3267 ""
   "/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty" 1641594609 90399 93200a4832e517564b5aa5dc46e12177 ""
   "/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty" 1636758526 32262 2bb622a0aa56c4a7a5cbdfe9d122c15a ""
   "/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty" 1622581934 7392 39729ae6a807e217edf1442cf8fab2c2 ""
@@ -162,12 +163,12 @@
   "/usr/share/texmf/fonts/type1/public/tex-gyre/qcsb.pfb" 1480098745 127822 2c015c51e018288cae6240e5b1c6a8c4 ""
   "/usr/share/texmf/tex/latex/tex-gyre/ot1qcs.fd" 1480098840 1658 0933485134291249d08e6cdbe3bfef71 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1606190069 128028 f533b797fba58d231669ea19e894e23e ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1756918546 1477796 fc5695103f94c194d04b5c85076a2c30 ""
-  "Probability_MarronText.aux" 1757086622 3618 6eed7ce6248cba66edab63eb7a3e4a7c "pdflatex"
-  "Probability_MarronText.ind" 1757086556 1162 139e891276fb5ab910cea0352261f30a "makeindex Probability_MarronText.idx"
-  "Probability_MarronText.tex" 1757086621 9397 a1ee45056d527e5f9f6ec0ffafa57efe ""
-  "Probability_MarronText.toc" 1757086622 2086 53aba057114e3d0991c38c8934cb6ef7 "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1697989219 128028 f533b797fba58d231669ea19e894e23e ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1710607703 1405648 4a28b467be70bac1c207b7307ff0a765 ""
+  "Probability_MarronText.aux" 1760725181 4122 493c54247fc7e30006b0a0b77cf9ce01 "pdflatex"
+  "Probability_MarronText.ind" 1760723231 1162 139e891276fb5ab910cea0352261f30a "makeindex Probability_MarronText.idx"
+  "Probability_MarronText.tex" 1760725177 10676 7c90f07f6668c2dfa59f9f559153a571 ""
+  "Probability_MarronText.toc" 1760725181 2426 1c6e4bfb636b0d649c2d7eeb16718f33 "pdflatex"
   "graphics/drawing1b.png" 1757084076 347494 12b31fc1186993741ef67088dc45d326 ""
   (generated)
   "Probability_MarronText.aux"

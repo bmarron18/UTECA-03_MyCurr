@@ -15,10 +15,10 @@ Lexile Reading Level = 930L
 %%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Mother					Daughter
 --------				---------
-Suyuan Woo			—> Jing-mei "June" Woo
+Suyuan Woo			—>   Jing-mei "June" Woo
 An-mei Hsu			—>	Rose Hsu Jordan
 Lindo Jong			—>	Waverly Jong
-Ying-ying St. Clair	—>	Lena St. Clair
+Ying-ying St. Clair		—>	Lena St. Clair
 
 %%%%%%%%%%%%	Preambles and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 First Section Preamble: Feathers From a Thousand LI Away
@@ -69,19 +69,90 @@ The novel highlights the difficulties of communication and the misunderstandings
 
 %%%%%%%%% Synopsis, Vocab and Questions	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+---  Without Wood: Rose Hsu Jordan  (Ch. 11)
+
+
+
+	
+--- Four Directions: Waverly Jong (Ch. 10)
+
+Vocab
+Qs
+	* Waverly's mom is immediately critical of Waverly. Why?
+	* Waverly's mom is critical of the restaurant. What does she do?
+	* How does Waverly account for the problems of the relationship with her mom?
+	* What's Waverly's big news?
+	* How did Waverly handle the marriage to her first husband?
+	* Waverly can't seem to introduce her fiance, Rich. Why not?
+	* Are unannounced visits acceptable from in-laws?
+	* What is the state of Waverly's apartment?
+	* What is clear about Waverly's life as reflected in the state of her apartment?
+	* WHat is the "extravagant gift"?
+	* Waverly experiences anguish from her mom's comments. Why?
+	* Waverly feels she must do desperate things to "win" her mother back. What are tey?
+	* Why does Waverly give up chess?
+	* Do you think Waverly's mom really has such an influence on Waverly that, because of her mom's comments, Waverly goes "from disappointment to contempt to apathetic boredom" with her first husband?
+	* In the eyes of all, Rich fails miserably at dinner. Why?
+	* Waverly and Lindo really do have a very complicated relationship. What do you make of it?
+	
+
+	
+--- Rice Husband: Lena St. Clair (Ch. 9)
+
+Vocab
+Qs
+	* What is Lena's mom's "power"?
+	* How is the power limited?
+	* What evidence does Lena present for her mom's prescience?
+	* Harold gets his comeuppance on the drive to the new house. Why?
+	* How does Lena feel about this?
+	* Is Harold's exterminator request fair?
+	* What are the real problems facing Haold and Lena?
+	* What are the real bones of the new house?
+	* Why are pock-marked men marked according to Lena's mom?
+	* Lena has a terror-filled church experience. What happens? And how is related to Arnold?
+	* What are Lena's reflections on fate?
+	* How would you characterize the romance between Harold and Lena?
+	* How does Lena think of her love for Harold?
+	* How does money creep into the love equation?
+	* Is Lena a supportive partner? A good employee?
+	* How does Lena feel about her role at the company?
+	* Who is the creative force behind Harlod's success?
+	* How do Harold and Lena handle expenses? What do you think of the arrangement?
+	* Is Harold attentive to Lena?
+	* How do Lena's tears affect Harold?
+	* Why is Lena upset?
+	* What is the significance of the broken table?
+	
+
+Third Section Preamble: American Translation
+Qs
+	* Why is the location of the mirror important to the mother?
+	* Is the location important for the daughter?
+	* How is the mirror location resolved?
+
 --- Two Kinds: Jing-Mei Woo (Ch. 8)
 
-
-Vocabulary
-	
+Vocab	
 Qs
-	*
+	* Lindo, Jing-mei "June"'s mom believes that in America you can be a prodigy. What does Lindo do to "help" June find her stardom?
+	* How does June initially react to her mom's machinations?
+	* WHat happens to June's enthusiasm, and self-esteem, over time?
+	* Eventually June thinks her mom has given up on turning her into a prodigy until one night... WHat happens?
+	* Who is Mr. Chong? What special skills does he have? 
+	* How does June take advantage of Mr. Chong, and simultaneously foil her mother's attempts?
+	* June catches her mom boasting and decides to put an end to her foolish pride. How?
+	* June seems initially confident at the concert but what happens?
+	* How is June's recital received by the community?
+	* How does June take the results?
+	* Things come to a head later in the week with June screaming at her mom for making her try to be something she's not. She says something that ultimately causes her mom great pain and changes the relationship forever. What does she say?
+	* Later in life June realizes that she easily lets herself fall short of expectations. Why?
+	* Years later Lindo offers June the piano. At June rejects the offer but ultimately accepts and in so doing has a revelation. WHat happens?
 
 --- Half and Half: Rose Hsu Jordan (Ch. 7)
 
-
-Vocabulary
-	
+Vocab
 Qs
 	* What happens to Rose's mom's bible? Why?
 	* Will Rose's mom accept the divorce of her daughter?
