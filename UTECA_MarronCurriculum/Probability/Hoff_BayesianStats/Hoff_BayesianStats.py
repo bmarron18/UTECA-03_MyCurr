@@ -250,7 +250,7 @@ import math
 import numpy as np
 import pandas as pd
 from scipy.stats import binom
-from plotnine import ggplot, aes, labs, geom_col, ggsave, position_dodge2
+from plotnine import ggplot, aes, labs, geom_col, geom_bar, ggsave, position_dodge2
 
     # Binomial distro for possible values of θ
 n1, p1 = 20, 0.05     # <== theta1.jpeg
@@ -268,11 +268,11 @@ df1 = pd.DataFrame({'x':x,'y':y1})
 df2 = pd.DataFrame({'x':x,'y':y2})
 df3 = pd.DataFrame({'x':x,'y':y3})
 
+combined_df = pd.concat([df1, df2, df3])
+
     # plot all datasets in a single graph
 prior_thetas = (ggplot()
-    + geom_col(aes(x="x", y="y"), position = position_dodge2(preserve = "single"), data = df1, width=0.2, color="blue")
-    + geom_col(aes(x="x", y="y"), position = position_dodge2(preserve = "single"), data = df2, width=0.2, color="red")
-    + geom_col(aes(x="x", y="y"),  position = position_dodge2(preserve = "single"), data = df3, width=0.2, color="orange")
+    + geom_bar(combined_df, aes(x='x', y='y'), stat="identity", position = position_dodge2(preserve = "single"), width=0.4)
     + labs(title = "Plotting Multiple Datasets",
            x = "ct Infected",
            y = "Probability")
