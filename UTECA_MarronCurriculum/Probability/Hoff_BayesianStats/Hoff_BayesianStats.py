@@ -65,7 +65,8 @@ from scipy.stats import binom, beta
     # https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html#scipy.stats.binom
        
     # binom.pmf(k, n, p, loc=0)  <== prob mass fxn
-    #   n = ct of slots in sequence that result from sampling/experiment (ct of trials)
+    #   n = ct of slots in sequence that result from sampling
+    #   or experiment (ct of trials)
     #   k = ct of type a entities 
     #   n-k = ct of type b entties
     
@@ -124,8 +125,8 @@ Hoff, 1.2.1 Est. prob of a rare event
     #   == Y/Z == θ (true) (unk)
     
     # PRIOR INFO:
-    #   θ (true) is [0,1] (thus, a rv)
-    #   Other cities report/believe θ (true) == [0.05, 0.20] centered ~0.10
+    #   θ (true) is UNK (thus a rv) with a parameter space [0,1]
+    #   Other cities report/believe θ (true) == [0.05, 0.20] centered ~ 0.10
 
 
 # --- Technical/Modeling Approach ---------------------------------------
@@ -138,9 +139,8 @@ Hoff, 1.2.1 Est. prob of a rare event
     # ASSUME a prob model for the rv y^ (ie, a sampling model) 
     #   ==> p(y^|θ^) == binomial dist
     
-    # θ (true) is UNK (a rv) with a parameter space [0,1]
     # ASSUME a prob model for prior info about the rv θ (true) (a prior model)
-    #   ==> p(θ (true)) == beta(2, 20)
+    #   ==> p(θ (prior) == beta(2, 20)
 
 
 # --- Outcome Space from Actual Sampling -----------------------------------------  
@@ -190,7 +190,7 @@ Hoff, 1.2.1 Est. prob of a rare event
 '''
 
 
-# --- Plot Various pmfs of the Sampling Model --------------------------
+# --- Indiv. Plots of the Sampling Model Based on Prior Info --------------------------
 from pathlib import Path
 import os
 import math
@@ -199,17 +199,17 @@ import pandas as pd
 from scipy.stats import binom
 from plotnine import ggplot, aes, labs, geom_line, geom_col, ggsave
 
-    # 
+    # Binomial distro for possible values of θ
 # n, p = 20, 0.05     # <== theta1.jpeg
 n, p = 20, 0.10      # <== theta2.jpeg
 #n, p = 20, 0.20      # <== theta3.jpeg
 
 #x = np.arange(binom.ppf(0.01, n, p), binom.ppf(0.99, n, p))
-x = np.arange(binom.ppf(0.001, n, p), binom.ppf(1.0, n, p))
+x = np.arange(binom.ppf(0.01, n, p), binom.ppf(1.0, n, p))
 y = binom.pmf(x, n, p)
 df = pd.DataFrame({'x':x,'y':y})
 
-    # change name 
+    # plot single dataset 
 theta2 = (
     ggplot(df)
     + aes(x="x", y="y")
@@ -217,12 +217,12 @@ theta2 = (
         x="Infected",
         y="Prob",
     )
-#    + geom_line()
-    + geom_col()
+#    + geom_line(size=0.5, linetype = "dashed")
+    + geom_col(width=0.25)
 )
 
     # see plot in "Plots" window Spyder
-theta3
+theta2
 
     # saves in current working directory (/home/bmarron18)
 #ggsave(theta3, "theta3.jpeg")
@@ -232,7 +232,62 @@ doc_dir = "/home/bmarron18/Desktop"
 OUTPUT_FILE = "theta2.jpeg"
 output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
 output_f = Path(output_filepath)
-ggsave(theta3, output_f)
+ggsave(theta2, output_f)
+
+
+# %%
+
+'''
+Hoff, 1.2.1 Est. prob of a rare event
+(cont'd)
+'''
+
+
+# --- Single Plot of the Sampling Models Based on Prior Info --------------------------
+from pathlib import Path
+import os
+import math
+import numpy as np
+import pandas as pd
+from scipy.stats import binom
+from plotnine import ggplot, aes, labs, geom_col, ggsave, position_dodge2
+
+    # Binomial distro for possible values of θ
+n1, p1 = 20, 0.05     # <== theta1.jpeg
+n2, p2 = 20, 0.10      # <== theta2.jpeg
+n3, p3 = 20, 0.20      # <== theta3.jpeg
+
+n, p = 20, 0.10       #<== quick way to set limits of x for the distro
+x = np.arange(binom.ppf(0.01, n, p), binom.ppf(1.0, n, p))
+
+y1 = binom.pmf(x, n1, p1)
+y2 = binom.pmf(x, n2, p2)
+y3 = binom.pmf(x, n3, p3)
+
+df1 = pd.DataFrame({'x':x,'y':y1})
+df2 = pd.DataFrame({'x':x,'y':y2})
+df3 = pd.DataFrame({'x':x,'y':y3})
+
+    # plot all datasets in a single graph
+prior_thetas = (ggplot()
+    + geom_col(aes(x="x", y="y"), position = position_dodge2(preserve = "single"), data = df1, width=0.2, color="blue")
+    + geom_col(aes(x="x", y="y"), position = position_dodge2(preserve = "single"), data = df2, width=0.2, color="red")
+    + geom_col(aes(x="x", y="y"),  position = position_dodge2(preserve = "single"), data = df3, width=0.2, color="orange")
+    + labs(title = "Plotting Multiple Datasets",
+           x = "ct Infected",
+           y = "Probability")
+    )
+
+    # saves in current working directory (/home/bmarron18)
+#ggsave(thetas, "thetas.jpeg")
+# position = position_dodge(width = 0.8),
+
+    # saves to ~/Desktop
+doc_dir = "/home/bmarron18/Desktop"
+OUTPUT_FILE = "prior_thetas.jpeg"
+output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
+output_f = Path(output_filepath)
+ggsave(prior_thetas, output_f)
 
 
 # %%
