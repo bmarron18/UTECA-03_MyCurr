@@ -65,8 +65,7 @@ from scipy.stats import binom, beta
     # https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html#scipy.stats.binom
        
     # binom.pmf(k, n, p, loc=0)  <== prob mass fxn
-    #   n = ct of slots in sequence that result from sampling
-    #   or experiment (ct of trials)
+    #   n = ct of slots/trials/draws that result from sampling
     #   k = ct of type a entities 
     #   n-k = ct of type b entties
     
