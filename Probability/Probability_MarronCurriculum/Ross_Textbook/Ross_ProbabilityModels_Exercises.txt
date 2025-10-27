@@ -72,7 +72,7 @@ This is the probability that a fair coin will be tossed exactly 4 times before t
 
 
 4. Sent to ChatGPT and DeepSeek
-Student in Kolmogorov set theoretic probability. Given the events E, F, and G provide set theoretic expressions for the following:
+Student in Kolmogorov set theoretic probability. Given the three events E, F, and G, provide set theoretic expressions and explanations for the following outcomes:
 a) only F occurs
 b) both E and F occur but not G
 c) at least one event occurs
@@ -81,6 +81,9 @@ e) all three events occur
 f) no event occurs
 g) at most one event occurs
 h) at most two events occur
+Provide the output in .tex format
+
+
 
 a) Only F occurs
 This means:
