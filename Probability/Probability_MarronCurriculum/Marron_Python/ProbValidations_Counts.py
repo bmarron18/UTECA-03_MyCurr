@@ -20,8 +20,7 @@ import math
 import numpy as np
 import pandas as pd
 from scipy.stats import hypergeom, binom, beta
-import itertools
-
+from itertools import combinations
 
 
 # %%
@@ -30,22 +29,82 @@ Example 1
     based on Jaynes, pp 
 
 '''
-    There are 11 balls in an urn; 7 are white and 4 are red. The balls have 
-    no unique labels and are identical except for color. The Principle of Indifference
-    applies.5 balls are pulled at random from the urn.
+    There are 11 balls in an urn; 7 are white (type a) and 4 are red (type b). The balls have 
+    unique labels and are identical except for color and label. The Principle of Indifference
+    applies. Five (5) balls are pulled at random from the urn.
     
-    (1) What are all of the observable collections of outcomes that are possible given that 
-    there are no unique labels on the balls? That is, how many observable collection categories
+    
+    (1) 
+    Observation Level I: 
+        Can discern label AND color on each ball.
+    Atomic Outcome: 
+        The pull of one (1) single ball from the urn
+    Atomic Outcome Space Ct: 
+        11 (each ball is a unique entity per labels; colors are secondary characteristics)
+    Collective Outcome: 
+        A time-based sequence of five (5) atomic outcomes as a unique permutation
+        of labels. The members of the set of collective outcomes are mutually exclusive and 
+        exhaustive(MEE) per the observation level
+    Collective Outcome Space Cts:
+        11 options for the first draw
+        10 options for the second draw
+        9 options for the third draw
+        8 options for the fourth draw
+        7 options for the fifth draw
+        
+        11!/(11-5)! = 11*10*9*8*7 = 55440 unique sequences of labeled entities
+    
+        # breaking it down by collection of types
+        5 type a ; 0 type b ==> 7C5              = 21
+        4 type a ; 1 type b ==> 7C4 * 4C1 = 35*4 = 140
+        3 type a : 2 type b ==> 7C3 * 4C2 = 35*6 = 210
+        2 type a : 3 type b ==> 7C2 * 4C3 = 21*4 = 84
+        1 type a : 4 type b ==> 7C1 * 4C4 = 7 * 1 = 7
+        
+        But there are 5! = 120 permutations for each collection of types
+        
+        (21*120)+(140*120)+(210*120)+(84*120)+(7*120) = 55440
+
+
+
+
+
+    (2) 
+    Observational Level II: 
+        Can discern ONLY the color of each ball
+    Atomic Outcome:
+        The pull of one (1) single ball from the urn
+    Atomic Outcome Space Ct: 
+        2 (type a or type b)
+    Collective Outcome: 
+        A time-based sequence of five (5) atomic outcomes as a combination 
+        of type a and type b cts. The members of the set of collective outcomes are
+        mutually exclusive and exhaustive (MEE) per the observation level
+        
+    Collective Outcome Space Cts:
+        5 type a ; 0 type b ==> 7C5              = 21
+        4 type a ; 1 type b ==> 7C4 * 4C1 = 35*4 = 140
+        3 type a : 2 type b ==> 7C3 * 4C2 = 35*6 = 210
+        2 type a : 3 type b ==> 7C2 * 4C3 = 21*4 = 84
+        1 type a : 4 type b ==> 7C1 * 4C4 = 7 * 1 = 7
+                                            SUM = 21+140+210+84+7
+                                                = 462
+        
+        # python
+        >>>
+        data = list(range(1, 12))
+        ct = len(list(combinations(data, 5))  # 11C5
+        print (ct)
+            462
+        <<<
+    
+    What are all of the observable outcomes that are possible given that 
+    there are no unique labels on the balls? That is, how many observable 
     are possible regardless of whether the balls carry unique labels or not. The observable
     outcomes are mutually exclusive and exhaustive (MEE) 
     
-        Observable Collections Categories of MEE Outcomes
-        ---------------------------------------------
-        4 Type I; 1 Type II
-        3 Type I; 2 Type II
-        2 Type I; 3 Type II
-        1 Type I; 4 Type II
-        0 Type I; 5 Type II
+     
+       
 
     (2) Q: Iff the balls carried unique labels AND a single outcome is defined as drawing 
     five balls from the urn, one after the other,  and placing them sequentially in order 
