@@ -38,13 +38,13 @@ Example 1
     Observation Level I: 
         Can discern label AND color on each ball.
     Atomic Outcome: 
-        The pull of one (1) single ball from the urn
-    Atomic Outcome Space Ct: 
-        11 (each ball is a unique entity per labels; colors are secondary characteristics)
-    Collective Outcome: 
-        A time-based sequence of five (5) atomic outcomes as a unique permutation
-        of labels. The members of the set of collective outcomes are mutually exclusive and 
-        exhaustive(MEE) per the observation level
+        The pull of one (1) single ball from the urn; W/O REPLACEMENT
+        Each ball is a unique entity (per label) with additional characteristics
+        Uniqueness per label is most important; characteristics are of secondary importance
+     Collective Outcome: 
+        A single, time-based sequence of five (5) atomic outcomes as a unique permutation
+        of labeled entities. The members of the complete set of collective outcomes are 
+        mutually exclusive and exhaustive(MEE) per the observation level
     Collective Outcome Space Cts:
         11 options for the first draw
         10 options for the second draw
@@ -54,31 +54,65 @@ Example 1
         
         11!/(11-5)! = 11*10*9*8*7 = 55440 unique sequences of labeled entities
     
-        # breaking it down by collection of types
+        # Verification: breaking it down by collections of characteristics (type a and type b)
+        # Possible collections of characteristics are:
         5 type a ; 0 type b ==> 7C5              = 21
         4 type a ; 1 type b ==> 7C4 * 4C1 = 35*4 = 140
         3 type a : 2 type b ==> 7C3 * 4C2 = 35*6 = 210
         2 type a : 3 type b ==> 7C2 * 4C3 = 21*4 = 84
         1 type a : 4 type b ==> 7C1 * 4C4 = 7 * 1 = 7
         
-        But there are 5! = 120 permutations for each collection of types
+        But there are 5! = 120 permutations for each possible collection of characteristics
         
-        (21*120)+(140*120)+(210*120)+(84*120)+(7*120) = 55440
+        (120)(21+140+210+84+7) = 55440
 
 
-
-
+    (2)
+    Observation Level I: 
+        Can discern time-stamp label AND color on each ball.
+    Atomic Outcome: 
+        The pull of one (1) single ball from the urn; W/ REPLACEMENT
+        Each ball is a unique entity (per time-stamp label) with additional characteristics
+        Uniqueness per time-stamp label is most important; characteristics are of secondary importance
+     Collective Outcome: 
+        A single, time-based sequence of five (5) atomic outcomes as a unique permutation
+        of labeled entities. The members of the complete set of collective outcomes are 
+        mutually exclusive and exhaustive(MEE) per the observation level
+    Collective Outcome Space Cts:
+        11 options for the first draw
+        11 options for the second draw
+        11 options for the third draw
+        11 options for the fourth draw
+        11 options for the fifth draw
+        
+        11^5 = 11**5 =161051 unique sequences of labeled entities
+    
+        # Verification: breaking it down by collections of characteristics (type a and type b)
+        # Possible collections of characteristics are:
+        5 type a ; 0 type b ==> 11C5                = 462
+        4 type a ; 1 type b ==> 11C4 * 11C1 = 330*11 = 3630
+        3 type a : 2 type b ==> 11C3 * 11C2 = 165*55 = 9075
+        2 type a : 3 type b ==> 11C2 * 11C3 = 55*165 = 9075
+        1 type a : 4 type b ==> 11C1 * 11C4 = 11*330 = 3630
+        0 type a ; 5 type b ==>  11C5                = 462
+        
+        But there are 5! = 120 permutations for each possible collection of characteristics
+        
+        (120)*(462+3630+9075+9075+3630+462) = 3160080
+    
+    
+    
 
     (2) 
     Observational Level II: 
-        Can discern ONLY the color of each ball
+        Can discern ONLY the color of each ball or labels are not important
     Atomic Outcome:
-        The pull of one (1) single ball from the urn
-    Atomic Outcome Space Ct: 
-        2 (type a or type b)
+        The pull of one (1) single ball from the urn; not replaceable
+        Each ball is a unique entity (per label) with additional characteristics
+        Uniqueness per characteristic is most important; labels are of secondary importance
     Collective Outcome: 
         A time-based sequence of five (5) atomic outcomes as a combination 
-        of type a and type b cts. The members of the set of collective outcomes are
+        of type a and type b cts. The members of the complete set of collective outcomes are
         mutually exclusive and exhaustive (MEE) per the observation level
         
     Collective Outcome Space Cts:
@@ -93,10 +127,14 @@ Example 1
         # python
         >>>
         data = list(range(1, 12))
-        ct = len(list(combinations(data, 5))  # 11C5
+        ct = len(list(combinations(data, 2)))  # 11C5
         print (ct)
             462
         <<<
+    
+    
+    
+    
     
     What are all of the observable outcomes that are possible given that 
     there are no unique labels on the balls? That is, how many observable 
