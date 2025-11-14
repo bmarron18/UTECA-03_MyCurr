@@ -67,6 +67,8 @@ Example 1
         (120)(21+140+210+84+7) = 55440
 
 
+
+
     (2)
     Observation Level I: 
         Can discern time-stamp label AND color on each ball.
@@ -85,25 +87,53 @@ Example 1
         11 options for the fourth draw
         11 options for the fifth draw
         
-        11^5 = 11**5 =161051 unique sequences of labeled entities
+        11^5 = 11**5 = 161051 unique sequences of labeled entities
+        11C5         = 462
+        
+        This creates a time-based set of replicates of the original set.
+        There are five (5) replicate sets of the original set  bc there are five (5) 
+        draws/ slots  per sequence:
+            
+            t1      a1.1 a2.1 a3.1 a4.1 a5.1 a6.1 a7.1  b8.1 b9.1 b10.1 b11.1
+            t2      a1.2 a2.2 a3.2 a4.2 a5.2 a6.2 a7.2  b8.2 b9.2 b10.2 b11.2
+            t3      a1.3 a2.3 a3.3 a4.3 a5.3 a6.3 a7.3  b8.3 b9.3 b10.3 b11.3
+            t4      a1.4 a2.4 a3.4 a4.4 a5.4 a6.4 a7.4  b8.4 b9.4 b10.4 b11.4
+            t5      a1.5 a2.5 a3.5 a4.5 a5.5 a6.5 a7.5  b8.5 b9.5 b10.5 b11.5
     
+        At each time step there is the options to fill the current slot in the sequence with
+        any member of this time-based set.
+        3478761
+        
+        [(35C5) * (20/0)]                   = 324632
+        [(35C4) * (20/1)]                   = 1047200               
+        
+        
+        # python xCy combinations
+        >>>
+        data = list(range(1, 12))
+        ct = len(list(combinations(data, 5)))  # 35C5
+        print (ct)
+        <<<
+        
+        
+        NO !!
         # Verification: breaking it down by collections of characteristics (type a and type b)
         # Possible collections of characteristics are:
-        5 type a ; 0 type b ==> 11C5                = 462
-        4 type a ; 1 type b ==> 11C4 * 11C1 = 330*11 = 3630
-        3 type a : 2 type b ==> 11C3 * 11C2 = 165*55 = 9075
-        2 type a : 3 type b ==> 11C2 * 11C3 = 55*165 = 9075
-        1 type a : 4 type b ==> 11C1 * 11C4 = 11*330 = 3630
-        0 type a ; 5 type b ==>  11C5                = 462
+        5 type a ; 0 type b ==> (11C)                                   = 35
+        4 type a ; 1 type b ==> 4 * (7C1) + 1 * (4C1)                       = 32
+        3 type a : 2 type b ==> 3 * (7C1) + 2 * (4C1)                       = 29
+        2 type a : 3 type b ==> 2 * (7C1) + 3 * (4C1)                       = 26
+        1 type a : 4 type b ==> 1 * (7C1) + 4 * (4C1)                       = 23
+        0 type a ; 5 type b ==>  5 * (4C1)                                  = 20
+        
         
         But there are 5! = 120 permutations for each possible collection of characteristics
-        
-        (120)*(462+3630+9075+9075+3630+462) = 3160080
+        (120)*(35+32+29+26+23+20) = 3160080
     
     
     
 
-    (2) 
+    (3) 
     Observational Level II: 
         Can discern ONLY the color of each ball or labels are not important
     Atomic Outcome:
@@ -121,13 +151,14 @@ Example 1
         3 type a : 2 type b ==> 7C3 * 4C2 = 35*6 = 210
         2 type a : 3 type b ==> 7C2 * 4C3 = 21*4 = 84
         1 type a : 4 type b ==> 7C1 * 4C4 = 7 * 1 = 7
-                                            SUM = 21+140+210+84+7
-                                                = 462
+                                            SUM == 462
+                                            
+        21+140+210+84+7 = 462
         
-        # python
+        # python xCy combinations
         >>>
-        data = list(range(1, 12))
-        ct = len(list(combinations(data, 2)))  # 11C5
+        data = list(range(1, 36))
+        ct = len(list(combinations(data, 5)))  # 11C5
         print (ct)
             462
         <<<
