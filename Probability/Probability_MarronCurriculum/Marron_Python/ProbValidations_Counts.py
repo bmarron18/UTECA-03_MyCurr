@@ -40,10 +40,9 @@ Example 1
     Atomic Outcome: 
         The pull of one (1) single ball from the urn; W/O REPLACEMENT
         Each ball is a unique entity (per label) with additional characteristics
-        Uniqueness per label is most important; characteristics are of secondary importance
-     Collective Outcome: 
+    Collective Outcome: 
         A single, time-based sequence of five (5) atomic outcomes as a unique permutation
-        of labeled entities. The members of the complete set of collective outcomes are 
+        of labeled entities. The members of the complete set of permutations/sequences are 
         mutually exclusive and exhaustive(MEE) per the observation level
     Collective Outcome Space Cts:
         11 options for the first draw
@@ -56,13 +55,13 @@ Example 1
     
         # Verification: breaking it down by collections of characteristics (type a and type b)
         # Possible collections of characteristics are:
-        5 type a ; 0 type b ==> 7C5              = 21
-        4 type a ; 1 type b ==> 7C4 * 4C1 = 35*4 = 140
-        3 type a : 2 type b ==> 7C3 * 4C2 = 35*6 = 210
-        2 type a : 3 type b ==> 7C2 * 4C3 = 21*4 = 84
-        1 type a : 4 type b ==> 7C1 * 4C4 = 7 * 1 = 7
+        5 type a ; 0 type b ==> 7C5 * 4C0 * 5! = 21*120    = 2520
+        4 type a ; 1 type b ==> 7C4 * 4C1 * 5! = 35*4*120  = 16800
+        3 type a : 2 type b ==> 7C3 * 4C2 * 5! = 35*6*120  = 25200
+        2 type a : 3 type b ==> 7C2 * 4C3 * 5! = 21*4*120  = 10080
+        1 type a : 4 type b ==> 7C1 * 4C4 * 5! = 7*1*120   = 840
         
-        But there are 5! = 120 permutations for each possible collection of characteristics
+        There are 5! = 120 permutations for each possible collection of characteristics
         
         (120)(21+140+210+84+7) = 55440
 
@@ -75,10 +74,9 @@ Example 1
     Atomic Outcome: 
         The pull of one (1) single ball from the urn; W/ REPLACEMENT
         Each ball is a unique entity (per time-stamp label) with additional characteristics
-        Uniqueness per time-stamp label is most important; characteristics are of secondary importance
      Collective Outcome: 
         A single, time-based sequence of five (5) atomic outcomes as a unique permutation
-        of labeled entities. The members of the complete set of collective outcomes are 
+        of labeled entities. The members of the complete set of permutations/sequences are 
         mutually exclusive and exhaustive(MEE) per the observation level
     Collective Outcome Space Cts:
         11 options for the first draw
@@ -88,7 +86,7 @@ Example 1
         11 options for the fifth draw
         
         11^5 = 11**5 = 161051 unique sequences of labeled entities
-        11C5         = 462
+       
         
         This creates a time-based set of replicates of the original set.
         There are five (5) replicate sets of the original set  bc there are five (5) 
@@ -102,24 +100,27 @@ Example 1
     
         At each time step there is the options to fill the current slot in the sequence with
         any member of this time-based set.
-        3478761
         
-        [(35C5) * (20/0)]                   = 324632
-        [(35C4) * (20/1)]                   = 1047200               
-        
+        # python Factorial
+        >>>
+        math.factorial(5)
+        >>>
         
         # python xCy combinations
         >>>
-        data = list(range(1, 12))
-        ct = len(list(combinations(data, 5)))  # 35C5
+        data = list(range(1, 36))
+        ct = len(list(combinations(data, 5)))
         print (ct)
         <<<
+        
+        
+    
         
         
         NO !!
         # Verification: breaking it down by collections of characteristics (type a and type b)
         # Possible collections of characteristics are:
-        5 type a ; 0 type b ==> (11C)                                   = 35
+        5 type a ; 0 type b ==> 35C5 * 20C0             = 35
         4 type a ; 1 type b ==> 4 * (7C1) + 1 * (4C1)                       = 32
         3 type a : 2 type b ==> 3 * (7C1) + 2 * (4C1)                       = 29
         2 type a : 3 type b ==> 2 * (7C1) + 3 * (4C1)                       = 26
@@ -130,6 +131,7 @@ Example 1
         But there are 5! = 120 permutations for each possible collection of characteristics
         (120)*(35+32+29+26+23+20) = 3160080
     
+        (324632+1047200+1243550+678300+169575+15505) = 3478762
     
     
 
