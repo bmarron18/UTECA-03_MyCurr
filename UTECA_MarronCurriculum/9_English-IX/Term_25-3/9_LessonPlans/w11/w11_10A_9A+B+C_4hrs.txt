@@ -49,7 +49,7 @@ Define the following terms/acronyms:
 	bidirectional encoder representations from transformers (BERTScore)
 	
 	
---- Task 2Ausente
+--- Task 2
 Read "04_ai-2027." What do think of this analysis? Are the scenario(s) presented plausible? Are the authors and their methods credible? Write an opinion piece (2+ paragraphs) expressing your thoughts.
 
 --- Task 3

@@ -34,46 +34,88 @@ Example 1
     applies. Five (5) balls are pulled at random from the urn.
     
     
+permutation ==  a sequence of entities (not exchangeable)
+
+combination ==  a group of entities (exchangeable)
+
+bin collection == a type of combination (eg, 3 type a and 2 type b) in a combination of 5 entities)
+
+
+
+
+---- W?O REPLACEMENT --------------------------------------  
     (1) 
     Observation Level I: 
-        Can discern label AND color on each ball.
+        Can discern unique label AND color on each ball.
     Atomic Outcome: 
         The pull of one (1) single ball from the urn; W/O REPLACEMENT
-        Each ball is a unique entity (per label) with additional characteristics
+        Each ball is a unique entity (per label on entity) with additional characteristics
+        (here, type a or type b)
     Collective Outcome: 
         A single, time-based sequence of five (5) atomic outcomes as a unique permutation
         of labeled entities. The members of the complete set of permutations/sequences are 
         mutually exclusive and exhaustive(MEE) per the observation level
     Collective Outcome Space Cts:
-        11 options for the first draw
-        10 options for the second draw
-        9 options for the third draw
-        8 options for the fourth draw
-        7 options for the fifth draw
+        11 options for the first draw (t1)
+        10 options for the second draw (t2)
+        9 options for the third draw (t3)
+        8 options for the fourth draw (t4)
+        7 options for the fifth draw (t5)
         
-        11!/(11-5)! = 11*10*9*8*7 = 55440 unique sequences of labeled entities
+        n!/(n-r)!
+        11!/(11-5)! = 11!/6! = 11*10*9*8*7 = 55440 ct of unique sequences of labeled entities
     
-        # Verification: breaking it down by collections of characteristics (type a and type b)
-        # Possible collections of characteristics are:
+        # Verification: breaking it down by bin collections of characteristics (type a and type b)
+        # Possible combinations or bin collections (of characteristics) are:
         5 type a ; 0 type b ==> 7C5 * 4C0 * 5! = 21*120    = 2520
         4 type a ; 1 type b ==> 7C4 * 4C1 * 5! = 35*4*120  = 16800
         3 type a : 2 type b ==> 7C3 * 4C2 * 5! = 35*6*120  = 25200
         2 type a : 3 type b ==> 7C2 * 4C3 * 5! = 21*4*120  = 10080
         1 type a : 4 type b ==> 7C1 * 4C4 * 5! = 7*1*120   = 840
         
-        There are 5! = 120 permutations for each possible collection of characteristics
+                                                SUM         = 55440
         
+        There are 5! = 120 permutations for each possible combination or bin collection
+        Thus, 
         (120)(21+140+210+84+7) = 55440
 
 
+ (2) 
+ Observational Level II: 
+     Can discern ONLY the color of each ball OR labels are not important
+ Atomic Outcome:
+     The pull of one (1) single ball from the urn; W/O REPLACEMENT
+     Each ball is still a unique entity (per label) with additional characteristics
+     (type a or type b) but only characteristics are important or observeable; labels are 
+     of secondary importance
+ Collective Outcome: 
+     A time-based sequence of five (5) atomic outcomes as a combination 
+     of type a and type b cts. The members of the complete set of combinations are mutually 
+     exclusive and exhaustive (MEE) per the observation level
+     
+     nCr
+     11C5 = 11!/5!6! = 462 ct of combination in the complete set of  
+     
+ Collective Outcome Space Cts:
+     5 type a ; 0 type b ==> 7C5              = 21
+     4 type a ; 1 type b ==> 7C4 * 4C1 = 35*4 = 140
+     3 type a : 2 type b ==> 7C3 * 4C2 = 35*6 = 210
+     2 type a : 3 type b ==> 7C2 * 4C3 = 21*4 = 84
+     1 type a : 4 type b ==> 7C1 * 4C4 = 7 * 1 = 7
+                                         SUM == 462
+                                         
+     21+140+210+84+7 = 462
 
 
-    (2)
+---- W/ REPLACEMENT -------------------------------------------
+
+    (3)
     Observation Level I: 
         Can discern time-stamp label AND color on each ball.
     Atomic Outcome: 
         The pull of one (1) single ball from the urn; W/ REPLACEMENT
         Each ball is a unique entity (per time-stamp label) with additional characteristics
+        (here, type a or type b)
      Collective Outcome: 
         A single, time-based sequence of five (5) atomic outcomes as a unique permutation
         of labeled entities. The members of the complete set of permutations/sequences are 
@@ -85,7 +127,10 @@ Example 1
         11 options for the fourth draw
         11 options for the fifth draw
         
-        11^5 = 11**5 = 161051 unique sequences of labeled entities
+        11^5 = 11**5 = 161051 unique sequences of time-stamped labeled entities
+        
+        (n+r-1)!/(n-1)!(r)!
+        (11+5-1)!/(10)!(5)! = 15!/10!5! = 3003 types of bin collections 
        
         
         This creates a time-based set of replicates of the original set.
@@ -101,9 +146,11 @@ Example 1
         At each time step there is the options to fill the current slot in the sequence with
         any member of this time-based set.
         
+        
+        
         # python Factorial
         >>>
-        math.factorial(5)
+       z= math.factorial(5)
         >>>
         
         # python xCy combinations
@@ -114,50 +161,46 @@ Example 1
         <<<
         
         
-    
-        
-        
-        NO !!
-        # Verification: breaking it down by collections of characteristics (type a and type b)
-        # Possible collections of characteristics are:
-        5 type a ; 0 type b ==> 35C5 * 20C0             = 35
-        4 type a ; 1 type b ==> 4 * (7C1) + 1 * (4C1)                       = 32
-        3 type a : 2 type b ==> 3 * (7C1) + 2 * (4C1)                       = 29
-        2 type a : 3 type b ==> 2 * (7C1) + 3 * (4C1)                       = 26
-        1 type a : 4 type b ==> 1 * (7C1) + 4 * (4C1)                       = 23
-        0 type a ; 5 type b ==>  5 * (4C1)                                  = 20
-        
-        
-        But there are 5! = 120 permutations for each possible collection of characteristics
-        (120)*(35+32+29+26+23+20) = 3160080
-    
-        (324632+1047200+1243550+678300+169575+15505) = 3478762
-    
-    
-
-    (3) 
-    Observational Level II: 
-        Can discern ONLY the color of each ball or labels are not important
-    Atomic Outcome:
-        The pull of one (1) single ball from the urn; not replaceable
-        Each ball is a unique entity (per label) with additional characteristics
-        Uniqueness per characteristic is most important; labels are of secondary importance
-    Collective Outcome: 
-        A time-based sequence of five (5) atomic outcomes as a combination 
-        of type a and type b cts. The members of the complete set of collective outcomes are
-        mutually exclusive and exhaustive (MEE) per the observation level
-        
+    (4)
+    Observation Level II: 
+        Can discern ONLY color on each ball OR labels are unimportant.
+    Atomic Outcome: 
+        The pull of one (1) single ball from the urn; W/ REPLACEMENT
+        Each ball is an entity with characteristics (here, type a or type b)
+     Collective Outcome: 
+        A single, group of five (5) atomic outcomes as a combination / bin collection
+        of labeled entities. The members of the complete set of combinations are 
+        mutually exclusive and exhaustive(MEE) per the observation level
     Collective Outcome Space Cts:
-        5 type a ; 0 type b ==> 7C5              = 21
-        4 type a ; 1 type b ==> 7C4 * 4C1 = 35*4 = 140
-        3 type a : 2 type b ==> 7C3 * 4C2 = 35*6 = 210
-        2 type a : 3 type b ==> 7C2 * 4C3 = 21*4 = 84
-        1 type a : 4 type b ==> 7C1 * 4C4 = 7 * 1 = 7
-                                            SUM == 462
-                                            
-        21+140+210+84+7 = 462
+        2 options for the first draw (t1)
+        2 options for the second draw (t2)
+        2 options for the third draw (t3)
+        2 options for the fourth draw (t4)
+        2 options for the fifth draw (t5)
         
-        # python xCy combinations
+        NB. Although there are 7 type a and 4 type b cts in the urn, the lack of entity 
+        uniqueness (ie, labels) coupled with the abibility to generate replacemnts contracts the
+        set of entities to simply {a, b}, or one, type a ct and one, type b ct
+        
+        n^r
+        2^5 = 2**5 = 32 unique sequences (IFF labels were observable)
+        
+        (n+r-1)!/(n-1)!(r)!
+        (2+5-1)!/(1)!(5)! = 6!/5! = 6 types of bin collections 
+        
+        # Verification: breaking it down by bin collections of characteristics (type a and type b)
+        # Possible collections of characteristics are:        
+        5 type a ; 0 type b ==> 5! / 5! * 0!    =  1
+        4 type a ; 1 type b ==> 5! / 4! * 1!    =  5
+        3 type a : 2 type b ==> 5! / 3! * 2!    = 10
+        2 type a : 3 type b ==> 5! / 2! * 3!    = 10
+        1 type a : 4 type b ==> 5! / 1! * 4!    =  5
+        0 type a ; 5 type b ==> 5! / 5! * 0!    =  1
+        
+                                        SUM     = 32
+        
+        
+       # python xCy combinations
         >>>
         data = list(range(1, 36))
         ct = len(list(combinations(data, 5)))  # 11C5
