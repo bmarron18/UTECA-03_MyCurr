@@ -22,51 +22,115 @@ import pandas as pd
 from scipy.stats import hypergeom, binom, beta
 from itertools import combinations
 
+# %%
+
+    ≠   ctlt+shift+U+2260
+
+
+# %%
+
+----    Vocab/Glossary    --------------------------------------------
+arrangement
+group
+set
+collection
+type
+characteristics
+category
+mutually exclusive and exhaustive (MEE)
+sequence
+combination
+pull
+draw
+selection
+atomic outcome
+collective outcome
+outcome
+event
+member
+element
+
+
+
+permutation ==  * A time-based sequence of uniquely labeled entities with various characteristics
+                 * Although there may be characteristics shared among entities,
+                   the unique labels are most important; the unique labels could be time stamps
+                 * The entities ARE NOT exchangeable in the sequence bc there would be a 
+                   change in info content
+                 * For example, a1a2b1 ≠ a2a1b1 or cat ≠ act
+
+combination ==  * a jumbled or unordered group of uniquely labeled entities with various 
+                  characteristics
+                * Although there are unique labels, the characteristics shared among 
+                  the entities are the most important
+                * The entities ARE exchangeable in the combination bc there is no  
+                  change in info content within a bin collection  
+                * For example, a1a2b1 = = a1b1a2 = a2a1b1 = etc all belong to the 
+                  bin collection 2 type a, 1 type b
+                  
+
+bin collection == * a specific combination based on the cts of entites with
+                    specific characteristics within the combination
+                  * For example, if the output from a generator is a closed set of 
+                    type a and type b entities (ie, {a,b}), then 
+                    the MEE set of possible bin collections includes:
+                        5 type a, 0 type b
+                        4 type a, 1 type b
+                        3 type a, 2 type b
+                        2 type a, 3 type b
+                        1 type a, 4 type b
+                        0 type a, 5 type b
+
+mutually exclusive and exhaustive (MEE) == 
 
 # %%
 '''
 Example 1
-    based on Jaynes, pp 
+    based on Jaynes, pp 52
 
 '''
     There are 11 balls in an urn; 7 are white (type a) and 4 are red (type b). The balls have 
     unique labels and are identical except for color and label. The Principle of Indifference
     applies. Five (5) balls are pulled at random from the urn.
     
-    
-permutation ==  a sequence of entities (not exchangeable)
-
-combination ==  a group of entities (exchangeable)
-
-bin collection == a type of combination (eg, 3 type a and 2 type b) in a combination of 5 entities)
+    entitity            == a ball
+    label               == [1, 11]
+    characteristic      == white (type a) and red (type b)
 
 
-
-
----- W?O REPLACEMENT --------------------------------------  
+---- W/O REPLACEMENT --------------------------------------  
     (1) 
     Observation Level I: 
-        Can discern unique label AND color on each ball.
+        - Can discern the unique label AND the characteristic color of each ball.
     Atomic Outcome: 
-        The pull of one (1) single ball from the urn; W/O REPLACEMENT
-        Each ball is a unique entity (per label on entity) with additional characteristics
-        (here, type a or type b)
+        - The random pull/draw/selection of one (1) single ball from the urn; W/O REPLACEMENT
+        - Each ball is a unique entity (per label) with additional characteristics:
+          white (type a) or red (type b)
     Collective Outcome: 
-        A single, time-based sequence of five (5) atomic outcomes as a unique permutation
-        of labeled entities. The members of the complete set of permutations/sequences are 
-        mutually exclusive and exhaustive(MEE) per the observation level
+        - A single, time-based sequence of five (5) atomic outcomes; a permutation.
+        - The members of the complete set of permutations (sequences) are 
+          MEE (per the observation level)
+
+          
     Collective Outcome Space Cts:
-        11 options for the first draw (t1)
-        10 options for the second draw (t2)
-        9 options for the third draw (t3)
-        8 options for the fourth draw (t4)
-        7 options for the fifth draw (t5)
+        Ct Entities Available/Draw          Time stamp/Draw
+        -------------------                 ----------
+        11 options for the first draw       (t1)
+        10 options for the second draw      (t2)
+        09 options for the third draw       (t3)
+        08 options for the fourth draw      (t4)
+        07 options for the fifth draw       (t5)
+  
         
+        Ct of all members in the complete set of MEE permutations:
         n!/(n-r)!
-        11!/(11-5)! = 11!/6! = 11*10*9*8*7 = 55440 ct of unique sequences of labeled entities
-    
-        # Verification: breaking it down by bin collections of characteristics (type a and type b)
-        # Possible combinations or bin collections (of characteristics) are:
+        11!/(11-5)! = 11!/6! = 11*10*9*8*7 = 55440 
+        
+        
+        # Verification: breaking it down by bin collections (ie, ct type a and ct type b)
+        
+        Bin Collection          Ct Combinations/Bin Collection
+        ------------------      ------------------------------
         5 type a ; 0 type b ==> 7C5 * 4C0 * 5! = 21*120    = 2520
         4 type a ; 1 type b ==> 7C4 * 4C1 * 5! = 35*4*120  = 16800
         3 type a : 2 type b ==> 7C3 * 4C2 * 5! = 35*6*120  = 25200
@@ -75,29 +139,33 @@ bin collection == a type of combination (eg, 3 type a and 2 type b) in a combina
         
                                                 SUM         = 55440
         
-        There are 5! = 120 permutations for each possible combination or bin collection
+        There are 5! = 120 arrangements for each bin collection
         Thus, 
         (120)(21+140+210+84+7) = 55440
 
 
- (2) 
+     (2) 
  Observational Level II: 
-     Can discern ONLY the color of each ball OR labels are not important
+     - Can discern ONLY the color of each ball OR labels are not important
  Atomic Outcome:
-     The pull of one (1) single ball from the urn; W/O REPLACEMENT
-     Each ball is still a unique entity (per label) with additional characteristics
-     (type a or type b) but only characteristics are important or observeable; labels are 
-     of secondary importance
+     - The  random pull/draw/selection of one (1) single ball from the urn; W/O REPLACEMENT
+     - Each ball remains a unique entity (per label) with additional characteristics
+       (type a or type b) but only characteristics are important or observeable; labels are 
+       of secondary importance
  Collective Outcome: 
-     A time-based sequence of five (5) atomic outcomes as a combination 
-     of type a and type b cts. The members of the complete set of combinations are mutually 
-     exclusive and exhaustive (MEE) per the observation level
-     
+     - A time-based unordered group of five (5) atomic outcomes as a combination 
+       of type a and type b cts; a bin collection
+     - The members of the complete set of combinations are MEE (per the observation level)
+
+
+     Ct of all members in the complete set of MEE bin collections:
      nCr
-     11C5 = 11!/5!6! = 462 ct of combination in the complete set of  
+     11C5 = 11!/5!6! = 462 ct of combinations in the complete set of bin collections
      
- Collective Outcome Space Cts:
-     5 type a ; 0 type b ==> 7C5              = 21
+  Collective Outcome Space Cts:
+      Bin Collection            Ct Combinations/Bin Collection
+      -------------------        ------------------------------
+     5 type a ; 0 type b ==> 7C5 * 4C0 = 21*1 = 21
      4 type a ; 1 type b ==> 7C4 * 4C1 = 35*4 = 140
      3 type a : 2 type b ==> 7C3 * 4C2 = 35*6 = 210
      2 type a : 3 type b ==> 7C2 * 4C3 = 21*4 = 84
