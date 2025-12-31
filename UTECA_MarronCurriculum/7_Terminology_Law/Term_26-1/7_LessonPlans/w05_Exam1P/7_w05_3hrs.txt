@@ -1,0 +1,138 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Jurídica
+Curso:		IT0732
+Licenciatura: 	Interpretación y Traducción
+Grupo:		7A
+
+###########################
+HW_04 [Due: 14 Oct 2025]
+
+--- Task 1
+Both LEY GENERAL DE ARCHIVOS and LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO govern records management
+Answer the following questions related to these two laws:
+	1. Find LEY GENERAL DE ARCHIVOS in Justia. What is its listing number?
+	2. Find the LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO in Justia. What is its listing number?
+	3. Compare Artículo 1. of both laws. Are they the same?
+	4. Who are "sujetos obligados" under both laws?
+	5. Which Artículo of LEY GENERAL DE ARCHIVOS was changed in the DOF on 19/01/2023?
+
+--- Task 2
+Translate LEY GENERAL DE ARCHIVOS Artículo 1. I - VIII into English.
+
+
+--- Task 3
+Define the following terms in English and provide a Spanish translation:
+	quality assurance/quality control (QA/QC)
+	records management
+	version control system (VCS)
+	Git
+	GitHub
+	checksum
+	SHA-1
+	SHA-256
+	
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+#########
+Today
+#########
+
+---- Open 
+
+
+
+
+---- Review
+** share your findings with the class 
+civil law topic covered in the Código Civil Federal (e.g, marriage). From within the topic, find an Article that has been changed. Use Justia for this. For example: Artículo 148 (Para contraer matrimonio es necesario haber cumplido dieciocho años de edad) was modified on these dates:(ARTÍCULO REFORMADO D.O.F. 14 DE MARZO DE 1973, 23 DE DICIEMBRE DE 1974, 09 DE ABRIL DE 2012, 03 DE JUNIO DE 2019.
+
+In your homework note the following:
+	* The Title where the civil law appears (e.g. marriage is covered by Title V),
+	* The Chapters that cover the civil law (e.g. marriage proper is covered by Chapters I - IV),
+	* The Articles that cover the civil law (e.g. marriage proper is covered by Articles 146 - 182),
+	* A list of the dates when the law was changed, 
+
+** Quick Discuss
+	Civil law vs. Common law
+	
+** Diario Oficial de la Federación
+
+** Intro to Justia
+https://mexico.justia.com
+
+** Landlord-Tenant Law: México and US
+	Cornell Legal Info Institute
+	https://www.law.cornell.edu/wex
+
+	Justia
+	https://mexico.justia.com/
+
+
+** Setting up Your Personal Dictionary (It's time!)
+	simple.txt file highly recommended 
+	
+
+---- New
+
+** Professional Consulting
+QA/QC for documents
+
+International Organization for Standardization (ISO)
+https://www.iso-9001-checklist.co.uk
+
+https://www.iso.org			<== search "document management" ~4300 results
+https://www.iso.org/standard/76865.html
+https://www.iso.org/standard/80233.html
+
+CFR-2011-title36-vol3-chapXII-subchapB.pdf	<== in MyCurr
+
+
+Introduction to Git and GitHub VCS
+1.1 Getting Started - About Version Control
+	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+
+1.3 Getting Started - What is Git?
+	https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+
+
+
+** Break (15 min)
+
+
+
+** Exam 1P
+
+
+
+
+
+---- Work time
+
+
+---- Coming Up
+
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/capitulo-ix/
+
+** Struxcture of Mexican Legal System
+
+** Academic Standards
+Review Point of View (POV)	
+	Third-Person POV in Academic Writing (p 1)
+	Avoid-First-Person-POV_AcademicWriting (p 1, 2)
+	PurdueUniversity_POV&Voice_APAStyle (p 1)
+	UnivAZ_First-vs.-Third Person (p1,2)
+	SanJoseState_First Person Usage in Academic Writing (p 1-3)
+
+
+APA as a Style
+	https://writingcenter.uagc.edu/introduction-apa
+	Introduction to APA Style.pdf
+
+
+Sample papers
+	https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers
+

@@ -1,0 +1,199 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+##############################
+HW_09 [Due: 25 Nov 2025]
+
+--- Task 1
+Read/scan the following excerpt from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+	i)  MacKay_Sex.pdf
+Do your best to get the gist (main ideas) and write a very brief summary of the excerpt in English. 
+
+
+-- Task 2
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and very briefly explain why the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short.
+
+--- Task 3.
+Nature_Astrobiology.pdf
+analogous
+astrobiology
+biosignature
+bolster
+coalesced
+exoplanetary
+
+Nature_Diversifying-Crop-Rotation.pdf
+adaptability
+affect vs effect
+aggregate
+agroecosystem
+Agronomy
+alleviate
+arable
+assessment
+biodiversity
+biofuels
+business-as-usual
+carbon sequestration
+cash-crop
+chromatograph
+cumulative
+degradation
+detector
+eigenvalues
+entropy
+fumigate
+Gramineae
+gravimetric
+isotope
+jeopardize
+logistics
+matrix
+microorganism
+monoculture
+no-till
+optimize
+permeability
+redundancy
+resilience
+spatiotemporal
+spectrophotometer
+synergistic vs antagonistic
+taxonomy
+topsoil
+
+
+Nature_Plant-based vs Animal-based Protein.pdf
+abridged
+absorption
+affordability
+ailments
+anaemia
+antioxidant
+bioavailability
+carbohydrate
+cardiovascular
+derive
+determinant
+disparities
+epidemiology
+longevity
+mortality
+polyunsaturated
+stochasticity
+
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+
+---- Open 
+
+	
+	"The evolution of sex is the hardest problem in evolutionary biology."
+		-- John Maynard Smith (a British theoretical and mathematical evolutionary biologist and geneticist)
+
+
+
+
+---- Review
+
+	Go thru exam
+
+Vocab and Document Translation
+	1 Academic Texts and Papers
+	2 Manuals and Standard Operating Procedures (SOPs)
+	3 Request for Proposals (RFPs) and Proposals			<== Look at this
+	4 Science Reporting Articles (popular science)
+	5 Science Reviews
+
+
+
+---- New
+
+** Academic Texts: Sir David MacKay and his famous textbook,
+	"Information Theory, Inference, Learning Algorithms"
+Look at --
+	MacKay_Sex.pdf
+
+
+** Request for Proposals (RFPs
+An RFP, or Request for Proposal, is a formal document an organization uses to solicit bids from vendors for a specific project or service. It details the project's requirements, scope, timeline, and budget, and invites potential suppliers to submit detailed proposals on how they can meet those needs. The primary purpose of an RFP is to ensure a fair, transparent, and competitive process for selecting the best vendor. 
+
+
+Key components of an RFP
+    Project overview: A description of the project or need.
+    Scope of work: Detailed requirements and tasks to be performed.
+    Timeline: Key milestones and deadlines.
+    Budget: Financial parameters or constraints.
+    Submission guidelines: Instructions on how to submit a proposal.
+    Evaluation criteria: How proposals will be judged and the selection process. 
+
+Why RFPs are used
+    For organizations:
+        They provide a structured and objective way to find the best vendor.
+        RFPs encourage competition, which can lead to better prices and services.
+        They help minimize misunderstandings by clearly outlining expectations.
+	   
+    For vendors:
+        They provide a clear understanding of the project and what is expected.
+        An RFP offers an opportunity to showcase capabilities and propose a solution.
+        The process ensures a fair opportunity to win new busines
+	   
+	   
+** Real-World RFPs
+	Artifact_DEQ_RFQforPlatformSecurityTesting_Final_ 20200331
+	CFE_01 Convocatoria CACON 0030 2025
+	*CFE_02 Pliego de Requisitos CACON 0030 2025
+	Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico
+	UNHCR_RFP-MEX-2020-206
+	
+
+** Open Access Journals
+https://www.nature.com/nature-portfolio/open-access
+https://www.nature.com/nature/articles					<== look for open access tag
+
+Journals
+	Scientific Reports ==> https://www.nature.com/srep/
+		Focus on astrobiology [Nature_Astrobiology.pdf]
+
+	Nature Communications ==> https://www.nature.com/ncomms/
+		Diversifying crop rotation increases food production, reduces net greenhouse gas emissions and 
+		improves soil health [Nature_Diversifying-Crop-Rotation.pdf]
+		
+		Associations between national plant-based vs animal-based protein supplies and age-specific 
+		mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
+
+
+
+
+
+
+---- Work Time
+
+
+---- Coming up
+
+
+	
+
+

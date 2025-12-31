@@ -1,0 +1,188 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+How to Think Computationally about AI, the Universe and Everything
+Wolfram Transcript of a talk at TED AI on October 17, 2023, in San Francisco
+https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/
+
+##############################
+HW_03 [Due: 07 Oct 2025]
+
+-- Task 1
+Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
+	System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+	Intensive property
+		(temperature, pressure, velocity, density)
+		
+	Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
+
+	Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)
+
+
+-- Task 2
+Work through the Study Guide for Exam 1P (below). You do not need to answer the study guide questions in your homework, just be sure you can answer the questions on the exam.
+
+
+Study Guide for Exam 1P
+-----------------------
+1. Be able to write a condensed summary from your paper on the history of a scientific  discipline in Mexico. Your condensed summary should certainly recount the history of the scientific discipline you selected, but it must focus on the present state of the discipline in Mexico. You should be able to write this condensed summary in both English and Spanish.
+
+
+2. Describe the mental process that engineers and scientists use to solve a problem. More specifically, 
+    a. Given a design or conceptual problem, what is a first step that engineers and scientists  are likely to take? Why?
+    b. What are the accepted foundations for conceptualizing a problem? That is, what is the worldview or the overarching mental model that lies at the very foundation of science and engineering? What are the components of this worldview?
+    c. What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin modeling a problem?
+    d. When are models useful for reaching a solution to a problem? If no solution presents  itself what can the engineer or scientist do?
+
+
+3. Jargon is defined as the set of special words or expressions that are used by a particular profession or group and are difficult for others to understand. Answer the following related to jargon:
+    a. Why does jargon evolve in virtually any human endeavor? 
+    b. Is scientific language considered jargon? Explain.
+    c. Compare and contrast “ good”  and “ bad”  jargon.
+
+
+4. The following is a description of a simple system 
+A metal pot filled with water is placed on a stove and heated. The system is defined as the metal pot plus the water. As the water heats up, some of it evaporates into the air. The temperature of the water increases, and the volume of the remaining liquid decreases. 
+    a. Is this system open, closed, or isolated? Explain your reasoning.
+    b. What is entering the system? What is leaving the system? What remains unchanged in the system?
+    c. Identify whether each of the following properties is intensive or extensive. Justify your answer.
+        ◦ Temperature
+        ◦ Mass of the water
+        ◦ Density of the water
+        ◦ Volume of the water
+
+5. Give a definition of the following terms in both English and Spanish:
+    • mass
+    • charge
+    • linear momentum
+    • angular momentum
+    • energy
+
+6. Be prepared to translate the abstract from a scientific paper from English to Spanish and/or vice versa. For example, select either the English or Spanish version of the abstract below. Translate to the second language and compare your translation to the one provided by the authors.
+
+
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+---- Open 
+
+“To have another language is to possess a second soul.”
+			– Charlemagne
+
+
+
+
+
+---- Review 
+
+Notes on HW
+Marron Key to HW Errors
+
+Be on the lookout for:
+	*Formatting
+		Margins
+		Text; double space
+		Header; single space
+		Task titles (Tier 1)  ==> centred; bold; caps first words
+			Tier 2	==> L; underlined; caps first words
+	*Paragraph options
+		Indent
+		Space
+	*Widows/Orphans
+	*References
+	*Voice
+		In general, use 3rd person Point of View (POV) AND active voice in academic writing
+		the active voice. (Strunk and White p 23)
+		1. Place yourself in the background. (Strunk and White p. 64)
+		17. Do not inject opinion.(Strunk and White p. 71)
+	*Foreign phrases
+		italicized to indicate that they are not in English. (APA)
+	*Outline styles
+	*Acronyms	
+	*Punctuation
+	*Extra Space
+	
+	
+
+
+
+
+** Read jargonized text
+	Guess!
+
+
+
+---- New
+
+** Structure, Order, and Predictability
+
+What is structure and order? How do we perceive structure and order? Is the universe ordered?
+At what scale?
+	* Humans (thus far) are the best pattern recognizers 
+
+What is predictable?
+	* Physical systems? (physics, chemistry, geology, astronomy, meteorology)
+	* Biological systems?
+	* Complex adaptive systems?
+		Computational Irreducibility (Wolfram)
+			the only way to determine the answer to a computationally irreducible question is to 				
+			perform, or simulate, the computation		
+		
+Engineering Terms and Concepts
+2.1: System, Property, State, Process, Accounting
+	(p 29-34, *Richards_BASIC-ENGINEERING-SCIENCE)	
+
+
+** It's time to build your Personal Glossary/Dictionary
+	-Use a simple text file (ASCII/Unicode character set)
+	
+	Here's why....
+	
+** Translation of Academic Papers
+	General Structure and Format of Science/Engineering papers
+	
+		Whitesides_ScientificPapers.pdf
+			Ref_Docs
+				==> Formatting
+
+** Translation of Academic Papers
+Read thru Abstracts / Conclusions for vocab
+	LIMAYMANTA_Suelos-de-Transición-Línea12.pdf
+
+** Go thru HW and Study Guide
+
+
+
+---- Work Time
+
+
+---- Coming up
+** Translation of Academic Papers
+Read thru Abstracts / Conclusions for vocab
+	Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+	
+** Science vs. Engineering vs. Technology
+06_Ramsden_Diff_Between_Engineering_and_Science-1
+
+
+
+
+

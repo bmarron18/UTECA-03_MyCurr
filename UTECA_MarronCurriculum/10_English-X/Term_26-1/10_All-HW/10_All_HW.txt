@@ -1,0 +1,543 @@
+##########
+Final Exam [Due: 18 Dec 2025]	<== a take home exam
+###########
+
+The Final Exam for this course will be a take home exam based entirely on your production of a CV/resume and a cover letter. The description of the Final Exam and the detailed requirements for completing the Final Exam are given in the attached Final Exam document. You will deliver your Final Exam documents on or before 18 December 2025 during our regular class time.
+
+[CV and Cover Letter]
+
+
+
+#########
+HW 3P
+#########
+
+
+Study Guide Exam 3P  [11 Dec 2025]
+--------------------
+1
+We have taken a very rapid and cursory look at the evolution of modern American humor through the lens of classic American and British comedians. The skits and excerpts we watched nearly all tended to satire or farce, with a hefty dose of slapstick, even though there are many more stylistic elements available to the art of performance humor.
+
+      (1) Charlie Chaplin’s silent films helped people laugh during hard times. For example, his film,
+Modern Times used satire and slapstick to highlight the dark realities of modern industrialization. Why is humor an antidote for misery? Or is it?
+      (2) Many of the skits by Monty Python and Saturday Night Live inject zany characters or situations into an otherwise “normal” world. In these skits some actors must play it straight while others “go off the deep end.” Why is watching outlandish and silly behavior in the face of the status quo enjoyable? Or is it?
+
+2
+Chinese culture is steeped in Taoism. At the source of Taoism are the writings of the legendary Lao Tzu as compiled in the text, Tao Te Ching. Although we read only the first four chapters of the Tao Te
+Ching, what struck you as significant in these passages?
+
+3
+Brave New World by Aldous Huxley is a blueprint for one type of possible future for humanity. While
+generally classified as dystopian, there are certainly utopian elements to be found in this novel, such as environmental stewardship and a stable population (the society vehemently recycles and ecosystem collapse is not an issue; Nature is doing alright.) There may be other benefits as well depending, of course, on one’s personal predilections and tastes (unfettered access to drugs and sex, for example). From the list of topics below select one topic and if possible, comment on both the dystopian aspects of the topic as well as the utopian aspects of the topic. You may decide, however, that the topic can be seen in only one way.
+
+      * Asceticism vs. managed pleasure: John’s embrace of hardship asserts value in constraints and striving, framing meaning as earned rather than dispensed.
+      * Censorship of science: The Controller’s admission that inquiry is curtailed reveals stability’s
+dependence on strategic ignorance.
+      * Islands as heterotopias: Exile communities function as pressure valves, preserving dissent in
+quarantine to protect the core.
+      * Managed dying: The hospital’s cheerful efficiency eradicates mourning, reducing death to a
+hygienic endpoint in a service pipeline
+      * Eros vs. conditioning: Lenina’s scripted sexuality collides with John’s ethics of commitment,
+dramatizing incommensurate erotic grammars
+      * Addiction as policy: Linda’s perpetual soma-holiday exemplifies institutionalized escapism that substitutes anesthesia for care.
+      * Spectacle justice: Public humiliation replaces due process, making governance a theater of
+shame that disciplines through collective voyeurism.
+      * Conformity enforced by exile: Administrative threats expose the soft authoritarianism
+underpinning “happiness,” where deviance is exported rather than debated.
+      * Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into
+synchronized intoxication, simulating community while neutralizing individuality.
+      * Aesthetic anesthesia: Synthetic entertainments domesticate the sublime, replacing difficult
+feeling with orchestrated euphoria
+      * Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into
+synchronized intoxication, simulating community while neutralizing individuality.
+      * Soma and flight from authenticity: The chemical shortcut to contentment functions as a
+prophylactic against self-knowledge and sustained reflection.
+      * Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
+      * Infantilization as policy: Moral education stabilizes society by arresting moral development,
+keeping citizens in a perpetual, cheerful immaturity.
+      * Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis,
+gestation, and psychological “predestination”—revealing a society where political power is
+exercised through biological design rather than law or tradition.
+
+
+*** HW_12 [Due: 11 December 2025]		<== due in two weeks; LAST ONE!
+--- Task 1
+Refine, revise, and finalize your LaTex-based resume. Login to your Overleaf acct (https://www.overleaf.com/). After logging in you will be brought to the "All Projects" page.  From here you can select the CV/resume template(s) you were working on. Open one of your "All Projects" templates in the Latex Editor. Make as many changes as possible to reflect your own CV/resume. For this assignment you DO NOT need to print a .pdf of the changes, just save the changes in Overleaf. You will submit your completed CV as part of the Final Exam. 
+
+--- Task 2
+Begin looking for work and write a cover letter. Register with a few job sites and begin browsing for positions. Find a position you might be interested in and do the following:
+	i) begin a job application registry document (to keep track of applications/contacts/etc) and add the job you are interested in to the list
+	ii) write a cover letter for this job
+In your homework simply copy the listing of the job from your job application registry document. You will submit your completed cover letter as part of the Final Exam.
+
+--- Task 3
+Read Chapters 13 through 18 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+
+a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of the three selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection on this Major Topic.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+***HW_11 [Due: 27 November 2025]
+--- Task 1
+Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google account to login/create a new acct (free). Go to Templates and find the "CVs and resumes" Category. There are 36 pages of CV/resume templates! Scroll through the templates and select a CV/resume style you like. Open the template in the Latex Editor. Make as many changes as possible to reflect your own cv/resume. When done, download the .pdf of your cv/resume and submit as part of this homework assignment. You do not need to format the cv/resume differently....just submit as is and upload to Teams.
+
+--- Task 2
+Read Chapters 7 through 12 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+
+a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of the three selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection on this Major Topic.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+***HW_10 [Due: 20 November 2025]
+--- Task 1
+Reflect on your perceptions of humor. Specifically.
+	Why is something funny?
+	Do you like a certain style of humor?
+	What did you think of the Latin-themed SNL skits?
+	Answer these questions in English.
+--- Task 2
+Read Chapters 1 through 6 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+
+a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of the three selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection of this Major Topic.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+#########
+HW 2P
+########
+***HW_09 [Due: 13 November 2025]	<== nothing to turn in
+
+--- Task 1
+Complete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+--- Task 2
+Review for 2P Exam
+
+Study Guide
+-----------
+1. Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 80% of your grade for the 2P exam. You will attach your review to the exam sheet.
+
+2. Be able to evaluate your experience with coding
+    * How would you evaluate or characterize the Python language?
+    * Did you find using the command-line for computer-based tasks helpful or burdensome?
+    * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+
+3. Be able to evaluate your experience with creative writing
+    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
+    * Of the pieces you wrote for class which was your favorite? Explain why.
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_08 [Due: 06 November 2025]
+
+--- Task 1
+Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
+
+Structure-Based Writing Exercises
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
+
+--- Task 2
+Read the final two chapters (Chapter 15, and Chapter 16) of "The Joy Luck Club." 
+	Ch. 15	o Double face: Lindo Jong
+	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
+
+--- Task 3
+Begin work on "A Review and Evaluation of Themes, Relationships, and Personal Evolutionin the Novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+
+*** HW_07 [Due: 30 October 2025]
+--- Task 1
+Using the script, "Python_API-NLTK_Assignment_02.py," translate the Fourth Section Preamble of the Joy Luck Club into Spanish using Gemini 2.5 Flash. Review and edit the translation as you see fit. Evlauate the AI translation with a METEOR score by using the original AI translation as the "candidate" and your revised translation as the "reference." Include a screen shot of the Spyder IDE work area and report the METEOR score.
+--- Task 2
+Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+1. A character lies — convincingly — for the first time in their life. 
+2. The protagonist meets someone from their past — but pretends not to recognize them.
+3. A minor decision reveals a major character flaw. 
+4. A character confesses to the wrong person. 
+5. Someone gets exactly what they wanted — and immediately regrets it. 
+--- Task 3
+Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Fourth Section Preamble: Queen Mother of the Western Skies
+	Ch. 13	o Magpies: An-Mei Hsu
+	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_06 [Due: 23 October 2025]
+--- Task 1
+Take the following short paragraph from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You will use METEOR to evaluate the AI translation.
+
+Step 1. Send the paragraph below to your favorite AI for translation. 
+Step 2. Save thetranslation as, "candidate". 
+Step 3. Edit the AI translation or write your own translation and save it as, "reference." 
+Step 4. Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script:
+
+'''
+METEOR Score for My Work
+'''
+
+Step 5. Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
+Step 6. Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
+
+excerpt, The Joy Luck Club
+And just after my father died last year, she said she knew this would happen. Because
+a philodendron plant my father had given her had withered and died, despite the fact
+that she watered it faithfully. She said the plant had damaged its roots and no water
+could get to it. The autopsy report she later received showed my father had had
+ninety-percent blockage of the arteries before he died of a heart attack at the age
+of seventy-four. My father was not Chinese like my mother, but English-Irish American,
+who enjoyed his five slices of bacon and three eggs sunnyside up every morning.
+
+--- Task 2
+Take an incident from your life in high school and write a fictional account. That is, use the incident as the basis for a short vignette of creative writing. The vignette should be about a paragraph written in English.
+
+--- Task 3
+Read the Third Section Preamble, Chapter 11, and Chapter 12 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Third Section Preamble: American Translation
+	Ch. 11	o Without Wood: Rose Hsu Jordan
+	Ch. 12	o Best Quality: Jing-Mei Woo
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_05 [Due: 16 October 2025]
+--- Task 1
+Read the following sections of the onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
+(https://www.nltk.org/book/ch00.html)
+
+	Preface
+	Audience
+	Emphasis
+	What You Will Learn
+	Organization
+	Why Python?
+	...
+	Natural Language Toolkit (NLTK)
+
+--- Task 2
+Install the NLTK pkg into your (ai-apis) virtual environment. The installation is given in the steps below but if needed, research how to do this online.
+
+##############
+Install NLTK
+in (ai-apis)
+using pip pkg installer
+##################
+NB. The location of your (ai-apis) may be different than that given below depending on how Spyder was installed
+and where you decided to create your virtual environment (ai-apis)
+
+*	Open (ai-apis) and install NLTK package
+C:\Users\<you>\AppData\Local\spyder-6\Scripts\ai-apis> activate		<== Windows
+(ai-apis)> pip install nltk
+(ai-apis)> deactivate 										
+>
+
+
+$ source ./spyder-6/envs/ai-apis/bin/activate					<== Linux/MacOS
+(ai-apis)$ pip install nltk
+(ai-apis):~$ deactivate
+$
+
+--- Task 3
+Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Third Section Preamble: American Translation
+	Ch. 9	o Rice Husband: Lena St. Clair
+	Ch. 10	o Four Directions: Waverly Jong
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+
+#########
+HW 1P
+########
+
+
+*** HW_04 [Due: 09 October 2025]		<== only Task 2 to turn in
+--- Task 1
+** Install Python **
+	- Follow the instruction in this website
+		https://www.python.org/downloads/
+		
+		Stable Releases
+		Python 3.13.7 - Aug. 14, 2025
+			Python-3.13.7.tar.xz				<== Linux
+			Download Windows installer (64-bit)	<== Windows
+
+** Verify that "pip" is installed and updated (pip is a Python package manager) **
+	- pip should already be installed with Python 3.13.7
+	- Open a terminal and go to the top of the filesystem
+		> cd\
+		
+	- Check for the version of pip installed
+		> pip --version		<== Windows
+		$ pip --version		<== Linux
+			pip 25.2 from /home/bmarron18/.local/lib/python3.10/site-packages/pip (python 3.10)
+			
+	- Ensure pip is upgraded
+		> python -m ensurepip --upgrade			<== Windows
+		$ python3 -m pip install --upgrade pip		<== Linux
+	
+	- If needed, follow the instructions in this website
+		https://phoenixnap.com/kb/install-pip-windows
+	
+** Install Spyder **
+	- Go to https://www.spyder-ide.org/
+	- Spyder will automatically detect your OS and suggest a download
+	- define simple location for Spyder install. For example
+		/home/bmarron/spyder-6								<== Linux and Mac OS
+		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
+		
+** Review Windows filesystem operations snippets **
+	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
+	- Review the information (snippets) in the large-window on the left-hand side
+	- Start at [Command Line Operations in Windows] and scroll all the way through the document
+
+** Find the version of Python running in Spyder-6 **
+	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
+	- Scroll to the top of the mini-window to find the Python distribution (distro) information
+	- Something like
+		Python 3.11.0rc1 (main, Aug 12 2022, 10:02:14) [GCC 11.2.0]
+		Type "copyright", "credits" or "license" for more information
+
+** Check the installation of Spyder-6
+	- Open a terminal and go to your home directory
+		$ cd ~							<== Linux and Mac OS
+		> cd %homedrive%%homepath%			<== Windows
+		> cd C:\Users\<your_user_name>\
+	
+	- Check / find the Spyder installation directory (folder)
+		$ find ./ -name "*spyder*" -type d			<== Linux and Mac OS
+		> dir /b/s *spyder*						<== Windows
+		> where spyder*
+
+** Install the "virtualenv" package (Python) into Spyder directories using pip **
+	- Open a terminal
+	- Install "virtualenv" in a specific location in Spyder
+		> pip install --target C:\Users\<user-name>\AppData\Local\spyder-6\Scripts virtualenv
+		$ pip install --target /home/bmarron18/virtualenv virtualenv
+
+      - Verify the installation and locate the executable file
+		C:\> dir /b/s virtualenv.exe
+			C:\Users\<you>\AppData\Local\spyder-6\Scripts\virtualenv.exe
+
+Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
+
+--- Task 2
+Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Ch. 7	o Half and Half: Rose Hsu Jordan
+	Ch. 8	o Two Kinds: Jing-Mei Woo
+
+--- Task 3
+Study Guide
+
+1. The Han Empire has played a crucial role in the development of Chinese culture and identity12.  Answer the following questions related to your studies of the Han Empire:
+    a. Roughly, what is the time period for the Han Empire?
+    b. List at least three (3) achievements of the Han Empire.
+    c. Translate the writing of Chinese characters (汉字) into English.
+    d. Why do you think most Chinese consider themselves to be Han?
+    e. Name two (2) scholastic sources that can be used to search academic articles related to the Han Empire. 
+    f. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
+
+2. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
+    a. List three (3) suggested guidelines for dynamic storytelling in presentations.
+    b. What is the role of creativity in the preparation of a presentation?
+    
+3. Using AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
+    a. API
+    b. API Key
+    c. Python
+    d. The command line interface
+    e. Spyder IDE
+    f. Google Gemini
+    g. OpenAI GPT-5
+    h. Prompt Engineering
+
+4. Select your favorite chapter from Chapters 1 – 4 of the novel and perform and/or answer the following:
+    a. Briefly explain why you selected the chapter.
+    b. What do you think is the main “take-away” from the chapter?
+    c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
+    d. From your perspective, did AI (Gemini, ChatGPT, DeepSeek) do a good job summarizing the novel's chapters? Explain 
+    why or why not.
+    e. Write a five (5) sentence summary of the chapter in English and translate the summary into Spanish.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+***	HW_03 [Due: 02 October 2025]
+--- Task 1
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your paper in the context of the Han empire. Your talk should be no longer than 5 min. and should cover the basic data on your selected paper; namely,
+	1. Who wrote the paper?
+	2. What is the paper about?
+	3. When was the paper published?
+	4. Where was the paper published (i.e., the journal of publication)?\
+	5. Why did the author(s) write the paper?
+
+If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slide as a .pdf file in Teams attached/keyed to this homework assignment.
+--- Task 2
+In preparation for upcoming coding activities, obtain a Gemini API key.
+
+----- Google Gemini API Info and Getting Started -------
+*	See the QuickStart guide
+	- QuickStart 
+		https://ai.google.dev/gemini-api/docs/quickstart?lang=python]
+
+*	Go to Google API Studio Welcome page
+	https://aistudio.google.com/welcome
+		- clic on "Get Started"
+		- Enter a Google Account
+		- opens Google AI Studio page
+	
+---- Get a Gemini API Key ----------------
+*	Understand secuirty for your API key
+	1. Open 
+		https://ai.google.dev/gemini-api/docs/api-key
+	2, Skim until you find the section, "Keep your API key secure"
+	3. Read this thoroughly!!!!!
+	4. See also
+		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+
+*	Get your API key for Gemini
+	1. Google search "Gemini API key"
+	2. Select "Get your Gemini API key"
+		- goes to https://aistudio.google.com/welcome
+		- opens a black screen that says, 
+			Google AI Studio
+			"The fastest path from prompt to production with Gemini"
+			
+	3. clic "Get started"
+	4. Select a Google Account
+	5. Consent to Terms of Service
+		- Opens the Google AI Studio home page
+		
+	6. In the left-hand column, open sub-menu under "DashboardÂ¨
+	7. Clic on "API keys", opens a new window
+	8. In the new window, clic on "+ Create API Key" in the upper right-hand corner
+	9. Set up billing or use free tier
+		Project number
+		Project name
+		API key
+		Created
+		Plan 			<== Set billing options or use free tier
+
+*	Guard your API Key
+	1. Store your API key in a .txt file
+		- place the (.txt) file in a secure location on your home computer. 
+		DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+		
+	2. Store your API key as ENV VARIABLE in your computer [recommended]
+		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+		- try to do this on your own
+--- Task 3
+Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Second Section Preamble: The Twenty-Six Malignant Gates
+		Ch. 5	o Rules of the Game: Waverly Jong
+		Ch. 6	o The Voice from the Wall: Lena St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+
+***	HW_02 [Due: 25 September 2025]
+--- Task 1
+Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min. Upload your presentation as a .pdf file in Teams attached to this homework assignment.
+--- Task 2
+Read the paper you have chosen to present. Very briefly (one or two lines) answer the following questions about your paper:
+	1. Who wrote the paper?
+	2. What is the paper about?
+	3. When was the paper published?
+	4. Where was the paper published (i.e., the journal of publication)?\
+	5. Why did the author(s) write the paper?
+--- Task 3
+Read the Chapter 3, and Chapter 4 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Ch. 3	o The Red Candle: Lindo Jong
+	Ch. 4	o The Moon Lady: Ying-Ying St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+***	HW_01 [Due: 18 September 2025]
+NB. Homework assignments this term may be done in groups of 2 or 3 persons (recommended).
+--- Task 1
+The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching.
+*Step 1
+Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the following open-access sites:
+	1. Google Scholar
+		https://scholar.google.com/
+	2. JSTOR
+		https://www.jstor.org
+		
+	3. Open-Access Journals (pick one)
+		a. Journal of Chinese History 中國歷史學刊 
+			https://www.cambridge.org/core/journals/journal-of-chinese-history/open-access
+				
+		b. The Chinese Historical Review
+			https://www.tandfonline.com/journals/ytcr20
+		
+		c. Journal of the European Association for Chinese Studies
+			https://journals.univie.ac.at/index.php/jeacs/index
+		
+		d. USC Libraries, University of Southern California, Research Guides
+		Chinese Studies *: Journals
+			https://libguides.usc.edu/chinese_studies/journals
+*Step 2
+From each site download one (1) academic paper. Papers will typically be in the fields of
+	Art
+	Archeology
+	Politics
+	Philosophy
+	Sociology
+	History
+	Other?
+*Step 3
+In your homework i) list the sources you used, and ii) list the citation for each of the three (3) papers. Citation must be in APA or MLA or Chicago style. Briefly describe your experience using each site.
+*Step 4
+Select one (1) of the papers for presentation at a future date. For next week, be prepared to tell the class which paper you selected and why.
+--- Task 2
+In the textbook, "Presentation Zen: Simple ideas on presentation design and delivery" (Reynolds, G. (2019), skim through the Introduction and read Seth Godin (p. 20) and In Sum (p. 25). Answer the following questions,
+	1. Do you typically use PowerPoint (or a similar software) when you are asked to give a 
+	presentation? Do you like giving presentations before groups of people?
+	2. What questions should you be asking about presentation design and delivery that you have not 
+	asked in the past? 
+	3. Do you think that, in the past, you have adhered to the suggested guidelines for dynamic 
+	storytelling in presentations? 
+	4. What aspects of the design and delivery process may have caused “suffering” for your audiences 
+	in the past?
+The Reynolds textbook can be found in Teams, Class Materials (Textbook_Reynolds_PresentationZen_NewRider.pdf)
+--- Task 3
+Read the First Preamble, Chapter 1, and Chapter 2 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+	First Preamble: Feathers From a Thousand LI Away
+		Ch. 1	o The Joy Luck Club: Jing-Mei Woo
+		Ch. 2	o Scar: An-Mei Hsu
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.

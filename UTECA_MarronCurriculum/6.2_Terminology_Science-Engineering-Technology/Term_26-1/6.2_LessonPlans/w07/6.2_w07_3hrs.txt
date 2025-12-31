@@ -1,0 +1,146 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+##############################
+HW_06 [Due: 28 Oct 2025]
+
+-- Task 1
+In his paper, "The Ethical Challenges of Socially Responsible Science." David B. Resnik sets out some of the ethical dilemmas for scientists and offers some recommendations. Answer the following questions related to Resnik's paper:
+	1. Present two (2) "striking examples of scientists who demonstrated a strong commitment to 
+	social responsibility." Explain.
+	
+	2. How is the "current consensus concerning the social responsibilities of scientists ... in 
+	sharp  contrast to the opinion that prevailed several decades ago?"
+	
+	3. Do you think that science should be "value-free"? Does Resnik think so? Explain why or why 
+	not.
+	
+	4. Resnik states that, "Rudner (1953) argued that scientists must make value judgments when 
+	they accept or reject hypotheses, because the amount of evidence needed to accept a hypothesis 
+	depends on the consequences of accepting it." What does this mean?
+	
+	5. How might values "operate at a conscious or subconscious level"?
+	
+	6. What does Resnik mean by "value-neutrality”? How does it apply to working scientists?
+	
+	7. What are Resnik's three main arguments for social responsibility? Do you agree?
+	
+	8. According to Resnk, what are the three ethical challenges of socially responsible science?
+	
+	9. Briefly summarize Resnik's five recommendations for helping scientists deal with moral and 
+	ethical dilemmas.
+
+
+-- Task 2
+Briefly explain the difference between "tame" problems and "wicked" problems. If given a choice, which would you prefer to work on?
+
+
+---Task 3
+Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+
+---- Open 
+
+ 
+	"Nothing is lost, nothing is created, everything is transformed."
+			--Antoine Lavoisier in 1774 in reference to chemical rxns
+
+
+
+
+
+---- Review 
+** Engineering / Science Problem Solving
+	Example — Mass in a solar pond (p 41 Richards_BASIC-ENGINEERING-SCIENCE.pdf)
+	Example — Flow in a rectangular duct (p 45 Richards_BASIC-ENGINEERING-SCIENCE.pdf)
+
+
+** Science vs. Engineering
+	Thoughts from HW
+
+
+---- New
+
+** Intro to Moral responsibility of Science/Engineering
+David B. Resnik (2016) The Ethical Challenges of Socially Responsible Science
+(05_EthicalScience.pdf)
+	Quick scan of the paper
+	Look at HW
+
+
+** Wicked Problems
+
+Review of Normal Science from Kuhn's," The Nature of Scientific Revolutions"
+	IV. Normal Science as Puzzle-solving
+	
+	To scientists, at least, the results gained in normal research are significant because they 
+	add to the scope and precision with which the paradigm can be applied.
+	
+	Bringing a normal research problem to a conclusion is achieving the anticipated in a new 
+	way, and it requires the solution of all sorts of complex instrumental, conceptual, and 
+	mathematical puzzles. The man who succeeds proves himself an expert puzzle-solver, and the 
+	challenge of the puzzle is an important part of what usually drives him on.
+	
+	Nevertheless, the individual engaged on a normal research problem is almost never doing any 
+	one of these things [open up new territory, display order, and test long-accepted belief.. 
+	Once engaged, his motivation is of a rather different sort. What then challenges him is the 
+	conviction that, if only he is skilful enough, he will succeed in solving a puzzle that no 
+	one before has solved or solved so well.
+		
+	... one of the things a scientific community acquires with a paradigm is a criterion for 
+	choosing problems that, while the paradigm is taken for granted, can be assumed to have 
+	solutions. To a great extent these are the only problems that the community will admit as 
+	scientific or encourage its members to undertake.
+	
+	On the contrary, the really pressing problems, e.g., a cure for cancer or the design of a 
+	lasting peace, are often not puzzles at all, largely because they may not have any solution.
+
+And now...
+	Wicked Problems vs Normal Science
+	
+	Look at
+	Ritchey, "Wicked Problems Modelling Social Messes with Morphological Analysis"
+	(p 1 and p2)Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish.
+	
+	Look at
+	Batie_Tame_and_Wicked_Problems.pdf
+		Normal or Linear Science 
+		Figure 1: The linear model of science
+		Wicked Problems
+		Table 1 Tame vs Wicked
+		
+
+
+** Intro to Standard Operating Procedures (SOPs)
+	QAQC
+	Read from EPA Gudance doc (in SOP folder in Class Materials
+	Go thru Examples
+
+
+
+---- Work Time
+
+
+---- Coming up
+
+** 	7.3 Request for Proposals (RFPs) and Proposals
+	
+
+

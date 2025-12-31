@@ -1,0 +1,57 @@
+
+#################
+Notes on prompts
+##################
+
+*	You could think about developer and user messages like a function and its arguments in a programming language.
+    	-developer messages provide the system's rules and business logic, like a function definition.
+    	-user messages provide inputs and configuration to which the developer message instructions are applied, like 
+		arguments to a function.
+		- a prompt contains BOTH message types
+
+	instructions parameter (developer messages)
+		gives the model high-level instructions on how it should behave while generating a response, including tone, 
+		goals, and examples of correct responses. Any instructions provided this way will take priority over a prompt 
+		in the input parameter.
+		
+	input parameters (user messages; as string or array)
+		Ant text, image, or file inputs to the model that are used to generate a specific response.
+
+
+
+##################
+Sample Gemini Prompts
+and System Instructions
+################
+
+--- User Prompts ------------------------------
+
+
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME_Type = text/x-tex. That is. the output translation should be formated as \
+	a .tex file ready to open in LaTex."
+	
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file (.txt)."
+
+
+prompt = "Translate the document, processedfile (a .txt file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs, quotation marks). \
+	Generate the output as a plain text file (.txt); that is, as MIME_type= text/plain."
+
+
+
+--- System Instruction Prompts ------------------------------------------
+
+config = types.GenerateContentConfig(
+               system_instruction="You are an expert liguist \
+                   specializing in translation. Maintain the original \
+                   meaning, and tone of the original. Provide ONLY the \
+                   requested translation without any additional commentary, \
+                   introductory phrases, other language translations, or \
+                   conversational remarks."),
+				   
+ 
+

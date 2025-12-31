@@ -1,0 +1,73 @@
+
+#############
+Info 
+NLTK
+##########
+NLTK has been called a wonderful tool for teaching and working in computational linguistics using Python and an amazing library to play with natural language.
+
+*	Technical refs
+https://www.nltk.org/
+https://www.nltk.org/book/
+https://www.nltk.org/py-modindex.html
+
+##############
+Install NLTK
+in (spyder_env)
+##################
+
+*	Open (spyder_env)
+	$ conda activate spyder_env
+
+*	Install NLTK in (spyder_env)
+	$ conda install nltk
+		## Package Plan ##
+			environment location: /home/bmarron/anaconda3/envs/spyder_env
+		added / updated specs:
+    		- nltk
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    click-8.2.1                |     pyh707e725_0          86 KB  conda-forge
+    colorama-0.4.6             |     pyhd8ed1ab_1          26 KB  conda-forge
+    joblib-1.5.2               |     pyhd8ed1ab_0         219 KB  conda-forge
+    nltk-3.9.1                 |     pyhd8ed1ab_1         1.0 MB  conda-forge
+    regex-2025.9.1             |  py313h07c4f96_0         398 KB  conda-forge
+    setuptools-80.9.0          |     pyhff2d567_0         731 KB  conda-forge
+    tqdm-4.67.1                |     pyhd8ed1ab_1          87 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         2.5 MB
+
+The following NEW packages will be INSTALLED:
+
+  click              conda-forge/noarch::click-8.2.1-pyh707e725_0 
+  colorama           conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_1 
+  joblib             conda-forge/noarch::joblib-1.5.2-pyhd8ed1ab_0 
+  nltk               conda-forge/noarch::nltk-3.9.1-pyhd8ed1ab_1 
+  regex              conda-forge/linux-64::regex-2025.9.1-py313h07c4f96_0 
+  setuptools         conda-forge/noarch::setuptools-80.9.0-pyhff2d567_0 
+  tqdm               conda-forge/noarch::tqdm-4.67.1-pyhd8ed1ab_1 
+
+	
+	
+
+*	Change Spyder to work in (spyder_env)
+	(spyder_env) $ spyder
+		In Spyder under "wrench" change Python interpreter [clic 'Apply' and 'OK']
+			==> /home/bmarron/anaconda3/envs/spyder_env/bin/python
+
+
+*	Restart Spyder [now running inside (spyder_env) Anaconda and w/o Spyder internal python]
+	(spyder_env) $ spyder
+		Python 3.13.7 | packaged by conda-forge | (main, Sep  3 2025, 14:30:35) [GCC 14.3.0]
+		Type "copyright", "credits" or "license" for more information.
+
+		IPython 8.37.0 -- An enhanced Interactive Python. Type '?' for help.
+
+*	After NLTK is installed, download NLTK data (corpora, models, etc.) to use its full functionality. Th
+	>>> import nltk
+    >>> nltk.download()
+
+This will open a graphical NLTK Downloader window where you can select specific packages or download the entire all collection
+	[nltk data files here: /home/bmarron/nltk_data]
+

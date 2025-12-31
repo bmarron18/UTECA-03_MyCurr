@@ -1,0 +1,24 @@
+##############
+TexPert AI
+###############
+https://ai.google.dev/competition
+https://ai.google.dev/competition/projects/texpert
+
+Your AI-Powered LaTeX Companion.
+
+
+#############
+PipeDreams interface
+######################
+https://pipedream.com/apps/deepseek/integrations/translate-com
+	What do you want to automate with DeepSeek and Translate.com?
+	Watch demo
+
+
+################
+PDFTranslator AI
+$3.99/mo
+##################
+https://pdf.wondershare.com/ai-pdf-translator.html
+
+

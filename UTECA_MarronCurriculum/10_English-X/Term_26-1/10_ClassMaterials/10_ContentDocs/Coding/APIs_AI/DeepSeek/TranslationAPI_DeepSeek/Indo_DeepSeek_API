@@ -1,0 +1,167 @@
+
+
+https://api-docs.deepseek.com/
+https://www.byteplus.com/en/topic/398406?title=how-to-use-deepseek-in-python
+https://www.reddit.com/r/DeepSeek/comments/1j2wshr/can_i_translate_with_deepseek/
+
+
+The DeepSeek API uses an API format compatible with OpenAI. By modifying the configuration, you can use the OpenAI SDK or softwares compatible with the OpenAI API to access the DeepSeek API.
+PARAM				VALUE
+base_url *       	https://api.deepseek.com
+api_key				apply for an DeepSeek API key
+
+We recommend users to set the temperature according to their use case listed in below.
+USE CASE					TEMPERATURE
+Coding / Math   				0.0
+Data Cleaning / Data Analysis	1.0
+General Conversation			1.3
+Translation						1.3
+Creative Writing / Poetry		1.5
+
+
+
+>>> Python sample ------------------------------------------------------------
+from openai import OpenAI
+
+client = OpenAI(api_key="<DeepSeek API Key>", base_url="https://api.deepseek.com")
+
+response = client.chat.completions.create(
+    model="deepseek-chat",
+    messages=[
+        {"role": "system", "content": "You are a helpful assistant"},
+        {"role": "user", "content": "Hello"},
+    ],
+    stream=False
+)
+
+print(response.choices[0].message.content)
+>>> -------------------------------------------------------------
+
+
+
+
+>>> python sample ----------------------------------
+import os
+from openai import OpenAI
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Initialize the client
+# The API key is read from the DEEPSEEK_API_KEY environment variable
+# The base_url must be set to DeepSeek's API endpoint
+try:
+    client = OpenAI(
+        api_key=os.getenv("DEEPSEEK_API_KEY"),
+        base_url="https://api.deepseek.com/v1"
+    )
+
+    # Create a chat completion request
+    response = client.chat.completions.create(
+        model="deepseek-chat",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": "Hello! Can you explain what a large language model is in simple terms?"},
+        ],
+        max_tokens=500,
+        temperature=0.7,
+    )
+
+    # Print the model's response
+    print(response.choices[0].message.content)
+
+except Exception as e:
+    print(f"An error occurred: {e}")
+>>> ---------------------------------------------------------------------
+
+
+
+>> python ------------------------------------------------------
+import requests
+import json
+
+# Replace with your actual DeepSeek API Key
+API_KEY = "sk-your-key" 
+
+# DeepSeek API endpoint for chat completions
+API_URL = "https://api.deepseek.com/chat/completions"
+
+# Headers for the API request
+headers = {
+    "Content-Type": "application/json",
+    "Authorization": f"Bearer {API_KEY}"
+}
+
+def translate_text(text_to_translate, target_language="French"):
+    """
+    Translates the given text into the specified target language using DeepSeek API.
+    """
+    data = {
+        "model": "deepseek-chat",  # Or "deepseek-reasoner" depending on your needs
+        "messages": [
+            {"role": "system", "content": f"You are a helpful assistant that translates text into {target_language}."},
+            {"role": "user", "content": f"Translate the following text into {target_language}: '{text_to_translate}'"}
+        ],
+        "stream": False 
+    }
+
+    try:
+        response = requests.post(API_URL, headers=headers, json=data)
+        response.raise_for_status()  # Raise an exception for bad status codes
+
+        result = response.json()
+        translated_text = result['choices'][0]['message']['content']
+        return translated_text
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error during API call: {e}")
+        if response is not None:
+            print(f"Response status code: {response.status_code}")
+            print(f"Response content: {response.text}")
+        return None
+
+# Example usage
+original_text = "Hello, how are you today?"
+translated = translate_text(original_text, target_language="Spanish")
+
+if translated:
+    print(f"Original: {original_text}")
+    print(f"Translated (Spanish): {translated}")
+
+original_text_2 = "The quick brown fox jumps over the lazy dog."
+translated_2 = translate_text(original_text_2, target_language="German")
+
+if translated_2:
+    print(f"Original: {original_text_2}")
+    print(f"Translated (German): {translated_2}")
+	
+
+Explanation:
+
+    Import requests and json:
+    These libraries are used for making HTTP requests and handling JSON data.
+	
+    API_KEY and API_URL:
+    Replace "sk-your-key" with your actual DeepSeek API key. The API_URL points to the chat completions endpoint.
+	
+    headers:
+    Set the Content-Type to application/json and provide your Authorization token using the Bearer scheme.
+	
+    translate_text function:
+        Takes text_to_translate and target_language as input.
+        Constructs the data payload for the API request, including the model (deepseek-chat or deepseek-reasoner), a system message to guide the model for translation, and a user message containing the text to be translated.
+		
+        Sends a POST request to the DeepSeek API.
+		
+        Handles potential errors during the API call.
+		
+        Parses the JSON response and extracts the translated text from result['choices'][0]['message']['content']. 
+		
+    Example Usage:
+    Demonstrates how to call the translate_text function with different texts and target languages.
+
+Before Running:
+
+    Obtain a DeepSeek API Key: You need to sign up for DeepSeek and obtain an API key from their platform.
+    Install the requests library: If you haven't already, install it using pip install requests.

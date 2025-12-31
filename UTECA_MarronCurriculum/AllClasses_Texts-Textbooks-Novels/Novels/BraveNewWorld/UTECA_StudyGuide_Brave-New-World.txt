@@ -19,34 +19,10 @@ Lexile Reading Level = 870L
 
 %%%%%%%%% Synopsis, Discussion Questions  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
->>> GeneralQuery to gpt-5 -------------------------------------------------------------------
-	# User level message
-user_prompt= "Provide i) a brief summary, and ii) comprehension questions for chapters \
-    one through nine of Aldous Huxley's novel, 'Brave New World'. Chapter summaries as well as \
-    comprehension questions should be at a 9th grade level. Summaries should not exceed one \
-    paragraph per chapter. Comprehension questions should cover the important topics introduced \
-    in each chapter plus detailed questions regarding the events that happen in each chapter. \
-    The output response of summaries and questions should be organized by chapter."
 
-	# Developer level message
-sys_prompt = "You are an expert literary scholar \
-    specializing in science fiction and dystopian futures. Provide ONLY the requested \
-    summaries and questions without any additional commentary, introductory phrases, \
-    or conversational remarks."
-
-response = client.responses.create(
-  model = "gpt-5",
-  instructions = sys_prompt,
-  input = user_prompt
-)
-
-with open(output_f, "w", encoding="utf-8") as f:
-     f.write(response.output_text)
-     
-print(f"Querycomplete! Outputsaved to '{output_f}'.")
->>> ------------------------------------------------------------------------------------
-
+###########
 Chapter 18
+###########
 Summary:
 John withdraws to a lighthouse to live simply and punish himself for what he sees as his sins. He farms, prays, and whips himself to seek purity and control. Reporters and crowds soon discover him and turn his acts into a show. When Lenina appears, the scene becomes wild, leading to a mass frenzy that John later regrets bitterly. Overcome with guilt and despair, he takes his own life.
 
@@ -65,8 +41,9 @@ Comprehension Questions:
 - What final choice does John make, and why?
 - What does the ending say about the power of the World State over individuals?
 
-
+############
 Chapter 17
+#############
 Summary:
 Mond and John speak alone about God, freedom, suffering, and the need for struggle. Mond argues that comfort, youth, and safety make old ideas of religion and tragedy unnecessary and dangerous. John insists that real humanity requires difficulty, risk, and the chance to make mistakes. He refuses the easy life, saying he wants the freedom to face pain and be fully human.
 
@@ -85,8 +62,9 @@ Comprehension Questions:
 - How does this debate connect to earlier scenes with Shakespeare?
 - What does the chapter suggest about the cost of stability?
 
-
+###########
 Chapter 16
+############
 Summary:
 Mustapha Mond interviews John, Bernard, and Helmholtz. Mond explains why the World State sacrifices art, science, and truth to keep people stable and happy. He tells the story of a failed experiment where only Alphas ran a society, which collapsed, proving that not everyone can be at the top. Mond offers exile to Bernard and Helmholtz. Bernard panics and begs to stay, while Helmholtz calmly accepts and even prefers a harsh island to sharpen his writing.
 
@@ -105,8 +83,9 @@ Comprehension Questions:
 - How does Mond justify choosing happiness over truth?
 - What choice does John face at the end of this chapter?
 
-
+############
 Chapter 15
+############
 Summary:
 Leaving the hospital, John sees Deltas lined up for their daily soma. He tries to stop them, calling the drug a poison and throwing the ration out the window. A riot breaks out. Helmholtz arrives and sides with John, while Bernard hesitates, torn between fear and loyalty. Police use calming tools and more soma to end the chaos. John, Helmholtz, and Bernard are arrested.
 
@@ -125,8 +104,9 @@ Comprehension Questions:
 - Who gets arrested, and why?
 - How does this scene build on John’s anger after Linda’s death?
 
-
+############
 Chapter 14
+############
 Summary:
 John goes to the Hospital for the Dying to see Linda. The ward is calm, bright, and full of children being conditioned not to fear death. Linda is drugged and mistakes John for someone else, then dies without recognizing him. The nurses are more worried about upsetting the children than about John’s grief. When the children mock, John lashes out in anger and sorrow.
 
@@ -145,8 +125,9 @@ Comprehension Questions:
 - What does this scene reveal about the World State’s view of death?
 - How does the hospital setting affect John’s feelings about the society?
 
-
+###########
 Chapter 13
+###########
 Summary:
 Lenina is confused by her strong feelings for John and decides to visit him and show her desire openly, as her society teaches. John declares his love in romantic terms and speaks of marriage, which she finds strange. When Lenina tries to seduce him, he becomes upset, calls her terrible names, and demands she leave. A call then comes about Linda’s condition, pulling John away.
 
@@ -165,8 +146,9 @@ Comprehension Questions:
 - How does Lenina feel after John’s outburst?
 - What does John’s reaction reveal about his beliefs about intimacy?
 
-
+###########
 Chapter 12
+############
 Summary:
 Bernard throws a party and promises to present John, but John refuses to come out, humiliating Bernard in front of important guests, including the Arch-Community-Songster. Bernard’s popularity collapses. Meanwhile, Helmholtz and John bond over poetry, especially Shakespeare. Helmholtz laughs at parts he finds silly, but he respects John’s passion for language, while Bernard grows jealous.
 
@@ -185,8 +167,9 @@ Comprehension Questions:
 - How does Bernard feel about John and Helmholtz becoming friends?
 - What does this chapter reveal about popularity versus real connection?
 
-
+###########
 Chapter 11
+###########
 Summary:
 Bernard becomes fashionable because everyone wants to see “the Savage,” but John dislikes being shown off. Bernard brags about his new popularity, which annoys Helmholtz. John visits places like Eton and a feelie and finds the culture shallow and controlled. Mustapha Mond quietly censors science and art to keep order. Linda is kept on soma in the Hospital for the Dying, slipping away from reality.
 
@@ -205,8 +188,9 @@ Comprehension Questions:
 - Why does John refuse some public appearances?
 - What do these events show about control of truth and art in the World State?
 
-
+###########
 Chapter 10
+###########
 Summary:
 At the London Hatchery, the Director plans to fire Bernard in front of everyone and send him to Iceland. Bernard spoils the plan by bringing Linda and John. Linda exposes the Director as John’s father, shocking everyone because parenthood is shameful in this society. The Director is publicly disgraced, and Bernard’s status rises. Linda, broken by years on the Reservation, chooses a permanent soma holiday.
 
@@ -225,8 +209,9 @@ Comprehension Questions:
 - How does Bernard’s position in society change?
 - What does this chapter show about the World State’s view of family?
 
-
+###########
 Chapter 9
+###########
 Summary:
 While Lenina sleeps off a heavy dose of soma, John breaks into her room, overwhelmed by love and wonder. He admires her silently and restrains himself, repeating “O brave new world” as he imagines a future in London. Bernard works to get permission from Mustapha Mond to bring John and Linda back as a scientific curiosity. With approval secured, Bernard plans to expose the Director’s secret. John and Linda agree to go, setting up a dramatic return to the World State.
 
@@ -247,8 +232,9 @@ Major Topics:
   - What contrasts between John’s feelings and Lenina’s expectations are highlighted in this chapter?
   - How does this chapter set up conflict for the next part of the novel?
 
-
+##########
 Chapter 8
+##########
 Summary:
 John tells Bernard about growing up as an outsider in Malpais, bullied by other boys and ashamed of Linda’s behavior. He learns to read from old books and becomes inspired by Shakespeare, which gives him a powerful language for his feelings. He tries to join the men’s ceremonies but is rejected. He remembers attacking Popé after finding him with Linda. John dreams of visiting the “brave new world” his mother described, hoping to find belonging and nobility there. Bernard sees a chance to change his own fate by bringing John back.
 
@@ -269,8 +255,9 @@ Major Topics:
   - Why does John want to leave Malpais?
   - How does John’s desire for meaning contrast with the World State’s values?
 
-
+###########
 Chapter 7
+##########
 Summary:
 At the Savage Reservation of Malpais, Lenina is shocked by aging, disease, and mothers with babies. She and Bernard watch a ritual where a man is whipped, which makes Lenina ill. They meet John, a young man who speaks English, and Linda, a woman from the World State who was left behind years ago. Linda explains that she had a baby there—John—fathered by the Director, and that life in Malpais was harsh for her. The chapter reveals the clash between the World State’s rules and traditional human life.
 
@@ -291,8 +278,9 @@ Major Topics:
   - What emotions does Bernard show when he learns about the Director’s past?
   - How does this chapter highlight the differences between the two societies?
 
-
+##########
 Chapter 6
+#########
 Summary:
 Lenina and Bernard go out again, but they disagree about pleasure and silence; she wants soma and fun, while he wants to talk and be alone by the sea. Bernard meets with the Director to get permission for the Savage Reservation, and the Director angrily warns him about nonconformity, telling a story about a girl he once lost in New Mexico. He threatens to send Bernard to Iceland for his behavior. Despite this, Bernard and Lenina leave for the Reservation, and Bernard worries about his future as they fly to New Mexico.
 
@@ -313,8 +301,9 @@ Major Topics:
   - How does Bernard feel as they leave for New Mexico?
   - What does this chapter show about the risks of being different?
 
-
+##########
 Chapter 5
+##########
 Summary:
 Lenina and Henry fly over London, passing a crematorium that recovers phosphorus from the dead and discussing games like Obstacle Golf that keep people busy. Their date ends in an expected sexual encounter, showing how routine intimacy is. Bernard attends a Solidarity Service meant to create unity through soma, hymns to Ford, and a final “orgy-porgy.” Despite all the noise, drugs, and ritual, Bernard feels more isolated than ever, disturbed by Morgana’s odd eyebrow and his own lack of true connection. The fake unity fails to comfort him.
 
@@ -335,8 +324,9 @@ Major Topics:
   - Why does Bernard feel more alone after the service?
   - What does this chapter suggest about the difference between real and forced community?
 
-
+##########
 Chapter 4
+##########
 Summary:
 Lenina makes plans with Henry and casually accepts Bernard’s offer to visit the Savage Reservation, embarrassing him by speaking openly in front of others. Bernard feels small and out of place, preferring to be alone and to resist social norms. Later, Bernard talks with Helmholtz Watson, an Alpha Plus writer who also feels something is missing from his life. Though more successful and confident than Bernard, Helmholtz senses he has the power to write something meaningful but lacks the right words. Both men feel alien in a world that demands constant conformity.
 
@@ -357,8 +347,9 @@ Major Topics:
   - What does the chapter suggest about loneliness in a world of constant activity?
   - How do Helmholtz’s doubts hint at problems in the World State’s culture?
 
-
+##########
 Chapter 3
+###########
 Summary:
 Lenina and her friend Fanny talk about dating and the rule that “everyone belongs to everyone else,” while the Controller, Mustapha Mond, lectures students on why the old world of family, religion, and strong emotions was rejected. Children engage in erotic play, showing how early sexuality is normalized. Bernard Marx feels uncomfortable with casual attitudes toward people and sex, especially when he hears Henry Foster talk about Lenina like a product. The chapter contrasts the society’s promise of happiness with the loss of privacy, deep feelings, and history.
 
@@ -379,8 +370,9 @@ Major Topics:
   - Why does Bernard seem different from other Alphas in this chapter?
   - How does the chapter show the tension between happiness and truth?
 
-
+#########
 Chapter 2
+##########
 Summary:
 The Director shows how babies are conditioned to like or hate certain things. In the nursery, Deltas crawl toward flowers and books but are scared by alarms and shocked, so they learn to avoid both. The staff explains sleep-teaching, or hypnopaedia, which does not teach facts but can teach morals through repeated phrases. Children hear lessons like “Everyone belongs to everyone else,” and class pride is built with lines praising their own caste and criticizing others. Conditioning replaces family and personal choice with automatic responses.
 
@@ -401,8 +393,9 @@ Major Topics:
   - How do these methods shape the future lives of the infants?
   - What do these practices reveal about the society’s view of freedom and choice?
 
-
+##########
 Chapter 1
+#########
 Summary:
 The Director of Hatcheries and Conditioning leads students through the Central London Hatchery, where human beings are mass-produced in bottles. He and Mr. Foster explain the Bokanovsky Process, which splits one egg into many embryos, and the Podsnap Technique, which speeds up egg ripening. Embryos are engineered and conditioned to fit into castes from Alpha to Epsilon, each with specific jobs and intelligence levels. The motto “Community, Identity, Stability” guides everything as nature and family are replaced by science and control.
 

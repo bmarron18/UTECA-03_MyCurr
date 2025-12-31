@@ -1,0 +1,194 @@
+Title:			Setup instructions for using Google Gemini API 
+Project Desc.:		UTECA Interpretacion y Traduccion 	
+Author:			bmarron
+Origin Date:		22 Sept 2025
+Revision Date:		24 Sept 2025
+
+
+
+
+
+####################
+Errors and Problems
+####################
+
+
+Install spyder 6 here
+Spyder-Linux-x86_64.sh
+	/home/bmarron18/spyder-6
+
+pip install --target /home/bmarron18/virtualenv virtualenv
+NO GO for Python 3.11
+
+
+WARNING: The script virtualenv is installed in '/home/bmarron18/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+
+
+
+
+############
+Issues
+##########
+**	Cant load google-genai or openai SDKs
+PackagesNotFoundError: The following packages are not available from current channels:
+	- google-genai
+Current channels:
+	- defaults
+	
+	ANSWER: Install API keys and save as "GEMINI_API_KEY"ENV VARIABLES
+
+
+** Spyder not opening in spyder_env
+Spyder is only available by default in your base . For any other environments you have open in Navigator or your CLI, you may need to install Spyder in that environment.
+
+	ANSWER: Install Spyder separately but needs a python distro!!
+	
+
+** (base) $ conda install google-genai 		<== wont work; need Anaconda version
+   (base) $ conda install openai 			<== wont work; need Anaconda version
+   
+   
+   $ sudo aptitude install python3-pip
+   $ pip install google-genai 	<== install outside of ANaconda
+   $ pip install openai 			<== install outside of Anaconda
+   
+  WARNING: The script tqdm is installed in '/home/bmarron18/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  
+  WARNING: The script openai is installed in '/home/bmarron18/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+
+   $ export PATH=/home/name/.local/bin:$PATH
+   $ source ~/.bashrc
+
+$ export GOOGLE-GENAI="${GOOGLE-GENAI}:/home/bmarron18/.local/bin"
+$ source ~/.bashrc
+
+
+
+export PYTHONPATH="${PYTHONPATH}:/Users/caio.hc.oliveira/Library/Python/3.7/bin"
+
+
+###########
+IFF Spyder installed outside
+of Anaconda
+#######################
+---- Install and Configure Anaconda (installs Python, Spypder, and MANY packages) ----------------
+	1. Download the Anaconda distribution for Python to your home computer.
+		https://www.anaconda.com/download
+
+	2. Open a terminal
+		- use the default terminal in Linux/Mac OS. The terminal is a flashing cursor after a money sign ($)
+		(for example, bmarron@bmarron-HP-Laptop-15t-dy100:~$ )
+		
+		- use a regular terminal (NOT Power Shell terminal) in Windows. Click the Start menu and type "cmd" in the 	
+		search bar to find the Command Prompt. The terminal is a flashing cursor after alligator symbol (>) 
+		(for example, C:\Users\bmarron\> 
+		
+		NB. These instructions will show examples in a Linux terminal
+		
+	3. Open a terminal, and update all Anaconda packages
+		$ conda update --all
+	
+	4. Open a terminal, check Anaconda distro installation, and get ALL the current details
+	of the Anaconda distro
+		$ conda info 						
+	
+	5. Open a terminal and check available Anaconda working environments
+		$ conda info --envs
+		
+	6. Open a terminal and activate / deactivate the Anaconda (base) environment (Note change at cursor)
+		$ conda activate base
+		(base) $ 
+		(base) $ conda deactivate
+	
+	7. Open a terminal, avtivate the (base) working environment and install required 
+	SDK packages for the APIs 
+		$ conda activate base
+		(base) $ conda install conda-forge::openai		
+		(base) $ conda install conda-forge::google-generativeai
+		(base) $ conda deactivate
+		
+	
+	8. You are now ready to access the API!
+		- deactive all Anaconda work envs and close everything
+		- open a new terminal, set the Anaconda working env to (base) and open Spyder at the coomand line
+		- In Spyder find the Python script ofinterest (a .py file) and open it
+		- modify the prompts and run the blocks/cells of interest
+
+7. Open a terminal and create a new Anaconda environment to run AI scripts w/o affecting Anaconda 
+	or your computer. The new working environment is named, "spyder_env".
+		$ conda create --name spyder_env
+		
+	8. Open a terminal and check available Anaconda working environments
+		$ conda info --envs
+		
+		For example, you should see something like this
+		# conda environments:
+		#
+		base                   /home/bmarron/anaconda3
+		spyder_env             /home/bmarron/anaconda3/envs/spyder_env
+
+
+2. Open a terminal, and open Spyder at the command line
+		$ conda activate spyder_env
+		(spyder_env) $ spyder
+		
+	3. Now in Spyder, in the lower right-hand corner find the IPython Console window
+		- Check the version of Python that is running
+		- This will be Spyder's internal Python version
+		
+		(for example,
+			Python 3.13.7 | packaged by conda-forge | (main, Sep  3 2025, 14:30:35) [GCC 14.3.0]
+			Type "copyright", "credits" or "license" for more information.
+			IPython 8.37.0 -- An enhanced Interactive Python. Type '?' for help.
+		)
+		
+	4. Set Spyder to use Python in the new (spyder_env) working environment
+		- Clic on Spyder under "wrench" change Python interpreter
+		- Opens a new window
+		- in left-hand column clic on "Python Interpreter"
+		- in the right-hand window clic on the button "Use the following interpreter:"
+		- in the empty box search your compu directory until you find the (spyder_env) directory
+			(for example, /home/bmarron/anaconda3/envs/spyder_env
+		- open this directory and find the /bin (\bin) directory
+		- open the "bin" directory and select one of the Python program executable icons
+			(for example, /home/bmarron/anaconda3/envs/spyder_env/bin/python)
+		- at the bottom of the window clic 'Apply' and then 'OK'
+		- close Spyder
+		- at the terminal close the (spyder_env) working environment
+			(spyder_env) $ conda deactivate
+		
+	5. Open a new terminal, activate the (base) working environment, check the Python version, and deactivate
+		$ conda activate base
+		(base)$ python --version
+			(for example,
+				3.13.5
+			)
+		(base) $ conda deactivate
+		
+	6. Open a new terminal, activate the (spyder_env), check the Python version, and open Spyder
+		$ conda activate spyder_env
+		(spyder_env) $ python --version
+			(for example,
+				3.13.7
+			)
+		(spyder_env) $ spyder
+		
+	7. Now in Spyder, in the lower right-hand corner find the IPython Console window
+		- Check the version of Python that is now running
+		- This should be the same Anaconda's Python version installed in (spyder_env) but
+		  different from Spyder's internal Python version
+		7. Open a terminal and create a new Anaconda environment to run AI scripts w/o affecting Anaconda 
+	or your computer. The new working environment is named, "spyder_env".
+		$ conda create --name spyder_env
+		
+	8. Open a terminal and check available Anaconda working environments
+		$ conda info --envs
+		
+		For example, you should see something like this
+		# conda environments:
+		#
+		base                   /home/bmarron/anaconda3
+		spyder_env             /home/bmarron/anaconda3/envs/spyder_env

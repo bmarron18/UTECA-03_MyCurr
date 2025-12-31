@@ -1,0 +1,255 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Inglés IX
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A+B
+
+
+
+#####################
+HW_09 [Due: 13 November 2025]
+
+--- Task 1
+Complete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+--- Task 2
+Review for 2P Exam
+
+Study Guide
+-----------
+1. Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 80% of your grade for the 2P exam. You will attach your review to the exam sheet.
+
+2. Be able to evaluate your experience with coding
+    * How would you evaluate or characterize the Python language?
+    * Did you find using the command-line for computer-based tasks helpful or burdensome?
+    * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * Give two reafsons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+
+3. Be able to evaluate your experience with creative writing
+    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
+    * Of the pieces you wrote for class which was your favorite? Explain why.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
+
+---- Open
+
+
+	"Water drops pierce stone; rope saws cut wood."
+
+水滴石穿，绳锯木断。 (Shuǐ dī shí chuān, shéng jù mù duàn / 'water drop stone pierce, rope saw wood sever')
+
+
+
+
+Patience and persistence can break through anything, no matter how great the difficulty.
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+	** Review missing assignments
+
+
+--- New
+	
+** Creative Writing
+--- Tips from the Masters: P.D. James:
+https://www.writingclasses.com/toolbox/tips-masters
+
+Andrew Motion: 10 Techniques to Spark the Writing
+Annie Proulx: 5 Techniques for Good Craftsmanship
+Billy Wilder: 10 Screenwriting Tips
+Corita Kent: Ten Rules for Students and Teachers
+**Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+Elmore Leonard: 10 Rules for Good Writing
+**George Orwell: 6 Questions/6 Rules
+*Henry Miller: 10 Writing Tips
+*Jack Kerouac: 30 Cool Tips
+Joyce Carol Oates: 10 Writing Tips
+**Kurt Vonnegut: 8 Basics of Creative Writing
+Margaret Atwood: 10 Ideas for Writers
+Michael Moorcock: 10 Tips for Good Storytelling
+Neil Gaiman: 8 Good Writing Practices
+**P.D. James: 5 Bits of Writing Advice
+Rejection: 3 Methods for Coping
+Ronald Knox: 10 Commandments of Detective Fiction
+*Strunk & White: 11 Composition Principles
+Tracy Kidder and Richard Todd: 10 Writing Insights
+Zadie Smith: 10 Good Writing Habits
+
+
+
+-- P.D. James: 5 Bits of Writing Advice
+P.D. James lives in the pantheon of the great writers of crime fiction. She is most famous for the creation of Scotland Yard's Detective Inspector Adam Dalgliesh, who appears in over a dozen novels. One can read her books for both their diabolically clever plots and their cunning insights into human nature. And she possesses a literary finesse rare among genre writers.
+
+5 Bits of Writing Advice
+    1. Increase your word power. Words are the raw material of our craft. The greater your vocabulary the more effective your writing. We who write in English are fortunate to have the richest and most versatile language in the world. Respect it.
+    
+    2. Read widely and with discrimination. Bad writing is contagious.
+    
+    3. Don't just plan to write—write. It is only by writing, not dreaming about it, that we develop our own style.
+    
+    4. Write what you need to write, not what is currently popular or what you think will sell.
+    
+    5. Open your mind to new experiences, particularly to the study of other people. Nothing that happens to a writer—however happy, however tragic—is ever wasted.
+
+
+
+
+--- Students finish reading their work  (obligatory)
+
+10A
+	Luis 
+	Jimena
+	
+10B
+	Fer
+	Ashley
+	Manuel
+	Zuri
+	Oswaldo
+	Renata
+	Nad
+	Dorian
+	Samuel
+	Mellie
+	Abby
+	Mariel
+	Alina
+A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club
+
+
+---  "Rip Van Winkle" by Washington Irving
+
+Washington Irving
+	https://en.wikipedia.org/wiki/Washington_Irving
+
+Look at pictures
+	https://www.gutenberg.org/files/60976/60976-h/60976-h.htm
+
+Audio book follow-along
+https://archive.org/details/lp_rip-van-winkle_ed-begley-washington-irving
+
+	Part 1
+	Part 2
+	
+	
+
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother				Daughter
+--------				---------
+Suyuan Woo			==> Jing-mei "June" Woo
+An-mei Hsu			==>	Rose Hsu Jordan
+Lindo Jong			==>	Waverly Jong
+Ying-ying St. Clair		==>	Lena St. Clair
+
+
+
+The AI Showdown Summaries and Qs
+The results:
+	* AI is somewhat unreliable at the general user level
+	* CliffNotes is excellent but lengthy
+		https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
+
+--- A Pair of Tickets: Jing-Mei Woo (Ch. 16)
+CliffNotes-- 
+Jing-mei is on a train to China, traveling with her seventy-two-year-old father, Canning Woo. As the train enters Shenzhen, China, Jing-mei begins to "feel Chinese." Their first stop will be Guangzhou. Like her father, Jing-mei is weeping for joy. After her mother's death, a letter arrived from China from her mother's twin daughters from her first marriage. These were the two children whom she was forced to abandon on the side of the road in 1944.
+
+Jing-mei's father asked Auntie Lindo to write back to the girls and tell them that their mother is dead. Instead, Auntie Lindo took the letter to the Joy Luck Club. Together, the women answered the letter, signing Suyuan Woo's name to it. Jing-mei agrees that she should be the one to tell her half-sisters about their mother's death. But after dreaming about the scene many times, she begs Auntie Lindo to write a letter to the sisters explaining that their mother is dead. Auntie Lindo does so. The train pulls into the station, and the visitors are met by Canning's great-aunt. The reunion is emotional. Other relatives join them. Jing-mei wins her young cousin Lili over with instant photographs from her Polaroid camera. They soon arrive at a magnificent hotel, much grander than Jing-mei had expected. Jing-mei is anxious to have her first real Chinese feast; however, the native-born Chinese family decides that they want to eat American — hamburgers, French fries, and apple pie à la mode in the hotel room.
+
+Late that night, Canning explains that his wife's name, "Suyuan," has two different meanings, depending on how it is written. Written one way, it means "Long-Cherished Wish"; written another way, it means "Long-Held Grudge." He further explains that Jing-mei's name means that she is, first, a pure essence, and second, that she is a younger sister. Her name makes her the essence of her two sisters. He then tells her the story of how her mother, Suyuan, abandoned Jing-mei's half-sisters.Suyuan walked for three days, hoping to escape the Japanese invasion. Her hands began to bleed from the weight of her heavy possessions and that of her daughters. She dropped her possessions one by one, continuing to trudge on until she was delirious with pain and fever. She finally fell by the side of the road. Despite her entreaties, no one would take the babies.
+
+Having no other choice, she stuffed jewelry under the shirt of one baby, money under the shirt of the other. Then she put in family pictures and a note and left her daughters to see if she could find food. Soon she fainted and awoke in the back of a truck filled with sick people who were being tended by American missionaries. When she arrived in Chungking, she learned that her husband was dead. She met Canning Woo in the hospital.
+
+The abandoned babies were found by a kindly peasant couple, who raised the girls as their own. When the girls were eight years old, their foster parents tried to find their parents. They located the address of the children's home, but now it was a factory. Meanwhile, Suyuan and Canning had returned to try to find the girls, but their attempts proved fruitless. In 1949, they left for America, but Suyuan never abandoned hope. After she died, a schoolmate saw the twins in a department store and tried to contact Suyuan in America.
+
+Jing-mei sees her sisters as she enters the terminal. At first, they look just like her mother. Later, she sees no trace of her mother — yet the women still look familiar. She sees in them the part of her that is Chinese. Her father takes a picture of the three girls; they look at the Polaroid photograph, and they see that together, they all look like their mother.
+
+This highly emotional ending to the novel is based on a true incident from Tan's life. In 1987, Tan visited her half-sisters in China. At the time, her mother suffered from a dangerous heart condition and had recently suffered an attack of angina. Tan wanted to find out more about her heritage while her mother was still alive. The trip was a turning point in Tan's life. She explained her reaction in a July 4, 1989, interview in the New York Times. For the first time, Tan "felt a sense of completeness, like having a mother and a father," she said. "It was instant bonding," she continued. "There was something about this country that I belonged to. I found something about myself that I never knew was there." Her fictional creation, Jing-mei, shares the same reaction.
+
+
+--- Double face: Lindo Jong (Ch. 15)
+CliffNotes---
+Waverly wants to go to China for her honeymoon but is afraid that she will blend in so well that she will not be allowed to return to America. Her mother reassures her that there is no chance that she will be mistaken for a Chinese citizen. Waverly is American. Lindo tried to give her children the best of Chinese and American cultures, but she did not realize that the two ingredients did not mix.
+
+In preparation for her wedding to Rich, Waverly has her favorite hairdresser, Mr. Rory, style her mother's hair. While Mr. Rory works, Waverly acts as though Lindo cannot understand English. Her anger flares when Mr. Rory points out how much Waverly looks like her mother. Looking at her daughter's face in the hairdresser's mirror, Lindo thinks about her girlhood, long ago in China.
+
+On the eve of Lindo's tenth birthday, her mother told her fortune from her face. This incident happened before Lindo was separated from her mother and sent away to be married.
+
+When Lindo was preparing to come to America, she paid money to a Chinese woman who had been raised in America and asked her to show her how to "blend in." The woman told Lindo how to answer common questions and then gave her a list of people to contact in San Francisco. For free, the woman advised Lindo to marry an American citizen and have children quickly. That would help her become an American citizen. Lindo wonders why Waverly distorts the facts of her past. Why does Waverly say that Lindo came over "on a slow boat from China" when she took an airplane? Why does Waverly say that Lindo met her husband in the Cathay House when it is not true at all? Lindo recounts the truth in a flashback.
+
+When Lindo arrived in America, she sought out the people whom the Chinese woman had suggested. She found an inexpensive apartment. She also found a job — at a fortune cookie factory. There she met An-mei Hsu, who introduced her to her future husband, Tin Jong. At first, Lindo was appalled that he was Cantonese. But they struck up a friendship for they were both Chinese, despite the fact that they spoke different dialects. They communicated only in rudimentary English. An-mei convinced Lindo to use the fortunes from the cookies to communicate with Tin Jong. Lindo selected "A house is not a home when a spouse is not at home." She gave him the cookie, but he was confused by the word "spouse" and did not propose. The next day, however, he did and Lindo accepted. They were married the following month. Their first child was a son, whom Lindo named Winston. Vincent was born two years later, and Waverly after that. Lindo then turned sad; she became dissatisfied with her circumstances and hoped that Waverly would have a better life.
+
+Back in the present, Lindo looks at her finished hairstyle. She sees how much she and Waverly look alike. Seeing her own broken nose, she imagines that Waverly's nose has been broken as well. Waverly brushes aside her mother's observations with a laugh, saying that their noses are good because they look devious and two-faced.
+
+Lindo recalls when she went back to China last year. Even though she took off her jewelry and wore Chinese clothing, people knew that she was foreign. She wonders what she has lost and what she has gotten in return.
+
+In this story, we again see the themes of appearance and reality and the importance of heritage. To native-born Americans, both Waverly and Lindo appear to be "Chinese" at first glance. Mr. Rory, the hairdresser, assumes that Lindo cannot even speak English. Even Waverly plays into this misconception, treating her mother as though she were a recent immigrant. Lindo knows, however, because she is a citizen of China, that no one in China would ever mistake Waverly as a native Chinese; Waverly is unmistakably "American-made."
+
+
+
+--- Coming up
+		
+** Humor
+
+** Brave New World
+
+** Jobs
+	Resumes
+	Cover Letter
+	Interviews
+	Job Sites
+
+** Chinese Identity [for final] --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+

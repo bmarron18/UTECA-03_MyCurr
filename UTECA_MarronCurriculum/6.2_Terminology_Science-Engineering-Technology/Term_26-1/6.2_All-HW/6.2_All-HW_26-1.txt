@@ -1,0 +1,728 @@
+
+
+#########
+HW 3P
+#########
+
+
+Study Guide Exam 3P
+--------------------
+1. Review Sir David Mackay’s chapter on the advantages of sexual reproduction (Textbook Excerpts/Mackay_Sex.pdf). Pay special attention to Figure 19.3. Be able to explain this figure.
+
+2. Review information related to the RFP (Request for Proposal) process. Be able to explain how the RFP process works and why it is used.
+
+3. Review the article on astrobiology (01_Nature_Astrobiology.pdf). Be able to define what astrobiology is and describe the three important lines of research in astrobiology.
+
+4. Review the articles on agriculture (02_Nature_Diversifying crop rotation.pdf, 03_Nature_plant-based vs animal-based protein supplies.pdf). Be able to describe the process of crop-rotation and its benefits. Be able to share your reflections on an animal-based vs. a plant-based diet.
+
+5. Review the AI reports by the AI Futures Project and Richard David Hames. Be able to define your AI usage and reflect on the possible benefits and dangers in an AI-based world.
+
+6. Review the vocabulary for this section of the course. Be able to provide 20 definitions selected from the following:
+
+Nature_Astrobiology.pdf
+	analogous
+	astrobiology
+	biosignature
+	bolster
+	coalesced
+	exoplanetary
+
+Nature_Diversifying-Crop-Rotation.pdf
+	adaptability
+	affect vs effect
+	aggregate
+	agroecosystem
+	Agronomy
+	alleviate
+	arable
+	assessment
+	biodiversity
+	biofuels
+	business-as-usual
+	carbon sequestration
+	cash-crop
+	chromatograph
+	cumulative
+	degradation
+	detector
+	eigenvalues
+	entropy
+	fumigate
+	Gramineae
+	gravimetric
+	isotope
+	jeopardize
+	logistics
+	matrix
+	microorganism
+	monoculture
+	no-till
+	optimize
+	permeability
+	redundancy
+	resilience
+	spatiotemporal
+	spectrophotometer
+	synergistic vs antagonistic
+	taxonomy
+	topsoil
+
+
+Nature_Plant-based vs Animal-based Protein.pdf
+	abridged
+	absorption
+	affordability
+	ailments
+	anaemia
+	antioxidant
+	bioavailability
+	carbohydrate
+	cardiovascular
+	derive
+	determinant
+	disparities
+	epidemiology
+	longevity
+	mortality
+	polyunsaturated
+	stochasticity
+
+AI
+	perceptron
+	artificial neural network
+	Large Language Model (LLM)
+	supervised learning 
+	unsupervised learning
+	reinforcement learning with human feedback (RLHF)
+	emergence
+	Application Programmer Interface (API)
+	Software Development Kit (SDK)
+ 	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
+
+
+
+***HW_10 [Due: 09 Dec 2025]			<== due in two weeks; can use on the exam
+--- Task 1
+Answer the following questions related to three scientific journal articles. The articles can be found in your 3P folder under Class Materials.
+
+**Focus on astrobiology 
+[01_Nature_Astrobiology.pdf]
+	1) What is the science of astrobiology?
+	2) Three important lines of research in astrobiology are i) defining a habitable environments, ii) identifying biosignatures, and iii) defining technosignatures. Briefly explain what is meant by each of these research areas
+	3) Read the Abstract of the article, "Is the apparent absence of extraterrestrial technological civilizations down to the zoo hypothesis or nothing? (https://www.nature.com/articles/s41550-023-02134-2). What are the authors suggesting?
+
+
+** Diversifying crop rotation increases food production, reduces net greenhouse gas emissions and improves soil health
+[02_Nature_Diversifying crop rotation.pdf]
+	1) What are the problems with conventional intensified food production systems	
+	2) Why do the authors consider crop rotation as a "top priority" for agriculture? (i.e., what are the advantages of crop rotation?)
+	
+
+** Associations between national plant-based vs animal-based protein supplies and age-specific mortality in human populations
+[03_Nature_plant-based vs animal-based protein supplies.pdf]
+	1) Based on the article, do you recommend a switch to a plant-based diet?
+
+--- Task 2
+Read/scan two reports on the future of artificial intelligence (AI). The first report, written by the AI Futures Project, is available online at https://ai-2027.com/ and also as a .pdf (04_ai-2027.pdf). You should read/scan the online report. The second report, written by Richard David Hames,is available as a .pdf file ("05_The Future of AI - by Richard David Hames.pdf"). Compare and contrast the futures presented in these two white papers. Specifically,
+	1) What do think of the analysis presented in each paper? 
+	2) Are the scenario(s) presented plausible? 
+	3) Are the authors and their methods credible? 
+Write an opinion piece (~2+ paragraphs) expressing your thoughts. Your opinion piece should be written in English.
+
+
+--- Task 3
+Define the following terms in English
+	perceptron
+	artificial neural network
+	Large Language Model (LLM)
+	supervised learning 
+	unsupervised learning
+	reinforcement learning with human feedback (RLHF)
+	emergence
+	Application Programmer Interface (API)
+	Software Development Kit (SDK)
+ 	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+***HW_09 [Due: 25 Nov 2025]
+--- Task 1
+Read/scan the following excerpt from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+	i)  MacKay_Sex.pdf
+Do your best to get the gist (main ideas) and write a very brief summary of the excerpt in English. 
+-- Task 2
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and very briefly explain why the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short; in one case just a single line.
+
+--- Task 3.
+Nature_Astrobiology.pdf
+analogous
+astrobiology
+biosignature
+bolster
+coalesced
+exoplanetary
+
+Nature_Diversifying-Crop-Rotation.pdf
+adaptability
+affect vs effect
+aggregate
+agroecosystem
+Agronomy
+alleviate
+arable
+assessment
+biodiversity
+biofuels
+business-as-usual
+carbon sequestration
+cash-crop
+chromatograph
+cumulative
+degradation
+detector
+eigenvalues
+entropy
+fumigate
+Gramineae
+gravimetric
+isotope
+jeopardize
+logistics
+matrix
+microorganism
+monoculture
+no-till
+optimize
+permeability
+redundancy
+resilience
+spatiotemporal
+spectrophotometer
+synergistic vs antagonistic
+taxonomy
+topsoil
+
+
+Nature_Plant-based vs Animal-based Protein.pdf
+abridged
+absorption
+affordability
+ailments
+anaemia
+antioxidant
+bioavailability
+carbohydrate
+cardiovascular
+derive
+determinant
+disparities
+epidemiology
+longevity
+mortality
+polyunsaturated
+stochasticity
+
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_08 [Due: 11/18 Nov 2025]
+[Save Task 1 for HW 09]
+
+[Task 2 for Extra Credit]
+Define the following terms in English and give a Spanish equivalent term. Add any new words to your dictionary.
+TERMS
+	allele
+	alpha, beta, gamma, delta
+	bigram
+	camouflaged
+	catalyst
+	code breaking
+	conjecture
+	constraint
+	deleterious
+	deterministic
+	empirical
+	emulate
+	false-negative
+	false-positive
+	fitness (evolution)
+	genome
+	genotype
+	logarithm
+	mutation
+	nucleotide
+	permutation
+	phenotype
+	precursor
+	probability
+	progeny
+	qualitative
+	quantitative
+	quantized
+	recombination (genetics)
+	statistics
+	symmetry
+	transcription (genetics)
+	translation (genetics)
+	trigram
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+#########
+HW 2P
+########
+*** HW_08 [Due: 11/18 Nov 2025]	<== Count for 3P bc Mackay not in Class Materials
+
+--- Task 2
+Define the following terms in English and give a Spanish equivalent term. Add any new words to your dictionary.
+TERMS
+	allele
+	alpha, beta, gamma, delta
+	bigram
+	camouflaged
+	catalyst
+	code breaking
+	conjecture
+	constraint
+	deleterious
+	deterministic
+	empirical
+	emulate
+	false-negative
+	false-positive
+	fitness (evolution)
+	genome
+	genotype
+	logarithm
+	mutation
+	nucleotide
+	permutation
+	phenotype
+	precursor
+	probability
+	progeny
+	qualitative
+	quantitative
+	quantized
+	recombination (genetics)
+	statistics
+	symmetry
+	transcription (genetics)
+	translation (genetics)
+	trigram
+--- Task 3. Study for Exam 2P
+Study Guide
+-----------
+1. Be able to 
+	* Explain the difference and similarity between science and engineering
+    	* List three ethical challenges of socially responsible science
+    	* express your opinion scientists and engineers have a moral or ethical responsibility 
+	
+2. Be able to explain the concept of ‘wicked problems’ and how such problems differ from the problems of ‘normal science’
+
+3. Be able to translate an excerpt from Semiconductores como Proyecto Nacional del Tecnológico Nacional de México (08...pdf) into English
+
+4. Be able to define SOPs and explain why they are used.
+
+5. Be able to translate an excerpt from EPA Guidance for SOPs into Spanish.
+
+6 and 7. Provide definitions of words 
+
+from Steffen et al. (2018) - Trajectories of the Earth System in the Anthropocene (01...pdf)
+Anthropocene
+anthropogenic
+bifurcation
+decarbonization
+self-reinforcing feedback loop
+oscillations
+tipping point
+
+from Poggio et al. (2025) - The Great Wave: Evidence of a large-scale vertical corrugation propagating outwards in the Galactic disc (02....pdf)
+accretion
+heliocentric
+Occam's razor
+parsec
+
+from Paniagua and Elvira (2010) -Deslizamiento de un talud en el Poniente de la ciudad de México  (03....pdf)
+anclaje
+arena pumítica
+estratigráfico
+geotécnica
+pluvial
+
+from Tao et al. (2025) - Ultrabroadband on-chip photonics for full-spectrum wireless communications (09....pdf)
+amplitude
+bit
+byte
+calibration
+electromagnetic
+gigabyte (Gb)
+photon
+schematic
+spectrum
+synergistic
+ubiquitous
+
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+*** HW_07 [Due: 04 Nov 2025]
+-- Task 1
+Translate the following excerpt into Spanish:
+	EXCERPTS_P2_EPA_Guidance-for-SOPs.txt
+-- Task 2
+Translate the following excerpt into English:
+	EXCERPTS_P1_Semiconductores-Tecnológico-Nacional-México.txt
+---Task 3
+From Ultrabroadband on-chip photonics for full-spectrum wireless communications "09_Nature_6G_2025.pdf" provide a definition in English and an equivalent word in Spanish for the following words:
+accumulate
+adaptability
+adversely
+affiliation
+algorithm
+allocation
+amplifier
+amplitude
+bandwidth
+benchmark
+binary
+bit
+broadband
+byte
+calibration
+circuitry
+coherent
+constraint
+decibels (dB)
+deteriorate
+dielectric
+discrete (mathematics)
+dispersion
+distortion
+dynamic
+electromagnetic
+fine-tune
+fluctuation
+frequency
+gigabyte (Gb)
+gigahertz (GHz)
+homogeneous
+heterogeneous
+holographic
+imperfection
+integrate
+interference
+intrinsically
+jammed (signal)
+lithography
+modulation (physics)
+optimize
+orthogonal
+peripheral
+photon
+plasma
+potential (electrical)
+propagate (physics)
+quantum
+reconfigure
+resonance (physics)
+ripples
+schematic
+seamlessly
+spectrum
+stability
+stringent
+suppress
+synchronous
+synergistic
+topological
+ubiquitous
+unprecedented
+voltage
+wavelength
+
+From "08_Semiconductores-Tecnológico-Nacional-México.pdf" provide a definition in Spanish and an equivalent in English for the following words:
+actuadores
+aeroespacial
+ambiental
+analógico
+arseniuro de galio (GaAs)
+controladores
+cuántica
+infraestructura
+Ley CHIPS y Ciencia de Estados Unidos
+nitruro de galio (GaN)
+semiconductor
+superconductores
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_06 [Due: 28 Oct 2025]
+-- Task 1
+In his paper, "The Ethical Challenges of Socially Responsible Science." David B. Resnik sets out some of the ethical dilemmas for scientists and offers some recommendations. Answer the following questions related to Resnik's paper:
+	1. Present two (2) "striking examples of scientists who demonstrated a strong commitment to 
+	social responsibility." Explain.
+	
+	2. How is the "current consensus concerning the social responsibilities of scientists ... in 
+	sharp  contrast to the opinion that prevailed several decades ago?"
+	
+	3. Do you think that science should be "value-free"? Does Resnik think so? Explain why or why 
+	not.
+	
+	4. Resnik states that, "Rudner (1953) argued that scientists must make value judgments when 
+	they accept or reject hypotheses, because the amount of evidence needed to accept a hypothesis 
+	depends on the consequences of accepting it." What does this mean?
+	
+	5. How might values "operate at a conscious or subconscious level"?
+	
+	6. What does Resnik mean by "value-neutrality”? How does it apply to working scientists?
+	
+	7. What are Resnik's three main arguments for social responsibility? Do you agree?
+	
+	8. According to Resnk, what are the three ethical challenges of socially responsible science?
+	
+	9. Briefly summarize Resnik's five recommendations for helping scientists deal with moral and 
+	ethical dilemmas.
+-- Task 2
+Briefly explain the difference between "tame" problems and "wicked" problems. If given a choice, which would you prefer to work on?
+---Task 3
+Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish.
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+*** HW_05 [Due: 21 Oct 2025]
+-- Task 1
+Read the paper, "Deslizamiento de un talud en el Poniente de la ciudad de México (03_Paniagua_Deslizamiento_de_Talud.pdf). Use the Reporter's Toolkit to answer the following questions in English:
+	1. Who did the study?
+	2. What were the main reasons for the study? And what were the results?
+	3. When was the study done?
+	4. Where did the study take place?
+	5. Why was the study undertaken?
+-- Task 2
+Define the following vocab words in Spanish and give an English equivalent.
+(from 03_Paniagua_Deslizamiento_de_Talud.pdf)
+agrietamiento
+anclaje
+anclas
+arena pumítica
+calafatear
+deslizamiento
+estratigráfico
+excavación
+fracturamiento
+geotécnica
+heterogéneo
+inclinómetro
+lahar
+malla electrosoldada
+paramétrico
+pluvial
+subyaciendo
+talud
+tirante (construcción)
+topografía
+volumétrico
+---Task 3
+Very briefly explain the major similarities and differences between scientists and engineers in English. Translate to Spanish.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_04 [Due: 014 Oct 2025]
+-- Task 1
+Translate the Abstract (1 paragraph) from,"Steffen et al. 2018_Trajectories of the Earth System in the Anthropocene.pdf" into Spanish. 
+-- Task 2
+Define the following vocab words in English and give a Spanish translation of each word.
+The Great Wave: Evidence of a large-scale vertical corrugation propagating outwards in the Galactic disc (02_Poggio_Galactic-Wave_2025.pdf
+accretion
+addendum
+amplitude
+canonical
+compression
+correlated
+epicyclic
+Gaussian
+heliocentric
+kinematic
+Occam's razor
+parsec
+photometric
+propagate
+transverse
+warp
+
+from Steffen et al (2018) - Trajectories of the Earth System in the Anthropoce.pdf
+Anthropocene
+accumulated
+adjacent
+albedo
+amplification
+anthropogenic
+asymptotic
+attractor
+bifurcation
+biogeophysical
+biosphere
+circumpolar
+complex adaptive system
+decarbonization
+demographic
+deterministic
+disintegration
+disparity
+divergent
+feedback loops
+	negative
+	positive
+forecasting
+Holocene
+incremental
+intrinsic
+nonlinear
+oscillations
+self-reinforcing
+stewardship
+thermodynamic
+threshold
+tipping point
+tipping cascades
+underpinned
+vulnerable
+
+
+
+#########
+HW 1P
+########
+
+***HW_03 [Due: 07 Oct 2025]
+-- Task 1
+Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
+	System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+	Intensive property
+		(temperature, pressure, velocity, density)
+		
+	Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
+
+	Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)
+-- Task 2
+Work through the Study Guide for Exam 1P (below). You do not need to answer the study guide questions in your homework, just be sure you can answer the questions on the exam.
+
+Study Guide for Exam 1P
+-----------------------
+1. Be able to write a condensed summary from your paper on the history of a scientific  discipline in Mexico. Your condensed summary should certainly recount the history of the scientific discipline you selected, but it must focus on the present state of the discipline in Mexico. You should be able to write this condensed summary in both English and Spanish.
+
+2. Describe the mental process that engineers and scientists use to solve a problem. More specifically, 
+    a. Given a design or conceptual problem, what is a first step that engineers and scientists  are likely to take? Why?
+    b. What are the accepted foundations for conceptualizing a problem? That is, what is the worldview or the overarching mental model that lies at the very foundation of science and engineering? What are the components of this worldview?
+    c. What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin modeling a problem?
+    d. When are models useful for reaching a solution to a problem? If no solution presents  itself what can the engineer or scientist do?
+
+3. Jargon is defined as the set of special words or expressions that are used by a particular profession or group and are difficult for others to understand. Answer the following related to jargon:
+    a. Why does jargon evolve in virtually any human endeavor? 
+    b. Is scientific language considered jargon? Explain.
+    c. Compare and contrast “ good”  and “ bad”  jargon.
+
+4. The following is a description of a simple system 
+A metal pot filled with water is placed on a stove and heated. The system is defined as the metal pot plus the water. As the water heats up, some of it evaporates into the air. The temperature of the water increases, and the volume of the remaining liquid decreases. 
+    a. Is this system open, closed, or isolated? Explain your reasoning.
+    b. What is entering the system? What is leaving the system? What remains unchanged in the system?
+    c. Identify whether each of the following properties is intensive or extensive. Justify your answer.
+        ◦ Temperature
+        ◦ Mass of the water
+        ◦ Density of the water
+        ◦ Volume of the water
+
+5. Give a definition of the following terms in both English and Spanish:
+    • mass
+    • charge
+    • linear momentum
+    • angular momentum
+    • energy
+
+6. Be prepared to translate the abstract from a scientific paper from English to Spanish and/or vice versa. For example, select either the English or Spanish version of the abstract below. Translate to the second language and compare your translation to the one provided by the authors..
+
+
+
+*** HW_02 [Due: 30 Sept 2025]
+-- Task 1
+Take about five or six lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
+	i) The original material and its source
+	ii) Your jargonized version of the original in both English and Spanish	
+Standard format applies. We will try to guess the original when you read the jargonized version in class
+--- Task 2
+What do you consider to be science? Do you think science and technology always lead to progress? Present your opinion in 
+a ~ one (1) paragraph statement (English).
+-- Task 3
+Investigate the mental process that engineers and scientists use to solve a problem. More specifically, answer
+the following questions (English):
+	i) Given a design or conceptual problem, what is a first step that engineers and scientists 
+	are likely to take? Why?
+	
+	ii) What are the accepted foundations for conceptualizing a problem? That is, what is the 
+	worldview or the overarching mental model that lies at the very foundation of science and 
+	engineering? What are the components of this worldview?
+	
+	iii) What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin 
+	modeling a problem?
+	
+	iv) When are models useful for reaching a solution to a problem? If no solution presents 
+	itself what can the engineer or scientist do?
+Standard format applies and references must be included.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+
+*** HW_01 [Due: 16 September 2025]
+-- Task 1
+Select one (1) field of science. You will become an "expert" in this field and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a ~two-page account on the history of your selected field of science. The first part of the account will be dedicated to the general history of the field. The second part of the account will be dedicated to the history of the field in Mexico. For this assignment you should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. Remember, your deliverable will be the original account, written in English, and the translation, written in Spanish. Be prepared to present and share your findings with the class. Please note that 'presenting and sharing your findings with the class' implies a somewhat informal presentation. I would expect about a 5 min overview of your findings with a focus on Mexico.
+
+For this assignment and for all subsequent written assignments in this class (unless duly noted), we will use Marron's modified APA format. Specifically, documents will be written with:
+	* Single-spaced text
+	* 0.5 inch margins (left and right)
+	* 12-point Times New Roman font, and
+	* printed double-sided if possible
+References, as needed, must be in a standard format (eg, APA). See "Marron_GeneralStyleGuide.pdf" in Teams under Class Materials.
+	
+Assignments must always be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+-- Task 2
+Read the following excerpts from Carli & Calaresu's "Language and Science" (pp. 2-7):
+	* 1. Introduction
+	* 2. Outline and history of the field
+		* 2.1. Definitions of science(s)
+		* 2.2. History of the field
+	
+Write a ~three-paragraph summary of the excerpts in English and translate the summary into Spanish. The format requirements above apply.
+

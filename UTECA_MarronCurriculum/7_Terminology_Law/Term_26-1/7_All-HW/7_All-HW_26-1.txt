@@ -1,0 +1,354 @@
+
+#########
+HW 3P
+#########
+
+***HW_10 [Due: 09 Dec 2025]   <== due in two weeks; can use on Exam 3P
+
+--- Task 1
+Lawyers have confidentiality duties to clients as well as the need to maintain and grow their skill set, AI confounds these of two ethical duties of confidentiality and competence and confidentiality. Review the paper, Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" (02_generative-ai-systems-in-legal-practice.pdf). Answer the following questions in English:
+      1. Do you think lawyers should use AI agents in their work? Briefly explain.
+      2. Do you think that lawyers violate client confidentiality when using AI agents? Briefly explain.
+      3. What is the author's three-step plan for "the way forward"?
+      3. Do you agree with the author's three-step plan?
+
+
+--- Task 2
+Read/scan two reports on the future of artificial intelligence (AI). The first report, written by the AI Futures Project, is available online at https://ai-2027.com/ and also as a .pdf (03_ai-2027_WhitePaper-Report.pdf). You should read/scan the online report. The second report, written by Richard David Hames,is available as a .pdf file (04_The-Future-of-AI_RichardDavidHames.pdf). Compare and contrast the futures presented in these two white papers. Specifically,
+      1) What do think of the analysis presented in each paper?
+      2) Are the scenario(s) presented plausible?
+      3) Are the authors and their methods credible?
+Write an opinion piece (~2+ paragraphs) expressing your thoughts. Your opinion piece should be written in English.
+
+
+--- Task 3  
+Skim the paper on legal responsibility concerns and recommendations for AI in society (05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf; 05b_EXCERPTS_ResponsibilityGaps_AI.txt). Answer the following questions regarding AI and responsibility:
+      1) What is meant by the term, "responsibility gap" with regards to AI?
+      2) Define the Culpability Gap and briefly explain why it matters.
+      3) Define the Moral Accountability Gap and briefly explain why it matters.
+      4) Define the Public Accountability Gap and briefly explain why it matters.
+      5) Define the Active Responsibility Gap and briefly explain why it matters.
+      6) What is the problem with "deflationist" solutions to AI responsibility gaps?
+      7) What is the problem with “technical solutionism” with respect to to AI responsibility gaps?
+      8) What is the problem with “legal solutionism” with respect to to AI responsibility gaps?
+      9) Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
+      
+--- Task 4
+Skim the paper on drone surveillance (Aerial Surveillance in the Digital Age: Drone-Related Privacy Concerns and the Protection of Other Human Rights; 06_aerial-surveillance-in-the-digital-age.pdf). Answer the following questions:
+      1) Privacy is a constitutional value recognized in the vast majority of countries. What is your definition of privacy?
+      2) Drones can gather detailed biometric data as well as detailed physical data. Should these capabilities be legally restricted? If yes, how should such laws be structured?
+      3) The authors recommend that drone use should be regulated but that legislators must strike a fair
+balance between the conflicting values of privacy and freedom of technological development. Specifically, the authors suggest that legal constraints on drone use must "rely ... on the proportionality principle (or other legal balancing methods) in order to reconcile conflicting human rights." What is the principle of proportionality? (see for example, https://opil.ouplaw.com/display/10.1093/law:epil/9780199231690/law-9780199231690-e1459)
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+
+***HW_09 [Due: 25 Nov 2025]
+--- Task 1
+Answer the following questions in English:
+	Qs #1 - #23 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf
+	
+-- Task 2
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and very briefly explain why the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short.
+
+--- Task 3	
+Translate pp 2-3 CFE_ModeloContrato.pdf into English There is lots of vocab here!
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+
+
+#########
+HW 2P
+########
+***HW_08 [Due: 011 Nov 2025]
+--- Task 1
+Read/Scan:
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] 
+	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
+
+--- Task 2
+Study for Exam 2P
+
+Study Guide
+------------
+1. Be able to define and describe the concept of records management as well as give definitions of the terms: QA/QC, Version Control System (VCS), Git, and GitHub.
+
+2, Be able to translate a selection from, 04_EXCERPTS_P1_Que-hace-la-SCJN.pdf
+
+3. Be able to i) explain the difference between Jurisprudencia Histórica and Jurisprudencia Aplicable; ii) explain the division of SCJN into epochs; and iii) define those entities bound by the jurisprudence issued by the SCJN.
+
+4. Be able to define the five (5) basic types of tesis jurídica.
+
+5. Be able to explain how the following resources are useful:
+	i) Cornell Law School, Legal Information Institute (https://www.law.cornell.edu/wex)
+	ii) Justia Mexico (https://mexico.justia.com/)
+	iii) Diario Oficial de la Federación (https://www.dof.gob.mx/#gsc.tab=0)
+	iv) Diccionario Jurídico (https://diccionariojuridico.org/)
+	v)  Manual del Justiciable: Elementos de Teoría General del Processo 		
+	(https://sistemabibliotecario.scjn.gob.mx/sisbib/po_2010/53702/53702_1.pdf)
+
+6. Be able to translate an excerpt from Tesis Aislada Registry No. 193185 on the nature of expert testimony.
+
+7. Be able to define the nature of valid contracts by stating the inverse of Artículo 1795 of the Código Civil. That is, be able to state the four (4) conditions whereby a contract would be considered valid (instead of invalid).
+
+Hint: Contract law, which is a part of civil law, and can be found in the Código Civil at,
+Libro Cuarto - De las Obligaciones
+	Primera Parte - De las Obligaciones en General
+		Título Primero - Fuentes de las Obligaciones
+			Capítulo I - Contratos
+				 Artículo 1795
+
+Hint: Textbook by Luis Manuel C. Méjan, pp 1- 9
+
+8. Be able to define the following legal terms in Spanish and give an English equivalent term:
+    • acto reclamado
+    • abrogación
+    • amparo
+    • apelación
+    • en virtud
+    • juzgados y tribunales
+    • minist@
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+
+*** HW_07 [Due: 11 Nov 2025]
+--- Task 1
+Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts (peritos). Translate the following "tesis aisladas" into English:
+	Registro 160371
+	Registro 193185
+NB. Translate only the text of the tesis, not the registry data.
+--- Task 2
+Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf. Answer the following:
+	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description of the "prueba" in English.
+	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
+
+--- Task 3
+Based on the "05_EXCERPTS_P2_Que-hace-la-SCJN.txt", provide definitions of the terms below in Spanish plus a single-word English equivalent.
+
+TERMS
+	amparo
+	apelacion
+	disposiciones vigentes
+	ejecutorias
+	en virtud
+	jurisprudencia
+	parte considerativa de tesis
+	plenos
+	plenos regionales
+	Consejo de la Judicatura Federal
+	juzgados y tribunales
+	medios de control de la constitucionalidad
+	ministr@
+	procedimiento de unificación de criterios
+	resoluciones
+	Semanario Judicial de la Federación y su Gaceta
+	tesis
+--- Task 4
+Read/scan "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in Spanish plus a single-word English equivalent.
+
+TERMS
+	acto reclamado
+	abrogación
+	acusatorio
+	amparo adhesivo
+	desahogadas
+	“alegato de oidas” o “alegato de oreja”
+	apelación
+	aportaciones
+	aquilatar
+	atendibles
+	cabal
+	congruentes
+	contrafianza
+	declaratorias
+	decreto
+	disposiciones
+	doctrina
+	Entidades Federativas
+	"interés legítimo"
+	"interés jurídico"
+	intervenciones orales
+	juicio de amparo
+	laudos
+	litigación
+	mandato
+	normativas
+	“oralidad procesal”
+	preclusión
+	progresiva implantación
+	procesales civiles
+	queja
+	reposición
+	rezagadas
+	sentencias
+	supletoridad
+	supletorio
+	tratados internacionales 
+	tribunales
+	valoración
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_06 [Due: 28 Oct 2025]
+--- Task 1 
+Translate "EXCERPTS_P2_Que-hace-la-SCJN.txt" into English.
+--- Task 2 
+In, "MANUAL DE REDACCIÓN DE TESIS JURÍDICAS," González and Cisneros have classified "tesis jurídicos" into six (6) classes or types (p. 72-74). Give a brief summary of the distinguishing characteristics of each type in English.
+--- Task 3
+Briefly explain the difference between "tesis aisladas" and "jurisprudencia" in English.
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_05 [Due: 21 Oct 2025]
+--- Task 1 
+Translate "EXCERPTS_P1_Que-hace-la-SCJN.txt" into English.
+--- Task 2 
+Answer and/or summarize the following questions in English:
+	1. ¿Qué hace la Suprema Corte de Justicia de la Nación?
+	2. What are the periods of the SCJN ?
+	3. What is the Semanario Judicial de la Federación y su Gaceta?
+	4. ¿Quiénes pueden emitir jurisprudencia en el Poder Judicial de la Federación?
+	5. ¿Para quiénes es obligatoria la jurisprudencia de la SCJN?
+	6. ¿Cómo se integra la jurisprudencia de la SCJN?
+--- Task 3
+Define the following terms in Spanish and give an English equivalent. 
+Terms (17)
+	amparo
+	apelacion
+	disposiciones vigentes
+	ejecutorias
+	en virtud
+	jurisprudencia
+	parte considerativa de tesis
+	plenos
+	plenos regionales
+	Consejo de la Judicatura Federal
+	juzgados y tribunales
+	medios de control de la constitucionalidad
+	ministro
+	procedimiento de unificación de criterios
+	resoluciones
+	Semanario Judicial de la Federación y su Gaceta
+	tesis
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_04 [Due: 14 Oct 2025]
+--- Task 1
+Both LEY GENERAL DE ARCHIVOS and LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO govern records management
+Answer the following questions related to these two laws:
+	1. Find LEY GENERAL DE ARCHIVOS in Justia . What is its listing number?
+	2. Find the LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO in Justia. What is its listing number?
+	3. Compare Artículo 1. of both laws. Are they the same?
+	4. Who are "sujetos obligados" under both laws?
+	5. Which Artículo of LEY GENERAL DE ARCHIVOS was changed in the DOF on 19/01/2023?
+--- Task 2
+Translate LEY GENERAL DE ARCHIVOS Artículo 1. I - VIII into English.
+--- Task 3
+Define the following terms in English and provide a Spanish translation:
+	quality assurance/quality control (QA/QC)
+	records management
+	version control system (VCS)
+	Git
+	GitHub
+	checksum
+	SHA-1
+	SHA-256
+
+
+
+#########
+HW 1P
+########
+*** HW_03 [Due: 07 Oct 2025]
+--- Task 1
+Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage). From within the topic, find an Article that has been changed. Use Justia for this. For example: Artículo 148 (Para contraer matrimonio es necesario haber cumplido dieciocho años de edad) was modified on these dates:(ARTÍCULO REFORMADO D.O.F. 14 DE MARZO DE 1973, 23 DE DICIEMBRE DE 1974, 09 DE ABRIL DE 2012, 03 DE JUNIO DE 2019.
+
+In your homework note the following:
+	* The Title where the civil law appears (e.g. marriage is covered by Title V),
+	* The Chapters that cover the civil law (e.g. marriage proper is covered by Chapters I - IV),
+	* The Articles that cover the civil law (e.g. marriage proper is covered by Articles 146 - 182),
+	* A list of the dates when the law was changed, and 
+	* A brief summary and direct English translation of at least two (2) Articles of the law that you find interesting.
+Be ready to share your findings with the class (informally). The standard format requirements apply. 
+---- Task 2
+Investigate and evaluate the legal standing of landlords and tenets with respect to the termination of a rental agreement in the US and in Mexico. More specifically, answer the following questions:
+    1. When does a tenant have the right to terminate a rental contract in México? In the US? Are tenants granted the same rights in both countries?       
+    2. When does a landlord have the right to evict a tenant in México? In the US? Are landlords granted the same rights in both countries?       
+    3. Evaluate the legal rights in México and the US for for both tenants and landlords.
+--- Task 3
+Work through the Study Guide for Exam 1P (below). You do not need to answer the study guide questions in your homework, just be sure you can answer the questions on the exam.
+
+Study Guide Exam 1P
+-------------------
+1. Be able to summarize your paper on the history of a field of law in Mexico. Be able to recount the general history of the legal field you selected, and focus on the present state of the discipline in Mexico.
+2. Be able to answer the following questions related to jargon:
+    a. Why does jargon evolve in virtually any human endeavor? 
+    b. Is legal language considered jargon? Explain.
+    c. Compare and contrast “ good”  and “ bad”  jargon.
+3. Be able to answer the following questions related to the legal systems in México and in the US:
+    a. Define the term, “legal system” . 
+    b. Discuss civil law and common law with respect to México and the US. What are the historical roots of each legal system? What are the areas which differ most when comparing the two legal systems? What are some advantages and disadvantages to each legal system?. 
+4. Be able to translate Spanish ==> English) the third article of, "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales".
+5. Be able to answer questions regarding landlord-tenant law in the US and in Mexico (see Task 2 above).
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_02 [Due: 30 Sept 2025]	
+--- Task 1
+Take about five or six lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
+	i) The original material and its source
+	ii) Your jargonized version of the original in both English and Spanish
+Standard format applies. We will try to guess the original when you read the jargonized version in class.
+
+--- Task 2
+The legal systems of Mexico and of the US are fundamentally different because of their history. That is, Mexico's legal system is structured around civil law, while the US legal system is structured around common law. Explore and 
+document these differences in a report-style entry in your homework. The report should be no less than 750 words, or equal to ~two-page paper. You must provide a Spanish translation of the report. 
+As a first step in your investigation, check out the following links to Cornell Law School's 
+Legal Information Institute:
+Legal systems
+	https://www.law.cornell.edu/wex/legal_systems
+Civil law (Mexico via Spain and France)
+	https://www.law.cornell.edu/wex/civil_law
+	https://www.law.cornell.edu/wex/
+Common law (US via England)
+	https://www.law.cornell.edu/wex/common_law
+The standard format applies and references must be included.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+*** HW_01	[Due: 16 September 2025]
+-- Task 1
+Select one (1) field of law. You will become an "expert" in this field and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a ~two-page account on the history of your selected field of law. The first part of the account will be dedicated to the general history of the field. The second part of the account will be dedicated to the history of the field in Mexico. For this assignment you should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. The full account must be translated into Spanish. Thus, your deliverable will be the original account, written in English, and the translation, written in Spanish. Be prepared to present and share your findings with the class. Please note that 'presenting and sharing your findings with the class' implies a somewhat informal presentation. I would expect about a 5 min overview of your findings with a focus on Mexico.
+
+For this assignment and for all subsequent written assignments in this class (unless duly noted), we will use Marron's modified APA format. Specifically, documents will be written with:
+	* Single-spaced text
+	* 0.5 inch margins (left and right)
+	* 12-point Times New Roman font, and
+	* printed double-sided if possible
+References, as needed, must be in a standard format (eg, APA). See "Marron_GeneralStyleGuide.pdf" in Teams under Class Materials.
+	
+Assignments must always be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+--Task 2 
+Read Grossfield's, "Language and the Law." Write a ~three paragraph summary of the paper in English and translate the summary into Spanish. The format requirements above apply.

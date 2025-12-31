@@ -1,0 +1,251 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Inglés IX
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A+B
+
+
+
+#####################
+HW_05 [Due: 16 October 2025]
+
+--- Task 1
+Read the following sections of the onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
+(https://www.nltk.org/book/ch00.html)
+
+	Preface
+	Audience
+	Emphasis
+	What You Will Learn
+	Organization
+	Why Python?
+	...
+	Natural Language Toolkit (NLTK)
+
+--- Task 2
+Install the NLTK pkg into your (ai-apis) virtual environment. The installation is given in the steps below but if needed, research how to do this online.
+
+##############
+Install NLTK
+in (ai-apis)
+using pip pkg installer
+##################
+NB. The location of your (ai-apis) may be different than that given below depending on how Spyder was installed
+and where you decided to create your virtual environment (ai-apis)
+
+*	Open (ai-apis) and install NLTK package
+C:\Users\<you>\AppData\Local\spyder-6\Scripts\ai-apis> activate		<== Windows
+(ai-apis)> pip install nltk
+(ai-apis)> deactivate 										
+>
+
+
+$ source ./spyder-6/envs/ai-apis/bin/activate					<== Linux/MacOS
+(ai-apis)$ pip install nltk
+(ai-apis):~$ deactivate
+$
+
+
+--- Task 3
+Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Third Section Preamble: American Translation
+	Ch. 9	o Rice Husband: Lena St. Clair
+	Ch. 10	o Four Directions: Waverly Jong
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
+
+---- Open
+	
+	
+	"As distance tests a horse's strength, time reveals a person's character."
+		
+	路遥知马力，日久见人心。(Lùyáo zhī mǎlì, rìjiǔ jiàn rénxīn)
+	['road distant know horse strength, days old see man heart']
+
+
+
+
+From the anonymous work "Fight Gratitude" (《争报恩》) of the Yuan Dynasty (1279–1368), when Mongol horsemen ruled China, this saying tells us that a long period of testing is needed to understand someone's nature and capabilities.
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+
+** Installations? (Python and Spyder)
+** Gemini API Key?
+** Work thru Windows comand-line .py?
+** Coding next week -- be prepared with installations
+
+	
+
+--- New
+
+** Finish Presentation of three (3) slides --------------------------
+	* Reminder of posture and presentation etiquette
+	* All students to the front to present their slide.
+	* Graded
+
+
+** Read aloud from Cliff Notes,
+https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
+	"About The Joy Luck Club" (opening pages)
+	"Character List"		<== SAVE
+
+
+** HW!!
+	
+	
+** Review for Exam 1P on Thurs
+
+
+
+
+
+
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+
+**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother					Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
+
+
+
+The AI Showdown Summaries and Qs: Ch. 4, Ch.5 and Ch. 6
+	Four people; same prompt
+	Just two of the AIs (for time)
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
+			
+
+
+
+--- Two Kinds: Jing-Mei Woo (Ch. 8)
+
+
+Vocabulary
+	
+Qs
+
+
+--- Half and Half: Rose Hsu Jordan (Ch. 7)
+
+
+Vocabulary
+	
+Qs
+	* What happens to Rose's mom's bible? Why?
+	* Will Rose's mom accept the divorce of her daughter?
+	* What is Rose's initial impression of Ted? What does her mom think?
+	* What does Ted's mother say to Rose? What does Rose think?
+	* How does the relationship of Ted and Rose evolve? Is it healthy?
+	* What effect does Ted's disasterous treatment of a patient have on the family?
+	* What is Rose's revelation after the divorce?
+	* Rose recalls a tragic event that ereases her mom's faith. What happens?
+	* What rituals does Rose's mom perform to retrieve her son?
+	* In the end Rose's mom loses hr faaith but insists that Rose keep hers. Why?
+	* Rose decides that fate "is shaped half by expectation, half by inattention". What does this mean?
+
+
+--- The Voice from the Wall: Lena St. Clair (Ch 6)
+Growing up in Oakland, Lena seems to have a morbid fascnation with death after she learns her grandfather had a beggar killed. Lena's mom seems to add to this state of the macabre by instilling any number of fears in Lena. Eventually Lena begins to see with "her Chinese eys" and what she sees are scary portraits of everyday life. She becomes rather withdrawn but not as much her mom who, in Lena's eyes, has become a ghost. Lena's American dad is oblivious to these happenings and is excited to move the family to a new apatment in a wealthier part of town. The family is moving up in the world! In the new apartment Lena's mom become increasingly dissatified with the aprtment and its the furnishings and begins an endless phase of reorganizing. The new apartment is rather noisy both from street noises and from the neighbors, and Lena, who once had a comforting relation with the regularties of the sounds from the street, is moved to a new area where she hears the constant and ferocious fighting of the neighbors. Lena believes the neighbors are on the verge of killing each other each and every night. Meanwhile, Lena learns that her mom who was pregnant has lost the baby. Lena's mom is plunged into despair and loses her vitality day by day until she no longer gets out of bed and must be hospitalized. For Lena, her mom truly has become ghost. One night a loud knock at the door reveals the neighbor Teresa, a girl slightly older than Lena who explains her mom has kicked her out of the house. Lena is horrified but Teresa seems unconcerned and uses Lena's bedroom window to access the fire escape. Teresa explins that her plan is to disappear for a few hours and then sneak back into her room via the fire escape. Later that evening when Lena hears Teresa and her mom engaged in a confrontation of tears and hugs, Lena realizes that these people actually love each other and this gives Lena the courage to begin pulling her mom back to life.
+	
+Qs
+	* Lena has a morbid fascination with the death of a beggar. Why?
+	* Why does Lena think her mom has become a ghost?
+	* Who lives in the basement of the old house in Oakland?
+	* What do Lena's Chinese eyes show her?
+	* What happens to Lena's mom at the immigration service? What did her dad do?
+	* Lena's mom seems afraid of the world around her. How does this affect Lena?
+	* Lena also seems to falsify reality. How?
+	* The St. Clair family is "moving up". What does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at 
+	home?
+	* Lena's the feng shui mom seems concerned with of the new apartment. Why?
+	* Lena has intimate knowledge of the neighbors. Why? 
+	* What happens to the new baby? What happens to Lena's mom?
+	* What is Teresa's announcement?
+	* What is Lena's revelation regrding Teresa and her mom?
+	* How does Lena save her mother?
+
+
+---- Work time
+
+
+--- Coming up
+		
+* Creative Writing
+
+** Chinese Identity --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+

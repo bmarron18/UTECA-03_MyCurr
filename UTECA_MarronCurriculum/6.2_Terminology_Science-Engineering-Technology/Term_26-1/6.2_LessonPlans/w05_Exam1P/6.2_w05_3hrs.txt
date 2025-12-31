@@ -1,0 +1,153 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+##############################
+HW_04 [Due: 14 Oct 2025]
+
+-- Task 1
+Translate the Abstract (1 paragraph) from,"Steffen et al. 2018_Trajectories of the Earth System in the Anthropocene.pdf" into Spanish. 
+
+-- Task 2
+Define the following vocab words in English and give a Spanish translation of each word.
+
+(from 02_Poggio_Galactic-Wave_2025.pdf)
+accretion
+addendum
+amplitude
+canonical
+compression
+correlated
+epicyclic
+Gaussian
+heliocentric
+kinematic
+Occam's razor
+parsec
+photometric
+propagate
+transverse
+warp
+
+
+(from Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf)
+Anthropocene
+accumulated
+adjacent
+albedo
+amplification
+anthropogenic
+asymptotic
+attractor
+bifurcation
+biogeophysical
+biosphere
+circumpolar
+complex adaptive system
+decarbonization
+demographic
+deterministic
+disintegration
+disparity
+divergent
+feedback loops
+	negative
+	positive
+forecasting
+Holocene
+incremental
+intrinsic
+nonlinear
+oscillations
+self-reinforcing
+stewardship
+thermodynamic
+threshold
+tipping point
+tipping cascades
+underpinned
+vulnerable
+
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+	1 hr new material (2P)
+	2 hr exam
+
+---- Open 
+
+	"The original is unfaithful to the translation."
+		– Jorge Luis Borges, Argentinian writer
+		
+
+	"Translation is entirely mysterious. Increasingly I have felt that the art of writing is itself 
+	translating, or more like translating than it is like anything else. What is the other text, the
+	original? I have no answer. I suppose it is the source, the deep sea where ideas swim, and
+	one catches them in nets of words and swings them shining into the boat… where in this
+	metaphor they die and get canned and eaten in sandwiches.
+		– Ursula K. Le Guin
+
+
+
+---- Review 
+
+
+
+
+---- New
+
+** Translation of Academic Papers (cnt'd)
+Read 
+	Abstract
+	Intro 
+	Conclusions for vocab and understanding
+
+
+** Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+	See Vocab
+
+
+** 02_Poggio_Galactic-Wave_2025.pdf
+	See vocab
+	
+	parsec
+		https://en.wikipedia.org/wiki/Parsec
+
+** break (15 min)
+
+
+** Exam 1P
+
+
+
+
+
+---- Work Time
+
+
+---- Coming up
+
+** Read Conservation of Mass, Section 3.1 Four Questions in Richards_BASIC-ENGINEERING-SCIENCE.pdf 
+(pp 39-43)
+
+
+** Science vs. Engineering vs. Technology
+06_Ramsden_Diff_Between_Engineering_and_Science-1
+
+
+
+
+

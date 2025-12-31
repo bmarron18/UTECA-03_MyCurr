@@ -1,0 +1,195 @@
+
+#############
+Info 
+NLTK
+##########
+NLTK has been called a wonderful tool for teaching and working in computational linguistics using Python and an amazing library to play with natural language.
+
+*	Technical refs
+https://www.nltk.org/
+https://www.nltk.org/book/
+https://www.nltk.org/py-modindex.html
+
+*	Python code
+https://thepythoncode.com/article/bleu-score-in-python
+https://www.kaggle.com/code/ahmadulkc/evaluation-metrics-in-natural-language-processing
+https://www.nltk.org/howto/tokenize.html
+
+
+
+############
+METEOR
+############
+“Meteor: An Automatic Metric for MT Evaluation with HighLevels of Correlation with Human Judgments” by Alon Lavie and Abhaya Agarwal, in Proceedings of ACL. https://www.cs.cmu.edu/~alavie/METEOR/pdf/Lavie-Agarwal-2007-METEOR.pdf
+
+
+
+
+##########
+BLEU
+#########
+"The closer a machine translation is to a professional human translation, the better it is.”
+
+*	Why language isn't specified:
+    	Language-Independent:
+    	BLEU was designed to be language-independent, allowing it to evaluate machine translations across various 
+		language pairs (e.g., English to Chinese, French to German). 
+
+*	Focus on N-grams:
+		The core of BLEU is the comparison of n-grams (sequences of n-words) between the machine output and human references. This comparison doesn't rely on any specific language grammar or vocabulary. 
+
+*	Descriptions of BLEU
+https://www.geeksforgeeks.org/nlp/nlp-bleu-score-for-evaluating-neural-machine-translation-python/
+https://medium.com/data-science/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213
+	Before you get to that round, though, you’ll probably need to use at least one automatic evaluation 		metric. And I would urge you to use BLEU if and only if:
+    		You’re doing machine translation AND
+    		You’re evaluating across an entire corpus AND
+    		You know the limitations of the metric and you’re prepared to accept them.
+
+
+---- AI generated from Google query [generate blue score for a long text in python]------------
+To calculate the BLEU score for a long text in Python, you can use the nltk.translate.bleu_score module, specifically the corpus_bleu function. This function is designed to handle multiple sentences (a corpus) and provides a more robust evaluation than sentence_bleu for longer texts. Both should be provided as (Python) lists of tokenized words [tokenize sentences ==> tokenize words] 
+The BLEU score requires:
+	Language A ==> Language B translation by prof. translator and LLM
+		reference texts (human-written translations or summaries in Language B)
+		candidate text (the machine-generated text in Language B). 
+
+--- Import necessary modules (sentence tokenize, word tokenize)
+    from nltk.translate.bleu_score import corpus_bleu
+    from nltk.tokenize import sent_tokenize, word_tokenize
+ --------------------------------------------------------------------------------------------------------------  
+ 
+ 
+ ###########
+ Testing Token Fxns
+ #####################
+:param references: a corpus of lists of reference sentences, w.r.t. hypotheses
+:type references: list(list(list(str)))
+
+:param hypotheses: a list of hypothesis sentences
+:type hypotheses: list(list(str))
+
+
+>>>
+from nltk.translate.bleu_score import corpus_bleu
+from nltk.tokenize import sent_tokenize, word_tokenize
+
+
+candidate_text =  "The Ministry of Labor and Social Welfare must decide on the \
+    registration request within twenty days of receiving it. If it fails to do so \
+    the applicants may request that it issue the corresponding resolution within three \
+    days of submitting the request. After thid period has elapsed without notification \
+    of the resolution, the registration will be deemed to have been made for the legal \
+    purposes to which it gives rise"
+    
+    # creates a list(string) of tokenized words 
+    # EXCLUDES periods "."
+split_fxn =  "The Ministry of Labor and Social Welfare must decide on the \
+    registration request within twenty days of receiving it. If it fails to do so \
+    the applicants may request that it issue the corresponding resolution within three \
+    days of submitting the request. After thid period has elapsed without notification \
+    of the resolution, the registration will be deemed to have been made for the legal \
+    purposes to which it gives rise".split()
+ 
+    
+    # creates a list(string) of tokenized words 
+    # INCLUDES tokenized periods "."
+token_fxn2 = word_tokenize(candidate_text, "english")
+
+
+   # creates a list(list(string)) of tokenized words 
+   # EXCLUDES tokenized periods "."
+token_fxn3 = [word_tokenize(candidate_text, "english")]
+
+
+    # creates a list(string1, string2, string3) of tokenized sentences
+    # EXCLUDES tokenized periods "."
+token_fxn4 = sent_tokenize(candidate_text)
+
+
+print(split_fxn)
+['The', 'Ministry', 'of', 'Labor', 'and', 'Social', 'Welfare', 'must', 'decide', 'on', 'the', 'registration', 'request', 'within', 'twenty', 'days', 'of', 'receiving', 'it.', 'If', 'it', 'fails', 'to', 'do', 'so', 'the', 'applicants', 'may', 'request', 'that', 'it', 'issue', 'the', 'corresponding', 'resolution', 'within', 'three', 'days', 'of', 'submitting', 'the', 'request.', 'After', 'thid', 'period', 'has', 'elapsed', 'without', 'notification', 'of', 'the', 'resolution,', 'the', 'registration', 'will', 'be', 'deemed', 'to', 'have', 'been', 'made', 'for', 'the', 'legal', 'purposes', 'to', 'which', 'it', 'gives', 'rise']
+
+print(token_fxn2)
+['The', 'Ministry', 'of', 'Labor', 'and', 'Social', 'Welfare', 'must', 'decide', 'on', 'the', 'registration', 'request', 'within', 'twenty', 'days', 'of', 'receiving', 'it', '.', 'If', 'it', 'fails', 'to', 'do', 'so', 'the', 'applicants', 'may', 'request', 'that', 'it', 'issue', 'the', 'corresponding', 'resolution', 'within', 'three', 'days', 'of', 'submitting', 'the', 'request', '.', 'After', 'thid', 'period', 'has', 'elapsed', 'without', 'notification', 'of', 'the', 'resolution', ',', 'the', 'registration', 'will', 'be', 'deemed', 'to', 'have', 'been', 'made', 'for', 'the', 'legal', 'purposes', 'to', 'which', 'it', 'gives', 'rise']
+
+print(token_fxn3)
+[['The', 'Ministry', 'of', 'Labor', 'and', 'Social', 'Welfare', 'must', 'decide', 'on', 'the', 'registration', 'request', 'within', 'twenty', 'days', 'of', 'receiving', 'it', '.', 'If', 'it', 'fails', 'to', 'do', 'so', 'the', 'applicants', 'may', 'request', 'that', 'it', 'issue', 'the', 'corresponding', 'resolution', 'within', 'three', 'days', 'of', 'submitting', 'the', 'request', '.', 'After', 'thid', 'period', 'has', 'elapsed', 'without', 'notification', 'of', 'the', 'resolution', ',', 'the', 'registration', 'will', 'be', 'deemed', 'to', 'have', 'been', 'made', 'for', 'the', 'legal', 'purposes', 'to', 'which', 'it', 'gives', 'rise']]
+
+print(token_fxn4)
+['The Ministry of Labor and Social Welfare must decide on the     registration request within twenty days of receiving it.', 'If it fails to do so     the applicants may request that it issue the corresponding resolution within three     days of submitting the request.', 'After thid period has elapsed without notification     of the resolution, the registration will be deemed to have been made for the legal     purposes to which it gives rise']
+ >>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+--- Prepare your reference and candidate texts.
+    reference_text_1 = "This is a long and complex reference text for evaluating the machine translation output. It contains multiple sentences and aims to provide a comprehensive example."
+	
+    reference_text_2 = "Another reference text that is also long and provides a different perspective on the same topic. This helps in capturing more nuances."
+	
+    candidate_text = "This long and complex text is a machine-generated translation for evaluation. It also contains several sentences and attempts to match the reference."
+
+--- Tokenize the sentences in each text
+    references = [
+        [word_tokenize(sent) for sent in reference_text_1.split('. ') if sent],
+        [word_tokenize(sent) for sent in reference_text_2.split('. ') if sent]
+    ]
+    candidate = [word_tokenize(sent) for sent in candidate_text.split('. ') if sent]
+
+
+--- specify weights for n-grams (e.g., (0.25, 0.25, 0.25, 0.25) for 1-gram to 4-gram)
+	weights=(0.25, 0.25, 0.25, 0.25)
+	
+--- calculate the BLEU score
+    bleu_score = corpus_bleu(references, candidate, weights)
+
+    print(bleu_score)
+
+
+
+
+Explanation:
+corpus_bleu(references, candidate, weights): 
+	This function calculates the BLEU score across a corpus of sentences.
+	
+references: A list of reference documents. Each document is a list of tokenized sentences. In the example, we have two reference texts.
+
+    references = [
+        [tokenized_sentences_ref1], 
+		[tokenized_sentences_ref2]
+    ]
+
+ 
+candidate: A list of tokenized sentences representing the machine-generated text.
+		
+weights: A tuple defining the weights for different n-grams (unigram, bigram, trigram, 4-gram). The default is (0.25, 0.25, 0.25, 0.25), meaning equal weight for each n-gram up to 4. You can adjust these weights based on your specific needs.
+
+
+
+Tokenize---
+Tokenize Sentences
+	sent_tokenize() splits a string into a list of sentences, handling punctuation and abbreviations.
+
+	from nltk.tokenize import sent_tokenize
+	text = "NLTK is a great NLP toolkit. It makes processing text easy!"
+	sentences = sent_tokenize(text)
+	print(sentences)
+
+
+
+

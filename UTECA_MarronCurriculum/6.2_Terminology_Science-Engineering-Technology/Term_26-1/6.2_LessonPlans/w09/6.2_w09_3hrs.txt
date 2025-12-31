@@ -1,0 +1,176 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+##############################
+HW_08 [Due: 11 Nov 2025]
+
+-- Task 1
+Read/scan  the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+	i)  MacKay_Sex.pdf
+	ii) MacKay_CodeBreaking.pdf
+Do your best to get the gist (main ideas) of each excerpt and write a very brief summary of each excerpt in English. 
+
+--- Task 2
+Define the following terms in English and give a Spanish equivalent term. Add any new words to your dictionary.
+
+TERMS
+	allele
+	alpha, beta, gamma, delta
+	bigram
+	camouflaged
+	catalyst
+	code breaking
+	conjecture
+	constraint
+	deleterious
+	deterministic
+	empirical
+	emulate
+	false-negative
+	false-positive
+	fitness (evolution)
+	genome
+	genotype
+	logarithm
+	mutation
+	nucleotide
+	permutation
+	phenotype
+	precursor
+	probability
+	progeny
+	qualitative
+	quantitative
+	quantized
+	recombination (genetics)
+	statistics
+	symmetry
+	transcription (genetics)
+	translation (genetics)
+	trigram
+	
+--- Task 3. Study for Exam 2P
+
+Study Guide
+-----------
+1. Be able to 
+	* Explain the difference and similarity between science and engineering
+    	* List three ethical challenges of socially responsible science
+    	* express your opinion scientists and engineers have a moral or ethical responsibility 
+	
+2. Be able to explain the concept of ‘wicked problems’ and how such problems differ from the problems of ‘normal science’
+
+3. Be able to translate an excerpt from Semiconductores como Proyecto Nacional del Tecnológico Nacional de México (08...pdf) into English
+
+4. Be able to define SOPs and explain why they are used.
+
+5. Be able to translate an excerpt from EPA Guidance for SOPs into Spanish.
+
+6 and 7. Provide definitions of words 
+
+from Steffen et al. (2018) - Trajectories of the Earth System in the Anthropocene (01...pdf)
+Anthropocene
+anthropogenic
+bifurcation
+decarbonization
+self-reinforcing feedback loop
+oscillations
+tipping point
+
+from Poggio et al. (2025) - The Great Wave: Evidence of a large-scale vertical corrugation propagating outwards in the Galactic disc (02....pdf)
+accretion
+heliocentric
+Occam's razor
+parsec
+
+from Paniagua and Elvira (2010) -Deslizamiento de un talud en el Poniente de la ciudad de México  (03....pdf)
+anclaje
+arena pumítica
+estratigráfico
+geotécnica
+pluvial
+
+from Tao et al. (2025) - Ultrabroadband on-chip photonics for full-spectrum wireless communications (09....pdf)
+amplitude
+bit
+byte
+calibration
+electromagnetic
+gigabyte (Gb)
+photon
+schematic
+spectrum
+synergistic
+ubiquitous
+
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+
+---- Open 
+
+	"Solving climate change is a complex topic, but in a single crude brush-stroke, here is the solution: the price of carbon dioxide must be such that people stop burning coal without capture."
+			-- Sir David J. C. MacKay
+
+
+
+---- Review 
+** "Tame" and "Wicked" Problems PLUS Moral Responsibility in the quote
+
+
+---- New
+
+Vocab and Document Translation
+	1 Academic Texts and Papers
+	2 Manuals and Standard Operating Procedures (SOPs)
+	3 Request for Proposals (RFPs) and Proposals
+	4 Science Reporting Articles (popular science)
+	5 Science Reviews
+
+
+** Academic Texts: Sir David MacKay and his famous textbook,
+"Information Theory, Inference, Learning Algorithms"
+
+	Sir David John Cameron MacKay was a British physicist, mathematician, and academic. He was the Regius 
+	Professor of Engineering in the Department of Engineering at the University of Cambridge and from 2009 to 
+	2014 was Chief Scientific Advisor to the UK Department of Energy and Climate Change. 
+	
+	https://www.theguardian.com/environment/2016/apr/18/sir-david-mackay-obituary
+
+
+
+Lecture Number 1: Information Theory
+(david mckay lectures in Google)
+
+Look at....
+McKay_CodeBreaking.pdf
+
+
+
+** Review for 2P
+
+
+---- Work Time
+
+
+---- Coming up
+
+McKay_Sex.pdf
+** 	7.3 Request for Proposals (RFPs) and Proposals
+	
+
+

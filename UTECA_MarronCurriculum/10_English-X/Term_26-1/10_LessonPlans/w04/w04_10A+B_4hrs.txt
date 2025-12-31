@@ -1,0 +1,462 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Inglés IX
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A+B
+
+Entérate de los detalles sobre la marcha del 2 de octubre de 2025, en CDMX, 
+por los 57 años de la matanza de Tlatelolco de 1968.
+
+Classes will be taught online
+
+Ingles-X_OnlineClass_02Oct2025
+Due to concerns regarding the commemoration events surrounding Oct 2, we will meet online. Be prepared to give your three-slide presentation and have your homework available in .pdf format.  Thanks!
+(copy/paste lesson plan into Agenda)
+
+-------------------------------
+Ingles-X_OnlineClass_02Oct2025
+--------------------------------
+SharePoint (Channel meetings)
+    Go to the Team that the Channel is in.
+    Then, click the meeting Chat (this chat will have the same name as the meeting had)
+    Then, the meeting recording should appear at the bottom of the chat, 
+    Option for link to SharePoint
+
+10A
+Meeting ended: 1h 53m 15s
+https://utecaedu.sharepoint.com/sites/INGLSX10AINT26-1/Shared%20Documents/General/Recordings/Ingles-X_OnlineClass_02Oct2025-20251002_150921-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view
+
+10B
+Meeting ended: 2h 53m 9s
+https://utecaedu.sharepoint.com/sites/INGLSX10BINT26-1/Shared%20Documents/General/Recordings/Ingles-X_OnlineClass_02Oct2025-20251002_170923-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view
+
+--- Evidencia de dar clases en linea
+correo-e al Coordinacion Pedagogica
+	pedagogia@uteca.edu.mx
+
+#####################
+HW_04 [Due: 09 October 2025]
+
+--- Task 1
+** Install Python **
+	- Follow the instruction in this website
+		https://www.python.org/downloads/
+		
+		Stable Releases
+		Python 3.13.7 - Aug. 14, 2025
+			Python-3.13.7.tar.xz				<== Linux
+			Download Windows installer (64-bit)	<== Windows
+		
+
+
+** Verify that "pip" is installed and updated (pip is a Python package manager) **
+	- pip should already be installed with Python 3.13.7
+	- Open a terminal and go to the top of the filesystem
+		> cd\
+		
+	- Check for the version of pip installed
+		> pip --version		<== Windows
+		$ pip --version		<== Linux
+			pip 25.2 from /home/bmarron18/.local/lib/python3.10/site-packages/pip (python 3.10)
+			
+	- Ensure pip is upgraded
+		> python -m ensurepip --upgrade			<== Windows
+		$ python3 -m pip install --upgrade pip		<== Linux
+	
+	- If needed, follow the instructions in this website
+		https://phoenixnap.com/kb/install-pip-windows
+	
+
+** Install Spyder **
+	- Go to https://www.spyder-ide.org/
+	- Spyder will automatically detect your OS and suggest a download
+	- define simple location for Spyder install. For example
+		/home/bmarron/spyder-6								<== Linux and Mac OS
+		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
+		
+** Review Windows filesystem operations snippets **
+	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
+	- Review the information (snippets) in the large-window on the left-hand side
+	- Start at [Command Line Operations in Windows] and scroll all the way through the document
+
+
+** Find the version of Python running in Spyder-6 **
+	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
+	- Scroll to the top of the mini-window to find the Python distribution (distro) information
+	- Something like
+		Python 3.11.0rc1 (main, Aug 12 2022, 10:02:14) [GCC 11.2.0]
+		Type "copyright", "credits" or "license" for more information
+	
+
+** Check the installation of Spyder-6
+	- Open a terminal and go to your home directory
+		$ cd ~							<== Linux and Mac OS
+		> cd %homedrive%%homepath%			<== Windows
+		> cd C:\Users\<your_user_name>\
+	
+	- Check / find the Spyder installation directory (folder)
+		$ find ./ -name "*spyder*" -type d			<== Linux and Mac OS
+		> dir /b/s *spyder*						<== Windows
+		> where spyder*
+
+
+** Install the "virtualenv" package (Python) into Spyder directories using pip **
+	- Open a terminal
+	- Install "virtualenv" in a specific location in Spyder
+		> pip install --target C:\Users\<user-name>\AppData\Local\spyder-6\Scripts virtualenv
+		$ pip install --target /home/bmarron18/virtualenv virtualenv
+
+      - Verify the installation and locate the executable file
+		C:\> dir /b/s virtualenv.exe
+			C:\Users\<you>\AppData\Local\spyder-6\Scripts\virtualenv.exe
+
+
+Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
+
+
+
+--- Task 2
+Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Ch. 7	o Half and Half: Rose Hsu Jordan
+	Ch. 8	o Two Kinds: Jing-Mei Woo
+
+
+--- Task 3
+Study Guide
+
+1. The Han Empire has played a crucial role in the development of Chinese culture and identity12.  Answer the following questions related to your studies of the Han Empire:
+    a. Roughly, what is the time period for the Han Empire?
+    b. List at least three (3) achievements of the Han Empire.
+    c. Translate the writing of Chinese characters (汉字) into English.
+    d. Why do you think most Chinese consider themselves to be Han?
+    e. Name two (2) scholastic sources that can be used to search academic articles related to the Han Empire. 
+    f. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
+
+2. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
+    a. List three (3) suggested guidelines for dynamic storytelling in presentations.
+    b. What is the role of creativity in the preparation of a presentation?
+    
+3. Using AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
+    a. API
+    b. API Key
+    c. Python
+    d. The command line interface
+    e. Spyder IDE
+    f. Google Gemini
+    g. OpenAI GPT-5
+    h. Prompt Engineering
+
+4. Select your favorite chapter from Chapters 1 – 4 of the novel and perform and/or answer the following:
+    a. Briefly explain why you selected the chapter.
+    b. What do you think is the main “take-away” from the chapter?
+    c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
+    d. From your perspective, did AI (Gemini, ChatGPT, DeepSeek) do a good job summarizing the novel's chapters? Explain 
+    why or why not.
+    e. Write a five (5) sentence summary of the chapter in English and translate the summary into Spanish.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+
+---- Open 
+
+	"The player is lost; the watcher is lucid."
+	当局者迷，旁观者清。(Dāngjúzhě mí, pángguānzhě qīng / 'player confused; spectator clear')
+
+
+
+
+
+From the "Biography of Yuan Xingchong" in the Old Book of Tang (《旧唐书·元行冲传》), this points out that a person involved in a matter usually does not have a comprehensive overview of it, due to too much concentration on the details, while the onlookers, who have a calmer and more objective attitude, have a better grasp of what is going on.
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+	HW Reminder 
+
+--- New
+
+
+** Basic Prompt Engineering --------------
+
+#################
+Notes on prompts
+##################
+
+*	You could think about developer and user messages like a function and its arguments in a programming language.
+    	-developer messages provide the system's rules and business logic, like a function definition.
+    	-user messages provide inputs and configuration to which the developer message instructions are applied, like 
+		arguments to a function.
+		- a prompt contains BOTH message types
+Chapters
+	instructions parameter (developer messages)
+		gives the model high-level instructions on how it should behave while generating a 
+		response, including tone, 
+		goals, and examples of correct responses. Any instructions provided this way will take 
+		priority over a prompt in the input parameter.
+		
+	input parameters (user messages; as string or array)
+		Ant text, image, or file inputs to the model that are used to generate a 
+		specific response.
+
+
+##################
+Sample Gemini Prompts
+and System Instructions
+################
+
+--- User Prompts ------------------------------
+
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME_Type = text/x-tex. That is. the output translation should be formated as \
+	a .tex file ready to open in LaTex."
+	
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file (.txt)."
+
+
+prompt = "Translate the document, processedfile (a .txt file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs, quotation marks). \
+	Generate the output as a plain text file (.txt); that is, as MIME_type= text/plain."
+
+
+
+--- System Instruction Prompts ------------------------------------------
+
+config = types.GenerateContentConfig(
+               system_instruction="You are an expert linguist \
+                   specializing in translation. Maintain the original \
+                   meaning, and tone of the original. Provide ONLY the \
+                   requested translation without any additional commentary, \
+                   introductory phrases, other language translations, or \
+                   conversational remarks."),
+
+
+##################
+Sample OpenAI 
+User Prompts and
+System Prompts
+################
+
+--- User Prompts ------------------------------
+	# User level messages
+	
+user_prompt= "Translate the file (a .pdf file in English) to standard, natural, \
+    and fluent Spanish. Maintain all specific formatting (line breaks, \
+    indents, spaces, paragraphs, and quotations). Generate the output as \
+    MIME type= text/plain. That is, generate the output as a plain text \
+    file (.txt)."
+
+
+
+--- System Prompts ------------------------------------------
+	# Developer level messages
+	
+sys_prompt = "You are an expert linguist \
+    specializing in translation. Maintain the original \
+    meaning and tone. Provide ONLY the requested translation without \
+    any additional commentary, introductory phrases, other language \
+    translations or conversational remarks."
+
+
+
+** Command line Linux, Winows, Mac/OS ----------------
+	API_Installations_Windows-Basics.py
+
+
+** Installations -----------------
+See HW Task 1
+
+
+
+
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+
+**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother					Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
+
+
+
+The AI Showdown Summaries and Qs: Ch. 4, Ch.5 and Ch. 6
+	Four people; same prompt
+	Just two of the AIs (for time)
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+
+
+--- The Voice from the Wall: Lena St. Clair (Ch 6)
+
+Give me a brief summary of The Voice from the Wall, Chapter 6 of the novel, The Joy Luck Club
+	
+Qs
+	* Lena has a morbid fascination with the death of a beggar. Why?
+	* Why does Lena think her mom has become a ghost?
+	* Who lives in the basement of the old house in Oakland?
+	* What do Lena's Chinese eyes show her?
+	* What happens to Lena's mom at the immigration service? What did her dad do?
+	* Lena's mom seems afraid of the world around her. How does this affect Lena?
+	* Lena also seems to falsify reality. How?
+	* The St. Clair family is "moving up". What does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at 
+	home?
+	* Lena's the feng shui mom seems concerned with of the new apartment. Why?
+	* Lena has intimate knowledge of the neighbors. Why? 
+	* What happens to the new baby? What happens to Lena's mom?
+	* What is Teresa's announcement?
+	* What is Lena's revelation regrding Teresa and her mom?
+	* How does Lena save her mother?
+
+
+--- Rules of the Game: Waverly Jong (Ch 5)
+Waverly and her family live in Chinatown. The family has modest means but is well-fed and comfortable. As a result of a nearly-discarded chess set, a Christmas gift from the local church Santa, Waverly begins to learn chess. At first her brothers must explain the moves and gladly accept Lifesavers for Waverly's losses. But one day Waverly meets Lau Po who shares his great chess secrets with her. She is intoxicated. Waverly rapidly advances to tournament play and becomes a national champion at nine years-old! The community, and especially her mom, are very proud of her. Her family makes many concessions so that Waverly can continue to study and play chess. Waverly seems to accept these concessions as matter-of-fact events perhaps not recognizing the sacrifices being made on her behalf. As Waverly's fame spreads, Waverly begins to feel that she is constantly being put up for exhibition by her mom. One day things come to a head. Waverly harshly states that if her mom wants to show off, she should learn to play chess herself. Waverly, filled with rage and shame, runs off for a few hours. When she returns, she finds that her mom simply ignores her, in essence revoking her special privileges. Initially hurt, Waverly recovers and plots her next move.
+
+Give me a brief summary of Rules of the Game, Chapter 5 of the novel, The Joy Luck Club
+	
+Qs
+	* Where does Waverly Jong grow up? How would describe the circumstances of her family?
+	* Why does the neighborhood feel warm and exciting to Waverly?
+	* What do you think of the fish market?
+	* The neighborhood is a Chinese barrio. How do we know>
+	* What is funny about Waverly's American versus her Chinese name?
+	* How does Waverly's mother see American culture?
+	* Why are children smarter than adults think when it comes to indoctrination?
+	* What is disingenuous about Waverly's mom responses to the chess set at home and at church?
+	* What is Waverly's mom's take on rules?
+	* What is the power in the game of chess?
+	* What do you make of the names of Lau Po's chess moves?
+	* How does Waverly get her mom to agree to tournament play?
+	* What is the result of Waverly's chore routines as a result of winning How do her brothers feel?
+	* Waverly is no doubt a master player and becomes a national champion. What does Bobby Fischer say about this?
+	* Waverly confronts her mother about showing off. What happens?
+
+
+--- Second Section Preamble: The Twenty-Six Malignant Gates
+Qs
+	* Parent always try to keep their children safe. In this context, what are the 26 Malignant Gates?
+	* Why does the girl rebel against the admonishments of the 26 Malignant Gates?
+
+
+--- The Moon Lady: Ying-Ying St. Clair (Ch 4)
+Ying-Ying is a rather privileged young girl. She is taken care of by her nanny, Amah, dresses in fine clothes, and is surrounded by a wealthy family that can afford to perform all of the important societal rituals. She even has younger step-sisters from her father's concubines. Ying-Ying and her family will participate in the (harvest) Moon Festival; an extravagant affair that includes an outing on a boat that "looked like a floating teahouse" and an evening of theater starring the Moon Lady. Ying-Ying is especially primped and groomed for the occasion by Amah who also gives her strict rules of behavior and the promise of a secret wish fulfilled awarded by the Moon Lady herself. To receive the Moon Lady's award Ying-Ying must behave perfectly and must not think of herself in her wish. On the boat Ying-Ying becomes fascinated with feast preparations and accidently gets blood on her new clothes. But to wash it off, she uses even more blood! The horrified Amah undresses her leaving Ying-Ying in her underwear at the back of the boat
+
+
+Give me a brief summary of The Moon Lady, Chapter 4 of the novel, The Joy Luck Club
+
+
+Qs
+	* Why does Ying-Ying keep her mouth shut? How does she express this?
+	* How does Ying-Ying see her daughter and herdaughter's life?
+	* As a girl (in 1918), Ying-Ying is privileged. How do we know?
+	* What does "the burning of the Five Evils" mean? What is really happening?
+	* The weather is hor the day of the Moon Festival. What do you make of the expression,
+		"feel my arm, steamed soft clear to the bone."
+	* Who is the Moon Lady and what does she offer?
+	* What does Amah's remark about wishes say about women in Chinese society?
+	* What is funny about the names of Ying-Ying's step-sisters?
+	* How does Ying-Ying fool her step-sisters with the "mooncake shaped like a rabbit"?
+	* According to Ying-Ying's mom, how should a girl "chase" a dragonfly?
+	* What does Ying-ying think about her shadow?
+	* What does this phrase suggest about Ying-Ying's family, "my father's concubines"?
+	* How does Ying-Ying think of Amah?
+	* What does " The boat looked like a floating teahouse" remind you of here in CDMX?
+	* Again, what does the phrase, "we saw poor-looking people" say about the status of Ying-Ying's family?
+	* What is happening with the bird with a hoop on its neck?
+	* What do you think about the contents of the soup being made?
+	* What happens to Ying-Ying's beautiful new clothes? How does she "fix" it?
+	* According to Amah, what will be the punishment for destroying the new clothes?
+	* What happens to Ying-Ying as she ponders the Moon Lady in her underwear?
+	* What is the terrible result of going overboard?
+	* In the stage production, what is the penance of the Moon Lady? What doe you make of the tale?
+	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang, 
+	  bright truth lighting our minds."
+	* Is a wish to the Moon Lady free?
+	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
+	* What is Ying-Ying's secret wish? What do you make of it?
+
+
+** Presentation of three (3) slides -----------------------------------------------	Thurs
+	* Reminder of posture and presentation etiquette
+	* All students to the front to present their slide.
+	* Graded
+
+
+---- Work time
+
+
+--- Coming up
+		
+* Creative Writing
+
+** Chinese Identity --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+

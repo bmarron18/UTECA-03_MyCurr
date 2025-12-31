@@ -1,0 +1,89 @@
+
+
+####################
+Terms 2P
+###################
+	actuadores
+	adheridos
+	afloramiento
+	agrietamiento
+	aluviales
+	ambiental
+	analógico
+	anclado
+	anclaje
+	apuntalamiento
+	arcillas
+	arseniuro de galio (GaAs)
+	baterías avanzadas
+	capacitores
+	cadenamientos
+	cimentaciones
+	circuitos electrónicos
+	combustible
+	Complementary Metal-Oxide Semiconductor (CMOS)
+	compuesta
+	compuesto
+	controladores
+	cuaternario
+	deslizamiento
+	desplantadas
+	dictamen
+	diodos
+	discontinuidades
+	dispositivos electrónicos
+	discretización
+	drones
+	Digital Signal Processors (DSPs)
+	electrosoldada
+	empaquetar
+	estratigrafía
+	estratos
+	fabricantes
+	Field Programmable Gate Arrays (FPGAs)
+	fracturamiento
+	gravas
+	heterogénea
+	incongruencias
+	infraestructura
+	ingenieril
+	intemperismo
+	interpolación
+	lacustre
+	lahares
+	limosas
+	LEDs
+	mediciones
+	microprocesadores
+	microtemores
+	microtremores
+	neuronal
+	nitruro
+	nitruro de galio (GaN)
+	perceptron
+	pilas desplantadas
+	pilas empotradas
+	pilotes
+	planteamiento
+	pluvial
+	resonancia magnética
+	semicompensado
+	sostenibilidad
+	subsuelo
+	subyacente
+	subyaciendo
+	subzonas
+	superconductores
+	talud
+	taludes
+	telecomunicaciones
+	tirantes
+	topográfico
+	topología
+	transistores
+	ultrasonido
+	unidades de estado sólido (SSD
+	vectores
+	zapatas convencionales
+	zapatas octogonales
+

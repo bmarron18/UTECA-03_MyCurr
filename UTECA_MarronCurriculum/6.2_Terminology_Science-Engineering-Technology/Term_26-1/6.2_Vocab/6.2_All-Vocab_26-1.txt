@@ -1,0 +1,191 @@
+
+
+####################
+2P
+###################
+09_Nature_6G_2025.pdf
+accumulate
+adaptability
+adversely
+affiliation
+algorithm
+allocation
+amplifier
+amplitude
+bandwidth
+benchmark
+binary
+bit
+broadband
+byte
+calibration
+circuitry
+coherent
+constraint
+decibels (dB)
+deteriorate
+dielectric
+discrete (mathematics)
+dispersion
+distortion
+dynamic
+electromagnetic
+fine-tune
+fluctuation
+frequency
+gigabyte (Gb)
+gigahertz (GHz)
+homogeneous
+heterogeneous
+holographic
+imperfection
+integrate
+interference
+intrinsically
+jammed (signal)
+lithography
+modulation (physics)
+optimize
+orthogonal
+peripheral
+photon
+plasma
+potential (electrical)
+propagate (physics)
+quantum
+reconfigure
+resonance (physics)
+ripples
+schematic
+seamlessly
+spectrum
+stability
+stringent
+suppress
+synchronous
+synergistic
+topological
+ubiquitous
+unprecedented
+voltage
+wavelength
+
+
+08_Semiconductores-Tecnológico-Nacional-México.pdf
+actuadores
+aeroespacial
+ambiental
+analógico
+arseniuro de galio (GaAs)
+controladores
+cuántica
+infraestructura
+Ley CHIPS y Ciencia de Estados Unidos
+nitruro de galio (GaN)
+semiconductor
+superconductores
+
+
+
+03_Paniagua_Deslizamiento_de_Talud.pdf
+agrietamiento
+anclaje
+anclas
+arena pumítica
+calafatear
+deslizamiento
+estratigráfico
+excavación
+fracturamiento
+geotécnica
+heterogéneo
+inclinómetro
+lahar
+malla electrosoldada
+paramétrico
+pluvial
+subyaciendo
+talud
+tirante (construcción)
+topografía
+volumétrico
+
+
+
+02_Poggio_Galactic-Wave_2025.pdf
+accretion
+addendum
+amplitude
+canonical
+compression
+correlated
+epicyclic
+Gaussian
+heliocentric
+kinematic
+Occam's razor
+parsec
+photometric
+propagate
+transverse
+warp
+
+
+Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+Anthropocene
+accumulated
+adjacent
+albedo
+amplification
+anthropogenic
+asymptotic
+attractor
+bifurcation
+biogeophysical
+biosphere
+circumpolar
+complex adaptive system
+decarbonization
+demographic
+deterministic
+disintegration
+disparity
+divergent
+feedback loops
+	negative
+	positive
+forecasting
+Holocene
+incremental
+intrinsic
+nonlinear
+oscillations
+self-reinforcing
+stewardship
+thermodynamic
+threshold
+tipping point
+tipping cascades
+underpinned
+vulnerable
+
+
+
+
+
+
+####################
+1P
+###################
+
+System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+Intensive property
+		(temperature, pressure, velocity, density)
+		
+Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
+
+Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)

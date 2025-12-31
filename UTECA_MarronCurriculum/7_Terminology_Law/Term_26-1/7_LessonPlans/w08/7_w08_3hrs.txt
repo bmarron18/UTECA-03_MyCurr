@@ -1,0 +1,221 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Jurídica
+Curso:		IT0732
+Licenciatura: 	Interpretación y Traducción
+Grupo:		7A
+
+###########################
+HW_07 [Due: 04 Nov 2025]
+
+--- Task 1
+Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts (peritos). Translate the following "tesis aisladas" into English:
+	Registro 160371
+	Registro 193185
+NB. Translate only the text of the tesis, not the registry data.
+
+--- Task 2
+Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf. Answer the following:
+	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description of the "prueba" in English.
+	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
+
+--- Task 3
+Based on the "05_EXCERPTS_P2_Que-hace-la-SCJN.txt", provide definitions of the terms below in Spanish plus a single-word English equivalent.
+
+TERMS
+	amparo
+	apelacion
+	disposiciones vigentes
+	ejecutorias
+	en virtud
+	jurisprudencia
+	parte considerativa de tesis
+	plenos
+	plenos regionales
+	Consejo de la Judicatura Federal
+	juzgados y tribunales
+	medios de control de la constitucionalidad
+	ministr@
+	procedimiento de unificación de criterios
+	resoluciones
+	Semanario Judicial de la Federación y su Gaceta
+	tesis
+
+
+--- Task 4
+Read/scan "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in Spanish plus a single-word English equivalent.
+
+TERMS
+	acto reclamado
+	abrogación
+	acusatorio
+	amparo adhesivo
+	desahogadas
+	“alegato de oidas” o “alegato de oreja”
+	apelación
+	aportaciones
+	aquilatar
+	atendibles
+	cabal
+	congruentes
+	contrafianza
+	declaratorias
+	decreto
+	disposiciones
+	doctrina
+	Entidades Federativas
+	"interés legítimo"
+	"interés jurídico"
+	intervenciones orales
+	juicio de amparo
+	laudos
+	litigación
+	mandato
+	normativas
+	“oralidad procesal”
+	preclusión
+	progresiva implantación
+	procesales civiles
+	queja
+	reposición
+	rezagadas
+	sentencias
+	supletoridad
+	supletorio
+	tratados internacionales 
+	tribunales
+	valoración
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+#########
+Today
+#########
+
+---- Open 
+
+	"A lawyer with his briefcase can steal more than a hundred men with guns."
+		-- Mario Puzo author of "The Godfather"
+	
+	"A jury consists of twelve persons chosen to decide who has the better lawyer."
+		-- Robert Frost, American poet
+
+
+		
+
+
+
+---- Review
+
+** tesis vs jurisprudencia
+Types
+		Tesis histórica jurídica
+		Tesis jurídico comparativa
+		Tesis jurídico descriptiva
+		Tesis jurídico exploratoria
+		Tesis jurídico proyectiva
+		Tesis jurídico propositiva
+	
+Jurisprudencia
+https://diccionariojuridico.org/definicion/jurisprudencia/
+Hay dos vías para constituir jurisprudencia. La primera vía es por reiteración de tesis. De acuerdo con el artículo 192 de la Ley de Amparo, por esta vía se constituye jurisprudenciaDiario Oficial de la Federación (DOF)  cuando una resolución de la Suprema Corte está sustentada en "cinco sentencias no interrumpidas por otra en contrario, que hayan sido aprobadas por lo menos por ocho ministros si se tratara de jurisprudencia del Pleno, o por cuatro ministros, en los casos de jurisprudencia de las salas".
+
+En el caso de los tribunales colegiados de circuito, para que sus resoluciones constituyan jurisprudencia por esta vía, de acuerdo con el artículo 193 de la Ley de Amparo, es necesario también que estén sustentadas "en cinco sentencias no interrumpidas por otra en contrario y que hayan sido aprobadas por unanimidad de votos de los magistrados que integran cada tribunal colegiado".
+
+La segunda vía es por contradicción de tesis, que de acuerdo con los artículos 197 y 197-A de la Ley de Amparo, consiste en que cuando las salas de la Suprema Corte de Justicia o los tribunales colegiados de circuito sustentan tesis contradictorias, el Pleno de la Suprema Corte de Justicia en el primer caso o cualquiera de las salas de la misma en el segundo caso, resuelven cuál de las dos tesis es la que prevalece. En cuanto a la votación re-querida para que la resolución constituya jurisprudencia, la Ley de Amparo es omisa, pero según la SCJN, es necesario que se apruebe por mayoría de votos.
+
+
+##############
+Concept of Amparo
+################
+[from, EXCERPTS_P2_Que-hace-la-SCJN.txt]
+
+writ --
+a legal document from a law court that tells you that you will be involved in a legal process and explains what you must do
+
+Highlights--
+*	The "writ of support" can be used to challenge laws, regulations, or actions by government officials that are deemed unconstitutional or that violate individual rights.
+
+*	Mexico is one of many nations that support human rights in this manner
+
+*	Applies to any and all person that find themselves in Mexico including minors, private companies, officials, and foreigners
+
+*	 6 Jun 2011 Mexico updated and extended its support for human rights to align with international treaties
+		- writ of support available for both Constitutional violation and treaty violations
+		- writ of support available as a class action suit
+		- writ of support available not only in cases of legal interest but also for cases of 
+		legitimate interest
+		- writ of support available for plantiffs and defendents
+		- The SCJN has formed a lower court to handle human rights cases
+		- The SCJN has established new sanctions for non-compliance
+		- The SCJN has eliminated the statute of limitations for cases
+		- The SCJN will not close a case until all sentencing has been completed
+		- The SCJN has granted the Executive Branch rapid access to some (urgent) cases
+		- The SCJN has limited the abuse of a suspension clause that would permit the continued 
+		infringement or violation of rights of the affected person
+
+
+** Methods of Proof
+MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf
+XIII. PRUEBAS ...............................................83
+1. Concepto .................................................83
+2. Objeto ...................................................84
+3. Clasificación ............................................86
+4. Medios de prueba ........................................ 88
+
+
+
+
+---- New
+#####################################
+Intro to
+Código Nacional de 
+Procedimientos Civiles y Familiares
+(Carbonell)
+#######################################
+*	7 Junio 2023 ==> Código Nacional de 
+	Procedimientos Civiles y Familiares published in DOF
+	(can search DOF by date)
+	
+*	Antecendentes Historicos (p. 4-5 Carbonell)
+
+*	Importance: bc ~75% of legal sentencing is based in civil law(p. 5- 6 Carbonell)
+
+*	Summary of Content: 1191 Articulos, 20 transitorios (p. 6-8 Carbonell)
+		Artuculos No. 933+ deal w/digital justice (Libro Octavo)
+
+*	Conclusion : it's a new world (p. 12 Carbonell)
+
+
+#################################################
+CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES
+#################################
+take a look in Justia 
+	Search "CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES"
+
+https://mexico.justia.com/federales/codigos/codigo-nacional-de-procedimientos-civiles-y-familiares/
+
+Review (and translate)
+	Articulo 1o
+	Articulo 2o
+	Articulo 7o
+		principios rectores (guiding principles)
+
+
+
+
+---- Work time
+
+
+---- Coming Up
+
+** Contratos
+	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		
+
+
+
+
+

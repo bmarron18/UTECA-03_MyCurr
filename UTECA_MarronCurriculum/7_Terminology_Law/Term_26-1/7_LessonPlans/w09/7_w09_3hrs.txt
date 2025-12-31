@@ -1,0 +1,206 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Jurídica
+Curso:		IT0732
+Licenciatura: 	Interpretación y Traducción
+Grupo:		7A
+
+###########################
+HW_08 [Due: 011 Nov 2025]
+
+--- Task 1
+Read/Scan:
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] 
+	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
+
+--- Task 2
+Study for Exam 2P
+
+Study Guide
+------------
+1. Be able to define and describe the concept of records management as well as give definitions of the terms: QA/QC, Version Control System (VCS), Git, and GitHub.
+
+2, Be able to translate a selection from, 04_EXCERPTS_P1_Que-hace-la-SCJN.pdf
+
+3. Be able to i) explain the difference between Jurisprudencia Histórica and Jurisprudencia Aplicable; ii) explain the division of SCJN into epochs; and iii) define those entities bound by the jurisprudence issued by the SCJN.
+
+4. Be able to define the five (5) basic types of tesis jurídica.
+
+5. Be able to explain how the following resources are useful:
+	i) Cornell Law School, Legal Information Institute (https://www.law.cornell.edu/wex)
+	ii) Justia Mexico (https://mexico.justia.com/)
+	iii) Diario Oficial de la Federación (https://www.dof.gob.mx/#gsc.tab=0)
+	iv) Diccionario Jurídico (https://diccionariojuridico.org/)
+	v)  Manual del Justiciable: Elementos de Teoría General del Processo 		
+	(https://sistemabibliotecario.scjn.gob.mx/sisbib/po_2010/53702/53702_1.pdf)
+
+6. Be able to translate an excerpt from Tesis Aislada Registry No. 193185 on the nature of expert testimony.
+
+7. Be able to define the nature of valid contracts by stating the inverse of Artículo 1795 of the Código Civil. That is, be able to state the four (4) conditions whereby a contract would be considered valid (instead of invalid).
+
+Hint: Contract law, which is a part of civil law, and can be found in the Código Civil at,
+Libro Cuarto - De las Obligaciones
+	Primera Parte - De las Obligaciones en General
+		Título Primero - Fuentes de las Obligaciones
+			Capítulo I - Contratos
+				 Artículo 1795
+
+Hint: Textbook by Luis Manuel C. Méjan, pp 1- 9
+
+
+8. Be able to define the following legal terms in Spanish and give an English equivalent term:
+    • acto reclamado
+    • abrogación
+    • amparo
+    • apelación
+    • en virtud
+    • juzgados y tribunales
+    • minist@
+
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+#########
+Today
+#########
+
+---- Open 
+
+
+	"Morality cannot be legislated, but behavior can be regulated. Judicial decrees may 
+	not change the heart, but they can restrain the heartless."
+		--- Rev. Martin Luther King, Jr.
+		
+
+
+
+---- Review
+
+** Código Nacional de Procedimientos Civiles y Familiares
+	*	promulgated 7 Junio 2023
+	*	Articulo 7o -- principios rectores (guiding principles)
+
+Artículo 7. Son principios rectores del sistema de impartición de justicia en materia civil y familiar:
+I. Acceso a la justicia [access to justice]. 
+
+II. Concentración [concentration]. Se procurará desahogar la mayor cantidad de actuaciones procesales en una sola audiencia o el menor número de diligencias procesales (para agilizar el proceso);
+
+III. Colaboración [collaboration]. Se propiciará que las partes resuelvan por sí mismas el conflicto en cualquier etapa del procedimiento, por tanto, las autoridades jurisdiccionales facilitarán que sean ellas las que pongan fin a la controversia mediante acuerdos conciliatorios, exceptuando aquellos casos en que existan conductas de violencia en cualquiera de sus modalidades, o que se discutan derechos intransigibles;
+
+IV. Continuidad [continuity]. Las audiencias deberán ser ininterrumpidas, permitiendo excepcionalmente su suspensión en los casos establecidos en el presente Código Nacional;
+
+V. Contradicción [contradiction]. Las partes tienen derecho a debatir los hechos, argumentos jurídicos y pruebas de su contraparte, en los términos establecidos en este Código Nacional;
+
+VI. Dirección Procesal [procedural direction]. La rectoría del proceso está confiada únicamente a las autoridades jurisdiccionales en primera o en segunda instancia, según sea el caso;
+
+VII. Igualdad Procesal [procedural equality]. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia,las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin discriminación alguna. Con las excepciones que se establezcan expresamente en este Código Nacional, cuando en la controversia se involucren derechos de niñas, niños, adolescentes y personas en grupos sociales en situación de vulnerabilidad;
+
+VIII. Inmediación [immediacy]. El contacto directo, personal e indelegable de la autoridad jurisdiccional con las partes y las pruebas, salvo las excepciones previstas en este Código Nacional;
+
+IX. Interés superior de la niñez [best interests of the child]. Observancia que debe darse para hacer prevalecer los derechos de las niñas, niños o adolescentes, por sobre los otros derechos que pudieran estar en pugna en el litigio;
+
+X. Impulso procesal [procedural impetus ]. Las partes tienen la facultad para solicitar las diligencias necesarias que impidan la paralización del procedimiento, con independencia del principio de Dirección procesal que le corresponde a la autoridad jurisdiccional;
+
+XI. Lealtad procesal [procedural dignity]. Quienes participen en el proceso, ajustarán su conducta a la dignidad de la justicia, al respeto que se deben, a la probidad y buena fe;
+
+XII. Litis abierta [open litigation]. En materia familiar, la litis no se reduce a la demanda y a la contestación, o en su caso, a la reconvención y a la contestación de ésta, sino que la autoridad jurisdiccional debe hacer mérito de los hechos constitutivos, modificativos o extintivos, producidos durante la sustanciación del proceso y debidamente probados, aunque no hubiesen sido invocados oportunamente como hechos nuevos;
+
+XIII. Oralidad [orality]. El proceso se desarrollará en audiencias orales, salvo las excepciones previstas en este Código Nacional y las que, en casos debidamente fundados y motivados, considere la autoridad jurisdiccional;
+
+XIV. Perspectiva de género [gender perspective] . Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+XV. Preclusión [preclusion]. El no ejercicio de los derechos procesales en la etapa correspondiente extingue la oportunidad de ejercerlos en la posterior;
+
+XVI. Privacidad [privacy]. En materia familiar el acceso a las audiencias queda reservado a las partes y a quienes deban comparecer conforme a la ley, y
+
+XVII. Publicida [publicity]. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia.
+
+
+*	Article 11 ... classifification of actions in civil and family matters
+	a) real actions;
+	b) personal actions; and 
+	c) actions of the civil status of persons.
+
+*	Article 63 ... procedural exceptions
+*	Article 77 ... defines jurisdictional competence
+*	Article 104 ... lists 16 instances in which the jurisdictional authorities will be prevented from continuing to hear a case (clarifies "subjective jurisdiction")
+*	Article 343 ... validation of evidence
+*	Articles 432, 661 ... legal standing of notaries
+*	Article 445 ... support for individuals with disabilities
+*	Article 855 ... revamps class action suites (now 15 people)
+*	Article 861 ... extends the statute of limitations (now 5 yrs)
+*	Article 905 ... three appeal measures (appeal, reconsideration, and complaint)
+* 	Article 933+ ... allows for "digital justice"
+
+
+
+
+
+---- New
+
+** Contratos
+https://diccionariojuridico.org/definicion/convenio/
+
+https://mexico.justia.com/derecho-civil/
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/primera-parte/titulo-primero/capitulo-i/
+
+Contratos (Legal)...
+	Código Civil Federal
+	› Libro Cuarto - De las Obligaciones
+		› Primera Parte - De las Obligaciones en General
+			› Título Primero - Fuentes de las Obligaciones
+				› Capítulo I - Contratos
+					› Artículos 1792 al 1859
+					
+
+Artículo 1792
+Convenio es el acuerdo de dos o más personas para crear, transferir, modificar o extinguir obligaciones.
+
+Artículo 1793
+Los convenios que producen o transfieren las obligaciones y derechos, toman el nombre de contratos.
+
+Artículo 1794
+Para la existencia del contrato se requiere:
+    I. Consentimiento;
+    II. Objeto que pueda ser materia del contrato.
+
+ Artículo 1795
+ El contrato puede ser invalidado:
+    I. Por incapacidad legal de las partes o de una de ellas;
+    
+    II. Por vicios del consentimiento;
+    	    Error: Un juicio o creencia equivocada sobre un aspecto clave del contrato. Por ejemplo, que se celebra una compraventa cuando en realidad se trata de un arrendamiento.
+    		Dolo: Engaño deliberado para inducir a la otra parte a firmar. Es un error provocado por las artes de la otra parte o un tercero cómplice.
+    		Violencia: Uso de la fuerza física para obligar a una persona a consentir. Debe causar un temor fundado de sufrir un mal grave e inminente en la persona o sus bienes.
+    		Intimidación: Amenazas que generan temor en la persona para obligarla a dar su consentimiento. La gravedad de la amenaza se evalúa considerando la edad y condición de la persona. 
+
+    III. Porque su objeto, o su motivo o fin sea ilícito;
+    
+    IV. Porque el consentimiento no se haya manifestado en la forma que la ley establece.
+
+
+Contracts Textbooks..
+	Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
+		Read pp 1 - 9
+		Answer Q 1-33 (pp 9-10)
+		
+
+
+---- Work time
+
+
+---- Coming Up
+Real Contracts...
+	2015_may_obras_lpn_2.pdf
+	CFE_Anexo 3 Modelo Contrato.pdf
+	Anaconda Terms of Service
+
+Translate:
+	Translate pp 2-7 CFE_ModeloContrato.pdf into English
+
+
+

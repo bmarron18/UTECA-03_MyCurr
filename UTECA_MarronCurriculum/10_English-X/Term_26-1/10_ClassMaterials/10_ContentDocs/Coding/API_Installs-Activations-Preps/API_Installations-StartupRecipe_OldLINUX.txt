@@ -1,0 +1,312 @@
+Title:			Setup instructions for using Google Gemini and OpenAI APIs
+Project:			UTECA Interpretacion y Traduccion 	
+Author:			bmarron
+Origin Date:		22 Sept 2025
+Revision Date:		26 Sept 2025
+
+
+%%%%%%%%%%%%%%%%%%	Setup Instructions for Using Google and OpenAI APIs %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+#########################
+Setup for Google Gemini
+	Current SDK ==>  google-genai
+##########################
+
+----- Google Gemini API Info and Getting Started ---------------------------
+1. See the QuickStart guide here,
+	- https://ai.google.dev/gemini-api/docs/quickstart?lang=python
+
+2. Go to the Google API Studio Welcome page
+	- https://aistudio.google.com/welcome
+		-- clic on "Get Started"
+		-- Enter a Google Account
+		-- opens Google AI Studio page
+	
+---- Get a Gemini API Key ----------------
+*	Secuirty for your API key
+	1. Open 
+		https://ai.google.dev/gemini-api/docs/api-key
+	2, Skim until you find the section, "Keep your API key secure"
+	3. Read this thoroughly!!!!!
+	4. See also
+		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+
+*	Get your API key for Gemini
+	1. Google search "Gemini API key"
+	2. Select "Get your Gemini API key"
+		- goes to https://aistudio.google.com/welcome
+		- opens a black screen that says, 
+			Google AI Studio
+			"The fastest path from prompt to production with Gemini"
+			
+	3. clic "Get started"
+	4. Select a Google Account
+	5. Consent to Terms of Service
+		- Opens the Google AI Studio home page
+		
+	6. In the left-hand column, open sub-menu under "Dashboard¨
+	7. Clic on "API keys", opens a new window
+	8. In the new window, clic on "+ Create API Key" in the upper right-hand corner
+	9. Set up billing or use free tier
+		Project number
+		Project name
+		API key
+		Created
+		Plan 			<== Set billing options or use free tier
+
+*	Guard your API Key
+	1. Store your API key in a .txt file
+		- place the (.txt) file in a secure location on your home computer. 
+		DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+		
+	2. Store your API key as ENV VARIABLE in your computer [recommended]
+		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+		
+--- Example of storage as ENV VARIABLE in Linux --------------------------------------------------------
+	# NB. shell configuration files include  .bashrc, .zshrc, or .bash_profile
+	# My Linux system has a ~/.bashrc file
+	
+	a. export the API Key to  a .bashrc
+$ echo "export GEMINI_API_KEY='key'" >> ~/.bashrc
+$ echo "export OPENAI_API_KEY='key'" >> ~/.bashrc
+
+    b. update shell with new variable
+$ source ~/.bashrc
+
+    c. check  ~/.bashrc file
+    c1. should have entries at the bottom of the file
+    		==> export GEMINI_API_KEY="sk-proj-xxxxxxxxxx..."
+		==> export OPENAI_API_KEY="AIzaSxxxxxxxx..."     
+$ notepadqq ./.bashrc
+
+    d. confirm you have set the API key correctly
+$ echo $GEMINI_API_KEY
+$ echo $OPENAI_API_KEY
+
+    e. check that Python finds the key
+>>> import os
+>>> gemini_api_key = os.getenv("GEMINI_API_KEY")
+>>> openai_api_key = os.getenv("OPENAI_API_KEY")
+
+>>> print(gemini_api_key)
+>>> print(openai_api_key)
+-------------------------------------------------------------------------
+
+
+
+####################
+Setup Instructions for 
+Using OpenAI GPT Models
+	Current SDK ==>  openai
+##########################
+
+https://platform.openai.com/docs/libraries#install-an-official-sdk
+
+
+https://platform.openai.com/docs/overview
+https://platform.openai.com/docs/quickstart
+
+
+
+
+####################
+Install 
+	Spyder IDE		<== the Spyder Integrated Development Environment (comes w/ its own Python distro.)
+##########################
+
+*	The Spyder website will automatically recognize your system and offer a download 
+	https://www.spyder-ide.org/download
+
+
+*	when asked by the installer where to install Spyder, select a simple location, like your home directory
+
+For example, 
+Spyder will now be installed into this location:
+	/home/bmarron/spyder-6
+	PREFIX=/home/bmarron18/spyder-6	<==A prefix is the path on your computer where a software package is installed
+
+*	 set a panel icon for launching Spyder, if desired
+
+
+############
+Install 
+	pip 				<== a Python package manager
+	Python 3.11		<== a Python version that works well with current APIs
+	virtualenv		<== a Python package that creates separate working (virtual) environments on your compu
+###################
+
+$ python3 -m pip install --upgrade pip
+> python -m ensurepip --upgrade
+
+$ pip install --target /home/bmarron18/virtualenv virtualenv	
+
+						<== /home/bmarron18/virtualenv/virtualenv-20.34.0.dist-info
+						<== /home/bmarron18/.local/lib/python3.10/site-packages/virtualenv-20.34.0.dist-info
+
+
+$ sudo aptitude install python3.11-venv			<== install python 3.11 @ /usr/bin/python3.11 from
+										python3.11-venv_3.11.0~rc1-1~22.04_amd64.deb
+										The first release candidate of python 3.11 is Python 3.11.orc1
+										This version works well with virtualenv
+										
+$ sudo aptitude install python3.13-venv			<== Package: python3.13-venv (3.13.7-1) exists but CANNOT download
+										https://packages.debian.org/sid/python3.13-venv
+										<== CAN download python3.13.7 from https://www.python.org/downloads/
+										Python-3.13.7.tar.xz
+
+
+
+
+################################################
+Create
+	ai-apis			<== a separate python working environment for handling AI APIs through Spyder
+					    This is called a virtual environment
+Install 
+	spyder-kernels 	<== tools to allow Spyder access to a virtual environment
+	google-genai 		<== most recent SDK for Google Gemini models
+	openai			<== most recent SDK for OpenAI models
+	jiter			<== A standalone version of the JSON parser
+	nltk 			<== Natural Language Toolkit
+###################################################################
+
+*	Specify the use of python 3.11 to create working environment 
+	The working (virtual) environment is created with the Python package, in /spyder-6/envs called ai-apis
+
+$ python3.11 -m venv ./spyder-6/envs/ai-apis		<== using python 3.11 to create venv named ai-apis
+										./home/bmarron18/spyder-6/envs/ai-apis/pyvenv.cfg
+										<== in ai-apis are python 3.10 and 3.11.orc1
+
+> python -m venv C:\path\to\new\virtual\environment
+
+
+*	Activate the ai-apis virtual environment
+	NB. You will see (ai-apis) before at the command line
+
+$ source ./spyder-6/envs/ai-apis/bin/activate
+
+
+*	Install special packages, Python packages and SDK packages into ai-apis working environment
+
+(ai-apis):~$ pip install spyder-kernels google-genai openai nltk jiter
+
+*	close the ai-apis working (virtual) environment
+(ai-apis):~$ deactivate 
+
+
+#############
+Setup Spyder 
+to run in the
+ai-apis working
+environment
+##############
+
+*	open Spyder 
+
+*	clic on the "wrench" in the toolbar to open the Preferences window
+	- in left-hand column clic on "Python Interpreter"
+	- in the right-hand window clic on the button "Use the following interpreter:"
+		-- in the empty box search your compu directory until you find the (ai-apis) directory
+			(.../spyder-6/envs/ai-apis)
+		-- open this directory and find the /bin (\bin) directory
+		-- open the "bin" directory and select the "python3.11" icon
+		-- at the bottom of the window clic 'Apply' and then 'OK
+		-- close the "Preferences" window
+
+*	back in Spyder, find the IPython interpreter window (bottom right)
+	- find the tab that says, "Console 1/a"
+	- close the tab by clicking on the "X"
+	- Spyder will try to re-start Python using "Python 3.11.0rc1" 
+		-- if all good, you will see a green-colored "In [1]"
+		-- if an Error Box appears something went wrong (try closing and re-opening Spyder)
+	
+##########
+Run API scripts
+in Spyder
+###########
+	
+*	You are now ready to access the APIs!
+	- in Spyder under the "File" tab find the Python script of interest (a .py file) and open it
+	- modify the prompts and run the blocks/cells of interest
+
+
+
+#################
+Notes on prompts
+##################
+
+*	You could think about developer and user messages like a function and its arguments in a programming language.
+    	-developer messages provide the system's rules and business logic, like a function definition.
+    	-user messages provide inputs and configuration to which the developer message instructions are applied, like 
+		arguments to a function.
+		- a prompt contains BOTH message types
+
+	instructions parameter (developer messages)
+		gives the model high-level instructions on how it should behave while generating a response, including tone, 
+		goals, and examples of correct responses. Any instructions provided this way will take priority over a prompt 
+		in the input parameter.
+		
+	input parameters (user messages; as string or array)
+		Ant text, image, or file inputs to the model that are used to generate a specific response.
+
+
+##################
+Sample Gemini Prompts
+and System Instructions
+################
+
+--- User Prompts ------------------------------
+	# User level message
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME_Type = text/x-tex. That is. the output translation should be formated as \
+	a .tex file ready to open in LaTex."
+	
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file (.txt)."
+
+
+prompt = "Translate the document, processedfile (a .txt file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs, quotation marks). \
+	Generate the output as a plain text file (.txt); that is, as MIME_type= text/plain."
+
+
+
+--- System Instruction Prompts ------------------------------------------
+	# Developer level message
+config = types.GenerateContentConfig(
+               system_instruction="You are an expert liguist \
+                   specializing in translation. Maintain the original \
+                   meaning, and tone of the original. Provide ONLY the \
+                   requested translation without any additional commentary, \
+                   introductory phrases, other language translations, or \
+                   conversational remarks."),
+
+
+
+
+##################
+Sample OpenAI 
+User Prompts and
+System Prompts
+################
+
+--- User Prompts ------------------------------
+	# User level messages
+	
+user_prompt= "Translate the file (a .pdf file in English) to standard, natural, \
+    and fluent Spanish. Maintain all specific formatting (line breaks, \
+    indents, spaces, paragraphs, and quotations). Generate the output as \
+    MIME type= text/plain. That is, generate the output as a plain text \
+    file (.txt)."
+
+
+
+--- System Prompts ------------------------------------------
+	# Developer level messages
+	
+sys_prompt = "You are an expert liguist \
+    specializing in translation. Maintain the original \
+    meaning and tone. Provide ONLY the requested translation without \
+    any additional commentary, introductory phrases, other language \
+    translations or conversational remarks."

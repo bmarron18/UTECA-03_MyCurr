@@ -1,0 +1,139 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+##############################
+HW_05 [Due: 21 Oct 2025]
+
+-- Task 1
+Read the paper, "Deslizamiento de un talud en el Poniente de la ciudad de México (03_Paniagua_Deslizamiento_de_Talud.pdf). Use the Reporter's Toolkit to answer the following questions in English:
+	1. Who did the study?
+	2. What were the main reasons for the study? And what were the results?
+	3. When was the study done?
+	4. Where did the study take place?
+	5. Why was the study undertaken?
+
+-- Task 2
+Define the following vocab words in Spanish and give an English equivalent.
+
+(from 03_Paniagua_Deslizamiento_de_Talud.pdf)
+agrietamiento
+anclaje
+anclas
+arena pumítica
+calafatear
+deslizamiento
+estratigráfico
+excavación
+fracturamiento
+geotécnica
+heterogéneo
+inclinómetro
+lahar
+malla electrosoldada
+paramétrico
+pluvial
+subyaciendo
+talud
+tirante (construcción)
+topografía
+volumétrico
+
+---Task 3
+Very briefly explain the major similarities and differences between scientists and engineers in English. Translate to Spanish.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+
+---- Open 
+
+    "In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know 
+    what you are doing, you should not be doing it. Of course, you seldom, if ever, see either pure state."
+		-- Richard Hamming, "The Art of Doing Science and Engineering"
+
+
+
+---- Review 
+
+** Exam
+** HW
+
+
+
+---- New
+** Useful Grammar
+
+R Murphy's, "English Grammar in Use"
+	Overview of text
+	Sample lessons to show structure
+	Study Guide p. 326	
+	Key to Exercises p 336
+	Key Study Guide p 372
+	
+Do Study Guide and keep track of sections 
+	R Murphy's, "English Grammar in Use"
+		Study Guide p. 326	
+		Key Study Guide p 372
+		
+Introduce
+	Strunk and White’s. “Elements of Style”
+
+Look briefly at the grammar	
+	I. ELEMENTARY RULES OF USAGE
+	
+Read thru
+	II - Elementary Principles of Composition
+	
+	
+
+
+
+** Translation of Academic Papers (cont'd)
+
+Dive deep
+--Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+	See Vocab
+
+
+--03_Paniagua_Deslizamiento_de_Talud.pdf
+
+
+
+** Science vs. Engineering vs. Technology
+Do quote
+Round Table
+	04_Ramsden_Diff_Between_Engineering_and_Science-1
+
+
+
+
+---- Work Time
+
+
+---- Coming up
+
+** 7. Document Translation
+	7.1 Academic Texts and Papers
+	7.2 Manuals and Standard Operating Procedures (SOPs)
+	7.3 Request for Proposals (RFPs) and Proposals
+	7.4 Analytical Evaluations, White Papers, and Lab Reports
+	7.5 Science Reporting Articles
+
+
+
+
+

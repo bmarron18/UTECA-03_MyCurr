@@ -1,0 +1,230 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+
+Alebrije:
+¡La 5ª edición de UTECA TALKS ya está aquí!
+Te invitamos a ser parte de este evento totalmente gratuito, creado para inspirarte, motivarte y acercarte a la experiencia real de dos grandes personalidades que compartirán su trayectoria, aprendizajes y consejos para tu futuro profesional.
+🗓 Fecha: Martes 25 de noviembre
+⏰ Hora: 11:30 hrs.
+📍 Modalidad: Presencial  (MARKETEATRO, COAHUILA #105. COL ROMA SUR. CUAUHTEMOC. CDMX) Y transmisión
+En esta edición, dos invitados de alto nivel te llevarán a descubrir nuevas perspectivas y te compartirán el conocimiento que los ha llevado al éxito.
+Queremos que formes parte de este momento que impulsa tu crecimiento académico y profesional.
+✨ Regístrate y asegura tu lugar: https://www.uteca.edu.mx/talks/registrar/
+ 
+Como saben, este es un evento institucional muy importante. Para incentivar la participación, les pido por favor que difundan la invitación a nuestros chicos, y mencionarles que quienes asistan podrán canjear la asistencia por un punto adicional en la materia de su elección. 
+
+
+==> Mañana 11/25/25 tendremos suspendidas las clases desde las 10:30 hasta las 15h. Las clases afectadas serán pagadas.
+
+
+
+##############################
+HW_10 [Due: 09 Dec 2025]			<== due in two weeks; can use on the exam
+
+--- Task 1
+Answer the following questions related to three scientific journal articles. The articles can be found in your 3P folder under Class Materials.
+
+**Focus on astrobiology 
+[01_Nature_Astrobiology.pdf]
+	1) What is the science of astrobiology?
+	2) Three important lines of research in astrobiology are i) defining a habitable environments, ii) identifying biosignatures, and iii) defining technosignatures. Briefly explain what is meant by each of these research areas
+	3) Read the Abstract of the article, "Is the apparent absence of extraterrestrial technological civilizations down to the zoo hypothesis or nothing? (https://www.nature.com/articles/s41550-023-02134-2). What are the authors suggesting?
+
+
+** Diversifying crop rotation increases food production, reduces net greenhouse gas emissions and improves soil health
+[02_Nature_Diversifying crop rotation.pdf]
+	1) What are the problems with conventional intensified food production systems	
+	2) Why do the authors consider crop rotation as a "top priority" for agriculture? (i.e., what are the advantages of crop rotation?)
+	
+
+** Associations between national plant-based vs animal-based protein supplies and age-specific mortality in human populations
+[03_Nature_plant-based vs animal-based protein supplies.pdf]
+	1) Based on the article, do you recommend a switch to a plant-based diet?
+
+
+--- Task 2
+Read/scan two reports on the future of artificial intelligence (AI). The first report, written by the AI Futures Project, is available online at https://ai-2027.com/ and also as a .pdf (04_ai-2027.pdf). You should read/scan the online report. The second report, written by Richard David Hames,is available as a .pdf file ("05_The Future of AI - by Richard David Hames.pdf"). Compare and contrast the futures presented in these two white papers. Specifically,
+	1) What do think of the analysis presented in each paper? 
+	2) Are the scenario(s) presented plausible? 
+	3) Are the authors and their methods credible? 
+Write an opinion piece (~2+ paragraphs) expressing your thoughts. Your opinion piece should be written in English.
+
+
+--- Task 3
+Define the following terms in English
+	perceptron
+	artificial neural network
+	Large Language Model (LLM)
+	supervised learning 
+	unsupervised learning
+	reinforcement learning with human feedback (RLHF)
+	emergence
+	Application Programmer Interface (API)
+	Software Development Kit (SDK)
+ 	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
+	
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+
+---- Open 
+
+
+---- Review
+
+** RFPs
+
+
+---- New		<= delivered 02 Dec bc of UTECA TALKS
+
+
+** Technical Journals
+1. Focus on astrobiology [Nature_Astrobiology.pdf]
+
+Biosignatures
+-------------
+	--One of the most pressing questions the community is currently tackling is how to identify, and to which level of confidence, environments that have the potential to be habitable — or even inhabited. The quest to
+define the ‘best’ biosignatures for such a purpose is intense, and it is entangled with our present and future capability of actually detecting them
+
+	Inferring chemical disequilibrium biosignatures for Proterozoic Earth-like exoplanets
+	https://www.nature.com/articles/s41550-023-02145-z
+	
+
+	-- Cockell et al. suggest the use of our Solar System, easier to reach and characterize than distant exoplanets, to assess habitability in different environments with a comparative geological approach
+
+	-- AI has the potential of being transformative in astronomy as in many other fields, and various groups are already exploring applications in astrobiology.
+
+
+Technosignatures
+-----------------
+	-- A subset of biosignature studies concerns one of the most exciting — and, for some people, unsettling — aspects of space exploration: technosignatures, indicators of technologically advanced civilizations.
+
+	Is the apparent absence of extraterrestrial technological civilizations down to the zoo hypothesis 
+	or nothing?	<== look at the cost to buy the paper!!
+	https://www.nature.com/articles/s41550-023-02134-2
+	
+
+
+2. Diversifying crop rotation increases food production, reduces net greenhouse gas emissions and 
+improves soil health [Nature_Diversifying-Crop-Rotation.pdf]
+
+	--Producing more nutritious food to alleviate world hunger1 while safeguarding the environment is a significant challenge for humanity. The challenge is much pronounced in highly-populated countries and regions where agricultural resources are limited. Conventional intensified food production systems’ reliance on major inputs of synthetic agrochemicals, such as fertilizers and pesticides, have boosted food production significantly since the ‘Green Revolution’, but these systems have also emitted great amounts of greenhouse gases (GHG) and caused environmental degradation
+	
+	-- We recommend that developing and adopting diversified cropping systems should be a key consideration in agricultural policy setting and a top priority for on-farm decision-making, as they are critical for achieving long-term food production resilience, maintaining soil health, and ensuring environmental sustainability. Given that climate variability will increase, multi-year assessments of the sustainability of agricultural production systems remain tentative, and funding should be sought for additional observation sites for long-term monitoring (in Discussion just before Methods)
+
+
+		
+3. Associations between national plant-based vs animal-based protein supplies and age-specific 
+mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
+
+	--In an era marked by the pressing need for decarbonization and environmental sustainability, global food systems, which contribute a third of all greenhouse gas emissions, are under increasing scrutiny. Food systems are complex social-ecological networks that encompass all processes and infrastructure involved in feeding a population. Many have argued that a reduction in the production of animal-based foods is key to achieving more sustainable food systems, however, reduced production of animal-based foods is likely to result in a substitution of animal-based protein (ABP) for plant-based protein (PBP) and/or a reduction in total protein supplies within food systems. For many populations, this transition therefore represents a substantial change in the nutritional environment. The capacity of post-transition PBP-rich nutritional environments to support the health of different demographics and age-classes has become a focus of debate
+	
+	-- Fig. 1 | Summary of global protein supplies (kcal/capita/day) and correlations 
+
+	-- Our analysis of historical associations between protein supplies and age-specific mortality patterns predicts the potential impact of transitioning from ABP to PBP..... (at the end of Discussion just before Methods)
+	
+	
+	
+	
+** Introduce AI
+	First part of My prezy
+	Sample of .py scripts for API
+
+	https://ai-2027.com/
+	04_ai-2027_WhitePaper-Report.pdf
+	05_The-Future-of-AI_RichardDavidHames.pdf
+
+
+
+
+---- Work Time
+
+
+---- Coming up
+
+**Open Access Journals
+	Nature Communications ==> https://www.nature.com/ncomms/
+	Scientific Reports ==> https://www.nature.com/srep/
+
+[next HW ==> Translate Abstracts]
+	Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
+	06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
+
+	Machine learning-assisted wearable sensing systems for speech recognition and interaction
+	07_NatureComms_Engineerig_AISpeeach.pdf
+	
+	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring opportunities in Mexico
+	08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf
+	
+	Significantly wetter or drier future conditions for one to two thirds of the world’s population
+	09_Wetter-or-drier_future_for_world’s_population.pdf
+	
+	
+
+###################
+Consulting:
+Clients, Transmittals, and Deliverables
+####################
+
+Marron's Rules for Consultants
+-------------------------------
+	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every 
+	document with the word, DRAFT and state in the transmittal that the draft was per client request)
+
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT 
+	EVERYTHING!)
+	
+	3. Archive, Archive, Archive!
+	
+	4. Be real but absolutely professional AT ALL TIMES.
+	
+	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
+
+
+The transmittal letter:
+	+ a formal cover letter that accompanies a larger document or package, introducing the document and 
+	providing context or instructions for the recipient
+	
+	+ standard business letter format, with a clear and concise tone
+	
+	+ explanations, instructions, new info (as needed)
+	
+	+ "Do not hesitate to call..." statement
+	
+	+ "thank you (appreciation)" statement (as appropriate)
+
+
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
+	+ Attached to transmittal letter or drive address to files
+
+
+	
+
+

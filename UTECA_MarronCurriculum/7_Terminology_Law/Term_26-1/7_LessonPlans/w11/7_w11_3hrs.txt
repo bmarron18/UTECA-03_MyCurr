@@ -1,0 +1,301 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Jurídica
+Curso:		IT0732
+Licenciatura: 	Interpretación y Traducción
+Grupo:		7A
+
+###########################
+HW_09 [Due: 25 Nov 2025]
+
+--- Task 1
+Answer the following questions in English:
+	Qs #1 - #23 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf
+	
+-- Task 2
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and very briefly explain why the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short.
+
+--- Task 3	
+Translate pp 2-3 CFE_ModeloContrato.pdf into English There is lots of vocab here!
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+#########
+Today
+#########
+
+---- Open 
+
+"A verbal contract isn't worth the paper it's written on." 
+			--- Samuel Goldwyn
+
+
+"I wish to be cremated. One tenth of my ashes shall be given to my agent, as written in our contract." 
+			--- Groucho Marx
+
+
+" We need to put human rights, a belief in multilateralism and respect for international law back at the heart of foreign policy." 
+			---Emily Thornberry
+
+
+
+Multilateralism--
+a system where multiple countries cooperate and coordinate their actions to address shared challenges and achieve common goals, often through international organizations like the UN. 
+
+
+
+---- Review
+
+** Go over exam
+T1
+	QA/QC ==> docs must be retreviable, show all changes, be stored correctly, be historically recoverable
+	VCS, Git, GitHub
+	
+T2
+	Watch literal translation
+	Has the answer to T3
+	
+T3 
+	1 chronological groups defined by the Semenario Judicial de la Federacion y su Gaceta
+	2 Epoch I-IV not applicable (historical) ==> prior to 1917
+	3 
+	Plenos regionales
+	Tribunales Colegiados de Circuito
+	Tribunales Colegiados de Apelación
+	Juzgados de Distrito
+	Tribunales militares y judiciales del orden común de los estados y de la Ciudad de México
+	los tribunales administrativos y del trabajo, tanto locales como federales. 
+	Las Salas de la SCJN únicamente están obligadas por la jurisprudencia decretada por el Pleno.
+	
+T4
+	1 examines legal norms/trends over time; items of historical interests
+	2 compares/contrasts legal systems as well as state differences
+	3 explains current law w/o proposing changes
+	4 explores possible avenues for enhancesments to old law and new law
+	5 proposes definte changes to existing law
+	
+T5
+	1 Cornell LLI
+	2 Justia 
+	3 DOF
+	4 Diccionario Juridico
+	5 Theory of Process Manual de Justiciable
+	
+T6
+	Watch run-on sentences!! 
+	
+T7
+	Legal capacity
+	Absence of errors, manipulation, cohersion, threats
+	Honest purpose
+	Full consent 
+	
+T8
+	Legal Challenge
+	Repeal
+	Legal support/protection
+	'by virtue of'
+	courts
+	high judges/ministers of the court
+
+
+
+
+
+
+** Notes on Types of Proof
+1. Proof by Confession
+2. Proof by Public or Private Documents
+3. Proof by Witness Testimony
+4. Proof by Expert Testimony
+5. Proof by Judicial Investigation
+6. Proof by Deduction (from law or testimony)
+
+
+
+
+** Contratos
+
+Contratos (Legal)...
+	Código Civil Federal
+	› Libro Cuarto - De las Obligaciones
+		› Primera Parte - De las Obligaciones en General
+			› Título Primero - Fuentes de las Obligaciones
+				› Capítulo I - Contratos
+					› Artículos 1792 al 1859
+					
+
+** Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
+	Go thru Qs 1-23
+
+
+
+---- New
+** Textbook_Andrade_ContratosCiviles_Oxford.pdf
+	Magistrado Mario De La Madrid Andrade, Universidad de Colima
+
+1. CONTRATOS TRASLATIVOS DE DOMINIO
+	acuerdos que transfieren la propiedad de un bien o derecho de una persona a otra
+		-compraventa, donación, permuta y mutuo. 
+
+2. CONTRATOS TRASLATIVOS DE USO
+	acuerdos donde una parte cede el uso de un bien a otra, sin transferir la propiedad, por un tiempo 
+	determinado
+		-gratuitos u onerosos
+		
+3. CONTRATOS DE CUSTODIA / contrato de depósito
+	acuerdo donde una persona (depositante) entrega una cosa mueble a otra (depositario) para que la custodie y la devuelva cuando se le reclame, a cambio de un precio o retribución
+	
+4. CONTRATOS DE PRESTACIÓN DE SERVICIOS
+	acuerdo legal donde una persona o empresa (el prestador) se compromete a realizar un servicio a cambio de una compensación económica, detallando las condiciones y términos del servicio
+
+5. CONTRATOS ASOCIATIVOS
+	acuerdo entre dos o más partes para colaborar en un negocio o empresa con un fin común, sin crear una 
+	sociedad ni patrimonio separado, donde cada parte aporta recursos o actividades
+	
+6. CONTRATOS DE GARANTÍA
+	acuerdos legales que aseguran el cumplimiento de una obligación, ya sea personal o patrimonial, y 
+	protegen los derechos del acreedor en caso de incumplimiento por parte del deudor
+	
+7. CONTRATOS DE AFIRMACIÓN DE DERECHOS
+	acuerdos que refuerzan o confirman derechos preexistentes, en lugar de crear nuevos, como la compraventa o el arrendamiento
+
+
+
+** Real-World Contracts
+	SFP/BID: DOCUMENTOS ESTÁNDAR DE LICITACION PÚBLICA (LPN) PARA MÉXICO
+		F. Adjudicación del Contrato	p 47
+	CFE_Anexo 3 Modelo Contrato.pdf
+		Anexos (Attachments, Appendices, Exhibits)
+		Glossary of Terms p 8
+	Anaconda Terms of Service
+
+
+** RFPs as precursors to Contracts
+An RFP, or Request for Proposal, is a formal document an organization uses to solicit bids from vendors for a specific project or service. It details the project's requirements, scope, timeline, and budget, and invites potential suppliers to submit detailed proposals on how they can meet those needs. The primary purpose of an RFP is to ensure a fair, transparent, and competitive process for selecting the best vendor. 
+
+
+Key components of an RFP
+    Project overview: A description of the project or need.
+    Scope of work: Detailed requirements and tasks to be performed.
+    Timeline: Key milestones and deadlines.
+    Budget: Financial parameters or constraints.
+    Submission guidelines: Instructions on how to submit a proposal.
+    Evaluation criteria: How proposals will be judged and the selection process. 
+
+Why RFPs are used
+    For organizations:
+        They provide a structured and objective way to find the best vendor.
+        RFPs encourage competition, which can lead to better prices and services.
+        They help minimize misunderstandings by clearly outlining expectations.
+	   
+    For vendors:
+        They provide a clear understanding of the project and what is expected.
+        An RFP offers an opportunity to showcase capabilities and propose a solution.
+        The process ensures a fair opportunity to win new busines
+	   
+	   
+** Real-World RFPs
+	Artifact_DEQ_RFQforPlatformSecurityTesting_Final_ 20200331
+	CFE_01 Convocatoria CACON 0030 2025
+	*CFE_02 Pliego de Requisitos CACON 0030 2025
+	Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico
+	UNHCR_RFP-MEX-2020-206
+	
+
+** International Law
+
+Open Access Journals.........
+1.	International Journal of Law in Context (Cambridge)
+	https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
+	
+	01_contracts-reterritorialising-the-global-exercise-of-authority
+	02_so-whats-wrong-with-colonialism-understanding-colonialisms-political-territorial-and-epistemic-injustice
+	03_aerial-surveillance-in-the-digital-age
+	04_generative-ai-systems-in-legal-practice-offering-quality-legal-services-while-upholding-legal-ethics
+
+
+2.	Wiley Journal of Law and Society (Cornell)
+	https://onlinelibrary.wiley.com/journal/14676478
+
+3.	International Journal of Law
+	https://www.lawjournals.org/
+	
+	*Governance of global peace and security through the international courts: Serving a holistic 
+	purpose or maintaining hegemony?
+	*Responsibility of third-party states in the Israel-Palestine conflict
+	*Legal protection of indigenous people and communities in Mexico
+
+
+
+** 01_contracts-reterritorialising-the-global-exercise-of-authority.pdf
+	Difficult writing
+	
+
+
+---- Work time
+
+
+---- Coming Up
+###################
+Consulting:
+Clients, Transmittals, and Deliverables
+####################
+
+Marron's Rules for Consultants
+-------------------------------
+	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every 
+	document with the word, DRAFT and state in the transmittal that the draft was per client request)
+
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT 
+	EVERYTHING!)
+	
+	3. Archive, Archive, Archive!
+	
+	4. Be real but absolutely professional AT ALL TIMES.
+	
+	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
+
+
+The transmittal letter:
+	+ a formal cover letter that accompanies a larger document or package, introducing the document and 
+	providing context or instructions for the recipient
+	
+	+ standard business letter format, with a clear and concise tone
+	
+	+ explanations, instructions, new info (as needed)
+	
+	+ "Do not hesitate to call..." statement
+	
+	+ "thank you (appreciation)" statement (as appropriate)
+
+
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
+	+ Attached to transmittal letter or drive address to files
+
+
+	valoración (assessment)
+	acusatorio (adverserial, acusatory)
+	desahogadas (resolved, declarations, evidence rebuttal)
+	alegato de orejas (hearsay)
+	aquilitar (assess)
+	atendibles (considerable, admissible items, acceptable items
+	regazadas (delayed, backlogged
+
+

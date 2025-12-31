@@ -1,0 +1,235 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Jurídica
+Curso:		IT0732
+Licenciatura: 	Interpretación y Traducción
+Grupo:		7A
+
+###########################
+HW_03 [Due: 07 Oct 2025]
+
+--- Task 1
+Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage). From within the topic, find an Article that has been changed. Use Justia for this. For example: Artículo 148 (Para contraer matrimonio es necesario haber cumplido dieciocho años de edad) was modified on these dates:(ARTÍCULO REFORMADO D.O.F. 14 DE MARZO DE 1973, 23 DE DICIEMBRE DE 1974, 09 DE ABRIL DE 2012, 03 DE JUNIO DE 2019.
+
+In your homework note the following:
+	* The Title where the civil law appears (e.g. marriage is covered by Title V),
+	* The Chapters that cover the civil law (e.g. marriage proper is covered by Chapters I - IV),
+	* The Articles that cover the civil law (e.g. marriage proper is covered by Articles 146 - 182),
+	* A list of the dates when the law was changed, and 
+	* A brief summary and direct English translation of at least two (2) Articles of the law that you find interesting.
+	
+Be ready to share your findings with the class (informally). The standard format requirements apply. 
+
+
+---- Task 2
+Investigate and evaluate the legal standing of landlords and tenets with respect to the termination of a rental agreement in the US and in Mexico. More specifically, answer the following questions:
+    1. When does a tenant have the right to terminate a rental contract in México? In the US? Are tenants granted the same rights in both countries?       
+    2. When does a landlord have the right to evict a tenant in México? In the US? Are landlords granted the same rights in both countries?       
+    3. Evaluate the legal rights in México and the US for for both tenants and landlords.
+
+
+--- Task 3
+Work through the Study Guide for Exam 1P (below). You do not need to answer the study guide questions in your homework, just be sure you can answer the questions on the exam.
+
+Study Guide Exam 1P
+-------------------
+1. Be able to summarize your paper on the history of a field of law in Mexico. Be able to recount the general history of the legal field you selected, and focus on the present state of the discipline in Mexico.
+
+2. Be able to answer the following questions related to jargon:
+    a. Why does jargon evolve in virtually any human endeavor? 
+    b. Is legal language considered jargon? Explain.
+    c. Compare and contrast “ good”  and “ bad”  jargon.
+
+3. Be able to answer the following questions related to the legal systems in México and in the US:
+    a. Define the term, “legal system” . 
+    b. Discuss civil law and common law with respect to México and the US. What are the historical roots of each legal system? What are the areas which differ most when comparing the two legal systems? What are some advantages and disadvantages to each legal system?. 
+
+4. Be able to translate Spanish ==> English) the third article of, "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales".
+
+5. Be able to answer questions regarding landlord-tenant law in the US and in Mexico (see Task 2 above).
+
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+#########
+Today
+#########
+
+---- Open 
+
+	"If you must break the law, do it to seize power: in all other cases observe it. "
+		-- Julius Caesar
+		
+	"The power of the lawyer is in the uncertainty of the law."
+		-- Jeremy Bentham (English philosopher, jurist, and social reformer)
+		
+	Two things awe me most, the starry sky above me and the moral law within me.
+		--- Immanuel Kant
+		
+	"Discourage litigation. Persuade your neighbors to compromise whenever you can. As a peacemaker the lawyer has 
+	superior opportunity of being a good man. There will still be business enough."
+			--- Abraham Lincoln
+			
+	 "Laws are like sausages, it is better not to see them being made."
+ 	--- Otto von Bismarck (responsible for transforming a collection of small German states into the German empire)
+
+
+
+---- Review
+
+Hand back HW
+Marron_StyleGuide-ErrorsKey
+
+Be on the lookout for:
+	*Formatting
+		Margins
+		Text; double space
+		Header; single space
+		Task titles (Tier 1)  ==> centred; bold; caps first words
+			Tier 2	==> L; underlined; caps first words
+	*Paragraph options
+		Indent
+		Space
+	*Widows/Orphans
+	*References
+	*Voice
+		In general, use 3rd person Point of View (POV) AND active voice in academic writing
+		the active voice. (Strunk and White p 23)
+		1. Place yourself in the background. (Strunk and White p. 64)
+		17. Do not inject opinion.(Strunk and White p. 71)
+	*Foreign phrases
+		italicized to indicate that they are not in English. (APA)
+	*Outline styles
+	*Acronyms	
+	*Punctuation
+	*Extra Space
+
+
+
+** Jargonized statements
+		Guess!
+
+
+---- New
+
+** Quick Discuss
+	Civil law vs. Common law
+		As a civil law system, Mexican statutes are organized into codes.
+		US common law system based on case law but also codified in CFRs
+
+
+** Diario Oficial de la Federación
+https://dof.gob.mx/index.php#gsc.tab=0
+
+The  Diario Oficial de la Federación is the official gazette of Mexico and publishes all new federal legislation. It also contains important announcements, notices, decrees, resolutions, tenders, proposed rules and regulations, and draft and final standards issued by the Mexican government and its agencies. Its website includes the text of the Diario since 1917 (with PDF facsimiles of the print edition available from 1920–present) as well as a history of the Diario.
+
+
+** Go thru actual codigo for Diario Oficial de la Federación (DOF)
+	 Ley del Diario Oficial de la Federación y Gacetas Gubernamentales 
+
+
+** Intro to Justia
+https://mexico.justia.com
+Look at Areas de Especialidad from Justia; pick civil law
+
+https://mexico.justia.com/derecho-civil/
+Temas Relacionados
+    Asociación Civil
+    Contratos Civiles
+    Contrato de Arrendamiento
+    Contrato de Compraventa
+    Hipoteca
+    Posesión
+    Propiedad
+    Propiedad en Condominio
+    Registro Público de la Propiedad
+    Testamentos
+
+Legislación Aplicable
+    Código Civil Federal
+    Código Federal de Procedimientos Civiles
+    Códigos Civiles Estatales
+    Códigos Procedimientos Civiles Estatales
+    Jurisprudencia de la Suprema Corte de Justicia de la Nación
+
+
+**Use Justia to find law governing DOF
+ https://mexico.justia.com
+ 	Leyes Federales
+ 		Leyes Federales, Leyes Generales y Leyes Nacionales de México
+			100	Ley del Diario Oficial de la Federación y Gacetas Gubernamentales 10 de junio de 2019 
+
+Ley-de-Diario-Official.pdf
+
+
+
+** Landlord-Tenant Law: México and US
+
+In the US
+----------
+WEX LII
+https://www.law.cornell.edu/wex
+	Business Law ==> lots of entries!
+	Search "Landlord"
+		Select "Landlord-Tenant Law"
+		https://www.law.cornell.edu/wex/landlord-tenant_law
+
+
+In Mexico
+-----------
+Start with Justia
+https://mexico.justia.com/
+	==> Derecho Civil
+		==> Contratos de Arrendimiento
+			==> Preguntas y Respuestas Sobre Contrato de Arrendamiento
+https://mexico.justia.com/derecho-civil/contratos-civiles/contrato-de-arrendamiento/preguntas-y-respuestas-sobre-contrato-de-arrendamiento/
+
+
+Justia
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/
+Libro Cuarto - De las Obligaciones
+	Parte Segunda - De las Diversas Especies de Contratos
+		Título Sexto - Del Arrendamiento		
+
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/capitulo-ix/
+Eviction 			-- Artículo 2489
+Termination		-- Artículo 2490
+
+
+
+** Setting up Your Personal Dictionary (It's time!)
+	simple.txt file highly recommended 
+	Here's why.......ASCII/Unicode code are long-lived
+	[American Standard Code for Information Interchange]
+
+
+
+---- Work time
+
+
+---- Coming Up
+
+https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/capitulo-ix/
+
+** Struxcture of Mexican Legal System
+
+** Academic Standards
+Review Point of View (POV)	
+	Third-Person POV in Academic Writing (p 1)
+	Avoid-First-Person-POV_AcademicWriting (p 1, 2)
+	PurdueUniversity_POV&Voice_APAStyle (p 1)
+	UnivAZ_First-vs.-Third Person (p1,2)
+	SanJoseState_First Person Usage in Academic Writing (p 1-3)
+
+
+APA as a Style
+	https://writingcenter.uagc.edu/introduction-apa
+	Introduction to APA Style.pdf
+
+
+Sample papers
+	https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers
+

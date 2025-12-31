@@ -1,0 +1,306 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Jurídica
+Curso:		IT0732
+Licenciatura: 	Interpretación y Traducción
+Grupo:		7A
+
+###########################
+HW_10 [Due: 09 Dec 2025]   <== due in two weeks; can use on Exam 3P
+
+--- Task 1
+Lawyers have confidentiality duties to clients as well as the need to maintain and grow their skill set, AI confounds these of two ethical duties of confidentiality and competence and confidentiality. Review the paper, Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" (02_generative-ai-systems-in-legal-practice.pdf). Answer the following questions in English:
+      1. Do you think lawyers should use AI agents in their work? Briefly explain.
+      2. Do you think that lawyers violate client confidentiality when using AI agents? Briefly explain.
+      3. What is the author's three-step plan for "he way forward"?
+      3. Do you agree with the author's three-step plan?
+
+
+--- Task 2
+Read/scan two reports on the future of artificial intelligence (AI). The first report, written by the AI Futures Project, is available online at https://ai-2027.com/ and also as a .pdf (03_ai-2027_WhitePaper-Report.pdf). You should read/scan the online report. The second report, written by Richard David Hames,is available as a .pdf file (04_The-Future-of-AI_RichardDavidHames.pdf). Compare and contrast the futures presented in these two white papers. Specifically,
+      1) What do think of the analysis presented in each paper?
+      2) Are the scenario(s) presented plausible?
+      3) Are the authors and their methods credible?
+Write an opinion piece (~2+ paragraphs) expressing your thoughts. Your opinion piece should be written in English.
+
+
+--- Task 3  
+Skim the paper on legal responsibility concerns and recommendations for AI in society (05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf; 05b_EXCERPTS_ResponsibilityGaps_AI.txt). Answer the following questions regarding AI and responsibility:
+      1) What is meant by the term, "responsibility gap" with regards to AI?
+      2) Define the Culpability Gap and briefly explain why it matters.
+      3) Define the Moral Accountability Gap and briefly explain why it matters.
+      4) Define the Public Accountability Gap and briefly explain why it matters.
+      5) Define the Active Responsibility Gap and briefly explain why it matters.
+      6) What is the problem with "deflationist" solutions to AI responsibility gaps?
+      7) What is the problem with “technical solutionism” with respect to to AI responsibility gaps?
+      8) What is the problem with “legal solutionism” with respect to to AI responsibility gaps?
+      9) Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
+      
+--- Task 4
+Skim the paper on drone surveillance (Aerial Surveillance in the Digital Age: Drone-Related Privacy Concerns and the Protection of Other Human Rights; 06_aerial-surveillance-in-the-digital-age.pdf). Answer the following questions:
+      1) Privacy is a constitutional value recognized in the vast majority of countries. What is your definition of privacy?
+      2) Drones can gather detailed biometric data as well as detailed physical data. Should these capabilities be legally restricted? If yes, how should such laws be structured?
+      3) The authors recommend that drone use should be regulated but that legislators must strike a fair
+balance between the conflicting values of privacy and freedom of technological development. Specifically, the authors suggest that legal constraints on drone use must "rely ... on the proportionality principle (or other legal balancing methods) in order to reconcile conflicting human rights." What is the principle of proportionality? (see for example, https://opil.ouplaw.com/display/10.1093/law:epil/9780199231690/law-9780199231690-e1459)
+
+
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+#########
+Today
+#########
+
+---- Open 
+
+		"Making judgments about whether a person is morally responsible for their behavior, and holding others and ourselves responsible for actions and the consequences of actions, is a fundamental and familiar part of our moral practices and our interpersonal relationships."
+		--- Stanford Encyclopedia of Philosophy, Moral Responsibility
+		(https://plato.stanford.edu/entries/moral-responsibility/ accessed on 22 Nov 2025)
+		
+		
+		We're making this analogy that AI is the new electricity. Electricity transformed industries: 
+		agriculture, transportation, communication, manufacturing.
+				--- Andrew Ng 
+			
+			
+	I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe  a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years  from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about overpopulation on Mars. 
+				--- Andrew Ng
+			(founder of DeepLearning.AI, Chairman and co-founder of Coursera, Adjunct Professor at 
+			Stanford University)
+
+
+---- Review
+
+** from HW Qs #1 - #23 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf
+
+** Real-World Contracts
+	2015_may_obras_lpn_2.pdf
+	CFE_Anexo 3 Modelo Contrato.pdf
+	Anaconda Terms of Service
+
+**  RFPs
+
+
+** Review for Exam 3P next week
+
+
+
+
+---- New
+#################
+International Law
+####################
+
+** Lythgoe, "Contracts: reterritorialising the (global) exercise of authority", International Journal of Law in Context (2025), 21, 246–257
+[01_contracts-reterritorialising-the-global-exercise-of-authority.pdf]
+
+Int'l law for Global Value Chains (GVCs) is focused on the laws of nations (ie, state law) and ignores non-state actors: The particular spatial logics of non-state actors are almost entirely missing from most accounts of law and governance. State space and global space dominate (ignore private, non-state spaces)
+
+Two main takeaways ----------------
+	First, there is no right or wrong way to imagine the globe, but it is important to be aware of what is driving our mental map are imagined, political geographies are political
+	
+	Second, don't be hypnotised by complexity and instead seek to understand concretely the time-space of legal, political and economic activities. switch the lens and change what is in view and see the spaces being constituted by actors, their activities and relational dynamics. Analytically prioritising the space of state actors can only ever leave us in a redundant place, where GVCs are seen as a means to escape state-territorial control, and contracts are the infrastructure through which this is achieved.
+
+
+
+** Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" International Journal of Law in Context (2025), 21, 431–452
+
+Problem Statement ---------------
+two ethical duties ==> ‘What is the impact of the use of generative AI systems by lawyers on the ethical duties of i) competence and ii) confidentiality?
+
+The increasing use of generative AI systems by lawyers is raising several questions relating to the ethical duties of competence and confidentiality.
+	1. On the one hand, lawyers need to stay up to date on knowledge or skills that render them more efficient and effective in the representation of their clients, including digital literacy skills. 
+	2. On the other hand, lawyers risk disclosing their clients’ confidential data to third parties – for example, by inserting confidential data when prompting generative AI systems or by giving them access to files containing confidential data.
+
+NB. ChatGPT is known for ‘hallucinating’ – in other words, misleading users by presenting inaccurate outputs as factual and reliable information
+
+Recommendations --------------
+The way forward would involve a client-centric approach, where the use of generative AI systems by lawyers would depend on the interest of clients in high quality legal services. Bar Associations must adopt rules, in the form of comments or guidelines, that target three aspects of client-centricity. 
+	First, the rules should require the valid consent of clients for the processing of their confidential data through generative AI systems. 
+	Second, the rules should demand the inclusion of specific clauses on the protection of clients’ confidential data in the contracts signed between lawyers and providers of generative AI systems. 
+	Third, the rules must promote life-long learning opportunities on the use of generative AI systems, so lawyers can remain competent while representing their clients and respectful of the confidentiality of their clients’ information.
+
+
+##########################
+AI and Responsibility
+###########################
+
+** What is AI?
+	excerpt from my prezy
+
+
+** AI 2027 Report
+[03_ai-2027_WhitePaper-Report.pdf]
+Go thru online version
+
+What do you think????
+The AI alignment problem (in the story) is a moral accountability problem.
+
+
+** Richard Hames report
+[04_The-Future-of-AI_RichardDavidHames.pdf]
+Go thru
+
+
+
+** Santoni de Sio and Mecacci in Philosophy & Technology (2021) 34:1057–1084
+"Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them"
+[05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf]
+[05b_ EXCERPTS_ResponsibilityGaps_AI.pdf]
+
+---- The Problem Gaps in Responsibility with AI -------------------------------------------
+Gaps appear in i) passive responsibility or the moral and legal 4.  Active Responsibility Gap consequences (human) agents must face in case something goes wrong. And gaps appear in ii) active responsibility or gaps in the goals, values, and legal norms that (human) agents (such as engineers) are supposed to promote and comply with, as well as the consequences they need to prevent and avoid (eg, the legal duty to provide high standards of safety).
+	
+1. Culpability Gap -- the risk that no human agent might be legitimately blamed or held culpable for the unwanted outcomes of actions mediated by AI systems
+		
+	When things go wrong and important interests or rights such as physical integrity or life are infringed on, we, as victims and 4.  Active Responsibility Gap as society, not only want to understand what happened but why. We also want to know whether the harm was the result of someone’s wrong behaviour, and if it turns out that the  wrong behaviour is one for which there is no justification or excuse, we want the author to be condemned, sanctioned, or 
+even punished for their behaviour.
+		
+	[See p.6; the example of automated driving systems (ADS)]
+		
+	The use of AI and data-driven machine learning in decision-making importantly introduces a new element of technical opacity and lack of explainability that makes it more difficult for individual persons to satisfy the traditional conditions for moral and legal culpability:  intention, foreseeability, and control.
+		
+	The more that persons designing, regulating, and operating an AI system can legitimately (and possibly  systematically) avoid blame for their wrong behaviour, the less these (human) agents will be incentivised to prevent these wrong behaviours. In fact, they will arguably have less incentives to strive for a high(er) level of safety, awareness, attention, motivation, and skilfulness.
+	
+2. Moral Accountability Gap -- AI may make individual persons less able to understand, explain, and reflect upon their own and other (human) agents’ behaviour. Functional society has the expectation that people answer (at least some) why-questions from other persons.
+	
+	Why-questions do not necessarily have the intention of judging or blaming but possibly to just engage in a conversation and to better understand each other’s reasons and expectations. [Why were you  late at the appointment, why did you start taking guitar classes, why did you turn down that job  offer...?] This is the core of what it means to be a reflective person in society. In this sense, being accountable, unlike being culpable, is something to be desired rather than avoided insofar as it is a constitutive part of being able to reflect on one’s actions and to participate in meaningful social relations. It also helps  persons see events in the world as connected to their rational capacities and thereby supporting their sense of agency and responsibility.
+	
+	Moral accountability also has an instrumental value. The process of exchanging questions and reasons helps finding explanations for things that have happened, reinforces trust and social connections between (human) agents, and, by exposing persons to potential requests for explanation and justification, it also tends to reduce undesired behaviour by pushing persons to be more clearly aware of the impact of their actions on others and therefore motivated to prevent unwanted outcomes (and potential culpability)
+		
+	Moral accountability may be blurred in different ways by the introduction of artificial intelligence. 
+		First, in general and similar to what was observed above about culpability, AI contributes to the creation of a more complex chain of decision-making and action (the “problem of many hands”). AI may make it more difficult for individual agents to make sense  of the reasons why a certain decision was taken, what their role exactly was in the operation, and, in general, whose reasons and what reasoning were governing the system they are part of. 
+		Second, data-driven machine (deep) learning, due to its intrinsic opacity, might make a system’s behaviour extra hard to understand and explain.
+==>		Third, the whole process of technology development and production is arguably pervaded by an increasing pressure towards deploying proprietary technologies that, even when working through mechanisms accessible to their developers and programmers, are designed to be inaccessible to public scrutiny and the users themselves. Technology developers, driven by both the desire to minimise industrial espionage and maximise customers loyalty (by, e.g. binding them to their assistance network), will usually avoid sharing data and engineering insights. Thus, there is embedded difficulty for engineers and other (human) agents involved in the process of technological development to systematically discuss with one another their understanding of the goals, meaning, and results of the development process.
+	
+	[See example p. 9 a medical doctor using an AI-driven system for diagnosing]
+	
+	Ultimately, the moral accountability gap is the reduction of human agents’ capacity to make sense of – and explain to each other (ie to other humans) the “logic” of their behaviour, due to the mediation (ie the interposition) of opaque, unexplainable AI algorithms and complex autonomous systems and/or the lack of appropriate psychological, social incentives or institutional spaces that promote these explanations.
+
+
+3. Public Accountability Gap -- Citizens not being able to get an explanation for decisions taken by public agencies, politicians, civil servants, and other human agents invested with a public function.
+
+	Public accountability promotes democratic control (transparency) and limits abuses of power (corruption), but it also brings more effectiveness in the institutions. In fact, providing public administrators with information about their own functioning and forcing them to reflect on their successes and failures will eventually allow and encourage them and others to improve their future performances.
+
+	AI-based decision-making is often difficult to understand and explain to human agents due to the different and sometimes inscrutable ways of AI operations: the so-called “black box” problem. But the introduction of AI in public administration has also created or aggravated organisational and legal black boxes in governmental institutions.
+		First, development in information technologies is often outsourced to private parties or tech-giants, such as Google, who are not politically accountable and may not be willing to disclose critical information about the functioning of their systems. 
+		Second, more generally, the work of the software engineers and data professionals in public organisations is usually not visible nor subject to public and legal scrutiny. 
+		Finally, far more data are exchanged between many different public organisations than in the past. In  this way, the introduction of AI makes the “problem of many hands” more acute
+
+
+4.  Active Responsibility Gap -- the risk that persons designing, using, and interacting with AI may not be sufficiently aware, capable, and/or motivated to see and act according to their moral obligations with respect to the behaviour of the systems they design, control, or use. In particular, this gap concerns the obligation to ensure that AI systems do not negatively impact the rights and interests of other persons and, ideally, ensure that such systems positively contribute to humanity's well-being.
+
+
+----- Problems with Partial Fixes ---------------------------------------
+Common approaches that have so far been taken towards addressing responsibility gaps but that fall short
+
+1. “fatalists” ==> underestimate the extent of the responsibility gap; their focus is too limited.
+
+2. “deflationists” ==> underestimate the novelty of the AI revolution and its implication for culpability attributions in morality (blameworthiness) and the law (liability); they also seem to underestimate the risks of gaps in the moral and political accountability of system designers as well as gaps in theirs and other (human) agents’ active responsibility for the behaviour of artificial intelligence.
+
+3. “technical solutionism” ==> Promoters of “explainable AI” and other scientific and technological improvements tend to ignore the psychological, social, and political dimension of the interaction with AI, thereby running the risk of embracing some form of “technical solutionism” by which all the moral and social problems of human responsibility for the behaviour of artificial intelligence can be fixed simply by an improvement of the working of AI techniques.
+
+4. “legal solutionism” ==> Lawyers and policy-makers proposing the revision of current legal liability regimes (including extension of strict and product liability regimes, and “electronic personhood”) may either underestimate the importance of maintaining some form of human moral responsibility on the behaviour of the artificial intelligence or recognise this need but without saying how moral and social practices – and not only legal rules – should change in order to govern a responsible transition to the use of AI. 
+
+
+----- Integrated Solution: Meaningful Human Control ---------
+The authors' solution is to promote a legally, ethically, and societally acceptable form of human control over AI systems. Their solution is called Meaningful Human Control (MHS).
+
+MHC requires that two conditions be satisfied: “tracking” and “tracing”. These two conditions must describe, respectively, i) the nature of the human-machine control relation (alignment with human goals, values, and intentions) and ii) the operational features of the human-machine control relation required to maintain human responsibility on the system (alignment of the system with the capacities of human agents).
+
+Tracking (i above) requires that the socio-technical system – i.e. the whole combination of technical, AI, human, and organisational elements – is designed to demonstrably respond to the relevant reasons of the relevant agents and to the relevant facts in the environment. Tracking requires the ALIGNMENT of the system with the values, reasons, and intentions of the relevant human agents.
+
+Tracing (ii above) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify AT LEAST ONE HUMAN AGENT along the chain of design, development, and use that possesses both (a) sufficient knowledge of the capabilities and limitations of the system and (b) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the alignment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.
+
+
+########
+Privacy and
+Surveillance
+###########
+** Aerial Surveillance in the Digital Age: Drone-Related Privacy Concerns and the Protection of Other Human Rights
+(06_aerial-surveillance-in-the-digital-age.pdf
+
+Background-----------
+Drones are widely used by various state authorities, as well as commercial entities and private persons for purposes as diverse as policing, search and rescue, environment monitoring, film-making, mapping, agriculture, and entertainment. Drones offer new business models such as parcel delivery by air, aerial photography, air taxis, and drone journalism.
+
+Modern drones as a rule are equipped with high-end technologies, which can capture, store, and upload online or to other devices huge amounts of data, including private data.
+
+Drones are piloted remotely or, in some cases, using advanced artificial intelligence (AI) technology that is able to develop flight patterns with the only human input specifying the destination,7 which makes it very hard to trace the actual drone users.
+
+Arugment -------------
+With the use of drones private data can not only be easily accessed and collected in areas where people reasonably expect privacy, but it can also be achieved anonymously. Hence, along with all the new possibilities and benefits, the massive deployment of drones in public life also bring serious privacy issues, as drones like any other technology can be misused.
+
+In the absence of countervailing restrictions and sanctions, every digital application that can be used for surveillance and control will be used for surveillance and control, irrespective of its original intention.9 Therefore, emerging drone technology requires an appropriate legal response, as it is impossible to disinvent the technology – drones are here to stay.
+
+
+Background -------------------
+Privacy is a constitutional value recognised in the vast majority of countries.
+According to Privacy International, one of the world’s major watchdogs on surveil-
+lance and privacy, over 130 countries in every region of the world have constitu-
+tional statements regarding the protection of privacy.10 The right to privacy is also
+enshrined in major international and regional human rights documents (conven-
+tions, declarations, charters, etc)
+
+
+Private life includes 
+	* personal likeness / fotos
+	* voice
+	* physical and psychological integrity
+	* other people
+	* personal living space
+
+Drones can gather biometric data
+	* aspects relating to personal identity, such as pictures of a person and voice.
+	* sound recorders and no ability to
+	* secretly listen to and record private conversations
+
+	==> Biometric data can pinpoint locations and people
+		* voice recognition technology
+		* GPS timestamps
+		* image recognition 
+	
+Drones can gather detailed physical data
+	*high resolution images from a long distance cameras combined with advanced 
+	infra-red, radar, laser, holographic, computer, and other technologies
+	
+	==> Detailed physical data
+		*can form a detailed spatial (3D) projection from captured data, revealing in 
+		detail the geometric, physical, and other properties of objects and their interrelationships
+
+
+
+Recommendations -------------
+Because various restrictions imposed on the use of drones in favour of privacy
+protection could undermine other human rights that are equally important (for
+example, the right to engage in work and the freedom to conduct a business, the
+right to property, freedom of expression, and the right to information, or even the
+right to life), a holistic approach is required from legislators in order to strike a fair
+balance between these conflicting values. 
+
+It is important, when regulating the usage of drone technology, to rely more on the proportionality principle (or other legal balancing methods) in order to reconcile conflicting human rights.
+
+
+The legislators should foster the development of standards using a long-term per-
+spective. In order to be effective, the legislation has to shift from reactive to proac-
+tive, and establish a more future-orientated legal framework taking into account
+possible future developments, rather than a step-by-step approach based on the cur-
+rent state of technological progress. The industry, regulators, and the public must
+come together to seek a harmonised global regulatory framework and to guarantee
+legal certainty while balancing competing values. 
+
+As drone usage in modern society keeps growing, it is of great importance to tackle these challenges in a timely manner and ensure that all the conditions are met for the safe and sustainable emergence of innovative drone services, enabling the industry to thrive and at the same time adequately deal with human rights concerns.
+
+
+
+
+---- Work time
+
+
+---- Coming Up
+
+
+
+
