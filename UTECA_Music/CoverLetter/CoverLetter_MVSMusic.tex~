@@ -151,13 +151,13 @@
 %            Contact Info
 % ------------------------------------------------------------------------------------
                                                     % personal data
-\name{Bruce D.}{Marron, M.S.}
+\name{Bruce D.}{Marron}
 %\title{Resumé title}                               % optional, remove / comment the line if not wanted
-\address{1644 SE 40th Ave, Portland, OR 97214}{}      % optional, remove / comment the line if not wanted; the "postcode city" and
-\phone[mobile]{(503)~890-5871}                        % optional, remove / comment the line if not wanted
+\address{Vito Alessio Robles 237}{Álvaro Obregón, CDMX, CP 01050}      % optional, remove / comment the line if not wanted; the "postcode city" and
+\phone[mobile]{55 4190 9628}                        % optional, remove / comment the line if not wanted
 %\phone[fixed]{(503)~236~8483}                        % optional, remove / comment the line if not wanted
 %\phone[fax]{+3~(456)~789~012}                         % optional, remove / comment the line if not wanted
-\email{bruce@re-generar.org}                               % optional, remove / comment the line if not wanted
+\email{marron.bruce.mx@gmail.com}                               % optional, remove / comment the line if not wanted
 %\homepage{www.linkedin.com/in/bruce-marron-05496191}                         % optional, remove / comment the line if not wanted
 %\extrainfo{}                                          % optional, remove / comment the line if not wanted
 %\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture
@@ -175,10 +175,9 @@
 %---------------------------------------------------
 %        RECIPIENT INFO 
 %---------------------------------------------------
-\recipient{Christine Svetkovich}{
-Dept. of Environmental Quality \\
-700 NE Multnomah Street, Suite 600 \\
-Portland, OR ~97232}
+\recipient{Rectoria}{
+MVS Music Centers\\
+CDMX}
 \date{\today}
 
 %\closing{}
@@ -189,43 +188,36 @@ Portland, OR ~97232}
 %----------------------------------------------------
 \opening{\begin{center}
 \vspace{-1.00 cm}
-\small{\textbf{RE: Responses to Supplemental Questions}}
+\small{\textbf{RE: Instructor de Guitarra}}
 \end{center}
-Dear Christine,}
+Estimados,}
 
 \makelettertitle
 \justifying
 
 %%% START LETTER
-\noindent This letter provides responses to your two supplemental questions transmitted by email on November 16, 2018. \\
+\noindent Me puse bien emocionado cuendo me enteré que MVS Educación cuenta con escuelas de musica. De verdad, padrisimo! Con este cuatrimestre que entra (26-2) ya tendré un año trabajando como profe en UTECA dando clases en terminología (ciencias, jurídica, economía) y inglés avanzado. Pero mi alma se queda en música y me encantaría extender mi servicio a MVS dando clases de guitarra.
 
-\noindent \textbf{Regulatory Intent of the MS4 Permit Requirements}\\
-The National Pollutant Discharge Elimination System (NPDES) program, as part of the Clean Water Act (CWA), requires permits for the discharge of \enquote{pollutants} from any \enquote{point source} into \enquote{waters of the United States} (40 CFR \S 122.1(b)(1)). The CWA is the name commonly applied to the 1972 Congressional amendments to the Federal Water Pollution Control Act. The NPDES program is designed \enquote{to track point sources and require the implementation of the controls necessary to minimize the discharge of pollutants}(64 FR 68723). The initial efforts under NPDES were aimed at reducing pollutants in discharges of industrial process wastewater and municipal sewage. As pollution control measures were successfully applied to these initial point sources, it became evident \enquote{that more diffuse sources of water pollution were also significant causes of water quality impairment} (64 FR 68723). To address this and other concerns, Congress amended the CWA in 1987. The 1987 amendments restructured the NPDES program into a comprehensive national program for storm water discharge to be implemented in two phases.  The first phase, (\enquote{Phase I}), required Environmental Protection Agency (EPA)-authorized permits for municipal separate storm sewer systems (\enquote{MS4s}) generally serving populations of 100,000 or more as well as for several categories of industrial activity. Phase I was promulgated in November 1990 (55 FR 47990). EPA published a proposed rule for Phase II in January 1998 (63 FR 1536) and published the Phase II final rule in December 1999 (64 FR 68722). The Phase II final rule extends the NPDES program to include discharges from small MS4s within urbanized areas (40 CFR \S 122.26(b)). State departments of transportation (DOTs) are included in the definition of small MS4s (64 FR 68736).
+\noindent Siempre he metido en los \textit{Arts and Sciences} los dos. Empezé con la guitarra a los 12 años y al fin tuve oportunidades de estudiar al nivel universitario y tocar como profesional. Llevo 36 creditos universitarios en teoría de música, entrenamiento auditivo, piano basico, histoía de música, bandas de jazz, y imrpovisación. He estudiado guitarra classica con Michael Chapdelaine, maestro de guitarra classica y \textit{fingerpicking} y el único guitarrista apremiado \textit{First Place} en dos generos: ganó el \textit{Guitar Foundation of America International Classical Guitar Competition} y también el \textit{National Fingerstyle Championships at the Walnut Valley Bluegrass Festival}. He estudiado guitarra jazz con Michael Anthony, un \textit{session player} y estudiante de Howard Roberts que fue el \textit{first call} guitarrista en Los Angeles, California durante los 70s.
 
-\noindent Overall, it is the intent of Congress that the NPDES program is an effective water pollution prevention and control program \enquote{to restore and maintain the chemical, physical, and biological integrity of the Nation’s waters} (33 USC \S 1251). EPA recognizes that stormwater discharges are still a significant cause of water quality impairment (81 FR 89322) and therefore, it is expected that NPDES permits issued to any and all MS4s (i.e., to small, medium, and large MS4s) \enquote{shall require controls to reduce the discharge of pollutants to the maximum extent practicable, including management practices, control techniques and system, design and engineering methods, and such other provisions as the Administrator or the State determines appropriate for the control of such pollutants} (33 USC \S 1342(p)(3)(B)(iii)). In its report to Congress EPA notes that the intent of the Phase II regulations, which apply directly to small MS4s and thus to the Oregon DOT (ODOT), is \enquote{to establish a cost effective, flexible approach for reducing environmental harm by storm water discharges from many point sources of storm water that are currently unregulated.}\footcite{office_of_water_usepa_report_1999}. EPA expects to achieve its goal of reducing the water quality impairment caused by storm water discharges from small MS4s by requiring that each small MS4s be authorized either under a general permit or an individual permit (40 CFR \S 122.33(b)).  EPA requires that a small MS4 seeking coverage under an individual NPDES permit must submit an application to the appropriate NPDES permitting authority. The application must include the best management practices (BMPs) that the small MS4 operator proposes to implement for each of six, storm water minimum control measures (40 CFR \S 122.33(b)(2)). It is EPA's intent that the minimum control measures, when properly implemented, constitute the framework for a storm water discharge control program that will reduce pollutants to the maximum extent practicable (MEP) (64 FR 68752). Because ODOT is classified as a small MS4 and will be seeking an individual permit, ODOT will be required to meet all of the permit requirements at 40 CFR \S 122.34. Note that the recent revisions to the regulations governing regulated MS4s (effective January 9, 2017) affect only applicants seeking a general permit and thus are not applicable to ODOT's permit renewal process (81 FR 89322).\\
+\noindent En Albuquerque, New Mexico tuve mi propio escuela de guitarra. He trabajado profesionalmente contratado por guitarrista de orquesta en musicales (\textit{The Sound of Music, Godspell, Camelot, and Fiddler on the Roof}) y en varios conjuntos musicales. Amo cantar y tocar y participé como miembro de bandas y proyectos diversos. En 2023 fundé MOZ Espectaculos y armé un show en Foro Coyocanense con obras originales y covers.
 
-\noindent \textbf{My Education, Skills, and Experience as the Basis for Hire}\\
-Simply put, it is the amalgam of my education, skills, and experience that is ideally suited for filling the Transportation Stormwater Specialist position. There are four key components here:
+
+Creo que sería yo un meastro excelente para los principiantes de guitarra en MVS Music Centers por los siguentes razones:
 \begin{itemize}
-  \item \textbf{Technical prowess} -- Two Master's degrees in science, graduate certificates in sustainability and in statistics, and all course work and comprehensive exams completed for doctoral studies.
-  \item \textbf{Regulatory acumen} -- Clear understanding of regulatory rulemaking processes and regulatory applications.
-  \item \textbf{Document production} -- Years of document production and records management. 
-  \item \textbf{Project management} -- Years of project management in both the public and private sector.
+  \item \textbf{Base Integral} -- La guitarra es un instrumento dificil de dominar para el estudiante serio o aún un aficionado. En todos los casos, puedo dar los estudiantes bases firmes y integrales (teoría, tecnicas, conceptos, ejercicios) para tener confianza y lograr sus metas.
+  \item \textbf{Diversidad y Musicalidad} -- Puedo introducir estilos diversos para desarrollar flexibilidad y musicalidad en el instrumento.
+  \item \textbf{Experiencia} -- Tocando en la casa y tocando en el escenario son cosas muy distintas. Para los estudientes que quisieran tocar en público, puedo darles consejos y métodos de preparación.
 \end{itemize}
-\noindent These four elements have been amply demonstrated both in the materials I provided to you in the interview as well as in the original cover letter, transcripts, and work history submitted as part of the on-line application. 
+\noindent Al fin de cuentas, me gusta mucho el oficio de maestro, sea en escuelas públicas, universidades, o salones de música. También tengo un montón de materiales para armar curricula individuales.
 
-\noindent But this is not why I should be hired. I should be hired because I love working with people. True, I happily geek out creating problem solving algorithms and models, researching the regs, producing clear and concise documents, and running multiple projects. This is typically solo work and I find it quite satisfying. And yet, I must confess to a fundamental need to be part of a mission-driven team. I cherish colleagues and the satisfaction of contribution, not just to the professional sphere but to the spirit of the work place. I thrive as a team member. This sense of people importance naturally extends to clients, too. I am genuinely approachable because I listen carefully with the intention of building enduring and fruitful relationships.  My own conversation is measured, diplomatic, and inclusive. I have a vast repertoire of experience with cultural and organizational communications in part because I am bicultural and bilingual, and in part because I have worked in a variety of roles in a variety of venues. (For example, for about three years I was a vendor at the Portland Farmers Market producing and selling my own organic, cold-pressed seed oils.) Ultimately, I am a highly ethical, creative, warm-hearted, mission-driven individual committed to creating a just and equitable society and a healthy, happy planet. 
-
-\noindent Thanks for your consideration Christine. I truly appreciate your time in reviewing my materials and chatting during the interview. \\
+Muchas gracias para su consideración!\\
 
 
+\noindent Siceramente,
 
-
-
-
-\noindent En paz, \\
 \includegraphics[scale=.65]{graphics/signature.jpeg}\\
-Bruce D. Marron,  M.S.\\
-NSF ESUR-IGERT Fellow
+Bruce D. Marron \\
+Coyoacán, CDMX
 
 \end{document}

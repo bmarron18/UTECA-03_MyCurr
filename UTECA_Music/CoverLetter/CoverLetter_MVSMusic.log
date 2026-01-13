@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.16)  12 JAN 2026 19:11
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.16)  12 JAN 2026 20:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1138,16 +1138,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 195.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 195.
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
-
- []
-
 File: graphics/signature.jpeg Graphic file (type bmp)
 <graphics/signature.jpeg>
-[1
+ [1
 
-] (./CoverLetter_MVSMusic.aux)
+] [2] (./CoverLetter_MVSMusic.aux)
 Package rerunfilecheck Info: File `CoverLetter_MVSMusic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'CoverLetter_MVSMusic.run.xml'.
@@ -1163,4 +1158,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  84i,11n,80p,1017b,3913s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on CoverLetter_MVSMusic.xdv (1 page, 6312 bytes).
+Output written on CoverLetter_MVSMusic.xdv (2 pages, 7252 bytes).
