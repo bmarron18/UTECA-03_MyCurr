@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1768239784 "Marron_CV_20260110_ArtsOnly.tex" "Marron_CV_20260110_ArtsOnly.pdf" "Marron_CV_20260110_ArtsOnly" 1768239785
+["pdflatex"] 1768324182 "Marron_CV_20260110_ArtsOnly.tex" "Marron_CV_20260110_ArtsOnly.pdf" "Marron_CV_20260110_ArtsOnly" 1768324183
   "/etc/texmf/web2c/texmf.cnf" 1697989211 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/local/share/texmf/tex/latex/res/res.cls" 1697993866 25068 42fcc25719bc8845f2e6b876e85d6693 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -115,7 +115,7 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1697989219 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1710607703 1405648 4a28b467be70bac1c207b7307ff0a765 ""
   "Marron_CV_20260110_ArtsOnly.aux" 1768074666 32 3985256e7290058c681f74d7a3565a19 ""
-  "Marron_CV_20260110_ArtsOnly.tex" 1768239784 11815 7cc5aa2fe5ee39c005b23f92270ecacf ""
+  "Marron_CV_20260110_ArtsOnly.tex" 1768324182 11760 9d326584c3c24cfaeac70581a66da65a ""
   "graphics/MOZ_CartelFinal.jpg" 1763516984 10572054 76819707f3f929d38f29dfbacd14dab5 ""
   "graphics/Marron_Bass.jpeg" 1768083828 638034 e10d54d1b55f636419c57ed2d78c71a9 ""
   "graphics/Marron_LVTB.jpeg" 1768087409 95993 9a82ecfebf32d7a8c528b281ae62fcdc ""

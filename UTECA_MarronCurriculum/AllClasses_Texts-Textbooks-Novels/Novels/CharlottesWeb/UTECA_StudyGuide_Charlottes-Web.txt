@@ -9,13 +9,13 @@ ISBN 10: 059030271X / ISBN 13: 9780590302715
 Lexile Reading Level = 680L
 192 pages; 22 chapters
 
-20 pages/weekday * 5 weekday/week = 100 pages/week ==> finish in ~ 2 weeks
+10 pages/weekday * 5 weekday/week = 50 pages/week ==> finish in ~ 4 weeks
 	Week 1: 	Chapters I thru XI
 	Week 2: 	Chapters: XII thru XXII
 	
 *Discussion
 *Vocab
-*Chapter Summaries given (or from ChatGPT) in English and Spanish
+*Chapter Summaries given in English and Spanish
 ###############################################
 
 %%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%

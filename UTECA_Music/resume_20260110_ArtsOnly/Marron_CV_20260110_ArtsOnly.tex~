@@ -183,11 +183,11 @@
 
 
 %%%%%%%%%%%%%%%%%%%%
-\section{Arts Education}
+\section{Fine Arts Education}
 %%%%%%%%%%%%%%%%%%%%%
-\textbf{Fine Arts studies}, Portland State University, 1999-2000 \\
-\textbf{Fine Arts studies}, University of New Mexico, 1996-1997 \\
-(36 graded hours in music theory, basic piano, music history, applied music, jazz band, jazz imrpovisation) \\
+\textbf{Music studies}, Portland State University, 1999-2000 \\
+\textbf{Music studies}, University of New Mexico, 1996-1997 \\
+(36 hours in music theory, ear training, basic piano, music history, applied music, jazz band, jazz imrpovisation) \\
 \textbf{Private Lessons}, Classical guitar with Michael Chapdelaine, classical and fingerstyle master 1996-1997 \\
 \textbf{Private Lessons}, Jazz guitar with Michael Anthony, LA studio guitarist 1994-1997
 
@@ -236,10 +236,6 @@ Teacher and curriculum development specialist for {\sl Puentes}, an eight-week, 
 
 \vspace{0.9cm}
 
-{\sl Complexity Explorer Project, Portland, Oregon} \hfill 2013 \\
-(Dr. Melanie Mitchell, Director) \\
-Technical reviewer and editor for educational documents detailing some of the agent-based simulation models to be used by the Santa Fe Institute as part of their Complexity Explorer Project curriculum.
-
 {\sl Portland Public School, Portland, Oregon} \hfill 2000-2010\\
 (Toni Hunter, Grant HS;  Peg Lewis, Kellogg MS)\\
 Teacher (chemistry, foundations of physics and chemistry, forensic science (HS); math, science and health (MS)) and curriculum development specialist; author of HS curriculum entitled, \enquote{Sustainability: Transitioning to Adaptive Resilience in a Post-Carbon World}; author of spreadsheet-based, qualitative analysis curriculum; logistics manager of chemistry lab equipment and supplies; recruitment and management of student and parent volunteers. First aid, CPR, and AED trained.
@@ -249,7 +245,7 @@ Teacher (chemistry, foundations of physics and chemistry, forensic science (HS);
 Guitar and music instructor to adults and kids.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-\section {Relavant Arts Experience}
+\section {Relavant Fine Arts Experience}
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
 {\sl MOZ, Ciudad de Mexico, Mexico} \hfill 2023\\
@@ -268,25 +264,34 @@ Orquestral guitarist for the musical production of \textit{Fiddler on the Roof}.
 Orquestral guitarist for the musical productions of \textit{Godspell, Sound of Music, and Camelot}. 
 
 
-
+%% Pic 1
 \begin{tikzpicture}[overlay]
-  \node[anchor=south west] at (1,-5.5) {\includegraphics[scale=0.05]{graphics/Marron_Bass.jpeg}};  
+  \node[anchor=south west] at (0.4,-5.5) {\includegraphics[scale=0.05]{graphics/Marron_Bass.jpeg}};  
  \end{tikzpicture}
  
+ %% Pic 2
  \begin{tikzpicture}[overlay]
   \node[anchor=south west] at (7,-5.0) {\includegraphics[scale=0.11]{graphics/Marron_Photoshoot.png}};  
  \end{tikzpicture}
  
+ %% Pic 3
  \begin{tikzpicture}[overlay]
-  \node[anchor=south west] at (12,-4.8) {\includegraphics[scale=0.11]{graphics/Marron_Orchestra.jpeg}};  
+  \node[anchor=south west] at (13,-4.8) {\includegraphics[scale=0.11]{graphics/Marron_Orchestra.jpeg}};  
  \end{tikzpicture}
  
+ %% Pic 4
  \begin{tikzpicture}[overlay]
-  \node[anchor=south west] at (1,-7.5) {\includegraphics[scale=0.1]{graphics/Marron_LVTB.jpeg}};  
+  \node[anchor=south west] at (0.1,-7.5) {\includegraphics[scale=0.1]{graphics/Marron_LVTB.jpeg}};  
  \end{tikzpicture}
  
+  %% Pic 5
  \begin{tikzpicture}[overlay]
-  \node[anchor=south west] at (12,-7.5) {\includegraphics[scale=0.11]{graphics/Marron_StarfireMusic.jpeg}};  
+  \node[anchor=south west] at (7,-9.0) {\includegraphics[scale=0.03]{graphics/MOZ_CartelFinal.jpg}};  
+ \end{tikzpicture}
+ 
+ %% Pic 6
+ \begin{tikzpicture}[overlay]
+  \node[anchor=south west] at (13,-7.5) {\includegraphics[scale=0.11]{graphics/Marron_StarfireMusic.jpeg}};  
  \end{tikzpicture}
  
  
