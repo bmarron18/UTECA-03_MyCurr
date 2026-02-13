@@ -8,7 +8,8 @@ Lexile Reading Level = 930L
 352 pages; 16 Chapters
 ###############################################
 
-
+CliffNotes
+	https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
 
 %%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Mother					Daughter
@@ -68,6 +69,8 @@ The novel highlights the difficulties of communication and the misunderstandings
 %%%%%%%%% Synopsis, Vocab and Questions	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 --- A Pair of Tickets: Jing-Mei Woo (Ch. 16)
+
+
 Vocab
 Qs
 	* Does June think she is Chinese? Have her thoughts changed over time?
@@ -86,6 +89,8 @@ Qs
 
 
 ---  Double face: Lindo Jong (Ch. 15)
+
+
 Vocab
 Qs
 	* Will Waverly fit in in China?
@@ -125,7 +130,10 @@ Qs
 	* What must Lena feel about her mother's emptiness?
 	* What is Ying-Ying's plan to give her daughter spirit?
 
+
 ---  Magpies: An-Mei Hsu (Ch. 13)
+
+
 Vocab
 Qs
 	* An-Mei believes the women of her clan inherit a pre-determined trait. Do you agree?
@@ -148,13 +156,25 @@ Qs
 	
 
 
-
 Fourth Section Preamble: Queen Mother of the Western Skies
 Qs
 	* What is the woman's reflection on life while she watches the laughing baby?
-	
+
+
 
 ---  Best Quality: Jing-Mei Woo (Ch. 12)
+After a Chinese New Year's dinner, Jing-mei's mother gave her a jade pendant which she said was her "life's importance." At first, Jing-mei did not like the pendant; it seemed too big and ornate. After her mother's death, however, the pendant will begin to assume great importance to her — even though she does not really understand the meaning that her mother assigned to it. Later, Jing-mei will notice other Chinese wearing similar pendants and will ask one of them what the pendant signifies. He won't know either.
+
+Jing-mei had helped her mother shop for the crabs that she served at the New Year's dinner. That day, her mother was annoyed about the tenants living in the second-floor apartment of a six-unit building that she owns. She was especially bothered by their cat, which Jing-mei and the tenants suspect that she poisoned. Jing-mei listened patiently to her mother as she poked the crabs to find the liveliest ones. As she was spearing the live crabs from the tank, one of them lost a limb. Mrs. Woo refused to accept it because a maimed crab is bad luck for the New Year. After a lengthy discussion, the fishmonger threw it in for free. When they return home, Jing-mei watches her mother cook, but she leaves the room when Mrs. Woo begins to boil the crabs; she cannot bear to see them die.
+
+There are eleven people at the New Year's celebration. Mrs. Woo hadn't counted Waverly's daughter, Shoshana, and so she purchased only ten whole crabs. When she sees the extra person, she decides to cook the eleventh crab, the one missing a limb. At dinner, Waverly takes the best crab for her child, and Mrs. Woo ends up with the maimed one, which she doesn't eat.
+
+Waverly subtly insults Jing-mei during the dinner, mentioning her choice of hairdresser. Jing-mei retaliates by teasing Waverly about her firm's finances because the bill that Jing-mei submitted for her ad copy has not been paid. Waverly retorts that Jing-mei hasn't been paid because her work was not acceptable — a retort that reduces Jing-mei to tears. Auntie Lindo comes to Jing-mei's rescue, pleading with Waverly to let Jing-mei rewrite the material. Waverly ignores her. Jing-mei goes to wash the dishes; she is no longer angry at Waverly — she simply feels tired and foolish.
+
+Later that night, after everyone has left, Jing-mei asks her mother why she did not eat her crab. Her mother tells her that it was already dead before she cooked it, and thus it was not edible. She cooked it merely because she thought that it might still be good and because she knew that only Jing-mei would pick it, because Jing-mei would never choose the "best quality." She sees this virtue as one of Jing-mei's best qualities. Then she gives to Jing-mei her "life's importance," the jade pendant necklace.
+
+Note that the last section of this chapter is set in the present. Jing-mei is cooking dinner for her father, who has not been eating well since his wife's death. She hears the tenants upstairs and now understands her mother's former complaints. The tenant's cat appears at the window, and Jing-mei realizes that her mother did not poison it, after all.
+
 Vocab
 Qs
 	* What is June's "life's importance"?
@@ -179,8 +199,21 @@ Qs
 	
 
 
-
 ---  Without Wood: Rose Hsu Jordan  (Ch. 11)
+As a child, Rose believed everything that her mother told her. A timid youngster, she resisted sleep, fearing nightmares. Her mother told her that Old Mr. Chou guarded the door to dreams. One night, she dreamed that she was in Old Mr. Chou's nighttime garden, where he chased her through the garden, shouting, "See what happens when you don't listen to your mother!"
+
+Thirty years later, Rose's mother is still trying to make her daughter listen. They meet at the funeral for China Mary, a mother who has helped many children in the neighborhood. Rose's mother criticizes Rose for being too thin and for confiding in her psychiatrist rather than in her own mother. Later, Rose considers what her mother said. She realizes that she has been feeling confused, caught in a dark fog of conflicting emotions.
+
+Rose has been telling her friends different versions of her break-up with Ted. For example, Rose told Waverly about the physical pain of divorcing Ted; she told Lena that she feels relieved to be free of him. She told her psychiatrist that she wants revenge — yet, despite her vivid descriptions of revenge, her psychiatrist looks bored.
+
+To settle her conflicting emotions, Rose views all the possessions that she and Ted amassed during their marriage. Soon afterward, Ted sends her a check for $10,000, along with the divorce papers. Is Ted trying to trick her into accepting this money as a full settlement? Is he saying that he still loves her? Unable to decide how to handle the check and papers, Rose stuffs them in a drawer. Her mother once explained Rose's penchant for indecision by saying that Rose was "without wood." Lacking this sturdy fiber, Rose bends in all directions — she cannot stand alone, cannot take a stand for herself.
+
+Rose walks in the garden, a once-immaculate assortment of flowers and herbs, now gone wild from neglect. She then goes to bed and stays there for three days. On the fourth day, she has a nightmare about Old Mr. Chou and awakens when her mother calls her on the telephone. Ted phones and presents his demands. Anxious to remarry, he wants the divorce papers signed immediately, and he also wants the house as part of the settlement. Rose breaks into gales of laughter when she realizes that Ted has been having an affair. She invites him to come over that night, with no idea about what she is going to say.
+
+She ends up showing him the overgrown garden. As they walk through the plants, she hands him the unsigned divorce papers and announces that she will not move out of the house. That night, she dreams of her mother and of Old Mr. Chou and his garden. In the garden, she discovers her mother tending a wild sea of weeds that, she boasts, she herself planted.
+
+Vividly, this section describes how Rose finally finds her "voice," her identity, and the ability to trust herself. From early childhood, Mrs. Hsu attempted to teach her daughter to listen to her and, thus, to learn how to listen to herself. But Rose was a timid child, unsure of where to find the truth, and she grew into a timid woman, uncertain of herself and unwilling to make decisions. Eventually, her indecision frustrated her husband, and the couple grew apart. In her mother's words, Rose was "without wood," lacking both strength and substance. She rejected her mother's wisdom and looked to Americans' opinions of her.
+
 Vocab
 Qs
 	* How does Rose's mom frame her knowledge? Is it mystical?
@@ -206,6 +239,30 @@ Qs
 
 	
 --- Four Directions: Waverly Jong (Ch. 10)
+Waverly Jong takes her mother out to lunch, planning to break the news that she and Rich Schields are getting married. The lunch goes badly, however, and Waverly does not tell her mother about the upcoming marriage. Waverly is afraid of her mother's disappointment and censure. When Waverly's friend Marlene suggests that Waverly and Rich elope, Waverly explains that she eloped with her first husband, and the marriage was a disaster. Her mother threw her shoe at them — and that was just for starters.
+
+To allow her mother an opportunity to realize that Waverly and Rich are already living together, Waverly invites her mother back to her apartment. It is cluttered with her daughter Shoshana's toys and Rich's clothes and barbells. Waverly opens a closet and shows her mother the mink jacket that Richard gave her for Christmas. Mrs. Jong's comment makes Waverly feel that the gift is shabby; she makes no mention of the fact that Waverly and Rich are obviously living together. Waverly recalls another time when her mother hurt her.
+
+That time, Waverly insulted her mother on Stockton Street and hid in the alley for hours. To retaliate against her mother for bragging about Waverly's outstanding chess playing, Waverly decided to quit the game. Even that ploy, however, didn't thaw the chill between them, so Waverly returned to chess. Mrs. Jong seemed unconcerned, yet she tenderly nursed Waverly through her bout with chicken pox.
+
+Waverly realized then that she had erected a wall between herself and her mother. To her horror, Waverly began to lose tournaments. She lost her feeling of supreme confidence. She was terrified that she would no longer be a prodigy and would become someone ordinary. She quit chess for good when she was fourteen years old.
+
+Now, Waverly is afraid that her mother will point out Rich's flaws and turn him into something ordinary. This is what happened to Waverly's feelings for her first husband, Marvin Chen. Waverly concocts a plan: Her mother will cook dinner for her and Rich.
+
+At the end of the evening, Rich is sure that he has "passed the test," but Waverly knows that he failed miserably. The next day, angry at what she perceives as her mother's manipulations, Waverly decides to tell her mother that she and Rich are getting married.
+
+Her mother is kind and understanding, which puzzles Waverly and she bursts into tears. They talk and Waverly finally sees that her mother does indeed love her. She had only been waiting for Waverly to "let her in" to her world. Waverly and Rich postpone their wedding until October so that they can honeymoon in China in the cooler season. Waverly thinks it would be disastrous — yet wonderful — if her mother would go with them.
+
+Here, we see that this chapter picks up the conflict described in "Rules of the Game" — that is, Waverly's love/hate relationship with her mother. Waverly is now an adult. She is a highly successful tax attorney in a high-powered position. According to her friend Marlene, Waverly is so assertive that she does not even have a problem taking on the IRS. Nonetheless, all of that power dissolves when she has to deal with her mother. She becomes a child again in her mother's presence. Her mother seems all-powerful, and Waverly feels that she must continually prove her worth to her mother. She feels that her mother poisoned her first marriage — and, now, she will not get married again until she gets her mother's approval. She cannot even imagine eloping — even though it is her second marriage. Marlene is astonished that Waverly has difficulty telling her mother that she is getting married. Even Rich is amazed. "How long does it take to say, Mom, Dad, I'm getting married?" he asks jokingly. Because of Waverly's dependence, her mother still has the power to change Waverly's perception of reality.
+
+Waverly adores Rich. He loves her unconditionally and makes her happy in every way. "I had never known love so pure," she says. Yet when she senses that her mother does not approve of Rich, her own opinion of him sours. Rich tumbles from being a sort of god to being an animal. "He had the look of a Dalmatian, panting, loyal, waiting to be petted," she says in disgust.
+
+Tan uses a chess metaphor to explain Waverly's feelings and her battle with her mother: "In her hands, I always became the pawn. I could only run away. And she was the queen, able to move in all directions, relentless in her pursuit, always able to find my weakest spots." In addition to figuratively expressing Waverly's relationship with her mother, this metaphor also serves to unify the structure of the book. It continues the chess metaphor central to "Rules of the Game," and thus it links the two stories.
+
+Notice, however, that nowhere has Mrs. Jong directly criticized Rich: The perception of maternal disapproval is all in Waverly's mind. For example, Waverly interprets her mother's remark about Rich's freckles — which she herself elicited — as an insult. Waverly responds to her mother's remark "a bit too heatedly." Clearly she is looking for a confrontation. Similarly, the Jongs do not criticize Rich's clumsy attempt to use chopsticks or his gauche gift of wine — only Waverly does. In the same way, Rich has no way of knowing that Mrs. Jong, by tradition, criticizes her own cooking as a way of eliciting compliments. Waverly is horrified when Rich agrees with Mrs. Jong's criticism about her famous steamed pork and preserved vegetable fish. Yet, because Waverly did not brief Rich about her mother's habits, it almost seems as if Waverly was waiting for him to fail. This behavior is called a "self-fulfilling prophecy." Waverly has decided what her view of the world is, collected information to support it, and finally shared her view with others as "truth." In communicating this way, people can actually change their own behavior, and that of others, so that the result affects their own distorted view. Waverly is so busy finding fault with Rich that she does not even realize that her mother has already acknowledged their love, as well as their probable plans to marry. In a fury, Waverly rushes over to her mother's house to assert herself.
+
+What she sees amazes her. Her mother is not the monster that she imagined. Rather, the old woman seems innocent and childlike. Waverly is pulled apart by her contradictory emotions and perceptions. Recall that the title of this story is "Four Directions." Waverly has difficulty telling appearance from reality because she is pulled in different directions by her own preconceptions, misconceptions, and memories of the past. She is pulled in two directions by her Chinese heritage and American ways. Her mother realizes this dilemma: ". . . if you are Chinese you can never let go of China in your mind," she says. Her mother has been waiting for Waverly to let her in, to accept her Chinese heritage so that she can accept Waverly's Chinese-American future, symbolized by Waverly's daughter, Shoshana. At the end of the chapter, Waverly finally realizes this truth. She imagines what it might be like to travel back to China with her mother, to "move West to reach East."
+
 
 Vocab
 Qs
@@ -229,6 +286,32 @@ Qs
 
 	
 --- Rice Husband: Lena St. Clair (Ch. 9)
+Lena believes that her mother has an uncanny ability for predicting bad things that will befall the family. For example, she predicted the failure of a bank and her own husband's death. Lena worries what she will say about the house that Lena and her husband, Harold, have bought in Woodside. What will she predict about their future — based on their new home and the location and arrangement of the rooms in it?
+
+To compound the problem, Lena and Harold are having marital difficulties. At present, the problems are manifesting themselves in a quarrel over who should pay for the cat's flea treatment.
+
+When mother and daughter arrive at the house, Mrs. St. Clair is clearly astonished at the enormous amount of money that her daughter and son-in-law paid for the house. Beneath the fancy architectural details, she sees clearly that the house was vastly overpriced — whereupon Lena remembers an incident from her childhood.
+
+To coax eight-year-old Lena to finish her food, Mrs. St. Clair told her that her future husband would have one pockmark for every grain of rice that the child did not eat. Little Lena immediately thought of Arnold, a cruel twelve-year-old boy in the neighborhood, who was indeed pockmarked. She quickly finished her rice. The possibility of Arnold being her future husband became a fearful obsession. She hated Arnold so much that she found "a way to make him die." After seeing a movie about lepers in Africa, Lena gradually stopped eating.
+
+One morning when Lena was thirteen, her father read a newspaper article about Arnold's dying of measles. Lena felt that she was somehow responsible for his death. That night, she gorged herself with ice cream. Later, she vomited it up. Her mother discovered her shivering out on the fire escape, hugging the ice cream carton.
+
+Today, Lena knows that she did not cause Arnold's death, but, nonetheless, she feels that she is still being punished. After all, she concludes, she married Harold — not a perfect match.
+
+Initially, Harold Livotny and Lena worked at the same architectural firm, Livotny & Associates. Harold was a partner; Lena, an associate. Lena convinced Harold to start his own firm. He was unwilling to accept money from her to do so, but he did suggest that she move in with him and pay $500 rent — even though the actual rent was $435. She agreed.
+
+The business got off to a rocky start, but with Lena's support and excellent ideas, the firm prospered. Today, Harold makes seven times the amount of money that Lena does, but they still split almost all the expenses down the middle. They have established a detailed, simplistic way to account for their living expenses. Lena's mother is astonished by this detailed accounting. That night, Harold is surprised to learn from Mrs. St. Clair that Lena does not like ice cream. Heretofore, he's always made Lena pay fifty-fifty for the ice cream. He's never noticed that Lena never ate any.
+
+After her mother goes to bed, Lena initiates an argument with Harold about the way they live. She attempts to redefine their marriage. The argument is interrupted by the sound of glass shattering. The rickety table that Harold designed and made has collapsed and broken a vase in the bedroom where Lena's mother is staying. Upstairs, Lena tells her mother that she knew it would break; her mother asks her, if you knew that this was going to happen, why didn't you do something about what was obviously inevitable?
+
+The table that Harold made as an architectural student is a symbol for Lena and Harold's marriage. Like their relationship, the table is rickety and badly designed — ready to collapse with the slightest provocation. Harold is as oblivious to the table's bad design as he is to the disintegration of his marriage. This fact is evident by the ice cream incident. Harold continues to buy ice cream every week and never notices that Lena never eats any of it. He has no idea that she hates it and that it makes her nauseous. When Mrs. St. Clair points this fact out, Harold completely misinterprets what she is saying. He thinks that she's commenting on Lena's skinny body, that she's made a joke.
+
+Harold is similarly oblivious to the inequality in his relationship with Lena. Under the guise of such modern cliches as "false dependencies," "love without obligation," and "equality," Harold has designed a situation where it's clear to us that Lena has gotten a raw deal. She was co-founder of his architectural firm, providing not only seed money through the rent, as well as constant moral support, but also the creative ideas for the projects. She is the one who thought up the firm's specialty — "theme eating" — which became the underpinning of the business. Yet Harold refuses to recognize her contributions. Indeed, he deliberately prevents her from sharing financial success because he insists on avoiding "favoritism." Lena feels enormous resentment. She likens her husband to Arnold, the pockmarked boy who tormented her as a child. Here, note the similarity between the names "Arn-old" and "Har-old." Finally, Lena regards her husband as another form of punishment that she must endure.
+
+Lena, however, has had problems asserting herself for a long time. As a child, she tried to control her life by restricting the amount of food that she ate. By the time she was a teenager, her obsession with food had turned into anorexia. People who suffer from this condition starve themselves — sometimes to death. It's overwhelmingly a disease of teenage girls.
+
+Lena is still starving herself. She is so thin, in fact, that her mother complains that she has become "so thin now you cannot see her. She like a ghost, disappear." Harold doesn't notice this, either. Lena tries to blame her inability to assert herself on her background. Being Chinese-American, she thinks, makes her "naturally" timid and prone to having feelings of guilt. Rose, her friend, will have none of this rationalization. Rose says, "Why do you blame your culture, your ethnicity?" Lena suggests that it's a problem that all women of her generation face. "I was reading an article about baby boomers, how we expect the best and when we get it we worry that maybe we should have expected more, because it's all diminishing returns after a certain age," she says. Her mother provides the solution: "Then why don't you stop it?" She is referring, of course, to both the table and the marriage. The table was sure to collapse; the marriage seems doomed to fail. "It's such a simple question," Lena realizes. Yet she backs off from saying what must be said. She initiates the fight with Harold but collapses into tears before she can fully make her point. Like a ghost, she lacks the strength to save herself.
+
 
 Vocab
 Qs
@@ -263,6 +346,16 @@ Qs
 	* How is the mirror location resolved?
 
 --- Two Kinds: Jing-Mei Woo (Ch. 8)
+To Jing-mei's mother, America is the Land of Opportunity. She has high hopes that her daughter will be a great success as a prodigy. She's not precisely sure where her daughter's talents lie, but she is sure that her daughter possesses great ability — it is simply a matter of finding the right avenue for Jing-mei's talents. First, Mrs. Woo tries to mold her daughter into a child actress, but that doesn't work. Then she tries intellectual tests clipped from popular magazines. Jing-mei doesn't show promise in this area, either. Finally, Mrs. Woo hits upon the answer: Jing-mei will be a piano virtuoso.
+
+Mrs. Woo trades housecleaning services for Jing-mei's piano lessons from Mr. Chong, an elderly piano teacher, who is deaf and whose eyes are too weak to tell when Jing-mei is playing the wrong notes. Mr. Chong's efforts are so sincere that Jing-mei picks up the basics, but she is so determined not to cooperate that she plays very badly.
+
+One day, the Woos meet Lindo Jong and her daughter Waverly. Mrs. Jong brags about Waverly's success as a chess prodigy. Not to be outdone, Jing-mei's mother brags about her daughter's "natural pride," and the young girl immediately becomes even more determined than ever to thwart her mother's ambitions.
+
+Continuing to clean houses, Mrs. Woo scrapes together enough money to buy a secondhand piano. A few weeks later, Jing-mei participates in a talent show in a church hall. All the couples from the Joy Luck Club come to her piano debut. Although she has not practiced and does not know the music, Jing-mei has come to believe that she is indeed a prodigy. Halfway through the song, though, she begins to realize how badly she is playing. The weak applause and her parents' disappointed looks reveal the unmistakable truth: Jing-mei is not a musical prodigy.
+
+As a result, Jing-mei is shocked when her mother expects her to continue practicing. During the ensuing quarrel, Jing-mei shouts the most hateful thing she can summon: "I wish I'd never been born! I wish I were dead! Like them!" At the mention of the twin daughters in China that she was forced to abandon years ago, Mrs. Woo suddenly retreats and never mentions the piano again. As a result, Jing-mei is shocked when her mother offers her the piano as a thirtieth birthday present. Only after her mother's death can Jing-mei accept the piano. As she is packing her mother's things, she sits down to play the piano for the first time in many years.
+
 
 Vocab	
 Qs
@@ -280,7 +373,29 @@ Qs
 	* Later in life June realizes that she easily lets herself fall short of expectations. Why?
 	* Years later Lindo offers June the piano. At June rejects the offer but ultimately accepts and in so doing has a revelation. WHat happens?
 
+
+
 --- Half and Half: Rose Hsu Jordan (Ch. 7)
+Rose's mother used to carry a Bible. When she lost her faith, she used the Bible to steady the short leg of the kitchen table. The Bible has remained under the table leg for twenty years.
+
+Tonight, Rose has come to tell her mother that she and her husband, Ted, are getting a divorce. She dreads telling her mother. Rose met Ted Jordan seventeen years ago at the University of California at Berkeley. Initially, she was drawn to his brash, self-assured nature; he was very different from the Chinese boys whom she dated. Rose's mother, Mrs. Hsu, was displeased about the budding relationship because Ted was not Chinese, and Ted's mother, Mrs. Jordan, was displeased because Rose was not American — she was Chinese. At a family picnic, Mrs. Jordan took Rose aside and confided that Ted's future did not include a wife who was a member of a minority race.
+
+Hurt and infuriated by Mrs. Jordan's racism, Rose broke up with Ted that evening. Later, they reconciled and were married a month before Ted started medical school. After his graduation, they bought a home, and Rose set up a freelance graphic arts business. Ted made all the decisions in their lives — from what to eat to where to vacation. The marriage was steady until Ted lost a malpractice suit; afterward, he began to press Rose to make some of her own decisions. The marital break came while he was attending a medical convention in Los Angeles. He called late at night and demanded a divorce. Rose lost all faith in Ted's love for her.
+
+She recalls when her own mother lost her faith. One day many years ago, the entire family — parents and seven children — had gone for a day at the beach. Rose was assigned the care of her four brothers — Matthew, Mark, Luke, and Bing. The three elder boys could amuse themselves, but Bing was only four years old and difficult to amuse. Momentarily distracted, Rose's eyes left Bing and he fell into the ocean and drowned.
+
+Everyone took the blame for the tragedy. The next day, Mrs. Hsu returned to the beach with Rose to find Bing. With her Bible in hand, she implored God to return Bing. She even threw her own mother's blue sapphire ring into the ocean as a sacrifice. Finally, with utter despair and horror, she seemed to accept Bing's death.
+
+Rose knows now that her mother never really expected to find Bing — just as she herself knows that she can never save her marriage even though her mother tells her that she must try. She looks into the Bible and discovers that her mother has entered Bing's name under "Deaths" — inscribing it gently, in erasable pencil.
+
+By now you should realize that Tan uses the titles of these various stories to link themes and convey meaning. The title of this particular story, "Half and Half," can be understood on a number of levels, as can the titles that we have encountered so far. As a couple, Ted and Rose are "half and half" — part American, part Chinese. In some instances, a dual heritage can be a source of strength, but not in this particular instance. Together, Rose and Ted do not "fit" into either culture. They are shunned by his mother, who mistakes Rose for Vietnamese instead of Chinese. Later, she cries bitterly at the wedding, convinced that her son is marrying beneath his social status.
+
+Unlike Mrs. Jordan, Mrs. Hsu is no racist — she is just wary of the foreigner. Cut off from their heritages, Rose and Ted do not unite to create something new, something upon which to build. The Joy Luck Club explores the importance of understanding one's heritage as a way of affirming identity. Without her heritage, Rose is like a ghost. Lacking substance, she can but twist in the wind of her husband's decisions and demands.
+
+When Ted abruptly withdraws his support, she is left without balance. "You can't have it both ways, none of the responsibility, none of the blame," Ted screams at Rose. Like Mrs. St. Clair in the previous section, Rose is thrown "off balance." She has nothing to trust — not her husband, not her mother, not even God. There is nothing to prevent her from losing her balance again. "Even if I had expected it, even if I had known what I was going to do with my life," she says, "it still would have knocked the wind out of me." Rose is like the wind; she has no substance.
+
+In contrast, Mrs. Hsu is firmly grounded. Initially, she was supported by her faith. She attended the First Chinese Baptist church every Sunday — until Bing died and she lost her faith. After Bing's death, her Bible becomes a physical, rather than spiritual, prop — a wedge to shore up a rickety table. Ironically, the Bible is still fulfilling its original purpose — "correcting the imbalances of life." On the surface, it seems that Mrs. Hsu is just being practical; after all, why waste a perfectly good Bible? But even twenty years later, the cover is still "clean white," showing that she hasn't wholly discounted the power of religion to buttress her life. This condition is affirmed when Rose opens the Bible and sees that her mother has entered Bing's name in "erasable pencil." This entry is proof that when she made the entry, she didn't believe that Bing was really dead. She was still hoping that he might return through the power of faith. Even now, she has not reentered his name in ink.
+
 
 Vocab
 Qs
