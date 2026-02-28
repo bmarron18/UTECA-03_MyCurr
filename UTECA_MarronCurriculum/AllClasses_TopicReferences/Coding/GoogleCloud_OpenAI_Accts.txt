@@ -1,0 +1,57 @@
+
+###########
+OpenAI Acct
+###########
+OpenAI Platform
+https://auth.openai.com/log-in
+
+marron.bruce.mx@gmail.com
+Log in with Google
+
+47Co59*LuPM18
+
+############
+Google Cloud Acct
+################
+
+marron.bruce.mx@gmail.com
+18AV1dd*67R
+
+Payments account ID
+5419-4456-1299-7896
+
+Payments account nickname
+Google Cloud 01D4ED-4CA1A4-41985D
+
+Payments profile ID
+0942-7649-0810
+
+Country/Region
+Mexico (MX)
+
+Account type
+Individual
+
+Name
+Bruce Marron
+
+Address
+    Priv Aurora 27
+	Int 5
+	Villa Coyoacan, Coyoacan
+	04010 Ciudad de Mexico Mexico
+
+Payment
+Visa •••• 3561
+Expires 05/27
+
+Mexico tax info
+	Tax status
+		Personal
+	RFC
+		MABR5903193S6
+	Tax Regime
+		Régimen Simplificado de Confianza
+		Cedula_SAT_ConstanciaFiscal_Jan2025.pdf		<== Uploaded your Mexican tax certificate
+
+

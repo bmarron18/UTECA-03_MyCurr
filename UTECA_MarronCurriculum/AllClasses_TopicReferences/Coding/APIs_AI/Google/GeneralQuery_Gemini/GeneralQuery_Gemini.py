@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Sep 12 11:20:22 2025
-Updated: 26 Jan 2026
+Updated: 28 Jan 2026
 @author: bmarron / Gemini 3 Flash Preview/
 
 """
@@ -10,7 +10,7 @@ Updated: 26 Jan 2026
 
 # %%
 
-### Translation of mime-type = "text/plain" files ####
+### input/output of mime-type = "text/plain" files ####
 
 '''
 This script will:
@@ -73,49 +73,98 @@ response = client.models.generate_content(
 print(response.text)
 
 
-# %%
-
-'''
-Sample Outputs
-'''
-
-Ahoy, me little matey, close yer peepers and dream of a grand unicorn \
-whose horn shines brighter than any buried treasure, guidin' ye through \
-the starlit seas of slumber 'til mornin's light.
 
 
-Once the moon rose high o'er the yardarm, the majestic unicorn tucked its shimmerin' \
-horn under a blanket of starlight and dropped anchor in the land of dreams, so close \
-yer eyes and rest, ye tiny bilge-rat.
-
-
-# %%
-'''
-Read a .pdf file and output to .txt file
-(If needed)
-'''
- # extract text preserving horizontal positioning without excess vertical
- # whitespace (removes blank and "whitespace only" lines)
- # "a" is append
-
-from contextlib import chdir
-from pypdf import PdfReader
-
-
- # change pdf name
-#with chdir('/home/bmarron/Desktop'):
-with chdir('/home/bmarron18/Desktop'):
-    reader = PdfReader("science.pdf")
-    for page_num in range(len(reader.pages)):  # short articles
-    #for page_num in range(8):                   # books
-        page = reader.pages[page_num]
-        with open("VocabDump.txt", "a") as f:
-            print(page.extract_text(), file=f)
 
 # %%
 
 '''
-Translate content of .txt files
+Basic user prompts
+    * returns UTF-8 output as .txt
+    * output may be requested as any accepted MIME type file
+
+'''
+
+from google import genai
+from google.genai import types
+from pathlib import Path
+import os
+
+
+#--- API Key ---------------------
+    # API_KEY is saved as an ENV VARIABLE on home compu
+    # (See "Info_Gemini_API.txt for procedure)
+
+gemini_api_key = os.getenv("GEMINI_API_KEY")
+client = genai.Client(api_key=gemini_api_key)
+
+
+# --- Prep Files, and Define Files and File Paths -------
+  
+   # OUTPUT_FILE 
+       #==> will hold the Response from the AI
+       #==> this file will be generated automatically by Python
+OUTPUT_FILE = "Gemini_OutputResponse.txt"
+
+
+    # Set up the file paths for the INPUT_FILE and the OUTPUT_FILE
+    # Set the file path to your Desktop
+    # Path() represents file+directory paths in a platform-independent manner.
+    
+doc_to_print = OUTPUT_FILE
+doc_dir = "/home/bmarron18/Desktop"
+
+
+    # create paths to files
+    # Retrieve files as PosixPaths
+output_filepath = os.path.join(doc_dir, doc_to_print)
+output_f = Path(output_filepath)
+
+
+
+#--- The API call to the AI
+    # ==> modify "prompt" (user level) as needed
+    # ==> modify "system instruction" (behavior) as needed
+    
+
+prompt = "Translate the following English text into standard, natural, \
+        and fluent Spanish. Maintain all specific formatting (line breaks, \
+        indents, spaces, paragraphs).Do not translate Chinese characters"
+
+
+response = client.models.generate_content(
+    model="gemini-3-flash-preview",
+    config=types.GenerateContentConfig(
+        system_instruction="You are an expert linguist \
+            specializing in translation. Maintain the original \
+            meaning and tone. Provide ONLY the requested translation without \
+            any additional commentary, introductory phrases, other language \
+            translations or conversational remarks."),
+
+     contents=[prompt]
+    )
+
+
+
+#--- Output from AI (response.text) ---
+
+    # Send to OUTPUT_FILE
+GeminiOutput = response.text
+
+    # Options for encoding: utf-8, Latin-1
+with open(output_f, "w", encoding="utf-8") as f:
+     f.write(GeminiOutput)
+     
+print(f"Translation complete! Translated text saved to '{output_f}'.")
+
+
+
+# %%
+
+THIS NEEDS WORK!!
+
+'''
+Read the content of .txt files for elaborate user prompts
     * returns UTF-8 output
     * output may be requested as any accepted MIME type file
 
@@ -143,14 +192,13 @@ client = genai.Client(api_key=gemini_api_key)
 
 # --- Prep Files, and Define Files and File Paths -------
     # INPUT_FILE
-        #==> this is the .txt file (T)o (B)e (T)ranslated
+        #==> this is the .txt file with the prompt
         #==> ADD quotation marks to the begiining and end of the INPUT_FILE 
-        #==> Move .txt file (T)o (B)e (T)ranslated to the Desktop
+        #==> Move .txt file to the Desktop
  
    # OUTPUT_FILE 
-       #==> will hold the (T)ranslated text from the AI
-       #==> this file will be generated automatically by Python after \
-       # the translation is complete
+       #==> will hold the Response from the AI
+       #==> this file will be generated automatically by Python
    
     
     # Name the INPUT_FILE and OUTPUT_FILE
@@ -159,8 +207,8 @@ client = genai.Client(api_key=gemini_api_key)
         # ==> OUTPUT_FILE can be any of the Document types available for \
         # Gemini output (see header of this script)
     
-INPUT_FILE = "Gemini_Doc-English_TBT.txt"  
-OUTPUT_FILE = "Gemini_Doc-Spanish_T.txt"
+INPUT_FILE = "Gemini_DetailedUsrPrompt.txt"  
+OUTPUT_FILE = "Gemini_OutputResponse.txt"
 
 
     # Set up the file paths for the INPUT_FILE and the OUTPUT_FILE
@@ -169,7 +217,7 @@ OUTPUT_FILE = "Gemini_Doc-Spanish_T.txt"
     
 doc_to_translate = INPUT_FILE
 doc_to_print = OUTPUT_FILE
-doc_dir = "/home/bmarron/Desktop"
+doc_dir = "/home/bmarron18/Desktop"
 
 
     # create paths to files
@@ -181,17 +229,6 @@ input_f = Path(input_filepath)
 output_filepath = os.path.join(doc_dir, doc_to_print)
 output_f = Path(output_filepath)
 
-
-
-#--- Read and process file to be translated ---
-    # File UPLOADED to Google
-    # (NOT recommended)
-'''
-uploadedfile = client.files.upload(
-    file=input_f,
-    config=dict(mime_type='text/plain')
-    )
-'''
 
     # File NOT UPLOADED to Google
 
@@ -230,11 +267,6 @@ response = client.models.generate_content(
 
 #--- Output from AI (response.text) ---
 
-   # Send to IPython window
-#print(response.text)
-
-
-
     # Send to OUTPUT_FILE
 GeminiOutput = response.text
 
@@ -243,8 +275,3 @@ with open(output_f, "w", encoding="utf-8") as f:
      f.write(GeminiOutput)
      
 print(f"Translation complete! Translated text saved to '{output_f}'.")
-
-
-
-
-# %%

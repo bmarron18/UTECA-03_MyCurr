@@ -2,26 +2,31 @@
 # -*- coding: utf-8 -*-
 """
 Created on 12 Oct 2025
-Revised: 17 Oct 2025
+Revised:27 Jan 2026
 
 @author: bmarron
 """
 
+=====   [Installations / Activations ] ===================
 
 # %%
 
-=====   [Installations / Activations / Preparations] ===================
-
+###################
+PART III
+Setup/Configuration 
+of Major Components
+on Local Compu
+(Windows, Linux/MacOS)
+####################
 
 # %%
-
 '''
 ** Install Spyder ****
 '''
 
 	- Go to https://www.spyder-ide.org/
 	- Spyder will automatically detect your OS and suggest a download
-	- Let the installer decide where to install Spyder OR define a simple location.
+	- Let the installer decide where to install Python 3.13.7 - Aug. 14, 2025Spyder OR define a simple location.
 
 
 # %%
@@ -30,7 +35,8 @@ Revised: 17 Oct 2025
 ** Verify the Spyder installation ****
 '''
 	- Open a (regular) terminal and go to your home directory
-		> cd C:\Users\<your_user_name>\			<== Windows
+    
+		> cd C:\Users\<your_user_name>\		<== Windows
 		
 		$ cd ~								<== Linux/MacOS
 		
@@ -43,19 +49,19 @@ Revised: 17 Oct 2025
     
 # %%
 '''
-** Install Python 3.13 ****
+** Install Python 3.14.2 ****
 '''
 	- Follow the instruction in this website (Windows and MacOS)
 		https://www.python.org/downloads/
 		
         
-        Python 3.13.7 - Aug. 14, 2025
+        Python 3.14.2
             Download Windows installer (64-bit)			<== Windows
 			Download macOS 64-bit universal2 installer	<== MacOS
 			
         
         
-		Stable Releases
+		Linux Stable Releases
 		----------------
 		sudo apt update &&								<== Linux
 		sudo apt upgrade $$
@@ -69,11 +75,14 @@ Revised: 17 Oct 2025
 '''
 ** Verify "pip" installed ("pip" is a Python package manager) ****
 '''
-	- pip should already be installed with Python 3.13.7
-	- Open a terminal and go to the top of the filesystem
-		> cd\
-		> pip --version		<== Windows
+	- pip should already be installed with Python
+    
+	- Open a terminal and go to the top of the filesystem (for all oprating systems)
+    
+		> cd\             <== Windows
+		> pip --version		
 		
+        
 		$ pip --version		<== Linux/MacOS
 			(eg, pip 25.2 from /home/bmarron18/.local/lib/python3.10/site-packages/pip (python 
 			3.10)
@@ -83,9 +92,8 @@ Revised: 17 Oct 2025
 
 # %%
 '''
-    Upgrade to latest pip
+    Upgrade to latest version of pip
 '''	
-
 	
 		> python -m ensurepip --upgrade				<== Windows
 
@@ -97,7 +105,8 @@ Revised: 17 Oct 2025
 ** Verify "virtualenv" package installed  ****
 '''
 
-	- search (and pipe the output to a file on the Desktop)
+	- search and then pipe the output to a file on the Desktop
+    
 >C:\> dir /b/s virtualenv.exe									<== Windows
 >C:\Users\<you>\...\python313\site-packages\virtualenv\virtualenv.exe
 
@@ -107,8 +116,9 @@ $ sudo find ./ -name "*virtualenv*" -type d >> ~/Desktop/test.txt	<== Linux/MacO
 ./.local/lib/python3.10/site-packages/virtualenv-20.34.0.dist-info
 
 # %%
-'''
+
 ################################################
+PART IV
 Create
 	(ai-apis)			<== a separate, virtual environment in python for 
                         handling the AI APIs
@@ -120,7 +130,7 @@ Install into (ai-apis)
 	jiter			<== A standalone version of the JSON parser
 	nltk 			<== Natural Language Toolkit
 ###################################################################
-'''
+
 
 # %%
 
@@ -130,9 +140,11 @@ Install into (ai-apis)
     using the command "venv"
 '''
 
-								<== in Windows use python 3.13 in (ai-apis)
+								<== in Windows use latest downloaded Python in (ai-apis)
 								<== NB. in (ai-apis) will see all python distros available on compu 
-> cd \...\AppData\Local\spyder-6\...\env\
+
+
+> cd \...\AppData\Local\spyder-6\...\env\       <== Windows
 > python -m venv ai-apis
 
 
@@ -189,11 +201,13 @@ $
 
 '''
 Set Spyder to run in (ai-apis)
+'''
 
-NB change the .exe file from "ipython.exe" to "python.exe"
+OJO!!!!!!
+Change the .exe file from "ipython.exe" to "python.exe"
 in >C:\Users\<you>\...\ai-apis\Scripts
 
-'''
+
 Follow the instructions given here:
 https://docs.spyder-ide.org/5/faq.html#using-existing-environment
 	Q. How do I get SPyder to work with my existing pkgs/env?
@@ -211,7 +225,7 @@ https://docs.spyder-ide.org/5/faq.html#using-existing-environment
 		-- open the "Scripts" OR "bin" directory and select
 			--- find the "ipython3" icon  	<== Windows
             --- once the path is listed in the "Selected Interpreter" field,
-            change "ipython3" to just "python3"  <== Windows
+                change "ipython3" to just "python3"  <== Windows
             --- find "python3.11" icon	<== Linux
 		-- at the bottom of the window clic 'Apply' and then 'OK
 		-- close the "Preferences" window
@@ -220,7 +234,7 @@ https://docs.spyder-ide.org/5/faq.html#using-existing-environment
 		-- find the tab that says, "Console 1/a"
 		-- close the tab by clicking on the "X"
 		-- Spyder will try to re-start Python using
-			"Python 3.13.7"	<== Windows/MacOS
+			"Python 3.14.2"	<== Windows/MacOS
 			"Python 3.11.0rc1" 	<== Linux
 
 ** Verify Spyder is operating in (ai-apis) ****
@@ -229,7 +243,12 @@ https://docs.spyder-ide.org/5/faq.html#using-existing-environment
 
 
 # %%
+##########
+PART VI
+Run API scripts in Spyder
+###########
 
+# %%
 '''
 ** You are now ready to access the NLTK and the APIs! ****
 '''
