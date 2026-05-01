@@ -1,0 +1,187 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-2
+Materia: 		Inglés X
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A
+
+
+#####################
+Final Exam [Due: Final Exam Week]
+
+The final exam is a take-home exam. It consists solely in two tasks: i) generating a professional resume/CV, and ii) writing a cover letter for a job that you are interested in. Your resume/CV must be a professional document produced with the help of an Overleaf template. That is, your resume will be built in LaTex using the Overleaf website and downloaded as a .pdf file. It is recommended that you save a copy of the .tex file for your records. Your cover letter must be a professionally formatted document that follows the general guidelines for cover letters and is geared to a specific position at a specific organization. You may select a job post from an online job site or select a desired position from an organization that you are interested in working for.  Both documents must be written in English. For more information, see the attached document, "FinalExam_Marron_Ingles-X.pdf"
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+#################
+The Tao Te Ching
+	-- Lao Tzu
+##################
+https://taoism.net/tao-te-ching-online-translation/
+	
+第七章				Chapter 7
+天長地久				Heaven and Earth are everlasting
+天地所以能長且久者		  The reason Heaven and Earth can last forever
+以其不自生			Is that they do not exist for themselves
+故能長生				Thus they can last forever
+是以聖人				Therefore the sages:
+後其身而身先			Place themselves last but end up in front
+外其身而身存			Are outside of themselves and yet survive
+非以其無私邪			Is it not due to their selflessness?
+故能成其私			That is how they can achieve their own goals
+
+
+第八章				Chapter 8
+上善若水				The highest goodness resembles water
+水善利萬物而不爭		Water greatly benefits myriad things without contention
+處眾人之所惡		  It stays in places that people dislike
+故幾於道			   Therefore it is similar to the Tao
+居善地				Dwelling with the right location
+心善淵				Feeling with great depth
+與善仁				Giving with great kindness
+言善信				Speaking with great integrity
+正善治				Governing with great administration
+事善能				Handling with great capability
+動善時				Moving with great timing
+夫唯不爭				Because it does not contend
+故無尤				It is therefore beyond reproach
+
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+** Resumes
+** Job Sites and Tracking
+** Cover Letters
+	A cover letter is a one-page document sent with a resume to introduce you to a potential employer, express your interest in a specific job, and highlight why you are a strong candidate. It serves as a personal introduction, allowing you to elaborate on your relevant skills, experience, and motivations beyond the bullet points on a resume. Unlike a resume, it provides space to showcase your personality, soft skills, and passion for the role and company culture.
+
+
+--- New
+
+** Exam 3P (Fri)
+
+
+** Interviews
+Suggestions from Columbia University 
+	(a private Ivy League research university in New York City, New York)
+
+(1) Things to do Before, During, and After Your Interview
+https://www.careereducation.columbia.edu/resources/things-do-during-and-after-your-interview
+
+
+(2) Be prepared for the follow-ups
+	1. Second round interviews
+	2. "Take-Home exam" [see my DEQ responses; Submitted_QuestionResponses folder]
+
+
+(3) The Second Interview
+	https://www.careereducation.columbia.edu/resources/you-got-second-interview-now-what
+ 
+
+** Finish "Brave New World" by Aldous Huxley
+	Summaries and Topics
+		Student responses
+		“UTECA_StudyGuide_Brave-New-World.txt.
+	
+###########
+Chapter 13
+(p 148)
+###########
+Summary:
+Lenina is confused by her strong feelings for John and decides to visit him and show her desire openly, as her society teaches. John declares his love in romantic terms and speaks of marriage, which she finds strange. When Lenina tries to seduce him, he becomes upset, calls her terrible names, and demands she leave. A call then comes about Linda’s condition, pulling John away.
+
+Major Topics:
+- Eros vs. conditioning: Lenina’s scripted sexuality collides with John’s ethics of commitment, dramatizing incommensurable erotic grammars.
+- Consent and misrecognition: Each reads the other through incompatible cultural codes, showing how desire becomes coercive when language and norms diverge.
+- Pathology of intimacy: A society that dissolves bonds cannot metabolize refusal, turning a private encounter into crisis.
+
+############
+Chapter 14
+(p 159)
+############
+Summary:
+John goes to the Hospital for the Dying to see Linda. The ward is calm, bright, and full of children being conditioned not to fear death. Linda is drugged and mistakes John for someone else, then dies without recognizing him. The nurses are more worried about upsetting the children than about John’s grief. When the children mock, John lashes out in anger and sorrow.
+
+Major Topics:
+- Managed dying: The hospital’s cheerful efficiency eradicates mourning, reducing death to a hygienic endpoint in a service pipeline.
+- Deconditioning grief: Children’s field trip through the ward normalizes death as spectacle, severing compassion from experience.
+- Maternal bond as resistant affect: John’s grief testifies to attachments irreducible to utility, indicting the system’s affective poverty.
+
+############
+Chapter 15
+(p 167)
+############
+Summary:
+Leaving the hospital, John sees Deltas lined up for their daily soma. He tries to stop them, calling the drug a poison and throwing the ration out the window. A riot breaks out. Helmholtz arrives and sides with John, while Bernard hesitates, torn between fear and loyalty. Police use calming tools and more soma to end the chaos. John, Helmholtz, and Bernard are arrested.
+
+Major Topics:
+- Freedom against pharmacology: John’s attack on soma distribution dramatizes the conflict between negative liberty and chemically enforced contentment.
+- Crowd pacification technologies: Musical and chemical tools model a politics of sedation rather than persuasion.
+- Revolutionary rhetoric’s limits: Without institutional pathways, moral appeals devolve into riot and are easily neutralized.
+
+###########
+Chapter 16
+(p 174)
+############
+Summary:
+Mustapha Mond interviews John, Bernard, and Helmholtz. Mond explains why the World State sacrifices art, science, and truth to keep people stable and happy. He tells the story of a failed experiment where only Alphas ran a society, which collapsed, proving that not everyone can be at the top. Mond offers exile to Bernard and Helmholtz. Bernard panics and begs to stay, while Helmholtz calmly accepts and even prefers a harsh island to sharpen his writing.
+
+Major Topics:
+- Manufactured necessity of hierarchy: The Cyprus experiment rationalizes caste stratification by staging the failure of equality, turning contingency into “proof.”
+- Censorship of science: The Controller’s admission that inquiry is curtailed reveals stability’s dependence on strategic ignorance.
+- Islands as heterotopias: Exile communities function as pressure valves, preserving dissent in quarantine to protect the core.
+
+############
+Chapter 17
+(p 183)
+#############
+Summary:
+Mond and John speak alone about God, freedom, suffering, and the need for struggle. Mond argues that comfort, youth, and safety make old ideas of religion and tragedy unnecessary and dangerous. John insists that real humanity requires difficulty, risk, and the chance to make mistakes. He refuses the easy life, saying he wants the freedom to face pain and be fully human.
+
+Major Topics:
+- The right to be unhappy: The ethical claim for danger, uncertainty, and suffering challenges utilitarian metrics of the good.
+- Secular theodicy of technocracy: The Controller justifies evil (boredom, banality) as the price of stability, substituting administrative calculus for metaphysics.
+- Asceticism vs. managed pleasure: John’s embrace of hardship asserts value in constraints and striving, framing meaning as earned rather than dispensed.
+
+
+###########
+Chapter 18
+(p 191)
+###########
+Summary:
+John withdraws to a lighthouse to live simply and punish himself for what he sees as his sins. He farms, prays, and whips himself to seek purity and control. Reporters and crowds soon discover him and turn his acts into a show. When Lenina appears, the scene becomes wild, leading to a mass frenzy that John later regrets bitterly. Overcome with guilt and despair, he takes his own life.
+
+Major Topics:
+- Spectacle devours resistance: John’s retreat becomes media content, proving the culture’s capacity to commodify even renunciation.
+- Self-punishment and purity: Ascetic violence seeks to cleanse desire but reproduces the very sensationalism it rejects, trapping John in the gaze he flees.
+- Tragic autonomy: Suicide marks the catastrophic collision between a will to meaning and a system that renders meaningful life socially unintelligible.
+
+
+
+--- Coming up
+		
+
+
+
+
+
+
+
+

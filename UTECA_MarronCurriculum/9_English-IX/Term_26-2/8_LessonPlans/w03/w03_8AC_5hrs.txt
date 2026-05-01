@@ -1,0 +1,293 @@
+							LESSON PLAN  (5 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-2
+Materia: 		Inglés VIII
+Curso:		IT0835
+Licenciatura: 	Interpretación y Traducción
+Grupo:		8AC
+
+
+#####################
+HW_03 [Due: 04 Feb 2026]	
+
+
+--- Task 1
+Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format as defined in the document, "Marron_English-VIII-StyleGuide.pdf". The basic outline is as follows:
+
+	Task 1: A Critique of G. Pullum's, "Land of the Free"
+
+Introduction					
+
+Evaluation of Pullum's Criticisms		
+	* Pullum Criticism #1	
+	* Pullum Criticism #2	
+		
+Conclusions						
+
+
+--- Task 2
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of words from the first part of Charlotte's Web.
+
+
+--- Task 3
+Read Chapters VII through XI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+Ultimately, you will write a full critique of this novel.
+
+NB. Marron's modified APA format applies to all homework assignments (See Marron_English-VIII-StyleGuide.pdf in Reference Docs folder). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date, unless duly noted. Students should save copies of all assignments in PDF format.
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+Sustainable development is the pathway to the future we want for all. It offers a framework to generate economic growth, achieve social justice, exercise environmental stewardship and strengthen governance. 			
+			--- Ban Ki-moon
+			(Eighth Secretary-General of the United Nations)
+
+NB. "Our Common Future", also known as the Brundtland Report, was published in October 1987 by the UN. Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime Minister and Chair of the World Commission on Environment and Development.
+
+
+
+Writing is an act of faith, not a trick of grammar. 
+		-- E. B. White
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+** Grading
+	Good job! 
+	Grading Rubric
+	Common Errors doc
+		Grammar
+			==> ErrorCodes
+
+	Know what is asked of you
+	Format counts
+		
+	Not focused on marketing
+	Summarizing is not outlining or regurgitating
+	"We"
+	
+	Widows/Orphans
+	Number conventions one to ten
+	Distinctive writing styles in the same document
+	
+	Note: Please see me during work time for a detailed explanation and suggested amendments.
+
+	
+
+--- Review
+
+*Language models
+	Standard Model for linguistic Analysis (Konrod)
+		Phonetics 
+			==> language sounds
+			==> phonemes, smallest unit of linguistic analysis, which are usually combined into words.
+			==> articulation can change the meaning of a word
+			
+		Morphology / Semantics
+			==> significant roles in constructing meaning (e.g., prefixes, suffixes)
+			==> polysemy when the same word has several meanings
+			
+		Grammar / Syntax 	
+			==> the set of rules that guide language users about ways to construct 
+				meaning, language specific
+				
+		Discourse Analysis 
+			==> how text flows
+			==> conversation
+			
+		Pragmatics 
+			==> use of language to achieve (communication) goals
+		
+		Socio-linguistics 	
+			==> social groups develop their own language! (jargon)
+
+	Science Models
+		Zipf's Law
+		Dirichlet generative models
+		Info Theory (Shannon)
+
+* Complex adaptive systems and systems analysis
+	Hothouse Earth
+	
+
+--------------
+
+** Strunk and White’s. “Elements of Style”				
+	I 	Elementary Rules of Usage (Simple and few)
+		1. Form the possessive singular of nouns by adding 's. (Champions Champion)
+		2. In a series of three or more terms with a single conjunction, use a comma after each term 
+		except the last.
+		3. Enclose parenthetic expressions between commas.
+		
+		
+	II	Elementary Principles of Composition (p 22)
+		(Read list)
+		14. Use the active voice. (p 23)
+		16. Use definite, specific, concrete language. (p 26)
+		17. Omit needless words. (p 28)
+	
+	III A FEW MATTERS OF FORM (p 36)
+		(more helpful hints)
+		
+	IV Words and Expressions Commonly Misused (p 40)
+		(scan through) 
+		
+	V	AN APPROACH TO STYLE (With a List of Reminders) (p 62)
+		(Read all of the intro on style)
+		
+		(Read through list)
+		9. Do not affect a breezy manner.
+		
+
+--------------
+
+** Critique
+	
+	Chesapeake College Guidelines				
+
+
+	"Land of the Free" by Geoffrey K Pullum 	
+		
+		NB. Article in The Guardian:
+		A review - the pants rule and other pipe dreams
+		A breezy guide to grammar that sides with the ordinary Joe against the nitpickers
+		"The Truth About English Grammar" a book by Geoffrey K Pullum
+		
+https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-grammar-by-geoffrey-k-pullum-review-the-pants-rule-and-other-pipe-dreams
+
+
+--------------
+** Murphy's (selected from compilation)
+	Units ==> 29, 30 (modals)
+	
+	
+	
+--------------
+
+** Charlotte's Web seminar		
+		
+	Goals:
+		* Summarize Major Theme Development
+		* Summarize Character Development
+		* Summarize Story Arc 
+		* Summarize Writing Style
+		* Your personal opinion of the work
+
+	Review the Important Themes --------
+		1. Friendship
+		2. Life and Death
+		3. Courage and Sacrifice
+		4. Identity and Self-Worth
+		5. The Power of Words
+		6. Kindness and Compassion
+		
+	Character Development
+		==> Character maps that include motivations, traits, relationships, and key events
+		
+	Highlights and important events as plot elements 
+	
+	Ch 2 - Ch 5 
+		==> Rapid scan of the text
+		==> Highlights
+		==> Summaries!!
+		==> Qs
+		
+	----	Chapter 2	----
+		Teaching Highlights
+			Narrative and description (time and space)==> It was apple-blossom time p 8
+			Fern and Wilbur...so happy together!
+			Realities of farm life (Mr. Arable was not willing to provide for him any longer) p 12
+			
+	----	Chapter 3	----
+	Teaching Highlights				
+		The barn = the world
+		Wilbur
+			==> drama queen (p.16)
+			==> food specifics
+			==> "uncommon" (preference for home; Lurvy and Zuckerman comment)
+		The Goose
+			==> literary writing device like onomatopoeia
+			==> teaching Wilbur how to be "a real pig"
+			==> sets of three (goose to Wilbur (p. 23)
+		The Animals
+			==> sentient beings, group affiliation
+			==> freedom
+	Homer Zuckerman and Lurvy
+
+	
+	----	Chapter 4	----
+	Teaching Highlights
+		Descriptions of food (breakfast/lunch/dinner;p 25, 26)
+		At the depths of despair there is hope...
+		Wilbur
+			==> upset; his plans ruined
+			==> Wilbur didn't want food, he wanted love
+			==> food lists (slops)
+		The Lamb
+			==> haughty
+		Templeton
+			==> "Play? I hardly know the meaning of the word."
+			==> curmudgeon, disdainful, contemptuous
+		Charlotte
+		==> (p 31) out of the darkness, came a small voice he had never heard before. It sounded rather 
+		thin, but pleasant. "Do  you want a friend, Wilbur?" it said. "I'll be a friend to you. I've 
+		watched you all day and I like you
+		
+		
+	----	Chapter 5	----
+	Teaching Highlights
+	Charlotte
+		==> clever lives by her wits
+		
+	The Old Sheep
+		==> sees the tragedy
+		
+	Friendship
+		==> the doubts and fears 
+		==. prove loyal and true to the very end.
+	
+	
+	
+	
+** Silent Reading
+
+
+------------
+
+** Vocab_01.txt 72 words from Readings 01, 02, 03
+** Vocab_02.txt: a list of words from the first part of Charlotte's Web.
+** Vocab_03.txt: a list of words from the first part of Charlotte's Web.
+
+
+
+
+
+
+--- Coming up
+** APA and Professional Voice
+
+** Final written critique Charlotte's Web
+
+** More Murphy's Grammar
+
+
+
+---- Work time
+
+	
+
+
+
+
+
+

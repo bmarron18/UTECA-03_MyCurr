@@ -1,0 +1,287 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-2
+Materia: 		Inglés X
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A
+
+
+
+#####################
+HW_03 [Due: 05 February 2026]
+
+--- Task 1
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5 min. and also should cover the basic data on your selected paper; namely,
+	1. Who wrote the paper?
+	2. What is the paper about?
+	3. When was the paper published?
+	4. Where was the paper published (i.e., the journal of publication)?
+	5. Why did the author(s) write the paper?
+
+If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slides as a .pdf file in Teams attached/keyed to this homework assignment.
+
+
+--- Task 2
+In preparation for upcoming coding activities, obtain a (Google) Gemini API key by following the directions in PART I of the document, "API_Installations-Activations-Preparations.txt". After obtaining your Gemini API key you should scan the remainder of the document. Obtaining a Gemini API key includes the following sub-tasks:
+
+*	Read through the Gemini QuickStart guide
+*	Review the Google API Studio Welcome page
+*	Understand secuirty for your API key
+*	Get your API key for Gemini
+*	Guard your API Key
+
+--- Task 3
+Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Second Section Preamble: The Twenty-Six Malignant Gates
+		Ch. 5	o Rules of the Game: Waverly Jong
+		Ch. 6	o The Voice from the Wall: Lena St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+	"Constructive criticism is about finding something good and positive to soften the blow to the real 
+	critique of what really went on."
+		--- Paula Abdul
+		(singer, dancer, choreographer, actress, and television personality)
+		
+		
+		
+
+	“When the old man from the frontier lost his horse, how could he have known it would be a blessing in disguise?”
+
+	塞翁失马，焉知非福 (sài wēng shī mǎ, yān zhī fēi fú) 
+
+
+A common Chinese saying that highlights the unpredictable nature of life and encourages us to remain optimistic in the face of adversity, as misfortunes may sometimes lead to unexpected blessings.
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+--- New
+
+
+** Chinese Identity --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading OR one (1) fun fact
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex
+	
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+		
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves for thousands of years
+
+
+** Presentation of slides -----------------------------------------------	
+	* Reminder of posture and presentation etiquette
+	* All students to the front to present their slide.
+	* Graded
+
+
+** Preparation for use of English as a coding language ---------------	
+
+-- Infobae
+Experto en IA, Jon Hernández, alerta sobre el futuro del empleo: los que no dominen la inteligencia artificial se quedarán sin trabajo
+	https://share.google/F0XTvfCmXsTKboDgj
+	
+--- Middlebury College 
+Eight Key Insights from “AI and the Future of Translation and Interpretation”
+https://www.middlebury.edu/institute/news/eight-key-insights-ai-and-future-translation-and-interpretation
+
+
+--- A Note on  computer-assisted translation (CAT) tools
+https://www.smartling.com/blog/cat-tools
+
+5 of the most popular CAT tools
+	* Smartling
+	* Pairaphrase
+	* MemoQ
+	* Phrase
+	* Transifex
+
+3 of the most popular free(???) CAT tools
+	* Smartcat
+	* Matecat
+	* CafeTran Espresso
+	
+CAT tools used by UTECA students
+	* SDL Trados
+	* Word Fast
+	* Mem Source
+	* Smartcat
+	
+Look at Smartcat---
+https://www.smartcat.com
+© Smartcat Platform Inc. 2026 | 2810 N Church St PMB 50985, Wilmington, Delaware, 19802-4447, USA
+	
+Automate the translation and creation of any content type with our expert-enabled AI agents. Browse our agents and their skills that can improve your translation and content workflows.
+
+https://www.smartcat.com/ai-agents/
+**Learning Content Agent
+Generate corporate learning materials in any language from internal knowledge, tailored to drive employee performance and retention.
+
+**Document Translation Agent
+Turn institutional knowledge into high-quality multilingual documents. 
+
+**Media Translation Agent
+Get instant local-language videos and audio files with translated subtitles and natural-sounding AI dubbing.
+
+Can build custom agents for your specific content area or brand --- WOW!
+Can integrate all workflows ---WOW!!
+
+
+==> but OJO!!!! Smartcat is a wrapper!!!! <==
+Does Smartcat use OpenAI agents?
+Yes, Smartcat uses OpenAI agents, including GPT-4, as a core part of its platform to enable AI-powered translation, content creation, and localization. Smartcat leverages these models to provide simultaneous translation across text, images, and documents, allowing users to build custom AI agent workflows. 
+
+and cost??
+https://www.smartcat.com/pricing/
+Basic...For independent creators and small companies
+Starting at $1,200/year
+
+
+
+-- AI Tools (or English in coding)
+	* Python
+		https://www.python.org/
+		https://www.anaconda.com/
+		
+	* Spyder
+		https://www.spyder-ide.org/
+		
+	* Gemini
+		https://aistudio.google.com/welcome
+		
+	* OpenAI
+		https://openai.com/api/
+		https://platform.openai.com/docs/overview
+		
+	* NLTK
+		https://www.nltk.org/
+		
+	* NetLogo
+		https://www.netlogo.org/
+
+	* Show a sample run of Gemini (ask students to create prompts)
+	
+
+
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+
+%%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%% The mothers and the daughters %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother					Daughter
+--------				---------
+Suyuan Woo			—>   Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
+
+
+
+The AI Showdown Summaries 
+	
+Prompt
+	Give me a brief summary of "xxx", Chapter x of the novel, The Joy Luck Club
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+
+
+  Qs	Ch.2 "Scar: An-Mei Hsu"	
+	* An-Mai is from a broken home. Explain.
+	* What do you make of Popo's life lessons told to An-Mei?
+	* In the auntie's house, auntie is harsh to An-Mei and her brother. How does An-Mei's brother respond?
+	* What is the nature of curses (bad language) in auntie's house? Do you think this holds in general for 
+	Chinese culture?
+	* What happened in "the dream" about An-Mei and her mother?
+  	* Should psychological manipulation be allowed with children? (And then Popo said something that was 	worse than the burning on my neck. "Even your mother has used up her tears and left. If you do not get 
+	well soon, she will forget you."
+	* What "magic" did An-Mai's real mom use to try to save Popo (her mother)? And so, how does a daughter honor her mother?
+
+
+  Qs	Ch. 3 "The Red Candle: Lindo Jong"
+	* Lindo indicates that she was, unlike other girl babies, valuable: "In my case, people could see my 
+	value." What does this imply about Chinese culture's relationship to girls?
+	* Lindo is betrothed at two years of age. What's your take on arranged marriages?
+	* Why is Lindo's betrothed (Tyan-yu) spoiled?
+	* Once betrothed, how does Lindo's family treat her?
+	* What happens to Lindo's family? As a result, what happens to Lindo?
+	* Are the Huangs pretentious? How do we know?
+	* What does "the complaints of twenty relatives" suggest?
+	* What thoughts does Lindo have on her wedding day?
+	* What is the significance of the red candle? What is the ritual associated with it?
+	* What really happens to the candle on the wedding night?
+	* Tyan-yu and Lindo end up having a special relationship. Explain.
+	* Why is Huang Taitai (Tyan-yu's mom) furious with Lindo about not having children? Who is lying?
+	* What is Lindo's plan for escape? Does it work?
+	* Lindo is a strong, self-reliant person. How do we know?
+
+
+
+Silent reading
+	~ 20 min
+
+---- Work time
+
+
+--- Coming up
+* Coding
+		
+* Creative Writing
+
+
+
+
+
+

@@ -1,0 +1,372 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Inglés IX
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A+B
+
+
+
+#####################
+HW_07 [Due: 30 October 2025]
+
+--- Task 1
+Using the script, "Python_API-NLTK_Assignment_02.py," translate the Fourth Section Preamble of the Joy Luck Club into Spanish using Gemini 2.5 Flash. Review and edit the translation as you see fit. Evlauate the AI translation with a METEOR score by using the original AI translation as the "candidate" and your revised translation as the "reference." Include a screen shot of the Spyder IDE work area and report the METEOR score.
+
+--- Task 2
+Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+
+1. A character lies — convincingly — for the first time in their life. 
+2. The protagonist meets someone from their past — but pretends not to recognize them.
+3. A minor decision reveals a major character flaw. 
+4. A character confesses to the wrong person. 
+5. Someone gets exactly what they wanted — and immediately regrets it. 
+
+--- Task 3
+Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Fourth Section Preamble: Queen Mother of the Western Skies
+	Ch. 13	o Magpies: An-Mei Hsu
+	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
+
+---- Open
+
+	"When a mute eats dumplings, he knows how many he has eaten."
+
+哑巴吃饺子，心里有数 (Yǎba chī jiǎozi, xīnlǐ yǒushù / 'mute eats dumplings, heart inside has number')
+
+
+
+
+This is used to point out that someone knows the situation quite well, yet says nothing… as is common in Chinese culture. Chinese tend to keep their thoughts to themselves…
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+
+--- New
+
+** Go thru Installations-- note changes
+	API_Installations-Activations-Preparations-I.py
+	
+** Go thru HW_Assignment folder
+	show inputs and outputs
+	.py scripts 
+	
+
+** Creative Writing
+--- Tips from the Masters
+https://www.writingclasses.com/toolbox/tips-masters
+
+Andrew Motion: 10 Techniques to Spark the Writing
+Annie Proulx: 5 Techniques for Good Craftsmanship
+Billy Wilder: 10 Screenwriting Tips
+Corita Kent: Ten Rules for Students and Teachers
+*Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+Elmore Leonard: 10 Rules for Good Writing
+*George Orwell: 6 Questions/6 Rules
+*Henry Miller: 10 Writing Tips
+*Jack Kerouac: 30 Cool Tips
+Joyce Carol Oates: 10 Writing Tips
+*Kurt Vonnegut: 8 Basics of Creative Writing
+Margaret Atwood: 10 Ideas for Writers
+Michael Moorcock: 10 Tips for Good Storytelling
+Neil Gaiman: 8 Good Writing Practices
+*P.D. James: 5 Bits of Writing Advice
+Rejection: 3 Methods for Coping
+Ronald Knox: 10 Commandments of Detective Fiction
+*Strunk & White: 11 Composition Principles
+Tracy Kidder and Richard Todd: 10 Writing Insights
+Zadie Smith: 10 Good Writing Habits
+
+
+
+-- Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+https://www.writingclasses.com/toolbox/tips-masters/edgar-allan-poe-5-essentials-for-the-betterment-of-a-story
+
+Edgar Allan Poe* penned immortal poems, such as “The Raven" and “Annabel Lee," and unforgettable tales of psychological horror, such as “The Tell-Tale Heart," “The Masque of Red Death," The Cask of Amontillado," and “The Fall of the House of Usher." He was also a prominent literary critic and essayist, as well as the inventor of the detective story.
+
+In a recently-found treatise, he set down the following advice for bettering a story:
+    1. Employ an unreliable narrator, preferably one who doesn't know he is insane and has no recollection of such events as digging into a grave to rip out the teeth of his recently departed lover.
+    2. Include a beautiful woman with raven locks and porcelain skin, preferably quite young, and let her die tragically of some unknown ailment.
+    3. Use grandiloquent words, such as heretofore, forthwith, and nevermore. A little Latin will also enhance the text.
+    4. Do not shy away from such grotesqueries as inebriation, imprisonment, insanity, and men costumed as orangutans being burned to death.
+    5. When in doubt, bury someone alive.
+
+*Poe didn't really compose this advice, but, as he was fond of a good hoax, we hope he would be pleased by this affectionate charade. 
+
+
+--- Kurt Vonnegut
+Read excerpt from Chapter 2 "Slaughterhouse 5"
+
+
+--- Student volunteers for reading their work (next time obligatory)
+
+
+--- Character Arc Prompts
+https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
+
+1. A character lies — convincingly — for the first time in their life. 
+2. The protagonist meets someone from their past — but pretends not to recognize them.
+3. A minor decision reveals a major character flaw. 
+4. A character confesses to the wrong person. 
+5. Someone gets exactly what they wanted — and immediately regrets it. 
+
+
+PART II
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+
+**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother					Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
+
+
+
+The AI Showdown Summaries and Qs: 
+	Four people; same prompt
+	Just two of the AIs (for time)
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
+			
+
+
+---  Best Quality: Jing-Mei Woo (Ch. 12)
+Vocab
+Qs
+	* What is June's "life's importance"?
+	* What is the meaning of the pedant?
+	* Who wears this type of pendant?
+	* June's mom has an eye for Chinese cultural diversity. How do we know?
+	* June's mom has trouble with the renters. Why?
+	* What happens to the cat?
+	* Does June's mom pay for the one-legged crab?
+	* How are crabs cooked?
+	* What happens to June's pet crab?
+	* How are the crabs doled out by Waverly?
+	* How do Chinese moms show their appreciation?
+	* What, apparently, is the best part of the crab for eating?
+	* What's Uncle Tin's great joke?
+	* Insults are traded left and right. What do make of it?
+	* What really happened to the non-payment of June's work?
+	* June is completely humiliated. Why?
+	* Suddenly everyone is giving June advice. How does she feel?
+	* June's mom gives confusing compliments. How?
+	* What really is the story of the cat? Is June happy about it?
+	
+
+
+---  Without Wood: Rose Hsu Jordan  (Ch. 11)
+Vocab
+Qs
+	* How does Rose's mom frame her knowledge? Is it mystical?
+	* "The words my mother spoke did come from up high." What does this mean?
+	* Who is Old Mr. Chou?
+	* What happens to Rose in Old Mr. Chou's world?
+	* Who is China Mary?
+	* What is Rose's mom's comment on China Mary's divinity?
+	* What is a "gung-ho attitude"?
+	* Rose's mom wants to discuss Ted in church. How does Rose feel about that?
+	* What does "hulihudu" and "make you see heimongmong" mean?
+	* What is Rose's revelation about her discussions with friends?
+	* What is Rose's reflection the receipt of the money and the divorce papers?
+	* What is Rose's mom's assessment of Rose's confusion? What does she lack?
+	* What does Rose think of American opinions?
+	* What is the message of the fortune cookie?
+	* Rose resorts to sleeping pils until....
+	* What is the most despicable thing Ted wants?
+	* Ted comes over and meets a changed Rose. Why?
+	* WHat happens to Ted when Rose gives him the power of her words?
+
+
+--- Four Directions: Waverly Jong (Ch. 10)
+Vocab
+Qs
+	* Waverly's mom is immediately critical of Waverly. Why?
+	* Waverly's mom is critical of the restaurant. What does she do?
+	* How does Waverly account for the problems of the relationship with her mom?
+	* What's Waverly's big news?
+	* How did Waverly handle the marriage to her first husband?
+	* Waverly can't seem to introduce her fiance Rich. Why not?
+	* Are unannounced visits acceptable from in-laws?
+	* What is the state of Waverly's apartment?
+	* What is clear about Waverly's life as reflected in the state of her apartment?
+	* WHat is the "extravagant gift"?
+	* Waverly experiences anguish from her mom's comments. Why?
+	* Waverly feels she must do desperate things to "win" her mother back. What are tey?
+	* Why does Waverly give up chess?
+	* Do you think Waverly's mom really has such an influence on Waverly that, because of her mom's comments, Waverly goes "from disappointment to contempt to apathetic boredom" with her first husband?
+	* In the eyes of all, Rich fails miserably at dinner. Why?
+	* Waverly and Lindo really do have a very complicated relationship. What do you make of it?
+	
+
+--- Rice Husband: Lena St. Clair (Ch. 9)
+Vocab
+Qs
+	* What is Lena's mom's "power"?
+	* How is the power limited?
+	* What evidence does Lena present for her mom's prescience?
+	* Harold gets his comeuppance on the drive to the new house. Why?
+	* How does Lena feel about this?
+	* Is Harold's exterminator request fair?
+	* What are the real problems facing Haold and Lena?
+	* What are the real bones of the new house?
+	* Why are pock-marked men marked according to Lena's mom?
+	* Lena has a terror-filled church experience. What happens? And how is related to Arnold?
+	* What are Lena's reflections on fate?
+	* How would you characterize the romance between Harold and Lena?
+	* How does Lena think of her love for Harold?
+	* How does money creep into the love equation?
+	* Is Lena a supportive partner? A good employee?
+	* How does Lena feel about her role at the company?
+	* Who is the creative force behind Harlod's success?
+	* How do Harold and Lena handle expenses? What do you think of the arrangement?
+	* Is Harold attentive to Lena?
+	* How do Lena's tears affect Harold?
+	* Why is Lena upset?
+	* What is the significance of the broken table?
+	
+
+Third Section Preamble: American Translation
+Qs
+	* Why is the location of the mirror important to the mother?
+	* Is the location important for the daughter?
+	* How is the mirror location resolved?
+
+--- Two Kinds: Jing-Mei Woo (Ch. 8)
+
+Vocab	
+Qs
+	* Lindo, Jing-mei "June"'s mom believes that in America you can be a prodigy. What does Lindo do to "help" June find her stardom?
+	* How does June initially react to her mom's machinations?
+	* WHat happens to June's enthusiasm, and self-esteem, over time?
+	* Eventually June thinks her mom has given up on turning her into a prodigy until one night... WHat happens?
+	* Who is Mr. Chong? What special skills does he have? 
+	* How does June take advantage of Mr. Chong, and simultaneously foil her mother's attempts?
+	* June catches her mom boasting and decides to put an end to her foolish pride. How?
+	* June seems initially confident at the concert but what happens?
+	* How is June's recital received by the community?
+	* How does June take the results?
+	* Things come to a head later in the week with June screaming at her mom for making her try to be something she's not. She says something that ultimately causes her mom great pain and changes the relationship forever. What does she say?
+	* Later in life June realizes that she easily lets herself fall short of expectations. Why?
+	* Years later Lindo offers June the piano. At June rejects the offer but ultimately accepts and in so doing has a revelation. WHat happens?
+
+
+--- Half and Half: Rose Hsu Jordan (Ch. 7)
+
+Qs
+	* What happens to Rose's mom's bible? Why?
+	* Will Rose's mom accept the divorce of her daughter?
+	* What is Rose's initial impression of Ted? What does her mom think?
+	* What does Ted's mother say to Rose? What does Rose think?
+	* How does the relationship of Ted and Rose evolve? Is it healthy?
+	* What effect does Ted's disasterous treatment of a patient have on the family?
+	* What is Rose's revelation after the divorce?
+	* Rose recalls a tragic event that ereases her mom's faith. What happens?
+	* What rituals does Rose's mom perform to retrieve her son?
+	* In the end Rose's mom loses her faith but insists that Rose keep hers. Why?
+	* Rose decides that fate "is shaped half by expectation, half by inattention". What does this mean?
+
+
+--- The Voice from the Wall: Lena St. Clair (Ch 6)
+Growing up in Oakland, Lena seems to have a morbid fascnation with death after she learns her grandfather had a beggar killed. Lena's mom seems to add to this state of the macabre by instilling any number of fears in Lena. Eventually Lena begins to see with "her Chinese eys" and what she sees are scary portraits of everyday life. She becomes rather withdrawn but not as much her mom who, in Lena's eyes, has become a ghost. Lena's American dad is oblivious to these happenings and is excited to move the family to a new apatment in a wealthier part of town. The family is moving up in the world! In the new apartment Lena's mom become increasingly dissatified with the aprtment and its the furnishings and begins an endless phase of reorganizing. The new apartment is rather noisy both from street noises and from the neighbors, and Lena, who once had a comforting relation with the regularties of the sounds from the street, is moved to a new area where she hears the constant and ferocious fighting of the neighbors. Lena believes the neighbors are on the verge of killing each other each and every night. Meanwhile, Lena learns that her mom who was pregnant has lost the baby. Lena's mom is plunged into despair and loses her vitality day by day until she no longer gets out of bed and must be hospitalized. For Lena, her mom truly has become ghost. One night a loud knock at the door reveals the neighbor Teresa, a girl slightly older than Lena who explains her mom has kicked her out of the house. Lena is horrified but Teresa seems unconcerned and uses Lena's bedroom window to access the fire escape. Teresa explins that her plan is to disappear for a few hours and then sneak back into her room via the fire escape. Later that evening when Lena hears Teresa and her mom engaged in a confrontation of tears and hugs, Lena realizes that these people actually love each other and this gives Lena the courage to begin pulling her mom back to life.
+	
+Qs
+	* Lena has a morbid fascination with the death of a beggar. Why?
+	* Why does Lena think her mom has become a ghost?
+	* Who lives in the basement of the old house in Oakland?
+	* What do Lena's Chinese eyes show her?
+	* What happens to Lena's mom at the immigration service? What did her dad do?
+	* Lena's mom seems afraid of the world around her. How does this affect Lena?
+	* Lena also seems to falsify reality. How?
+	* The St. Clair family is "moving up". What does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at 
+	home?
+	* Lena's the feng shui mom seems concerned with of the new apartment. Why?
+	* Lena has intimate knowledge of the neighbors. Why? 
+	* What happens to the new baby? What happens to Lena's mom?
+	* What is Teresa's announcement?
+	* What is Lena's revelation regrding Teresa and her mom?
+	* How does Lena save her mother?
+
+
+---- Work time
+
+
+--- Coming up
+		
+* Creative Writing
+
+** Chinese Identity --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+

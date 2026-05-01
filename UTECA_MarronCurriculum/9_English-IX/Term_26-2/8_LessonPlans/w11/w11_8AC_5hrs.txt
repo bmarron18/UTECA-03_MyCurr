@@ -1,0 +1,256 @@
+							LESSON PLAN  (5 hrs )
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-2
+Materia: 		Inglés VIII
+Curso:		IT0835
+Licenciatura: 	Interpretación y Traducción
+Grupo:		8AC
+
+
+SPRING BREAK during Week 12; No Classes; No HW
+Week 13	last HW; study guide exam 3P
+Week 14	open book 3P exam
+Week 15	take home final
+
+#####################
+HW_11 [Due: 08 April 2026]	<== due in two weeks
+
+--- Task 1
+Read the AI 2027 Report either on-line at https://ai-2027.com/ (preferred) or in "04_ai-2027.pdf" and answer the following questions:
+	1. Look through the "Who are we ?" section. Are the authors credible?
+	2. Do you use ChatGPT or any other AI-agents? If yes, do you considerthe use of these agents part of your workflow?
+	3. OpenAI, Anthropic, DeepSeek, Google, and others ARE actually building massive data centers around the world. From Shanahan (and others), what is known about the relationship between emergence and scale in AI? What is happening in Queretero, MX?
+	4. What scale of AI agents will be able to be built when the new data centers come on line?
+	5. OpenAI just released GPT-5.3, Google has recently released the Gemini 3 series, DeepSeek has released DeepSeek 4, and Anthropic Claude 4. Is it likely that all of these companies have more advanced models in the works?
+	6. At this moment in AI development (March 2026), what is the single most important skill for an AI?
+	7. What produces "drive" in AI agents? How are AI agents expected to be "controlled"?
+	8. AI agents have already shown documented emergent properties such as being sycophantic. With respect to emergent properties, what is highly likely when new, more powerful AI agents come on line?
+	10. What are long-horizon tasks and why do you think AI agents are not yet good at executing such tasks?
+	11. China does not appear to be falling behind in AI research. Do you agree?
+	12. The U.S. Pentagon has already contracted AI services and will undoubtedly seek to incorporate AI agents into most, if not all, defensive and offensive weapon systems. Anthropic recently stood up to the Pentagon for wanting to use Anthropic's AI agents contrary to Anthropic's use requirements. What happened?
+	13. What are the (projected) capabilities of Agent-2? WHat are the dangers?
+	14. Why would any corporate (or international) espionage want to steal an AI model's weights?
+	15. An inflection point in AI capability is the realization of a superhuman coder. Why?
+	16. In terms of AI research and development (R and D), what does "vibe coding" look like in March 2027? How has prompt engineering evolved?
+	17. In April 2027 R and D becomes very concerned about AI agent alignment. Why?
+	18. What exactly is Artificial General Intelligence (AGI)? Would we (i.e., citizens of the world) even know when it happens?
+	19. What does it mean to have "a country of geniuses in a datacenter"?
+	20. CAT tools are one type of "AI wrapper startups". What does this mean?
+	21. As of August 2027, the report predicts AI agents have blown through AGI and are now superintelligent. What does this term mean and how might this event affect the geopolitics of the world ?
+	22.By September of 2027 the report predicts that the newest AI agents cannot be understood either by humans or by older AI agents! What are predictable verifiable events/outcomes that would indicate this has indeed happened?
+	23. What is the main (terrifying!) problem with Agent-4? Why is this terrifying?
+	24. A critical junction is reached where humans must decide whether to slow down AI research (because of misalignment) or continue without guardrails. The report predicts this is likely to happen in October 2027. Given historical trends, what do you predict will happen, Race or Slowdown?
+	25. Briefly summarize what happens in the Slowdown scenario.
+	26. Briefly summarize what happens in the Race scenario.
+	
+	
+	
+--- Task 2
+Read Chapter 12, Chapter 13, Chapter 14. Chapter 15 of "Bless Me, Ultima." Select and answer just three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide.pdf).
+
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, transportation, communication, manufacturing.
+				--- Andrew Ng 
+			
+			
+I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about 
+	overpopulation on Mars. 
+				--- Andrew Ng
+			(founder of DeepLearning.AI, Chairman and co-founder of Coursera, Adjunct Professor at 
+			Stanford University)
+
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+--- Review
+
+
+--- New
+
+** Science -- AI and LLMs
+
+Review of "01_Shanahan_TalkingAboutLLMs"
+	- up at the board, one important take-away
+
+
+Silent reading and then Take-aways/highlights from "02_Opinion _ The A.I. Disruption Has Arrived"
+	- "vibe coding" Claude Code from Anthropic, Codex from OpenAI, Google Gemini
+	- $200 USD/mo for Claude Code
+	- Why will anyone need all that legacy software when A.I. can code anything up for you in two shakes of a 	robotic lamb’s tail?
+	- There are many arguments against vibe coding through A.I.
+		-- It is an ecological disaster, with data centers consuming billions of gallons of water for cooling 
+		each year; 
+		-- it can generate bad, insecure code; it creates cookie-cutter apps instead of real, thoughtful
+		solutions; 
+		-- the real value is in people, not software.
+	- Code just has to work.
+	- But I’ve been around too long. The web wasn’t “real” software until it 
+	was. Blogging wasn’t publishing. Big, serious companies weren’t going to migrate to the cloud, and then one
+	day they did.
+	- No matter where you work, my hunch is this is coming for you. Have you noticed the software you use every 
+	day adding “A.I. features”? That’s the top of the slippery slope.
+	- No brakes (Regulations)
+	- the positive side ==> access for all
+	- obsolescence
+
+
+Point out Takeaways/Highlights from "03_HumanitysLastExam_benchmark of expert-level AI"
+	- AI Benchmrks have become obsolete
+	- 2,500 challenging questions from dozens of subject areas, designed to assess LLM capabilities at an 
+	expert level in broad academic subjects.
+	- Fig. 1 | Performance of frontier LLMs on popular benchmarks and HLE.
+	- Fig. 2 | Distribution of HLE questions across categories.
+	- Sample questions
+	- Table 1 | Accuracy and RMS calibration error of different models on HLE, demonstrating low accuracy and 
+	high calibration error across all models
+
+
+Silent reading and then Take-aways/highlights from "05_Opinion _The AI Future We Feared Is Already Here"
+	- “what happens now that AI is ....?"
+	
+	
+	 -Claude is built around a lengthy internal constitution, written in part by philosophers, that is meant to 
+	  guide the moral judgments it makes. To read that constitution is to face up to the weirdness of the world
+	  we have entered.
+	  
+	- Artificial intelligence models are strange technologies. Most technologies are
+	mechanistic: press the brake pedal on your car and the car slows; press the power button
+	on your laptop and the computer boots up; pull the trigger on a gun and the gun fires.
+	These machines have no agency. But A.I. models work differently. They make choices.
+	They consider context.
+	- “They talk about it as more like raising a child or as a second advanced species.”
+	
+	- Claude could not be used for mass surveillance or for lethal autonomous weapons.
+	- Trump administration threatening to destroy one of America’s leading A.I. companies; Whether Hegseth has 
+	  the legal authority to demolish Anthropic in this way is doubtful
+	- What is at the bottom of the Anthropic / Pentagon debacle?
+	- AI can be "programmed" ideologically: Elon Musk has made no secret of the fact that Grok is meant to be 
+	  an alternative to woke, liberal A.I.s. Musk himself is a determined ideological actor who is seeking to 
+	  push American politics in his preferred direction
+	- No AI guardrails from US Congress 
+	- But the broader questions remain: The A.I. systems we have today are not well
+	  understood. The A.I. systems we are rapidly developing are even less well understood.
+	  Weaving them into sensitive government operations seems risky, and my intuition is
+	  there are many areas of the government in which A.I. systems simply should not be
+	  deployed.
+	
+	
+Silent Reading and then take-aways/highlights from "06_The-Future-of-AI_RichardDavidHames"
+
+The emergence of artificial intelligence is not just another episode in the long story of
+human ingenuity. It's not the steam engine, nor the printing press; it's not even the
+internet. It is something deeper, stranger, and far more disorienting: a phenomenon
+that unsettles the very architecture of what it means to be human. Where earlier
+technologies extended human agency, AI confronts us with the possibility of being
+outshone. Even Sam Altman admits that we don't know what will happen next.
+Nobody does. But one thing is evident: AI is not just another tool to be wielded. It's a
+mirror, a partner, and possibly even a successor.
+
+Positive Possibilities
+	- Evolution
+		--humans may evolve into entities that are neither purely biological nor purely artificial.
+		-- distributed consciousness in which individuality and collectivity coexist in new ways
+	- the creation of entirely new realities. 
+		-- Humanity has always been a reality-making species
+		-- create synthetic worlds indistinguishable from our own
+	- dismantle scarcity: Capitalism, the nation-state, and money itself — all systems designed to manage 
+	  scarcity — may dissolve
+	- re-centre play as the axis of civilisation
+	- to participate in the unfolding of cosmic intelligence
+
+
+and now, the future? the AI 2027 Report
+	"04_ai-2027.pdf"https://ai-2027.com/
+	https://ai-2027.com/
+	- Read/ answer HW questions	
+	
+
+
+
+** More Murphy's English Grammar in Use
+	Units ==> 99
+		 ==> 117
+
+
+** Bless Me, Ultima
+	Highlights and student responses to questions
+--- Chapter 8
+	But with spring they became more restless.
+	"We have to get the hell out'a here"
+	"It's either California, or going to work on the highway with him
+	Serrano's bull
+	They would be lost again.
+		
+	
+--- Chapter 9
+	Tony's dream about innocence
+	Leon and Gene off to ABQ ...Andrew in school
+	Girls are only trouble when a man is young and wanting to get ahead.
+	Tony and Andrew on the bridge with the Kid
+	That year we waited for the world to end.
+	Fishing with Samuel ---Tony's a man!
+	Legend of The Golden Carp
+	
+--- Chapter 10
+	Lucas and Ultima
+	No one can play with fate
+	The evil brujas! Tenorio's daughters
+	Antonio and Ultima against evil
+	Ultima and Tenorio
+	Antonio and Lucas
+	Ultima...Es sin pecado,
+	"You must understand that when anybody, bruja or curandera, priest or sinner, tampers with the fate of a man that sometimes a chain of events is set into motion over which no one will have ultimate control. You must be willing to accept this responsibility."
+	Lucas and the Black Mass
+
+
+
+--- Chapter 11
+	Do you know who lives there?" Cico pointed at a green arbor.
+	The gang teases Tony abouty Ultima and witchcraft
+	"I don't know," Cico answered, "except that people, grown-ups and kids, seem to want to hurt each other-
+	and it's worse when they're in a group."
+	Prophecy of the Golden Carp
+	Narciso's garden (p 109)
+	Is there a bruja at your house?" Ernie asked. (p 110)
+	The Golden Carp (p 113)
+	"The mermaid?" I questioned him. (p 115)
+	"This whole town is sitting over a deep, underground lake! (p 118)
+	The Prophecy of the Golden Carp
+	You have been seeing only parts, she finished, and not looking beyond into the great cycle that binds us all. (p 121)
+
+
+--- Chapter 12									
+	the three dolls on her shelf (p 123)
+	She took her scapular (p 124)
+	The Good Old Days 
+	the huge figure of Narciso, the warning, the accusation, Tenorio, the Owl
+	the Test (p 126-135)
+
+
+--- Coming up
+
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

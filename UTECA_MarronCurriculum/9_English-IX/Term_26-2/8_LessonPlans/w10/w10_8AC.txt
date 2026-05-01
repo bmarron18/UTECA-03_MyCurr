@@ -1,0 +1,334 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-2
+Materia: 		Inglés VIII
+Curso:		IT0835
+Licenciatura: 	Interpretación y Traducción
+Grupo:		8AC
+
+
+#####################
+HW_10 [Due:25 Mar 2026]	
+
+--- Task 1
+Define the following terms/acronyms:
+	perceptron
+	artificial neural network
+	large language model (LLM)
+	LLM supervised learning 
+	LLM unsupervised learning
+	LLM reinforcement learning with human feedback (RLHF)
+	
+	emergence
+	
+	application programmer interface (API)
+	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
+
+--- Task 2
+Read "01_Shanahan_TalkingAboutLLMs.pdf"
+	Intro
+	What LLMs Do and How They Work
+	Humans and LLMs Compared
+	Do LLMs Really Know Anything?
+	What about Emergence?
+
+Answer the following questions:
+	1. AI agents are "unreasonably" effective (i.e, these models have surprised everyone on the power of big data). What are the three ways that AI models have shown to be remarkable?
+	2. What is the danger of anthropomorphizing AI agents?
+	3. Shanahan states, "A human infant is born into a community of language users with which it shares a world." How is this fundamentally different from AI agents?
+	4. How, exactly, do bare-bones LLMs work?
+	5. Explain the idea of communicative intent. Why don't AI agents have this (yet)?
+	6. LLMs must be embedded in a larger system that allows for structured prompts of various kinds that orient the LLM. Why?
+	7. Current AI agents are impressive because developers have turned LLMs into question-answering systems by embedding them in a larger system and using prompt engineering to elicit the required behavior. What are two important take-aways from this phenomenon?
+	8. What do bare-bones LLMs actually know?
+	9.Shanahan notes, "the overriding lesson of recent progress in LLMs is that extraordinary and unexpected capabilities emerge when big enough models are trained on very large quantities of textual data." Given this reality, do you think AI agents could become conscious?
+	
+	
+--- Task 3
+Read Chapters 9, 10 and 11 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+	"In essence, the dialectics of knowledge provides a framework for understanding knowledge as a complex, 
+	evolving entity, shaped by internal contradictions and external interactions, rather than a fixed and 
+	unchanging body of information."
+					--- AI Overview (Google)
+
+dialectic
+	the art of investigating or discussing the truth of opinions.
+	The inquiry into metaphysical contradictions and their solutions
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+--- Review
+Exam 2P
+
+1
+	* many resources are scarce bc of a finite planet-- traditionally land, labor, capital
+	* ultimately non-renewable resources ARE scarce; renewable resources can be managed for sustainability bc while finite,
+	Earth is an open system
+	* the cost of an option foregone; the cost of the next best alternative; (usually) not able to do two things at once
+
+2
+	*The Allied intentions truly were: world stability through legal frameworks and financial growth
+	* Forces Acting Against the Current World Order
+		-the financial crisis of 2008 undermined the Global South’s faith in capitalism
+		- greater authoritarianism in every region of the world
+		- China’s dramatic economic rise certainly increased its right and ability to help set the international agenda,
+		- the liberal order’s traditional champion, the United States, has done little to defend or promote it. U.S. President 
+		Donald Trump of course did not believe in the rules-based order at all
+		- Regionalism. Countries are increasingly banding together with their neighbors to bolster their security
+		- Localism. Many communities want more decisions to be taken at levels below that of central government,
+		- Multinational corporations. Multinational corporationsarguably pose an even greater threat to national governments. By 
+		definition, they operate beyond national borders. And, in terms of capitalization, the biggest tech companies are now 
+		richer than most countries
+		- The Internet and Artificial Intelligence. If multinational companies pose a threat to the economic autonomy of 
+		national governments, the Internet,and increasingly artificial intelligence, poses a more political one
+		- Cryptocurrencies. Moreover, the internet has facilitated a challenge to one of the core traditional attributes of a 
+		sovereign state—its monopoly of currency
+	* opinion
+	
+3
+	*"unfreedoms"
+		-economic poverty (no food, water, clothing, shelter, money)
+		-lack of public facilities and social care (no health, education, security)
+		-lack of political and civil liberties (restrictions on social, political and economic life)
+		
+	* Five distinct types of freedom, seen in an "instrumental" perspective:
+		(1) political freedoms
+		(2) economic facilities
+		(3) social opportunities
+		(4) transparency guarantees
+		{5) protective security
+
+	* expanding the the real freedoms that people enjoy; the enhancement of personal agency 
+
+4
+	* free trade is deregulated international commerce with no contraints or accountability
+	  (a 'race to the bottom')
+	* mobile capital invalidates Ricardo's framework for comparative advantage among nations
+	* companies and their investors retain profits while shifting externalized costs to others, usually the public and the 
+	environment
+	* multinational companies and investors are the beneficiaries of free trade
+	* opinion
+	
+5
+	Antonio Marez is a young boy growing up in New Mexico in the late 1940s. Antonnio is a bit unusual in his sensibilities, especially around religious and spiritual matters. While his older brother are away fighting in WWII, a close family friend, Ultima, comes to live in the Marez' home. Ultima is a curandera and brings with her the mysticism and traditions of the native peoples, and even arrives with an owl! Ultima's ways constrast with the Catholicism of Maria (Antonio's mom), and to some degree, the devil-may-care attitude of Gabriel (Antonio's dad), a man of the llano, a vaquero. Antonio often finds himself caught between the dreams of his parents: his future predetermined as either a priest or a vaquero. And yet Antonio is strongly drawn to Ultima.
+	Antonio witnesses the death of a war-crazed veteran, Lupito, who in a bout of insanity has killed the town sheriff. Seeking vengence, a town posse, which includes Gabriel, hunt down Lupito and kill him. This event rockets Antonio into hte world of contradictions found in the various belief systems around him. He is struggling to understand the whys of the world.
+	Throughout the summer Ultima and Antonio explore the beautifil llano collecting herbs and communing with nature. In early autumn the Marez family travels to Maria's family farm in El Puerto de la Lunas to help with the harvest. The Lunas are a devout, quiet people and Maria hopes Antonio will follow their ways. Antonio is anxious as school approaches because it will be his first time away from home and classes will given in English, different fom his native Spanish. At church he makes friends with a group of older boys from the town. They are a rough-and-tumble bunch who embody the different belief systems and prejudices found in the community. Antonio proves himself, is accepted, and becomes part of the gang.
+
+
+
+--- New
+Final will be a take home: critique of BMU
+
+
+** The Science of Now
+AI and Large Language Models
+	What is AI? (slides)
+	What are LLMs?
+A Large Language Model (LLM) is a type of artificial intelligence (AI) designed to understand, process, and generate human-like text by analyzing vast datasets. At its core, an LLM functions as a probabilistic next-token prediction machine, determining the most likely next word (or part of a word) in a sequence, similar to a highly advanced smartphone auto-complete function.
+
+Transformers: Modern LLMs are built on transformer architecture, a type of neural network that processes data in parallel rather than sequentially. 
+
+Tokens: LLMs do not read words; they process "tokens," which are sub-word units or characters. These tokens are converted into numerical vectors (word embeddings) to allow the model to process semantic meaning mathematically.
+
+Next-Token Prediction: The model calculates probabilities for all potential next tokens based on the prompt, outputting the most likely one.
+
+	
+** Basic Prompt Engineering
+a "prompt" to AI contains a Developer Message PLUS a User Message
+
+Developer messages (AI role play instructions; system instructions)
+	-gives the model high-level instructions on how it should behave while generating a 
+	response, including tone, 
+	- goals, and examples of correct responses. Any instructions provided this way will take 
+	priority over a prompt in the input parameter.
+		
+  User messages (task instructions; input parameters)
+		Ant text, image, or file inputs to the model that are used to generate a 
+		specific response.
+
+ 
+	
+#####################
+Sample Gemini Prompts
+######################
+--- Developer Messages ------------------------------------------
+config = types.GenerateContentConfig(
+               system_instruction="You are an expert linguist \
+                   specializing in translation. Maintain the original \
+                   meaning, and tone of the original. Provide ONLY the \
+                   requested translation without any additional commentary, \
+                   introductory phrases, other language translations, or \
+                   conversational remarks."),
+
+
+--- User Messages ------------------------------
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME_Type = text/x-tex. That is. the output translation should be formated as \
+	a .tex file ready to open in LaTex."
+	
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file 
+	(.txt)."
+
+
+
+** Professional AI API-based access (Python)
+	What it looks like with my scripts
+		OpenAI_API-GeneralQuery.py
+
+
+** The Realities of CAT Tools
+https://www.smartling.com/blog/cat-tools
+
+5 of the most popular CAT tools
+	* Smartling
+	* Pairaphrase
+	* MemoQ
+	* Phrase
+	* Transifex
+
+3 of the most popular free(???) CAT tools
+	* Smartcat
+	* Matecat
+	* CafeTran Espresso
+	
+CAT tools used by UTECA students
+	* SDL Trados
+	* Word Fast
+	* Mem Source
+	* Smartcat
+	
+Look at Smartcat---
+https://www.smartcat.com
+© Smartcat Platform Inc. 2026 | 2810 N Church St PMB 50985, Wilmington, Delaware, 19802-4447, USA
+	
+Automate the translation and creation of any content type with our expert-enabled AI agents. Browse our agents and their skills that can improve your translation and content workflows.
+
+
+https://www.smartcat.com/ai-agents/
+**Learning Content Agent
+Generate corporate learning materials in any language from internal knowledge, tailored to drive employee performance and retention.
+
+**Document Translation Agent
+Turn institutional knowledge into high-quality multilingual documents. 
+
+**Media Translation Agent
+Get instant local-language videos and audio files with translated subtitles and natural-sounding AI dubbing.
+
+Can build custom agents for your specific content area or brand --- WOW!
+Can integrate all workflows ---WOW!!
+
+
+==> but OJO!!!! Smartcat is a wrapper!!!! <==
+Does Smartcat use OpenAI agents?
+Yes, Smartcat uses OpenAI agents, including GPT-4, as a core part of its platform to enable AI-powered translation, content creation, and localization. Smartcat leverages these models to provide simultaneous translation across text, images, and documents, allowing users to build custom AI agent workflows. 
+
+and cost??
+https://www.smartcat.com/pricing/
+Basic...For independent creators and small companies
+Starting at $1,200 USD/year
+
+
+** Build your own CAT tools
+	vibe coding	
+	https://www.nytimes.com/2026/02/18/opinion/ai-software.html
+	
+
+
+** More Murphy's English Grammar in Use
+	Units ==> 86 (Pronouns and determiners)
+		 ==> 98 (Adjectives and Adverbs)
+
+
+
+**  Bless Me, Ultima.......Questions and Readings
+--- Chapter 6
+	the summer the dust devils of the llano
+	I wanted to ask her immediately about the magic in the letters
+	At noon we opened our lunches to eat.
+	Down the wall near the comer I
+	two other boys who had sneaked out of the room. They were George and Willy.
+	
+	
+--- Chapter 7
+	I was gathered into the arms of the giants of my dreams.
+	My father opened a bottle of whiskey and they all drank as men
+	"I would give anything to move to California right now!"
+	
+
+--- Chapter 8
+	The bad blood of spring
+	B ut with spring they became more restless.
+	"We have to get the hell out'a here"
+	"It's either California, or going to work on the highway with him
+	Serrano's bull
+	They would be lost again.
+
+
+
+SAVE
+Ch 9
+	Tony's dream about innocence
+	Leon and Gene off to ABQ ...Andrew in school
+	Girls are only trouble when a man is young and wanting to get ahead.
+	Tony and Andrew on the bridge with the Kid
+	That year we waited for the world to end.
+	Fishing with Samuel ---Tony's a man !
+	Legend of The Golden Carp
+	
+Ch 10 
+	Lucas and Ultima
+	No one can play with fate
+	The evil brujas! Tenorio's daughters
+	Antonio and Ultima against evil
+	Ultima nd Tenorio
+	Antonio and Lucas
+	Ultima...Es sin pecado,
+
+
+Ch 11
+	Do you know who lives there?" Cico pointed at a green arbor.
+	The gang teases Tony abouty Ultima and witchcraft
+	"I don't know," Cico answered, "except that people, grown-ups and kids, seem to want to hurt each other-
+	and it's worse when they're in a group."
+	Prophecy of the Golden Carp
+
+
+--- Coming up
+
+	
+** Bless Me, Ultima
+	Chapters 9 - 11
+
+	
+
+
+
+
+
+
+
+
+

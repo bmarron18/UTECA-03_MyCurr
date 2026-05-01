@@ -2,7 +2,7 @@
 #############################################
 UTECA Study Guide 
 Marron English X
-26-1
+26-2
 
 "Brave New World" by Aldous Huxley
 ISBN 10:  / ISBN 13: 9780060850524
@@ -64,6 +64,7 @@ Comprehension Questions:
 
 ###########
 Chapter 16
+(p 174)
 ############
 Summary:
 Mustapha Mond interviews John, Bernard, and Helmholtz. Mond explains why the World State sacrifices art, science, and truth to keep people stable and happy. He tells the story of a failed experiment where only Alphas ran a society, which collapsed, proving that not everyone can be at the top. Mond offers exile to Bernard and Helmholtz. Bernard panics and begs to stay, while Helmholtz calmly accepts and even prefers a harsh island to sharpen his writing.
@@ -85,6 +86,7 @@ Comprehension Questions:
 
 ############
 Chapter 15
+(p 167)
 ############
 Summary:
 Leaving the hospital, John sees Deltas lined up for their daily soma. He tries to stop them, calling the drug a poison and throwing the ration out the window. A riot breaks out. Helmholtz arrives and sides with John, while Bernard hesitates, torn between fear and loyalty. Police use calming tools and more soma to end the chaos. John, Helmholtz, and Bernard are arrested.
@@ -106,6 +108,7 @@ Comprehension Questions:
 
 ############
 Chapter 14
+(p 159)
 ############
 Summary:
 John goes to the Hospital for the Dying to see Linda. The ward is calm, bright, and full of children being conditioned not to fear death. Linda is drugged and mistakes John for someone else, then dies without recognizing him. The nurses are more worried about upsetting the children than about John’s grief. When the children mock, John lashes out in anger and sorrow.
@@ -127,6 +130,7 @@ Comprehension Questions:
 
 ###########
 Chapter 13
+(p 148)
 ###########
 Summary:
 Lenina is confused by her strong feelings for John and decides to visit him and show her desire openly, as her society teaches. John declares his love in romantic terms and speaks of marriage, which she finds strange. When Lenina tries to seduce him, he becomes upset, calls her terrible names, and demands she leave. A call then comes about Linda’s condition, pulling John away.

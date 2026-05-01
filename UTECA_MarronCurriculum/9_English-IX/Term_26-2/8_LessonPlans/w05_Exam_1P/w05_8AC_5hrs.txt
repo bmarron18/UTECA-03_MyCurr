@@ -1,0 +1,228 @@
+							LESSON PLAN  (5 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-2
+Materia: 		Inglés VIII
+Curso:		IT0835
+Licenciatura: 	Interpretación y Traducción
+Grupo:		8AC
+
+
+#####################
+HW_05 [Due: 18 Feb 2026]	
+
+--- Task 1
+Translate the following two axioms from standard economics into Spanish:
+
+Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
+
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
+
+--- Task 2
+Read the excerpt from "The World Order in Crisis" by Sir Mark Lyall Grant [01_Grant_World-Order-in-Crisis_2022.txt] and 
+	a. Write a brief summary of the excerpt, and
+	b. Write a brief statement giving your perspective on the state of the current and the future world 
+	order.
+	
+--- Task 3
+Read Chapters XVII thru XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+Ultimately, you will write a full critique of this novel.
+	
+
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+More law, less justice.
+	Marcus Tullius Cicero (statesman, lawyer, scholar, philosopher, orator, writer and academic skeptic)
+
+
+"The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it. The first lesson of politics is to disregard the first lesson of economics."
+			--- Thomas Sowell
+			(economist, economic historian, social philosopher, and political commentator)
+
+	
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+--- Review
+
+	HW:
+		* Format good
+		* Be sure you understand what is being asked of you!!!
+		(following the outline structure for the critique; Reading!)
+
+	Outlines vs exam responses vs academic papers
+
+
+
+--- New
+
+** Economics and Politics
+A quick look at standard economic axioms, theorems, and corollaries and then the  role of economics in politics
+
+
+Economics: The study of choice and resource allocation under conditions of scarcity.
+
+Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
+
+	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we 
+	need. We are economically linked to others in hundreds—even thousands—of different ways.
+	
+	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because 
+	specialization and exchange enable us to enjoy greater production, and higher living standards than 
+	would otherwise be possible.
+
+
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
+		
+	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
+	constrained by the resources they control.
+	
+		Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
+		more or less resources under their control than others.
+
+
+What is money?
+What is development?
+What is welfare?
+
+What is the role of government?
+What is opportunity?
+What is agency?
+What is freedom?
+
+What is the "world order"?
+
+
+
+
+
+a system controlling events in the world, especially a set of arrangements governing relations between the powerful countries of the world.
+
+
+
+WE WILL READ --
+"The World Order in Crisis"
+by Sir Mark Lyall Grant
+Horizons: Journal of International Relations and Sustainable Development, 
+No. 21 (SUMMER 2022), pp. 124-133
+[01_Grant_World-Order-in-Crisis_2022.txt]
+
+Canadian Prime Minister Mark Carney's remarks at the World Economic Forum 
+in Davos, Switzerland, on Tuesday, January 20, 2026
+[https://www.cbc.ca/news/politics/mark-carney-speech-davos-rules-based-order-9.7053350]
+[02_MarkCarneySpeech_Davos_2026.txt]
+
+Excerpts from Amartya Sen's, "Development as Freedom"
+[03_AmartyaSen_Excerpts.pdf]
+
+Herman Daly's, "The Perils of Free Trade"
+[04_ Daly_Perils-of-Free-Trade.pdf]
+
+
+** More Murphy's English Grammar in Use
+	Units ==> 82 (Pronouns and determiners)
+
+** Exam 1P (2 hrs)
+	* Compare and contrast Spanish, English, and Chinese (briefly)]
+	* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+	* Define Zip's Law and explain why it is useful
+	* Define what generative text models are and very roughly, what they can do
+	* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+	* Read and evaluate new information regarding perspectives on academic writing
+	* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
+	* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt 
+	and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish 
+	translation on the exam
+
+
+(Thurs)
+** More Murphy's English Grammar in Use
+	Units ==> 82 (Pronouns and determiners)
+
+**	Chapters XII thru XVI of "Charlotte's Web."
+
+	* Important Themes					
+		1. Friendship
+		2. Life and Death
+		3. Courage and Sacrifice
+		4. Identity and Self-Worth
+		5. The Power of Words
+		6. Kindness and Compassion
+
+** Characters and  Character Development / Character Maps
+		Motivations, Traits, Personality, Relationships, Key Events
+	
+			Fern						
+			Avery
+			Mr. Arable
+			Mrs. Arable
+			Wilbur
+			The Goose
+			Templeton
+			Charlotte
+			The Old Sheep
+			Homer and Edith Zuckerman
+			Lurvy						
+										
+			Henry Fussy
+			Dr. Dorian
+			Uncle
+			Joy, Aranea, and Nellie
+			
+	
+	* The Story Arc and Mini-arcs		
+		1. Time / Space
+		2. Plot
+	
+	
+	* Writing Style						
+		==> ease of reading?
+		==> flow?
+		==> dialog?
+		==> wordiness?
+		==> emotive?
+		==> holds together logically?
+		==> genre?
+	
+	* Your personal opinion of the work
+
+
+
+**	START your critique of "Charolette's Web"
+	Go thru
+		Marron_English-VIII-StyleGuide.pdf
+
+
+
+
+
+--- Coming up
+
+
+	*"Bless Me, Ultima"
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

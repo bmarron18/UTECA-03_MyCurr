@@ -1,0 +1,292 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-2
+Materia: 		Inglés X
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A
+
+
+
+#####################
+HW_08 [Due: 12 Mar 2026]
+
+--- Task 1
+Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
+
+Structure-Based Writing Exercises
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
+
+--- Task 2
+Read the final two chapters (Chapter 15, and Chapter 16) of "The Joy Luck Club." 
+	Ch. 15	o Double face: Lindo Jong
+	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
+
+--- Task 3
+Complete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+
+Study Guide Exam 2P 	[Do not turn in as homework]
+-------------------
+1. Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet.
+
+2. Be able to evaluate your experience with coding
+    * How would you evaluate or characterize the Python language?
+    * Did you find using the command-line for computer-based tasks helpful or burdensome?
+    * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * Give two reafsons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+
+3. Be able to evaluate your experience with creative writing
+    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
+    * Of the pieces you wrote for class which was your favorite? Explain why.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
+
+---- Open
+
+
+
+	"Only hard work is needed to grind an iron rod into a needle."
+
+
+
+
+只要功夫深，铁杵磨成针 (Zhǐyào gōngfū shēn, tiěchǔ móchéng zhēn)
+'just need effort deep, iron rod grind become needle'
+
+
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+
+--- New
+	
+** Creative Writing
+--- Tips from the Masters: George Orwell
+https://www.writingclasses.com/toolbox/tips-masters
+
+Andrew Motion: 10 Techniques to Spark the Writing
+Annie Proulx: 5 Techniques for Good Craftsmanship
+Billy Wilder: 10 Screenwriting Tips
+Corita Kent: Ten Rules for Students and Teachers
+**Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+Elmore Leonard: 10 Rules for Good Writing
+**George Orwell: 6 Questions/6 Rules
+*Henry Miller: 10 Writing Tips
+*Jack Kerouac: 30 Cool Tips
+Joyce Carol Oates: 10 Writing Tips
+**Kurt Vonnegut: 8 Basics of Creative Writing
+Margaret Atwood: 10 Ideas for Writers
+Michael Moorcock: 10 Tips for Good Storytelling
+Neil Gaiman: 8 Good Writing Practices
+*P.D. James: 5 Bits of Writing Advice
+Rejection: 3 Methods for Coping
+Ronald Knox: 10 Commandments of Detective Fiction
+*Strunk & White: 11 Composition Principles** Resumes
+	Key Info
+		Name
+		Contact 
+		Education
+		Experience
+		Awards/Certifcates/Trainings
+		Personal Tidbits / Objective
+	My resume in LaTex
+	
+	
+	Overleaf
+		https://www.overleaf.com/latex/templates
+		https://www.overleaf.com/gallery/tagged/cv
+		Log in to Overleaf w/ Google
+	
+		Why Latex?		https://www.overleaf.com/about/why-latex
+	
+		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
+		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
+		
+
+Tracy Kidder and Richard Todd: 10 Writing Insights
+Zadie Smith: 10 Good Writing Habits
+
+
+
+-- George Orwell: 6 Questions/6 Rules
+Orwell excoriated totalitarian governments in his work, but he was just as passionate about good writing. 
+
+A scrupulous writer, in every sentence that s/he writes, will ask himself at least four questions, thus:
+1.	What am I trying to say?
+2.   What words will express it?
+3.   What image or idiom will make it clearer?
+4. 	Is this image fresh enough to have an effect?
+
+And s/he will probably ask himself two more:
+5.	Could I put it more shortly?
+6.	Have I said anything that is avoidably ugly?
+
+One can often be in doubt about the effect of a word or a phrase, and one needs rules that one can rely on when instinct fails. I think the following rules will cover most cases
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+2. Never use a long word where a short one will do.
+3. If it is possible to cut a word out, always cut it out.
+4. Never use the passive where you can use the active.
+5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+6. Break any of these rules sooner than say anything outright barbarous.
+
+
+--- Mini-Analysis: Edgar Allen Poe, "The Cask of Amontillado"
+“The Cask of Amontillado” is a story about betrayal and revenge. The narrator, Montressor, feels betrayed and offended by Fortunato, who has allegedly bad-mouthed Montressor behind his back. In his turn, Montresor betrays Fortunato by tricking him into a death trap: sealing him into a brick-walled coffin where he will be "buried alive"!
+
+“The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult I vowed revenge. You, who so well know the nature of my soul, will not suppose, however, that gave utterance to a threat. At length I would be avenged; this was a point definitely, settled --but the very definitiveness with which it was resolved precluded the idea of risk. I must not only punish but punish with impunity. A wrong is unredressed when retribution overtakes its redresser. It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong. ”
+	― Edgar Allan Poe, "The Cask of Amontillado"
+
+
+Mood has to do with the way a person feels while reading; therefore, word choice, imagery, and figures of speech that are used in a story can contribute to creating a distinct feeling for audiences. Poe creates an eerie mood in "The Cask of Amontillado" by describing the environment surrounding Fortunado and Montressor as they walk down a long passage through catacombs and wine vaults. The scene is also at night, which makes the sentences in the excerpt provided spookier. The sentences which help to create this eerie mood are as follows:
+
+1. "We had passed through long walls of piled skeletons, with casks and puncheons intermingling, into the inmost recesses of the catacombs."
+2. "It hangs like moss upon the vaults. We are below the river's bed. The drops of moisture trickle among the bones."
+3. "He laughed and threw the bottle upwards with a gesticulation I did not understand."
+
+
+The first example from the excerpt as shown above points out that the two men walk past piled skeletons. The fact that skeletons are piled on top of each other suggests carelessness and disregard for those who have died. Not only that, seeing corpses or skeletons lying about haphazardly can certainly give someone the heebie-jeebies. Then, knowing that they are deep inside of catacombs might give someone a claustrophobic feeling, which isn't comfortable, either.
+
+Next, Montressor points out that they are below the river and that water is getting in among the bones. The mood at this moment is not only creepy but gives off an unsafe feeling. It is eerie to think that a leak could spring out of the rocks and bones to drown the men at any moment! 
+
+Finally, and most surprisingly, Fortunado appears to be losing his mind. Of course, he is drunk; but when he laughs, throws the wine bottle up, and behaves in a way that Montresor doesn't understand, this shows that he is unpredictable, which compounds the intensity of the eerie scene. 
+
+
+--- Students reading their work  (obligatory)
+Finish
+
+
+--- Structure-Based Writing Exercises
+https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
+
+Longer exercises (~2-3 paragraphs)
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
+
+
+
+PART II
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+
+**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother				Daughter
+--------				---------
+Suyuan Woo			==> Jing-mei "June" Woo
+An-mei Hsu			==>	Rose Hsu Jordan
+Lindo Jong			==>	Waverly Jong
+Ying-ying St. Clair		==>	Lena St. Clair
+
+
+---  Magpies: An-Mei Hsu (Ch. 13)
+To her mother (An-mei), Rose reveals that her marriage is falling apart. Paralyzed with grief and indecision, Rose can do nothing but weep. An-mei understands that by refusing to do something decisive about this problem, Rose is, in effect, choosing to do nothing. She knows that her daughter must make a choice: Rose must try to assert herself or she will lose her chance forever. An-mei understands this character flaw because she herself was taught to demand nothing for herself.
+
+An-mei remembers sixty years ago, when she first saw her mother. An-mei's mother had returned home when her own mother, Popo, lay dying. After Popo died, An-mei's mother prepared to leave. On the eve of her departure, she told An-mei a story from her childhood, when she was a little girl about An-mei's age. Her mother, Popo, told her that she could no longer be a child. From this experience, An-mei's mother learned that it is useless to cry, for tears only feed someone else's joy.
+
+On the morning of her departure, An-mei's mother suddenly takes An-mei with her. On the long journey, she entertains the little girl with stories about the wonders that the child will encounter. On the morning of their arrival, An-mei's mother shocks her daughter by discarding her white mourning dress for Western-style clothes. She has a fine dress for An-mei, too, and explains that they will live in the home of Wu Tsing, a rich merchant.
+
+Despite her description of the wealth that awaits them, An-mei is stunned by the lavish Western-style house and by the scores of servants that she sees. She learns about First Wife, Second Wife, Third Wife, and about her mother — Fourth Wife. At first, little An-mei is delighted by her new home, but about two weeks later, she begins to understand her mother's lack of status in this new household.
+
+Old Wu Tsing arrives with his fifth wife, a woman only a bit older than nine-year-old An-mei, who suddenly realizes that something is wrong here. A few nights later, An-mei is awakened when Wu Tsing comes to her mother's bed. The child is taken to a servant's bed for the night. That afternoon, for the first time, An-mei's mother tells the child about her deep sorrow. As Fourth Wife, she has almost no status within the household.
+
+Soon afterward, the other wives return. First Wife is a plain, honest woman; Second Wife is full of treachery. She gives An-mei a string of pearls to win her affection. To counter Second Wife's trickery, An-mei's mother crushes one of the pearls beneath her feet. The child sees instantly that the pearls are false. From then on, she learns more and more about the wives and their various powers.
+
+First Wife has the most power by virtue of her position, but her spirit was broken after the birth of her first child, who was born with one leg shorter than the other. Her second child had a large birthmark over half her face. First Wife now spends her time going to Buddhist temples seeking cures for her children. She has her own home — and thus, An-mei's mother also wants her own home. Second Wife was a sing-song girl who knows how to control men. To get an increase in her allowance, she feigns suicide by swallowing a piece of raw opium. She continues this ploy until she gets everything she wants — but she cannot have children; therefore, she arranged for Wu Tsing to take a third wife, who gave birth to three daughters. Later, Second Wife arranged for An-mei's mother to become Fourth Wife by tricking her into staying the night, whereupon Wu Tsing raped her. She later gave birth to a son, which Second Wife claimed as her own.
+
+Two days before the New Year, An-mei's mother poisons herself. Empowered by her action, An-mei crushes the pearl necklace that Second Wife gave her. Now, An-mei wants her daughter to stand up for herself and stop suffering in silence.
+
+
+			
+---  Waiting Between the Trees: Ying-Ying St. Clair (Ch. 14)
+Lena St. Clair has put her mother in the guest bedroom, the smallest room in the house. Mrs. St. Clair is upset because her daughter does not understand that the guest bedroom should be the best one in the house. To Mrs. St. Clair, her daughter's house looks as though it will break into pieces.
+
+Mrs. St. Clair recalls that she was a wild girl in her youth. Her mother said that she would bring shame to their house, but Ying-ying disregarded these warnings. Her family was one of the richest in Wushi, but the wealth meant little to young Ying-ying. She played on the street with a priceless jade jar, treating it like a toy. When she was sixteen, her aunt married. After the festivities, a male friend of the family humiliated Ying-ying by plunging a knife into a watermelon, a crude symbol suggesting the loss of virginity. Six months later, Ying-ying married this man and fully understood his cruel taunt.
+
+The night of her aunt's wedding was also important to Ying-ying because it was then that she first began to know about things before they happened. It was then that she knew that she would marry the crude man who plunged the knife into the watermelon. Ironically, after they were married, Ying-ying began to love him. It happened one afternoon when he said that she had tiger eyes. Soon afterward, she became pregnant — and discovered that her husband had left her for an opera singer. She had an abortion, and in her grief, she went to live with a second cousin's family. They were terribly poor, but she stayed ten years amid the squalor. Then she moved to the city and became a shop girl. There, she met Clifford St. Clair; she knew at once that they would marry. For four years, he courted her, buying her little trinkets, which meant nothing to her when she set them against the riches she had known. But, nonetheless, she saved the baubles because she knew that she would marry St. Clair. One day, she received a letter saying that her husband was dead, and she decided to let St. Clair marry her. On the day that her daughter was born, she brought out the trinkets he had given her. He adored her, but she loved him only as a ghost would love, without feeling. She had lost her chi, her spirit.
+
+To regain her spirit, Ying-ying is going to confront her past. This pain will free her spirit so she can cut her daughter's spirit free. Like a tiger, Ying-ying sits and waits for her daughter.
+
+The Joy Luck Club has been lavishly praised for its literary techniques. One of the most successful aspects of Tan's techniques is her use of multiple points of view. Notice how Tan retells each story from the mothers' and daughters' points of view. This interweaving of viewpoints underscores the difficulty that the mothers and daughters have communicating with one another. How could they fully understand each other when each is getting only half the story? Shifting viewpoints also serves to unify the book, develop themes, and heighten reality.
+
+Ying-ying sees her daughter's misery; Lena's husband Harold does not. Lena is similarly blind to the reality of her mother. She has no idea of her mother's past. She does not suspect that her mother was once married to another man; she has no inkling that her mother had an abortion. She believes that her father rescued her mother from a poor village; she never imagines that her mother was raised in great wealth. She sees only a frail old lady, not a vigorous, clever tiger. Both stories end the same way, with the poorly balanced table, a symbol of their lives, crashing to the floor.
+
+
+** Humanity's Last Exam (Nature)
+
+** China's Translation AI mask (NY Times)
+https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html
+
+It has two parts: a mask that covers her mouth, and a speaker that hangs around her neck. Ms. Zheng speaks Chinese into the mask, which also muffles her voice. Then, a translation comes out of the speaker. 
+The roughly $375 device, called Native Language Star, draws on speech and language models developed by several Chinese technology firms, according to the company, based in Shenzhen, that makes the device.
+
+--- Coming up
+
+** Chinese Identity --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+

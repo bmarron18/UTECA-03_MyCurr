@@ -1,0 +1,409 @@
+
+#########
+All HW 3P
+#########
+
+*** HW_12 [Due: 15 April 2026]	LAST ONE!
+--- Task 1
+Read Chapter 16, Chapter 17, Chapter 18, and Chapter 19 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+--- Task 2
+Review Lamadrid's paper, ""Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge" and answer the following questions:
+	1. What is the problem statemnent of the paper?
+	2. What is Lamadrid's thesis?
+	3. According to Lamadrid, what is Ultima's (and Tony's) actual role in the community?
+	
+
+--- Task 3
+Begin work on the final exam. The final exam is a written critique of the novel, "Bless Me, Ultima". All of the requirements for this critique can be found in the attached document, "FinalExam_Marron_Ingles-VIII.pdf". The final exam is a take-home exam and will be officially due on April 22, 2026. 
+
+
+
+--- Study Guide for Exam 3P (an open-book exam)
+T1
+	*Why are LLMs called “large language models”?
+	*What is a perceptron and how (basically) does it function?
+	*What is it that LLMs actually do?
+	*Explain i) the nature of an API, and ii) the nature of Python.
+	*Why shouldn't AI agents be anthropomorphized?
+	*What is Humanity's Last Exam and why is it important?
+
+T2
+	*Access to cloud-based LLM translation is typically done through an Application Programmer Interface (API)
+	using Python. Briefly explain i) the nature of an API, and ii) the nature of Python.
+	*Briefly explain the concept of prompt engineering.
+	*Select either BLEU or METEOR and briefly explain how the metric works.
+
+		- Bilingual evaluation understudy (BLEU) metric (uses n-gram comparisons) 
+		- Metric for evaluation of translation with explicit ordering (METEOR)
+		(uses n-grams, synonymy, stemming, word order)
+	
+T3
+	*What is meant by the term “vibe coding” and explain how this is rapidly changing the world of professional 
+	coding.
+	*How might you use “vibe coding” in the future?
+
+		
+T4
+	*What is meant by the term alignment and why must AI agents be aligned?
+	*What is meant by the term, “emergent property” and why might emergent properties be worrisome?
+	*List three important take-aways from the AI Futures Project report, "AI 2027"
+	*Klein notes that Anthropic had “redlines” for the use of their AI systems (no surveillance of citizens; no 
+	AI-powered kill munitions) that the U.S. Pentagon wanted to bypass.  Because the Pentagon fired Anthropic, 
+	what does this suggest to you about the current intentions of the national security state in the U.S.?
+	*Richard David Hames offers perhaps fantastical possibilities for positive interactions between AI and 
+	humans. List one important take-away from his opinion piece.
+	
+T5
+	*Provide the question and the answer to one (1) question each from Chapters 16-19
+	
+
+*** HW_11 [Due: 08 April 2026]	<== due in two weeks
+--- Task 1
+Read the AI 2027 Report either on-line at https://ai-2027.com/ (preferred) or in "04_ai-2027.pdf" and answer the following questions:
+	1. Look through the "Who are we ?" section. Are the authors credible?
+	2. Do you use ChatGPT or any other AI-agents? If yes, do you considerthe use of these agents part of your workflow?
+	3. OpenAI, Anthropic, DeepSeek, Google, and others ARE actually building massive data centers around the world. From Shanahan (and others), what is known about the relationship between emergence and scale in AI? What is happening in Queretero, MX?
+	4. What scale of AI agents will be able to be built when the new data centers come on line?
+	5. OpenAI just released GPT-5.3, Google has recently released the Gemini 3 series, DeepSeek has released DeepSeek 4, and Anthropic Claude 4. Is it likely that all of these companies have more advanced models in the works?
+	6. At this moment in AI development (March 2026), what is the single most important skill for an AI?
+	7. What produces "drive" in AI agents? How are AI agents expected to be "controlled"?
+	8. AI agents have already shown documented emergent properties such as being sycophantic. With respect to emergent properties, what is highly likely when new, more powerful AI agents come on line?
+	10. What are long-horizon tasks and why do you think AI agents are not yet good at executing such tasks?
+	11. China does not appear to be falling behind in AI research. Do you agree?
+	12. The U.S. Pentagon has already contracted AI services and will undoubtedly seek to incorporate AI agents into most, if not all, defensive and offensive weapon systems. Anthropic recently stood up to the Pentagon for wanting to use Anthropic's AI agents contrary to Anthropic's use requirements. What happened?
+	13. What are the (projected) capabilities of Agent-2? WHat are the dangers?
+	14. Why would any corporate (or international) espionage want to steal an AI model's weights?
+	15. An inflection point in AI capability is the realization of a superhuman coder. Why?
+	16. In terms of AI research and development (R and D), what does "vibe coding" look like in March 2027? How has prompt engineering evolved?
+	17. In April 2027 R and D becomes very concerned about AI agent alignment. Why?
+	18. What exactly is Artificial General Intelligence (AGI)? Would we (i.e., citizens of the world) even know when it happens?
+	19. What does it mean to have "a country of geniuses in a datacenter"?
+	20. CAT tools are one type of "AI wrapper startups". What does this mean?
+	21. As of August 2027, the report predicts AI agents have blown through AGI and are now superintelligent. What does this term mean and how might this event affect the geopolitics of the world ?
+	22.By September of 2027 the report predicts that the newest AI agents cannot be understood either by humans or by older AI agents! What are predictable verifiable events/outcomes that would indicate this has indeed happened?
+	23. What is the main (terrifying!) problem with Agent-4? Why is this terrifying?
+	24. A critical junction is reached where humans must decide whether to slow down AI research (because of misalignment) or continue without guardrails. The report predicts this is likely to happen in October 2027. Given historical trends, what do you predict will happen, Race or Slowdown?
+	25. Briefly summarize what happens in the Slowdown scenario.
+	26. Briefly summarize what happens in the Race scenario.
+	
+--- Task 2
+Read Chapter 12, Chapter 13, Chapter 14. Chapter 15 of "Bless Me, Ultima." Select and answer just three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide.pdf).
+
+
+
+*** HW_10 [Due: 25 Mar 2026]	
+--- Task 1
+Define the following terms/acronyms:
+	perceptron
+	artificial neural network
+	large language model (LLM)
+	LLM supervised learning 
+	LLM unsupervised learning
+	LLM reinforcement learning with human feedback (RLHF)
+	
+	emergence
+	
+	application programmer interface (API)
+	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
+
+--- Task 2
+Read "01_Shanahan_TalkingAboutLLMs.pdf"
+	Intro
+	What LLMs Do and How They Work
+	Humans and LLMs Compared
+	Do LLMs Really Know Anything?
+	What about Emergence?
+
+Answer the following questions:
+	1. AI agents are "unreasonably" effective (i.e, these models have surprised everyone on the power of big data). What are the three ways that AI models have shown to be remarkable?
+	2. What is the danger of anthropomorphizing AI agents?
+	3. Shanahan states, "A human infant is born into a community of language users with which it shares a world." How is this fundamentally different from AI agents?
+	4. How, exactly, do bare-bones LLMs work?
+	5. Explain the idea of communicative intent. Why don't AI agents have this (yet)?
+	6. LLMs must be embedded in a larger system that allows for structured prompts of various kinds that orient the LLM. Why?
+	7. Current AI agents are impressive because developers have turned LLMs into question-answering systems by embedding them in a larger system and using prompt engineering to elicit the required behavior. What are two important take-aways from this phenomenon?
+	8. What do bare-bones LLMs actually know?
+	9.Shanahan notes, "the overriding lesson of recent progress in LLMs is that extraordinary and unexpected capabilities emerge when big enough models are trained on very large quantities of textual data." Given this reality, do you think AI agents could become conscious?
+	
+	
+--- Task 3
+Read Chapters 9, 10 and 11 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+
+
+
+**HW_09 [Due: 18 Mar 2026]	
+--- Task 1
+Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
+
+	12. Real wages for US nonsupervisory workers (i.e., employees) who make up about 80% of the US work force, have fallen 17 percent between 1973 and 1990. [Note: The Economic Policy Institute notes that while overall productivity in the US economy grew significantly from 1973 to 2013, the hourly compensation of production and nonsupervisory workers rose only 9%, compared to a 74% increase in productivity. This divergence between productivity growth and worker compensation is a key trend. In the decades following World War II, wages for the vast majority of workers grew roughly in line with productivity, but this changed after 1973. In large measure, the backlash from this trend brought Trump to office.] According to Daly, what is the real reason that US wages have fallen? Do you think a binding, international legal system would help or hurt international trade? 
+	13. Daly delivers a scathing rebuke of NAFTA (the now expired North American Free Trade Agreement) with regards to corn production in Mexico. What does he say? Were his predictions accurate? [Note: The policies of Earl Butz, Secretary of Agriculture under Presidents Nixon and Ford destroyed the American family farm.]
+	14. Daly argues that "the legitimate case for restrictions on labor immigration is therefore easily extended to restrictions on capital emigration." What does this mean?
+	15. Like Steffen et al., Daly also uses a systems approach in defining the economy in relation to the biosphere. Look at the diagram on p.4. How does the definition of economy differ between neoclassical and steady-state (ecological) economics?
+	16. Daly states that when confronted with the real problems created by free trade (i.e., resource allocation problems, standards-lowering problems, absolute competitive advantage problems, biosphere degradation problems, etc), neoliberal economists shrug their shoulders and say that "growth" will fix all the problems. What is meant by here by "growth"? And why is this response anything but a cure for the problems? (In fact, Daly points out that such a cure is impossible.)
+	17. Who are the real beneficiaries of free trade? Why?
+	18. How is a steady-state economy analogous to an organism? 
+	19. "Once upon a time..." is the start of the fairy tale that neoliberal economists still hold on to; namely, that man-made and natural capital are good substitutes for one another. What is the current reality, as beautifully stated by Daly in terms of fishing boats and saw mills?
+	20. As in so many things, scale matters. Why is scale important in considering past and future economic impacts to the biosphere?
+	21. What is Daly's definition of development? Would Sen agree with him?
+	22. Finally, Daly notes that "by spatially separating the costs and benefits of environmental exploitation, international [free] trade makes them harder to compare." Without intervention, what does Daly see as the inexorable outcome of this failure in cost accounting?
+
+--- Task 2
+Read Chapter 6, Chapter 7, and Chapter 8 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+
+#########
+All HW 2P
+########
+
+**HW_08 [Due: 11 Mar 2026]	
+--- Task 1
+While David Ricardo is credited with the concept of free trade, as espoused through his ideas of comparative advantage, it was Milton Friedman who extended and polished the concept. Friedman and the Chicago School of Economics have championed the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
+
+	1. Daly notes that, at the time of writing the article, most if not all economists endorsed the idea of free trade; that is, free trade being a presumed good unless proven otherwise. Briefly, what is meant by the term, free trade? What is Daly's name for free trade?
+	2. How did Keynes see the relationship between national and international production?
+	3. What is the general economic argument used to promote free trade? From Daly's perspective what is the main flaw in this argument?
+	4. Daly calls free traders to task for aggrandizing mathematical theories over ground-truthing. What does he mean by this?
+	5. What is the modern reality of capital that undermines and invalidates a fundamental premise of Ricardo's theory of comparative advantage?
+	6. Daly notes that "for trade to be mutually beneficial, the gains must not be offset by higher liabilities." What are two obvious liabilities pointed out by Daly?
+	7. Why can the specialization required of free trade reduce a nation's range of occupational choices?
+	8. Again Daly calls free traders to task but this time for fundamental negligence. He notes that "the arguments for free trade run afoul of the three basic goals of all economic policies: the efficient allocation of resources, the fair distribution of resources and the maintenance of a sustainable scale of resource use." Explain how free trade violates each one of these three basic economic goals.
+	9. Free trade seems to fly under the banner, "Privatize the profits and externalize the costs." What does this slogan mean?
+	10. How can tariffs be used positively?
+	11. Do you think a binding, international legal system would help or hurt international trade?
+
+--- Task 2
+Read Chapter 3, Chapter 4, and Chapter 5 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+--- Task 3
+Study Guide for Exam 2P [Do not turn in as homework]
+
+T1 The axioms and corollaries of standard economics
+    1. According to economics, what is scarce?
+    2. Do you agree with economicsâ€™ axiom of scarcity?
+    3. Briefly explain why opportunity cost results from choice.
+
+T2 The modern World Order
+    1. Briefly explain what were the intentions of the US and European Allies for creating the World Order 
+    after WWII.
+    2. Briefly explain what events and pressures have contributed, and are currently contributing, to the 
+    collapse of the World Order
+    3. Briefly state your perspective on the state of the current and the future world order.
+	
+T3 Amartya Sen's thoughts on freedoms, unfreedoms, and development
+    1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one 
+    kind or another. List three (3) broad categories of unfreedoms and in each case briefly explain why 
+    agency is diminished.
+    2. List three (3) distinct types of freedoms that are fundamental for development. and briefly explain 
+    why these freedoms are synergistic.
+    3. Sen argues that development must have a broader definition than simply economic enhancement. What is 
+    Sen's definition of development?
+
+T4 Herman Daly's, "The Perils of Free Trade"
+    1. Briefly, what is meant by the term, free trade?
+    2. What is the modern reality of capital that undermines and invalidates a fundamental premise of 
+    Ricardo's theory of comparative advantage?
+    3. Free trade seems to fly under the banner, "Privatize the profits and externalize the costs." What 
+    does this slogan mean?
+    4. Who are the real beneficiaries of free trade? Why?
+    5. Neoliberal economists have neglected the reality of the relationship between the economy and the 
+    biosphere. How is a steady-state economy analogous to an organism and why is a steady-state economy 
+    absolutely required for sustainability?
+    6. Do you think a binding, international legal system that requires corporate full cost accounting would 
+    fix the problems created by free trade?
+
+T5 Briefly summarize the novel, "Bless Me, Ultima" up through Chapter 5.
+
+
+HW_07 [Due: 04 Mar 2026]	
+--- Task 1
+Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Development" and answer the following questions,
+	1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one kind or another. List three (3) broad categories of unfreedoms.
+	2. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
+	3. According to Sen, what are the five (5) distinct types of freedoms and why are they synergistic? 
+	4. Does Sen commend or chastise the role of markets?
+
+--- Task 2
+Read Chapter 1 and Chapter 2 of "Bless Me, Ultima" and answer the following questions:
+	i)  Answer all of the questions from Chapter 1
+	ii) Answer five (of the 13) questions from Chapter 2. Your can choose which questions to answer.
+
+Questions, vocab, and chapter summaries for "Bless Me, Ultima" can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt." Organize your responses to the questions above using Marron_English-VIII-StyleGuide.pdf.
+
+
+
+** HW_06  [Due: 25 Feb 2026]	
+--- Task 1
+Canadian Prime Minister Mark Carney's speech is provocative in its assessment of the current world order.
+After reading the speech, do the following:
+	1) Provide an annotated list of the main points of Carney's speech.
+	2) Answer the question, What is your assessment of Carney's speech?
+	
+--- Task 2 (counts double)
+Write a ~three-page critique of "Charlotte's Web." Use the Chesapeake College guide to organize your document and present your critique in the format given in Marron_English-VIII-StyleGuide.pdf. Please note that the questions and statements under each section are for guidance only. Do not include the questions or the statements in your critique.
+
+
+
+** HW_05 [Due: 18 Feb 2026]	
+--- Task 1
+Translate the following two axioms from standard economics into Spanish:
+
+Axiom 1: As a society, our resources?land, labor, and capital?are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
+
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. ?There is no such thing as a free lunch.?
+
+--- Task 2
+Read the excerpt from "The World Order in Crisis" by Sir Mark Lyall Grant [01_Grant_World-Order-in-Crisis_2022.txt] and 
+	a. Write a brief summary of the excerpt, and
+	b. Write a brief statement giving your perspective on the state of the current and the future world 
+	order.
+	
+--- Task 3
+Read Chapters XVII thru XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+Ultimately, you will write a full critique of this novel.
+	
+
+#########
+All HW 1P
+########
+
+**HW_04 [Due: 11 Feb 2026]	
+--- Task 1
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of words from the middle part of Charlotte's Web.
+
+--- Task 2
+Read Chapters XII thru XVI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+Ultimately, you will write a full critique of this novel.
+
+--- Task 3
+Study Guide for 1P exam. You should be able to:
+* Compare and contrast Spanish, English, and Chinese (briefly)
+* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+* Define Zip's Law and explain why it is useful
+* Define what generative text models are and very roughly, what they can do
+* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+* Read and evaluate new information regarding perspectives on academic writing
+* Summarize the novel, "Charlotte's Web" up through Chapter XVI in about two+ paragraphs
+* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide English definitions and a Spanish translation on the exam
+
+
+
+**HW_03 HW_03 [Due: 04 Feb 2026]	
+--- Task 1
+Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format as defined in the document, "Marron_English-VIII-StyleGuide.pdf". The basic outline is as follows:
+
+	Task 1: A Critique of G. Pullum's, "Land of the Free"
+
+Introduction					
+
+Evaluation of Pullum's Criticisms		
+	* Pullum Criticism #1	
+	* Pullum Criticism #2	
+		
+Conclusions						
+
+
+--- Task 2
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of words from the first part of Charlotte's Web.
+
+
+--- Task 3
+Read Chapters VII through XI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+Ultimately, you will write a full critique of this novel.
+
+NB. Marron's modified APA format applies to all homework assignments (See Marron_English-VIII-StyleGuide.pdf in Reference Docs folder). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date, unless duly noted. Students should save copies of all assignments in PDF format.
+
+
+
+**HW_02 [Due: 28 Jan 2026]	
+--- Task 1
+With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
+
+	1. How does Claude Shannon view the process of communication?
+	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a 
+	frequency or probability of occurrence. Shannon discovered a way to measure the information content 
+	of a string of words (message). Explain why completely redundtant messages or completely random 
+	messages contain virtually no information.
+	3. Based on information theory, what types of messages contain the maximum amount of information?
+	4. What is Zipf's Law?
+	5. Give an example of a generative model for languages.
+	
+--- Task 2
+Read the paper, "Trajectories of the Earth System in the Anthropocene" (03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene). By focusing on the Abstract, Introduction, and Conclusions sections of the paper, write a one+-paragraph summary of the entire paper in English.
+
+
+--- Task 3
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_01.txt: a list of 72 words from Readings 01, 02, 03.
+
+
+--- Task 4
+Read Chapters I through VI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will:
+
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations 
+		[Character maps that include their traits, relationships, and key events]
+	iii) evaluate the stylistic elements used by the author (genre), and 
+	iv) 	critique the author's choices and style
+
+Ultimately, you will write a full critique of this novel.
+
+NB. Marron's modified APA format applies to all homework assignments (See Marron_English-VIII-StyleGuide.pdf in Reference Docs folder). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date, unless duly noted. Students should save copies of all assignments in PDF format.
+
+
+
+** HW_01 [Due: 22 Jan 2026]
+--- Task 1
+Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 5-11):
+	
+	  1. Introduction
+	  2. The Components of Language
+		 2.1 Phonetics (Sounds)
+		 2.2 Morphology and Semantics (The Structure and Meaning of Words)
+		 2.3 Syntax and Grammar (Sentence Structure)
+		 2.4 Discourse (Text)
+		 2.5 Pragmatics (Use)
+		 2.6 Cross Cultural Linguistics and Sociolinguistics
+
+Write a summary of Konrod's excerpt in English and translate the summary into Spanish. Be prepared to discuss your summary in class.
+
+--- Task 2
+Reflect on the concept of language (its function, its components, its transmittal, etc). Compare and contrast Spanish, English and Chinese. What strikes you as fundamnetal similarities and differences between these three languages?  Frame your responses with reference to the concept of language and be prepared to discuss your responses in class.
+
+
+--- Task 3
+Work through the complete Study Guide in R. Murphy's, "English Grammar in Use". List every section with which you may need review. The Study Guide can be found on p. 326. The key to the Study Guide is given on p. 372.
+
+
+NB.
+For this assignment and for all subsequent written assignments in this class (unless duly noted), we will use a modified, APA formatting style. Specifically, documents will be:
+	* Single-spaced
+	* 0.5 inch margins (left and right)
+	* 12-point Times New Roman font
+	* print double-sided if possible
+References, if needed, in a standard format (eg, APA)
+(See Marron_English-VIII-StyleGuide.pdf in Reference Docs folder)
+	
+Assignments always must be printed and submitted in class (unless duly noted). Students should save copies of all assignments in PDF format.
