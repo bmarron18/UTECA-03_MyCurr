@@ -1,0 +1,48 @@
+Title:		SusCurrQuery01_gpt-5.5
+Project:	Practical Sustainability Now! 	
+Author:		bmarron
+Created:	23 May 2026
+Modified:	
+
+
+----------
+prompt
+
+
+	# User level message
+user_prompt= "Search the internet and extract data for wheat yields from the USA for the years \
+2000 - 2025. Organize this data and output the data in a .csv format"
+
+
+	# Developer level message 
+sys_prompt = "You are an expert agricultural researcher."
+
+
+
+----------
+output structure
+
+
+year
+country
+commodity		Wheat all classes
+measure			yield
+unit			bushels per acre
+yield 			<amnt>
+source			USDA NASS Quick Stats
+
+
+
+------------
+references
+
+
+https://www.nass.usda.gov/Data_and_Statistics/
+USDA NASS Quick Stats
+
+
+
+
+
+
+
