@@ -74,7 +74,8 @@ import matplotlib.pyplot as plt
 from scipy.stats import beta
 
 from plotnine import (ggplot, aes, labs, geom_col, facet_grid,
-                      geom_bar, ggsave, position_dodge2,
+                      geom_bar, ggsave, position_dodge2, geom_hline,
+                      geom_vline, geom_text,
                       scale_fill_grey, scale_colour_grey,
                       theme_bw, theme_grey, scale_fill_manual, scale_color_brewer)
 
@@ -83,7 +84,7 @@ from plotnine import (ggplot, aes, labs, geom_col, facet_grid,
 # %%
 
 '''
-General Query Type I
+API Query 01
 Model ==> gpt-5.5
 
 '''
@@ -153,46 +154,52 @@ input_filepath = os.path.join(doc_dir, INPUT_FILE)
 input_f = Path(input_filepath)
 
 
-    # Read in data as dataframe1
+    # Read in Original Data 
     # cols:  "year", "yield"
-df1 = pd.read_csv(input_f)
+df_OD = pd.read_csv(input_f)
 
-    #Rename cols in df1
-df1 = df1.rename(columns={"yield": "Actual"})
+    #Rename column in df_OD
+df_OD = df1.rename(columns={"yield": "Actual"})
 
 # %%
 
 '''
 Model the effects on crop yields from an increasingly severe El Niño
 
-Create a stat distribution that runs from 5.1 to 20.1 and is skewed toward 20.1 over a 25-year 
+Create a stat distribution (beta dist) that runs from 5.1 to 20.1 and is skewed toward 20.1 over a 25-year 
 interval. The stat distro provides subsequent crop loss as percentages
 
 '''
 
 
-# Parameters for the distribution
+    # Parameters for the distribution
+    # 5% - 20% crop loss from El Niño
+    # 26 years of wheat yield data from the US
 low = 5.1
 high = 20.1
 years = 26
 
 
-# In a Beta distribution, alpha (v) > beta (w) skews it toward the upper bound (1).
-# v=10 and w=2 for a moderate skew.
+    # In a beta distribution, alpha (v) > beta (w) skews it toward the upper bound (1).
+    # v=10 and w=2 for a moderate skew.
 v, w = 5, 2
 
 
-# To show a distribution skewed towards 20.1, we can sample 26 values.
-# However, for a 26-year interval, showing yearly values makes sense.
-samples = beta.rvs(v, w, size=years)
+    # pull two sets of rvs from beta dist for a 26-year interval
+samples1 = beta.rvs(v, w, size=years)
+samples2 = beta.rvs(v, w, size=years)
 
-# Scale to 5.1 - 20.1
-scaled_samples = low + (samples * (high - low))
+    # Scale rvs to 5.1 - 20.1 interval
+scaled_samples1 = low + (samples1 * (high - low))
+scaled_samples2 = low + (samples2 * (high - low))
 
-# To make it look like a "progression" skewed toward the end, we can sort them or use a trend.
-# But want a "distribution". Provide 26 points.
-print("Yearly Values:")
-for i, val in enumerate(np.sort(scaled_samples), 1):
+    #  sort rvs to create a trend.
+print("Yearly Values1:")
+for i, val in enumerate(np.sort(scaled_samples1), 1):
+    print(f"Year {i}: {val:.2f}")
+    
+print("Yearly Values2:")
+for i, val in enumerate(np.sort(scaled_samples2), 1):
     print(f"Year {i}: {val:.2f}")
     
 # %%
@@ -200,49 +207,52 @@ for i, val in enumerate(np.sort(scaled_samples), 1):
 '''
 OPTION 1
 
-Crop-drop trend increases over time (df1a)
+Crop-drop trend increases over time (df1)
 '''
 
     # Assuming scaled_samples exists as an array/list
-sorted_samples = np.sort(scaled_samples)
+sorted_samples1 = np.sort(scaled_samples1)
 
     # Create a df directly using col 'year' from df1 and crop-drop percentages
-df2 = pd.DataFrame({
-    "year":df1['year'],
-    "crop-drop": sorted_samples
+df1 = pd.DataFrame({
+    "year":df_OD['year'],
+    "Actual": df_OD['Actual'],
+    "crop-drop": sorted_samples1
 })
 
-    # Create new df1a from df1
+    
     # Create a new col "EnvStress' in df1
-    # Multiply columns df1 and df2 and store back in df1
-df1a = df1
-df1a['EnvStress'] = (df1a['Actual'].values) - (df1a['Actual'].values * df2['crop-drop'].values * 0.01)
+    # Multiply columns and store back in df1
+df1['EnvStress'] = (df_OD['Actual'].values) - (df_OD['Actual'].values * df1['crop-drop'].values * 0.01)
 
+    # clean up df1
+    # remove column
+df1 = df1.drop(columns=['crop-drop'])
 
 
 # %%
 '''
 OPTION 2
 
-Random hit of crop-drop
+Random hit of crop-drop (df2)
 '''
 
-    # dont sort scaled-samples
-scaled_samples
-
-    # Create a df directly using col 'year' from df1 and crop-drop percentages
-df3 = pd.DataFrame({
-    "year":df1['year'],
-    "crop-drop": scaled_samples
+    # DO NOT sort
+    # Create a df directly using col 'year' from df_OD and crop-drop percentages
+df2 = pd.DataFrame({
+    "year": df_OD['year'],
+    "Actual": df_OD['Actual'],
+    "crop-drop": scaled_samples2
 })
 
+    
+    # Create a new col "EnvStress' in df2
+    # Multiply columns and store back in df2
+df2['EnvStress'] = (df2['Actual'].values) - (df2['Actual'].values * df2['crop-drop'].values * 0.01)
 
-     # Create new df1b from df1
-    # Create a new col "EnvStress' in df1
-    # Multiply columns df1 and df2 and store back in df1
-df1b = df1
-df1b['EnvStress'] = (df1b['Actual'].values) - (df1b['Actual'].values * df3['crop-drop'].values * 0.01)
-
+    # clean up df2
+    # remove column
+df2 = df2.drop(columns=['crop-drop'])
 
  # %%
 
@@ -251,50 +261,53 @@ df1b['EnvStress'] = (df1b['Actual'].values) - (df1b['Actual'].values * df3['crop
 
  '''
 
-     # increasing crop-drop effect from El Niño (df1a)
- df_long = df1a.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
+     # plot_df1.jpeg
+     # increasing crop-drop effect from El Niño (df1)
+ df_long = df1.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
 
- plot_df1a = (ggplot(df_long, aes(x = 'year', y = 'value', fill = 'variable'))
+ plot_df1 = (ggplot(df_long, aes(x = 'year', y = 'value', fill = 'variable'))
      + geom_bar(stat="identity", 
                 position = position_dodge2(preserve = "single"),
                 width=1.0)
      #+ scale_fill_grey()
      + scale_fill_manual(values={'Actual':'green', 'EnvStress':'red'})
      + theme_grey()
+     + geom_hline(yintercept=40, linetype="dotted", colour= "black")
      + labs(title = "US Wheat Yield under El Niño",
             x = "Year",
-            y = "Bushel/Acre")
+            y = "Bushel/Acre (27.2 kg/bushel)")
      )
 
  doc_dir = "/home/bruce-mx/Desktop"
- OUTPUT_FILE = "plot_df1a.jpeg"
+ OUTPUT_FILE = "plot_df1.jpeg"
  output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
  output_f = Path(output_filepath)
- ggsave(plot_df1a, output_f)
+ ggsave(plot_df1, output_f)
 
 
+    # "plot_df2.jpeg
+     # random crop-drop effect from El Niño (df2)
+ df_long = df2.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
 
-     # random crop-drop effect from El Niño (df1b)
- df_long = df1b.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
-
- plot_df1b = (ggplot(df_long, aes(x = 'year', y = 'value', fill = 'variable'))
+ plot_df2 = (ggplot(df_long, aes(x = 'year', y = 'value', fill = 'variable'))
      + geom_bar(stat="identity", 
                 position = position_dodge2(preserve = "single"),
                 width=1.0)
      #+ scale_fill_grey()
      + scale_fill_manual(values={'Actual':'green', 'EnvStress':'red'})
      + theme_grey()
+     + geom_hline(yintercept=40, linetype="dotted", colour= "black")
      + labs(title = "US Wheat Yield under El Niño",
             x = "Year",
-            y = "Bushel/Acre")
+            y = "Bushel/Acre (27.2 kg/bushel)")
      )
 
     
  doc_dir = "/home/bruce-mx/Desktop"
- OUTPUT_FILE = "plot_df1b.jpeg"
+ OUTPUT_FILE = "plot_df2.jpeg"
  output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
  output_f = Path(output_filepath)
- ggsave(plot_df1b, output_f)
+ ggsave(plot_df2, output_f)
 
 
 
@@ -308,9 +321,9 @@ ggplot Style 2
 
 '''
          # increasing crop-drop effect from El Niño (df1a)
-df_long = df1a.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
+df_long = df1.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
 
-plot_df1a = (ggplot()
+plot_df1 = (ggplot()
     + geom_col(df_long, aes(x='year', y='value', color="factor(variable)"), width=0.25)
     + facet_grid(". ~ variable") # . means no rows; variable means columns
     + labs(
@@ -321,16 +334,16 @@ plot_df1a = (ggplot()
 
 
 doc_dir = "/home/bruce-mx/Desktop"
-OUTPUT_FILE = "plot_df1a.jpeg"
+OUTPUT_FILE = "plot_df1.jpeg"
 output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
 output_f = Path(output_filepath)
-ggsave(plot_df1a, output_f)
+ggsave(plot_df1, output_f)
 
 
     # random crop-drop effect from El Niño (df1b)
-df_long = df1b.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
+df_long = df2.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
 
-plot_df1b = (ggplot()
+plot_df2 = (ggplot()
     + geom_col(df_long, aes(x='year', y='value', color="factor(variable)"), width=0.25)
     + facet_grid(". ~ variable") # . means no rows; variable means columns
     + labs(
@@ -341,10 +354,10 @@ plot_df1b = (ggplot()
 
 
 doc_dir = "/home/bruce-mx/Desktop"
-OUTPUT_FILE = "plot_df1b.jpeg"
+OUTPUT_FILE = "plot_df2.jpeg"
 output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
 output_f = Path(output_filepath)
-ggsave(plot_df1b, output_f)
+ggsave(plot_df2, output_f)
 
 
 # %%
