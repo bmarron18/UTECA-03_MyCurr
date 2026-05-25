@@ -76,7 +76,7 @@ from scipy.stats import beta
 from plotnine import (ggplot, aes, labs, geom_col, facet_grid,
                       geom_bar, ggsave, position_dodge2,
                       scale_fill_grey, scale_colour_grey,
-                      theme_bw, scale_fill_manual, scale_color_brewer)
+                      theme_bw, theme_grey, scale_fill_manual, scale_color_brewer)
 
 
 
@@ -200,10 +200,10 @@ for i, val in enumerate(np.sort(scaled_samples), 1):
 '''
 OPTION 1
 
-Crop-drop trend increases over time
+Crop-drop trend increases over time (df1a)
 '''
 
-    # Assuming scaled_samples exists as an  array/list
+    # Assuming scaled_samples exists as an array/list
 sorted_samples = np.sort(scaled_samples)
 
     # Create a df directly using col 'year' from df1 and crop-drop percentages
@@ -244,56 +244,72 @@ df1b = df1
 df1b['EnvStress'] = (df1b['Actual'].values) - (df1b['Actual'].values * df3['crop-drop'].values * 0.01)
 
 
- 
+ # %%
+
+ '''
+ ggplot Style1
+
+ '''
+
+     # increasing crop-drop effect from El Niño (df1a)
+ df_long = df1a.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
+
+ plot_df1a = (ggplot(df_long, aes(x = 'year', y = 'value', fill = 'variable'))
+     + geom_bar(stat="identity", 
+                position = position_dodge2(preserve = "single"),
+                width=1.0)
+     #+ scale_fill_grey()
+     + scale_fill_manual(values={'Actual':'green', 'EnvStress':'red'})
+     + theme_grey()
+     + labs(title = "US Wheat Yield under El Niño",
+            x = "Year",
+            y = "Bushel/Acre")
+     )
+
+ doc_dir = "/home/bruce-mx/Desktop"
+ OUTPUT_FILE = "plot_df1a.jpeg"
+ output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
+ output_f = Path(output_filepath)
+ ggsave(plot_df1a, output_f)
+
+
+
+     # random crop-drop effect from El Niño (df1b)
+ df_long = df1b.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
+
+ plot_df1b = (ggplot(df_long, aes(x = 'year', y = 'value', fill = 'variable'))
+     + geom_bar(stat="identity", 
+                position = position_dodge2(preserve = "single"),
+                width=1.0)
+     #+ scale_fill_grey()
+     + scale_fill_manual(values={'Actual':'green', 'EnvStress':'red'})
+     + theme_grey()
+     + labs(title = "US Wheat Yield under El Niño",
+            x = "Year",
+            y = "Bushel/Acre")
+     )
+
+    
+ doc_dir = "/home/bruce-mx/Desktop"
+ OUTPUT_FILE = "plot_df1b.jpeg"
+ output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
+ output_f = Path(output_filepath)
+ ggsave(plot_df1b, output_f)
+
+
+
+
 
 
 # %%
 
 '''
-ggplot1
+ggplot Style 2
 
 '''
-
-
-    # Reshape to 'Long' format w/ new variable headers
-df_long = df1.melt(id_vars=['year'], var_name='Climate', value_name='Yield')
-
-
- # plot a single dataset 
-plot1 = (ggplot()
-    + geom_col(df_long, aes(x='year', y='Yield', color='Climate'), width=0.25)    
-    + labs(
-        x="Year",
-        y="Yield"
-    )
-)
-
-    # see plot in "Plots" window Spyder
-plot1
-
-
-    # saves to ~/Desktop
-doc_dir = "/home/bruce-mx/Desktop"
-OUTPUT_FILE = "plot1.jpeg"
-output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
-output_f = Path(output_filepath)
-ggsave(plot1, output_f)
-
-
-
-# %%
-
-'''
-ggplot2
-
-'''
-    #  Reshape to 'Long' format w/ new variable headers
-    # toggle df1a or df1b
+         # increasing crop-drop effect from El Niño (df1a)
 df_long = df1a.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
-#df_long = df1b.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
 
-
-# plot a single dataset 
 plot_df1a = (ggplot()
     + geom_col(df_long, aes(x='year', y='value', color="factor(variable)"), width=0.25)
     + facet_grid(". ~ variable") # . means no rows; variable means columns
@@ -303,18 +319,40 @@ plot_df1a = (ggplot()
     )
 )
 
-    # saves to ~/Desktop
+
 doc_dir = "/home/bruce-mx/Desktop"
 OUTPUT_FILE = "plot_df1a.jpeg"
 output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
 output_f = Path(output_filepath)
-ggsave(plot1, output_f)
+ggsave(plot_df1a, output_f)
+
+
+    # random crop-drop effect from El Niño (df1b)
+df_long = df1b.melt(id_vars=['year'], value_vars= ['Actual', 'EnvStress'])
+
+plot_df1b = (ggplot()
+    + geom_col(df_long, aes(x='year', y='value', color="factor(variable)"), width=0.25)
+    + facet_grid(". ~ variable") # . means no rows; variable means columns
+    + labs(
+        x="Year",
+        y="Yield"
+    )
+)
+
+
+doc_dir = "/home/bruce-mx/Desktop"
+OUTPUT_FILE = "plot_df1b.jpeg"
+output_filepath = os.path.join(doc_dir, OUTPUT_FILE)
+output_f = Path(output_filepath)
+ggsave(plot_df1b, output_f)
 
 
 # %%
 
-    # Misc
-    
+'''
+     Misc snippets
+'''
+
 range(1, len(sorted_samples) + 1)
     
 # generate 26 evenly spaced values sampled from this distribution.
