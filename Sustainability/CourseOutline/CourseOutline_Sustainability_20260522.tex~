@@ -45,7 +45,12 @@
 \usepackage{amssymb}
 \usepackage{pdfpages}
 \usepackage{verbatim}
+
 \usepackage{outlines}
+%\usepackage{enumitem}
+%\setlist[enumerate,2]{label=\roman*)}
+%\setlist[enumerate,3]{label=\alph*)}
+
 \usepackage{threeparttable}
 \usepackage{pgfgantt}                 % simple gantt charts
 \usepackage{bigfoot}
@@ -63,7 +68,7 @@
 \usepackage[sc]{mathpazo}             % Use the Palatino font and the Pazo fonts for math
 \linespread{1.05}                     % global setting - Palatino needs more space
 \usepackage{setspace}
-\doublespacing                       % global setting
+%\doublespacing                       % global setting
 
 \usepackage{abstract}                                               % Allows abstract customization
 \renewcommand{\abstractnamefont}{\normalfont\bfseries}              % Set the "Abstract" text to bold
@@ -82,7 +87,7 @@
 %\pagestyle{plain}                                                  % globally set to "plain"
 %\fancyhead{} % Blank out the default header
 %\fancyfoot{} % Blank out the default footer
-\fancyhead[L]{Bruce D. Marrón}                                                                                    
+\fancyhead[L]{Sustainability Now!}                                                                                    
 \fancyhead[R]{Universidad del Medio Ambiente}
 %\fancyhead[C]{}                                                   % Custom header text
 \fancyfoot[C]{\thepage}    
@@ -136,8 +141,8 @@
 %----------------------------------------------------------------------------------------
 
 \title{\vspace{-15mm}\fontsize{14pt}{10pt}
-                    \selectfont \textbf{Sustainability Now!}   % Article title
-                    \vspace{-5mm}
+                    \selectfont \textbf{Course Outline}   % Article title
+                    \vspace{-7mm}
       } 
 
 \author{
@@ -177,35 +182,49 @@
 \thispagestyle{fancy}                           % headers/footers included or not (default=FALSE for first pg)
 %\linenumbers                                    % line numbers for document or not
 
-\underline{Introduction/Lit Review}\\
+%%%%%%%%%%%% DOC TEXT %%%%%%%%%%%%%%%%%%
+\section{Approach}
 \begin{outline}[enumerate]
-\1 Rationale for sustainable intensification\\
-\cite{godfray_food_2010, parry_effects_2004, zhao_drought-induced_2010, barnosky_approaching_2012, schmidhuber_global_2007, eigenbrod_impact_2011, dodds_human_2013, rogers_facing_2008, lobell_climate_2011, wada_global_2010, tilman_forecasting_2001}
-\2 Severe constraints
-\3 Affluent population demands more meat and dairy
-\3 General public demands reduction in externalities
-\3 Increased weather and climate variability
-\3 Economic efficiency\\
-
-\1 What is sustainable intensification?\\
-\cite{altieri_agroecology_2015, nicholls_plant_2013, gliessman_agroecology:_2015, baulcombe_reaping_2009}
-\2 Sustainable yields
-\2 Increased soil fertility
-\2 Increased soil organic carbon
-\2 Increased aboveground and belowground biodiversity
-\2 Increased transpiration efficiency
-\2 Decreasing negative environmental impacts\\
-
-\1 Need for diagnostic tools for ecological assessment\\
-\cite{rygiewicz_soil_2010, compant_stephane_plant_2010, prosser_role_2007, scheller_design_2007}
-\2 Evaluation of different land management strategies and across a variety of landscape types
-\2 Simulation modeling required to test scenarios
-
-\1 Main objectives\\
-\cite{scheller_design_2007, gliessman_agroecology:_2015}
-\2 build an extension, \textit{AgroEV} (\enquote*{Agricultural-Ecological Evaluation}), for use with the landscape change model, LANDIS-II
-\2 Investigate the conditions that will create the emergent, whole-system properties of sustainable agriculture
+\1 Systems Analysis 
+\2 Spatial Scales
+\3 Global
+\3 Regional
+\3 Local
+\2 Temporal Scales
+\3 Past
+\3 Present
+\3 Future
+\2 Trend Analysis
+\2 Opportunity
 \end{outline}
+
+
+\section{Topics}
+\begin{outline}[enumerate]
+\1 Sustainability Concepts and Frameworks
+\1 The Biosphere
+\2 Non-Humans
+\3 Inputs
+\4 Physical Resources
+\4 Biological Resources
+\3 Outputs
+\4 Biodiversity
+\4 Ecosystems
+\2 Humans
+\3 Inputs
+\4 Physical Resources
+\4 Biological Resources
+\3 Outputs
+\4 
+\4 
+
+\1 The Anthroposphere
+\2 Money
+\2 Power
+\2 Society
+
+\end{outline}
+
 
 
 
