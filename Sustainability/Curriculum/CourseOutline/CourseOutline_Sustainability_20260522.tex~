@@ -78,7 +78,7 @@
 \renewcommand\thesection{\Roman{section}}                           % Roman numerals for the sections
 \renewcommand\thesubsection{\arabic{subsection}}                    % Arabic numerals for subsections
 \titleformat{\section}[block]{\large\scshape\centering}{\thesection.}{1em}{}        % Change the look of the section titles
-\titleformat{\subsection}[block]{\large}{\thesubsection.}{1em}{}                    % Change the look of the subsection titles
+\titleformat{\subsection}[block]{\large\underline}{\thesubsection}{1em}{}                    % Change the look of the subsection titles
 \titlespacing*{\subsubsection}{0pt}{0.75\baselineskip}{0.25\baselineskip}            % Change spacing after section
 
 
@@ -201,15 +201,21 @@
 
 
 \section{Topics}
+\subsection{Sustainability Concepts and Frameworks}
 \begin{outline}[enumerate]
-\1 Sustainability Concepts and Frameworks
-\1 Sustainability in The Biosphere
-\2 World-Wide Native Flora and Fauna
-\3 Necessary Inputs and Their Human Couplings
-\4 Physical Resources
-\4 Biological Resources
-\3 Necessary Outputs and Their Human Couplings
-\4 Resilience \\
+\1 
+
+
+\end{outline}
+
+\subsection{Sustainability in The Biosphere}
+\begin{outline}[enumerate]
+\1 World-Wide Native Flora and Fauna
+\2 Necessary Inputs and Their Human Couplings
+\3 Physical Resources
+\3 Biological Resources
+\2 Necessary Outputs and Their Human Couplings
+\3 Resilience \\
 Resilience is the capacity of a system to absorb or withstand perturbations and other stressors such that the system remains within the same regime, essentially maintaining its structure and functions. It describes the degree to which the system is capable of self-organization, learning and adaptation (Holling 1973, Gunderson \& Holling 2002, Walker et al. 2004). \\
 
 Adaptive Capacity. Systems with high adaptive capacity are more able to re-configure without significant changes in crucial functions or declines in ecosystem services. A consequence of a loss of adaptive capacity, is loss of opportunity and constrained options during periods of reorganization and renewal.\\
@@ -221,22 +227,24 @@ Adaptive Cycle. An adaptive cycle that alternates between long periods of aggreg
 Panarchy. No system can be understood or managed by focusing on it at a single scale. All systems (and SESs especially) exist and function at multiple scales of space, time and social organization, and the interactions across scales are fundamentally important in determining the dynamics of the system at any particular focal scale. This interacting set of hierarchically structured scales has been termed a "panarchy" (Gunderson \& Holling 2003).\\
 
 Social-ecological Systems are complex, integrated systems in which humans are part of nature (Berkes \& Folke 1998).
+\3 Biodiversity
+\3 Ecosystems and Ecosystem Services
 
 
-\4 Biodiversity
-\4 Ecosystems and Ecosystem Services
-\2 Humans
-\3 Inputs
-\4 Physical Resources
-\4 Biological Resources
-\3 Outputs
-\4 
-\4 
+\1 Humans
+\2 Inputs
+\3 Physical Resources
+\3 Biological Resources
+\2 Outputs
 
-\1 The Anthroposphere
-\2 Money
-\2 Power
-\2 Society
+\end{outline}
+
+
+\subsection{The Anthroposphere}
+\begin{outline}[enumerate]
+\1 Money
+\1 Power
+\1 Culture
 
 \end{outline}
 
