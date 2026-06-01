@@ -1,0 +1,189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global}
+    \entry{gunderson_panarchy:_2002}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=11f0818a4c8102ffb6c70c1328126d9f}{%
+           family={Gunderson},
+           familyi={G\bibinitperiod},
+           given={Lance\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9c24232241f1d914c44897497ec62e8}{%
+           family={Holling},
+           familyi={H\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {Island Press}%
+      }
+      \strng{namehash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{fullhash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{bibnamehash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{editorbibnamehash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{editornamehash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{editorfullhash}{67a73a9600269b6d1f5161d859ea7034}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-55963-856-2 978-1-55963-857-9}
+      \field{shorttitle}{Panarchy}
+      \field{title}{Panarchy: understanding transformations in human and natural systems}
+      \field{year}{2002}
+      \keyw{Biotic communities,Ecosystem management,Effect of human beings on,Environmental degradation,Environmental policy,Human ecology,Nature,Philosophy,Political ecology,Social ecology}
+    \endentry
+    \entry{meadows_thinking_2008}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5d32ade98fc7c135649f5b031217ca73}{%
+           family={Meadows},
+           familyi={M\bibinitperiod},
+           given={Donella\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96395f69ca03260fe9873344ecf7959a}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {White River Junction, Vt}%
+      }
+      \list{publisher}{1}{%
+        {Chelsea Green Pub}%
+      }
+      \strng{namehash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{fullhash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{bibnamehash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{authorbibnamehash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{authornamehash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{authorfullhash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-60358-055-7}
+      \field{note}{OCLC: 225871309}
+      \field{shorttitle}{Thinking in systems}
+      \field{title}{Thinking in systems: a primer}
+      \field{year}{2008}
+      \keyw{Critical thinking,Decision making,Economic aspects Simulation methods,Economic development,Environmental aspects Simulation methods,Environmental education,Pollution,Population,Simulation methods,Social sciences,Sustainable development,System analysis}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{gunderson_panarchy:_2002}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=11f0818a4c8102ffb6c70c1328126d9f}{%
+           family={Gunderson},
+           familyi={G\bibinitperiod},
+           given={Lance\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9c24232241f1d914c44897497ec62e8}{%
+           family={Holling},
+           familyi={H\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {Island Press}%
+      }
+      \strng{namehash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{fullhash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{bibnamehash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{editorbibnamehash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{editornamehash}{67a73a9600269b6d1f5161d859ea7034}
+      \strng{editorfullhash}{67a73a9600269b6d1f5161d859ea7034}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-55963-856-2 978-1-55963-857-9}
+      \field{shorttitle}{Panarchy}
+      \field{title}{Panarchy: understanding transformations in human and natural systems}
+      \field{year}{2002}
+      \keyw{Biotic communities,Ecosystem management,Effect of human beings on,Environmental degradation,Environmental policy,Human ecology,Nature,Philosophy,Political ecology,Social ecology}
+    \endentry
+    \entry{meadows_thinking_2008}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5d32ade98fc7c135649f5b031217ca73}{%
+           family={Meadows},
+           familyi={M\bibinitperiod},
+           given={Donella\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96395f69ca03260fe9873344ecf7959a}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {White River Junction, Vt}%
+      }
+      \list{publisher}{1}{%
+        {Chelsea Green Pub}%
+      }
+      \strng{namehash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{fullhash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{bibnamehash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{authorbibnamehash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{authornamehash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \strng{authorfullhash}{f765c0d038a39303b3b09163fdeb0e7f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-60358-055-7}
+      \field{note}{OCLC: 225871309}
+      \field{shorttitle}{Thinking in systems}
+      \field{title}{Thinking in systems: a primer}
+      \field{year}{2008}
+      \keyw{Critical thinking,Decision making,Economic aspects Simulation methods,Economic development,Environmental aspects Simulation methods,Environmental education,Pollution,Population,Simulation methods,Social sciences,Sustainable development,System analysis}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

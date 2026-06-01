@@ -1,0 +1,26 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '0.1_SystemsAnalysis.blg'
+[104] biber:340> INFO - === Mon Jun  1, 2026, 10:25:39
+[126] Biber.pm:419> INFO - Reading '0.1_SystemsAnalysis.bcf'
+[231] Biber.pm:979> INFO - Found 13 citekeys in bib section 0
+[255] Biber.pm:4419> INFO - Processing section 0
+[268] Biber.pm:4610> INFO - Looking for bibtex file '~/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib' for section 0
+[540] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2453] bibtex.pm:1519> INFO - Found BibTeX data source '/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib'
+[2700] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2700] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2700] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2701] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2732] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2732] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2732] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2732] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2746] bbl.pm:660> INFO - Writing '0.1_SystemsAnalysis.bbl' with encoding 'UTF-8'
+[2759] bbl.pm:763> INFO - Output to 0.1_SystemsAnalysis.bbl
+[2760] Biber.pm:131> WARN - ISBN '978-1-55963-856-2 978-1-55963-857-9' in entry 'gunderson_panarchy:_2002' is invalid - run biber with '--validate_datamodel' for details.
+[2760] Biber.pm:131> WARN - ISBN '0-8076-0452-6 978-0-8076-0452-6 0-8076-0453-4 978-0-8076-0453-3' in entry 'bertalanffy_general_1984' is invalid - run biber with '--validate_datamodel' for details.
+[2760] Biber.pm:131> WARN - ISBN '0-7167-1859-6 978-0-7167-1859-8 0-7167-1860-X 978-0-7167-1860-4' in entry 'nicolis_exploring_1989' is invalid - run biber with '--validate_datamodel' for details.
+[2760] Biber.pm:131> WARN - ISBN '0-471-24195-4 978-0-471-24195-9' in entry 'cover_elements_2006' is invalid - run biber with '--validate_datamodel' for details.
+[2760] Biber.pm:131> WARN - I didn't find a database entry for 'zwick_elements_2014' (section 0)
+[2760] Biber.pm:131> WARN - I didn't find a database entry for 'mitchell_complexity_2009' (section 0)
+[2760] Biber.pm:133> INFO - WARNINGS: 6

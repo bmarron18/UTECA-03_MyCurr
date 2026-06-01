@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '0.3_Sustainability-Concepts-Frameworks.blg'
+[104] biber:340> INFO - === Mon Jun  1, 2026, 10:48:29
+[125] Biber.pm:419> INFO - Reading '0.3_Sustainability-Concepts-Frameworks.bcf'
+[231] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[256] bbl.pm:660> INFO - Writing '0.3_Sustainability-Concepts-Frameworks.bbl' with encoding 'UTF-8'
+[256] bbl.pm:763> INFO - Output to 0.3_Sustainability-Concepts-Frameworks.bbl
+[256] Biber.pm:131> WARN - The file '0.3_Sustainability-Concepts-Frameworks.bcf' does not contain any citations!
+[257] Biber.pm:133> INFO - WARNINGS: 1
