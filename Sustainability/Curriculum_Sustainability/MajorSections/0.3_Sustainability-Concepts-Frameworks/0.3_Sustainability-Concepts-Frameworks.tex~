@@ -175,41 +175,13 @@
 
 
 \begin{singlespacing}
-\maketitle                                      % insert title or not
+%\maketitle                                      % insert title or not
 \end{singlespacing}
 \thispagestyle{fancy}                           % headers/footers included or not (default=FALSE for first pg)
 %\linenumbers                                    % line numbers for document or not
 
 %%%%%%%%%%%% DOC TEXT %%%%%%%%%%%%%%%%%%
-\section{Approach}
-\subsubsection{System Analysis}
-\begin{outline}[enumerate]
-\1 Concepts and Definitions of Systems \\
-No system can be understood or managed by focusing on it at a single scale. All systems (and SESs especially) exist and function at multiple scales of space, time and social organization, and the interactions across scales are fundamentally important in determining the dynamics of the system at any particular focal scale. This interacting set of hierarchically structured scales has been termed a "panarchy" (Gunderson \& Holling 2003). \\
 
-Adaptive Cycle. An adaptive cycle that alternates between long periods of aggregation and transformation of resources and shorter periods that create opportunities for innovation, is proposed as a fundamental unit for understanding complex systems from cells to ecosystems to societies.
-
-\1 Spatial Scales
-\2 Global
-\2 Regional
-\2 Local
-
-\1 Temporal Scales
-\2 Past
-\2 Present
-\2 Future
-
-\1 Trend Analysis
-
-\end{outline}
-
-\subsubsection{Opportunity}
-\begin{outline}[enumerate]
-\1 Opportunity
-\end{outline}
-
-
-\section{Topics}
 \setcounter{subsubsection}{2} % Manually assigns subsubsection value as 3!!
 \subsubsection{Sustainability Concepts and Frameworks}
 \begin{outline}[enumerate]
@@ -218,55 +190,6 @@ Adaptive Cycle. An adaptive cycle that alternates between long periods of aggreg
 \end{outline}
 
 
-\subsubsection{A Sustainable Biosphere}
-Remember: Social-ecological Systems are complex, integrated systems in which humans are part of nature (Berkes \& Folke 1998).
-
-\begin{outline}[enumerate]
-\1 Functional Terrestrial and Aquatic Ecosystems
-
-\2 Necessary Inputs
-\3 Physical Resources
-\4 Space\\
-No fragmentation (landscape ecology)
-\4 Time\\
-Low rate of disruption/impact
-\4 Flow\\
-No disruption to natural biological, material, or energy flows
-\3 Biological Resources
-\4 Reliable Primary Productivity
-
-\2 Necessary Outputs
-\3 Measurable Properties
-\4 Biodiversity
-\4 Energy and Material Recycling\\
-Carbon sorage\\
-Phosphorous recycling\\
-Water purification\\
-Air purification
-\3 Enmergent Properties
-\4 Adaptive Capacity\\
-Adaptive Capacity. Systems with high adaptive capacity are more able to re-configure without significant changes in crucial functions or declines in ecosystem services. A consequence of a loss of adaptive capacity, is loss of opportunity and constrained options during periods of reorganization and renewal.
-\4 Resilience \\
-Resilience is the capacity of a system to absorb or withstand perturbations and other stressors such that the system remains within the same regime, essentially maintaining its structure and functions. It describes the degree to which the system is capable of self-organization, learning and adaptation (Holling 1973, Gunderson \& Holling 2002, Walker et al. 2004). \\
-
-Transformation involves fundamental change, which in the context of sustainability, requires radical, systemic shifts in values and beliefs, patterns of social behavior, and multilevel governance and management regimes (Olsson et al. 2014).\\
-
-\1 Planetary Stability
-\2 Tectonics
-\2 Solar Wind Deflection
-\3 Sun Cycles
-\3 Polar Shift
-
-\end{outline}
-
-
-\subsubsection{A Sustainable Anthroposphere}
-\begin{outline}[enumerate]
-\1 Money
-\1 Power
-\1 Culture
-
-\end{outline}
 
 
 

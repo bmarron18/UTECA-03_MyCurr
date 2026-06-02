@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.9)  1 JUN 2026 10:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.9)  1 JUN 2026 20:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1318,6 +1318,35 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
+Underfull \hbox (badness 10000) in paragraph at lines 192--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--232
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1331,9 +1360,38 @@ dist/fonts/enc/dvips/base/8r.enc}
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 205.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(./0.3_Sustainability-Concepts-Frameworks.aux)
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4] (./0.3_Sustainability-Concepts-Frameworks.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1344,20 +1402,22 @@ s.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32225 strings out of 474222
- 638008 string characters out of 5748734
- 1926975 words of memory out of 5000000
- 53926 multiletter control sequences out of 15000+600000
- 567872 words of font info for 65 fonts, out of 8000000 for 9000
+ 32797 strings out of 474222
+ 651717 string characters out of 5748734
+ 1941975 words of memory out of 5000000
+ 54351 multiletter control sequences out of 15000+600000
+ 583839 words of font info for 172 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,101p,1035b,5160s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on 0.3_Sustainability-Concepts-Frameworks.pdf (1 page, 31926 byt
-es).
+ 99i,12n,101p,1096b,5160s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/palatino/uplri8a.pfb>
+Output written on 0.3_Sustainability-Concepts-Frameworks.pdf (4 pages, 85062 by
+tes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 41 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18445 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 34829 words of extra memory for PDF output out of 35830 (max. 10000000)
 

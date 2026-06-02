@@ -1,9 +1,23 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is '0.3_Sustainability-Concepts-Frameworks.blg'
-[104] biber:340> INFO - === Mon Jun  1, 2026, 10:48:29
-[125] Biber.pm:419> INFO - Reading '0.3_Sustainability-Concepts-Frameworks.bcf'
-[231] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[256] bbl.pm:660> INFO - Writing '0.3_Sustainability-Concepts-Frameworks.bbl' with encoding 'UTF-8'
-[256] bbl.pm:763> INFO - Output to 0.3_Sustainability-Concepts-Frameworks.bbl
-[256] Biber.pm:131> WARN - The file '0.3_Sustainability-Concepts-Frameworks.bcf' does not contain any citations!
-[257] Biber.pm:133> INFO - WARNINGS: 1
+[106] biber:340> INFO - === Mon Jun  1, 2026, 20:43:03
+[127] Biber.pm:419> INFO - Reading '0.3_Sustainability-Concepts-Frameworks.bcf'
+[235] Biber.pm:979> INFO - Found 26 citekeys in bib section 0
+[259] Biber.pm:4419> INFO - Processing section 0
+[272] Biber.pm:4610> INFO - Looking for bibtex file '~/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib' for section 0
+[541] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2438] bibtex.pm:1519> INFO - Found BibTeX data source '/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib'
+[2886] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2886] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2886] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2887] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2972] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2972] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2973] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2973] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[3016] bbl.pm:660> INFO - Writing '0.3_Sustainability-Concepts-Frameworks.bbl' with encoding 'UTF-8'
+[3053] bbl.pm:763> INFO - Output to 0.3_Sustainability-Concepts-Frameworks.bbl
+[3053] Biber.pm:131> WARN - ISBN '978-1-85383-682-4 978-1-85383-515-5' in entry 'pearce_blueprint_2000' is invalid - run biber with '--validate_datamodel' for details.
+[3054] Biber.pm:131> WARN - ISBN '978-1-59726-040-4 978-1-59726-039-8' in entry 'millennium_ecosystem_assessment_program_ecosystems_2005' is invalid - run biber with '--validate_datamodel' for details.
+[3054] Biber.pm:131> WARN - ISBN '0-385-72027-0 978-0-385-72027-4' in entry 'sen_development_2000' is invalid - run biber with '--validate_datamodel' for details.
+[3054] Biber.pm:133> INFO - WARNINGS: 3

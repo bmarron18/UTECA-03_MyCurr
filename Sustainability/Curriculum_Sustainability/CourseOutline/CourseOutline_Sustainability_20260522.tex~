@@ -210,6 +210,7 @@ Adaptive Cycle. An adaptive cycle that alternates between long periods of aggreg
 
 
 \section{Topics}
+\setcounter{subsubsection}{2} % Manually assigns subsubsection value as 3!!
 \subsubsection{Sustainability Concepts and Frameworks}
 \begin{outline}[enumerate]
 \1 

@@ -24,7 +24,7 @@
 %BIBLIOGRAPHY (new; biber+biblatex)
 \usepackage[utf8]{inputenc}
 \usepackage[backend=biber, style=apa]{biblatex}
-\addbibresource{/home/bruce-mx/Desktop/GenRepo_01/BibLatex/Current_.bib_Library/My_Library_20201129}
+\addbibresource{~/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib}
 
 \usepackage{comment}
 \usepackage[all]{nowidow}
@@ -146,5 +146,6 @@ School of the Environment, Portland State University}}\\
 
 
 \newpage
+\printbibliography
 
 \end{document}

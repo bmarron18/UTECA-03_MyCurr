@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.9)  1 JUN 2026 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.9)  1 JUN 2026 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1330,7 +1330,7 @@ dist/fonts/enc/dvips/base/8r.enc}
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 207.
+LaTeX Warning: Empty bibliography on input line 222.
 
 (./0.2_Opportunity.aux)
  ***********
@@ -1344,14 +1344,14 @@ Package logreq Info: Writing requests to '0.2_Opportunity.run.xml'.
 Here is how much of TeX's memory you used:
  32225 strings out of 474222
  637571 string characters out of 5748734
- 1928975 words of memory out of 5000000
+ 1930975 words of memory out of 5000000
  53926 multiletter control sequences out of 15000+600000
  567872 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,101p,1012b,5160s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on 0.2_Opportunity.pdf (1 page, 32302 bytes).
+Output written on 0.2_Opportunity.pdf (1 page, 32725 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
