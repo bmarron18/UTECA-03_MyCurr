@@ -175,48 +175,13 @@
 
 
 \begin{singlespacing}
-\maketitle                                      % insert title or not
+%\maketitle                                      % insert title or not
 \end{singlespacing}
 \thispagestyle{fancy}                           % headers/footers included or not (default=FALSE for first pg)
 %\linenumbers                                    % line numbers for document or not
 
 %%%%%%%%%%%% DOC TEXT %%%%%%%%%%%%%%%%%%
-\section{Approach}
-\subsubsection{System Analysis}
-\begin{outline}[enumerate]
-\1 Concepts and Definitions of Systems \\
-No system can be understood or managed by focusing on it at a single scale. All systems (and SESs especially) exist and function at multiple scales of space, time and social organization, and the interactions across scales are fundamentally important in determining the dynamics of the system at any particular focal scale. This interacting set of hierarchically structured scales has been termed a "panarchy" (Gunderson \& Holling 2003). \\
-
-Adaptive Cycle. An adaptive cycle that alternates between long periods of aggregation and transformation of resources and shorter periods that create opportunities for innovation, is proposed as a fundamental unit for understanding complex systems from cells to ecosystems to societies.
-
-\1 Spatial Scales
-\2 Global
-\2 Regional
-\2 Local
-
-\1 Temporal Scales
-\2 Past
-\2 Present
-\2 Future
-
-\1 Trend Analysis
-
-\end{outline}
-
-\subsubsection{Opportunity}
-\begin{outline}[enumerate]
-\1 Opportunity
-\end{outline}
-
-
-\section{Topics}
-\setcounter{subsubsection}{2} % Manually assigns subsubsection value as 3!!
-\subsubsection{Sustainability Concepts and Frameworks}
-\begin{outline}[enumerate]
-\1 
-
-\end{outline}
-
+\setcounter{subsubsection}{3} % Manually assigns subsubsection value
 
 \subsubsection{A Sustainable Biosphere}
 Remember: Social-ecological Systems are complex, integrated systems in which humans are part of nature (Berkes \& Folke 1998).
@@ -258,18 +223,6 @@ Transformation involves fundamental change, which in the context of sustainabili
 \3 Polar Shift
 
 \end{outline}
-
-
-\subsubsection{A Sustainable Anthroposphere}
-\begin{outline}[enumerate]
-\1 Money
-\1 Power
-\1 Culture
-
-\end{outline}
-
-
-
 
 
 

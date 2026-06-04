@@ -20,8 +20,22 @@
 \usepackage{amsmath}
 \usepackage{amsthm}
 \usepackage{amssymb}
-\usepackage{apacite}
+
+%BIBLIOGRAPHY (new way; biber+biblatex)
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}              % Use 8-bit encoding that has 256 glyphs
 \usepackage[english]{babel}
+\usepackage[style=apa,			          % <== APA style for documents
+            sorting=nyt,
+            backref=true,           
+            doi=false,
+            isbn=false,
+            url=false,
+            backend=biber]{biblatex}
+\addbibresource{~/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib} 
+\DeclareLanguageMapping{english}{american-apa}
+
+
 \usepackage{comment}
 \usepackage[all]{nowidow}
 \usepackage{csquotes}
@@ -36,7 +50,6 @@
 \setenumerate[2]{label=\Alph*.}
 \setenumerate[3]{label=\arabic*.}
 \setenumerate[4]{label=\alph*.}
-\usepackage{apacite}
 
 
 
@@ -97,7 +110,6 @@ School of the Environment, Portland State University}}\\
 
 
 \section{Systems Thinking}
-
 
 \textbf{ 1.Fundamental Systems Concepts and Perspectives}\\
 \cite{meadows_thinking_2008} \textbf{[pp.1-203]}\\
@@ -175,9 +187,11 @@ School of the Environment, Portland State University}}\\
 
 
 
-
-\newpage
-\bibliography{/home/bmarron/Desktop/BibTex/My_Library_20160725}
-\bibliographystyle{/usr/local/share/texmf/tex/latex/apacite/apacite}
+%----------------------------------------------------------------------------------------
+%	REFERENCE LIST
+%----------------------------------------------------------------------------------------
+\clearpage 
+\renewcommand{\thepage}{}
+\printbibliography
 
 \end{document}

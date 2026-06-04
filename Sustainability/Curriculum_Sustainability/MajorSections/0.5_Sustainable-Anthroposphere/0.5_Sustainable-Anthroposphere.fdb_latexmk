@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber 0.5_Sustainable-Anthroposphere"] 1780332758.37452 "0.5_Sustainable-Anthroposphere.bcf" "0.5_Sustainable-Anthroposphere.bbl" "0.5_Sustainable-Anthroposphere" 1780332764.14076 0
-  "0.5_Sustainable-Anthroposphere.bcf" 1780332763.78042 132504 eef2551df0c716e5b1c8a7f42255ad07 "pdflatex"
+["biber 0.5_Sustainable-Anthroposphere"] 1780332758.37452 "0.5_Sustainable-Anthroposphere.bcf" "0.5_Sustainable-Anthroposphere.bbl" "0.5_Sustainable-Anthroposphere" 1780588721.55795 0
+  "0.5_Sustainable-Anthroposphere.bcf" 1780588721.19757 132504 eef2551df0c716e5b1c8a7f42255ad07 "pdflatex"
   (generated)
   "0.5_Sustainable-Anthroposphere.bbl"
   "0.5_Sustainable-Anthroposphere.blg"
   (rewritten before read)
-["pdflatex"] 1780332761.85996 "0.5_Sustainable-Anthroposphere.tex" "0.5_Sustainable-Anthroposphere.pdf" "0.5_Sustainable-Anthroposphere" 1780332764.14133 0
+["pdflatex"] 1780588719.17255 "0.5_Sustainable-Anthroposphere.tex" "0.5_Sustainable-Anthroposphere.pdf" "0.5_Sustainable-Anthroposphere" 1780588721.55858 0
   "/etc/texmf/web2c/texmf.cnf" 1778383354.18462 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.def" 1704325375.14856 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.sty" 1704325375.15256 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
@@ -200,10 +200,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1778383387.64005 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1778383548 8214515 e3fa36ad809fd5d598c718379477426e ""
-  "0.5_Sustainable-Anthroposphere.aux" 1780332763.77642 345 17566716a35fe5e2c9a0fc6cbfd0326f "pdflatex"
+  "0.5_Sustainable-Anthroposphere.aux" 1780588721.19357 345 17566716a35fe5e2c9a0fc6cbfd0326f "pdflatex"
   "0.5_Sustainable-Anthroposphere.bbl" 1780332759.52521 466 ee04f40f768daeed26442158e95aba61 "biber 0.5_Sustainable-Anthroposphere"
-  "0.5_Sustainable-Anthroposphere.run.xml" 1780332763.78236 2631 5aab4c041718ef0330cf89e801941d90 "pdflatex"
-  "0.5_Sustainable-Anthroposphere.tex" 1780332755.78703 7856 2c47d601c757c19f049e330bafee5ef1 ""
+  "0.5_Sustainable-Anthroposphere.run.xml" 1780588721.19989 2631 5aab4c041718ef0330cf89e801941d90 "pdflatex"
+  "0.5_Sustainable-Anthroposphere.tex" 1780588718.94124 8057 b8f57a5d0c72e9a12c2d5c46efc4ed51 ""
   (generated)
   "0.5_Sustainable-Anthroposphere.aux"
   "0.5_Sustainable-Anthroposphere.bcf"

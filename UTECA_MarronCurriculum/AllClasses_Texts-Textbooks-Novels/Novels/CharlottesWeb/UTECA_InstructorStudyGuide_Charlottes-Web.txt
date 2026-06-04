@@ -80,7 +80,7 @@ Theme-based Discussion Questions:
 
 %%%%%%%%% Synopsis, Vocab and Discussion Questions  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
---- Chap 22 "A Warm Wind"
+--- Chapter 22 "A Warm Wind"
 [summary to be added]
 
 
@@ -91,7 +91,7 @@ Vocab
 	epithet
 
 
---Qs
+Qs
 	How would you describe Wilbur's homecoming?
 	The seasons move rapidly. Avery and Fern come to do some sledding. For Avery, what is the most fun there is? And for Fern?
 	What is Fern thinking about weeks after summer?
@@ -108,7 +108,7 @@ Vocab
 
 
 
---- Chap 21 "Last Day"
+--- Chapter 21 "Last Day"
 [summary to be added]
 
 Vocab
@@ -124,7 +124,7 @@ Vocab
 	forlorn
 
 
--- Qs
+Qs
 	How does Charlotte feel after Wilbur receives the special prize? Why is she confident about Wilbur's future?
 	Charlotte seems melancholy. Why?
 	Wilbur is overwhelmed with emotion about Charlotte's efforts on his behalf. What does Charlotte say about her efforts?
@@ -140,7 +140,7 @@ Vocab
 
 
 
---- Chap 20 "The Hour of Triumph"
+--- Chapter 20 "The Hour of Triumph"
 [summary to be added]
 
 Vocab
@@ -157,7 +157,7 @@ Vocab
 	"showing off"
 
 
---**Qs
+Qs
 	How does Wilbur feel when he hears the special announcement?
 	How does Mrs. Zuckerman respond to the crowd's attention?
 	How does Mrs. Arable respond to the crowd's attention? And Mr. Arable?
@@ -174,7 +174,7 @@ Vocab
 	What happens when Lurvy arrives with the water? How does the crowd respond? How does Avery respond?
 
 
----  Chap 19 "'The Egg Sac"
+---  Chapter 19 "The Egg Sac"
 [summary to be added]
 
 Vocab
@@ -194,7 +194,7 @@ Vocab
 	(to) crouch
 
 
-Orientation Qs
+Qs
 	What has Charlotte been doing all night? How is she feeling?
 	How many eggs did she lay?
 	What's special about Charlotte's egg sac?
@@ -211,7 +211,7 @@ Orientation Qs
 
 
 
---- Chap 18 "'fhe Cool of the Evening"
+--- Chapter 18 "In the Cool of the Evening"
 [summary to be added]
 
 Vocab
@@ -226,7 +226,7 @@ Vocab
 	"tuck into bed"
 
 
-Orientation QUestions
+Qs
 	Templeton finally comes to life in the evening. Does he seems excited?
 	Henry Fussy shows up and is quite gallant. Why?
 	What does Mrs Arable think of Henry and Fern together?
@@ -237,7 +237,7 @@ Orientation QUestions
 
 
 
--- Chap 17 "Uncle"
+-- Chapter 17 "Uncle"
 [summary to be added]
 
 Vocab
@@ -248,7 +248,7 @@ Vocab
 
 
 
-Orientation Questions
+Qs
 	Both Avery and Fern are excited when they get to the Fair. How do we know?
 	How much money do the kids get to spend?
 	Are the adults worried about the kids going off by themselves?
@@ -285,7 +285,7 @@ Vocab
 	a prank
 
 
-Orientation Qyestions
+Qs
 	Why is difficult to sleep for everyone on the eve of the Fair?
 	What does Lurvy dream of? and Avery? and Fern? and Mrs. Arable? and Mr. Arable?
 	Why doesn't Charlotte go to bed early like everyone else?
@@ -319,19 +319,19 @@ Vocab
 
 
 
-Orientation Questions
-What are the crickets singing about?
-What time of year is it? What month(s)?
-Is the change of season a sad time?
-How does the change of season affect Fern and Avery? The geese? Charlotte?
-What does it mean that "a little maple tree in the swamp heard the cricket song and turned bright red with anxiety"?
-Is Wilbur now the center of attraction? Why?
-Charlotte has done her part to save Wilbur. Is wilbur doing his part to live up to his reputation? Why?
-Does Wilbur let the attention go to his head?
-Does Wilbur still worry about his fate?
-Why is Wilbur looking forward to the County Fair?
-Why is Charlotte worried about going to the Fair?
-Is Charlotte going to the Fair with Wilbur? Why or why not?
+Qs
+	What are the crickets singing about?
+	What time of year is it? What month(s)?
+	Is the change of season a sad time?
+	How does the change of season affect Fern and Avery? The geese? Charlotte?
+	What does it mean that "a little maple tree in the swamp heard the cricket song and turned bright red with anxiety"?
+	Is Wilbur now the center of attraction? Why?
+	Charlotte has done her part to save Wilbur. Is wilbur doing his part to live up to his reputation? Why?
+	Does Wilbur let the attention go to his head?
+	Does Wilbur still worry about his fate?
+	Why is Wilbur looking forward to the County Fair?
+	Why is Charlotte worried about going to the Fair?
+	Is Charlotte going to the Fair with Wilbur? Why or why not?
 
 
 
@@ -420,8 +420,7 @@ Qs
    
    
 
---- Chapter 12
-Chapter 12: “A Meeting”
+--- Chapter 12: “A Meeting”
 In this chapter, Charlotte calls a meeting of the barn animals to discuss how they can save Wilbur from being slaughtered. Templeton doesn't care about Wilbur but the old sheep convinces that it would be in his best interest to help. Wilbur feels silly but Charlotte reassures him.
 
 Vocab
