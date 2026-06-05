@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1780605340.97942 "SystemsAnalysis_01.xdv" "SystemsAnalysis_01.pdf" "SystemsAnalysis_01" 1780605341.45732 0
-  "SystemsAnalysis_01.xdv" 1780605340.7834 9084 ad8ae967b0a3700f05b8f252d1c01c6d "xelatex"
+["xdvipdfmx"] 1780693329.30709 "Prezy_Lecture-01_SystemsAnalysis.xdv" "Prezy_Lecture-01_SystemsAnalysis.pdf" "Prezy_Lecture-01_SystemsAnalysis" 1780693329.79259 0
+  "Prezy_Lecture-01_SystemsAnalysis.xdv" 1780693329.10816 17592 37441f0a2c47bf30730c415fd9e089b1 "xelatex"
   (generated)
-  "SystemsAnalysis_01.pdf"
+  "Prezy_Lecture-01_SystemsAnalysis.pdf"
   (rewritten before read)
-["xelatex"] 1780605338.20738 "SystemsAnalysis_01.tex" "SystemsAnalysis_01.xdv" "SystemsAnalysis_01" 1780605341.45175 0
+["xelatex"] 1780693326.44086 "Prezy_Lecture-01_SystemsAnalysis.tex" "Prezy_Lecture-01_SystemsAnalysis.xdv" "Prezy_Lecture-01_SystemsAnalysis" 1780693329.78685 0
   "/etc/texmf/web2c/texmf.cnf" 1778383354.18462 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/local/share/texmf/tex/latex/nicefrac/nicefrac.sty" 1606787429.19777 4029 0462ee5ab265cf59dc15a41a3b883101 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -260,17 +260,20 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1778383429 10844281 ff134ac5975a0aabe8c685dddb90ebc8 ""
-  "SystemsAnalysis_01.aux" 1780605340.7814 1241 079600c1bd8e787580f76c7f43f351c3 "xelatex"
-  "SystemsAnalysis_01.nav" 1780605340.7824 657 8a0e780275178c8e8d4a3b46fa3d785f "xelatex"
-  "SystemsAnalysis_01.out" 1780605340.7824 154 1b116e1de0be67a6a956541732660b3c "xelatex"
-  "SystemsAnalysis_01.tex" 1780605337.9974 4508 d91c0e82d43936512709113af4c47a8f ""
+  "Prezy_Lecture-01_SystemsAnalysis.aux" 1780693329.10716 1721 64ea772a7393de151282ac6459cda621 "xelatex"
+  "Prezy_Lecture-01_SystemsAnalysis.nav" 1780693329.10816 921 cdb0c7f15888761ebced6e0acfba5d57 "xelatex"
+  "Prezy_Lecture-01_SystemsAnalysis.out" 1780693329.10816 154 1b116e1de0be67a6a956541732660b3c "xelatex"
+  "Prezy_Lecture-01_SystemsAnalysis.tex" 1780693326.23015 5452 09ffcfb5f629aff3d796673829e174c8 ""
+  "graphics/CAS1.jpeg" 1780686105.77348 43571 b81f235d735e9039e1f4fe71a45ec188 ""
+  "graphics/Fractal_CAS.jpeg" 1780686413.28504 59463 c20c0219e2567a76933e57b17ddad16d ""
+  "graphics/Fractal_CAS2.jpeg" 1780688709.50354 184450 04a5df8341e4af2fbddb0fe0e96ad85e ""
   "graphics/UMA_Logo.png" 1780596770.22188 43588 36a8d8a57fef06052740308ec09edea0 ""
   (generated)
-  "SystemsAnalysis_01.aux"
-  "SystemsAnalysis_01.log"
-  "SystemsAnalysis_01.nav"
-  "SystemsAnalysis_01.out"
-  "SystemsAnalysis_01.snm"
-  "SystemsAnalysis_01.toc"
-  "SystemsAnalysis_01.xdv"
+  "Prezy_Lecture-01_SystemsAnalysis.aux"
+  "Prezy_Lecture-01_SystemsAnalysis.log"
+  "Prezy_Lecture-01_SystemsAnalysis.nav"
+  "Prezy_Lecture-01_SystemsAnalysis.out"
+  "Prezy_Lecture-01_SystemsAnalysis.snm"
+  "Prezy_Lecture-01_SystemsAnalysis.toc"
+  "Prezy_Lecture-01_SystemsAnalysis.xdv"
   (rewritten before read)

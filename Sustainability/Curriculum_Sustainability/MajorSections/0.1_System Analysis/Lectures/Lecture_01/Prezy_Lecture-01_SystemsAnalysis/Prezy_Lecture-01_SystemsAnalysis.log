@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.5.9)  4 JUN 2026 14:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.5.9)  5 JUN 2026 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**SystemsAnalysis_01.tex
-(./SystemsAnalysis_01.tex
+**Prezy_Lecture-01_SystemsAnalysis.tex
+(./Prezy_Lecture-01_SystemsAnalysis.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -908,7 +908,7 @@ Excluding comment 'comment')
 \sympureletters=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 34.
+ut line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
@@ -1171,35 +1171,35 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
 
-(./SystemsAnalysis_01.aux)
-\openout1 = `SystemsAnalysis_01.aux'.
+(./Prezy_Lecture-01_SystemsAnalysis.aux)
+\openout1 = `Prezy_Lecture-01_SystemsAnalysis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 139.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-37.
+39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1235,77 +1235,78 @@ LaTeX Font Info:    ... okay on input line 137.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 137.
-(./SystemsAnalysis_01.out) (./SystemsAnalysis_01.out)
+Package hyperref Info: Link coloring OFF on input line 139.
+(./Prezy_Lecture-01_SystemsAnalysis.out)
+(./Prezy_Lecture-01_SystemsAnalysis.out)
 \@outlinefile=\write6
-\openout6 = `SystemsAnalysis_01.out'.
+\openout6 = `Prezy_Lecture-01_SystemsAnalysis.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 137.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 139.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 137.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 139.
 \symnumbers=\mathgroup11
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 137.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 139.
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
 (Font)              `pureletters' in the math version `normal' on input line 13
-7.
+9.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/mathkerncmss/m/sl --> T1/phv/m/it on input line 137
+(Font)                  OT1/mathkerncmss/m/sl --> T1/phv/m/it on input line 139
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 137.
+(Font)              `pureletters' in the math version `bold' on input line 139.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/bx/sl --> T1/phv/m/it on input line 13
-7.
+9.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 137.
+(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 139.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 139.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 137.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 137.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 139.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 137.
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 137.
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 139.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 137.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 137.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 139.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 137.
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 139.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 137.
+(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/ptm/b/n on input line 137.
+(Font)                  OT1/cmss/b/n --> T1/ptm/b/n on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/b/n --> T1/phv/b/n on input line 137.
+(Font)                  T1/phv/b/n --> T1/phv/b/n on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 137.
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 137.
+(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 139.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/b/n on input line 137.
-LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 137
+(Font)                  T1/pcr/m/n --> T1/pcr/b/n on input line 139.
+LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 139
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
 (Font)              `boldpureletters' in the math version `normal' on input lin
-e 137.
+e 139.
 LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `norma
 l'
 (Font)                  OT1/mathkerncmss/bx/sl --> T1/phv/bx/it on input line 1
-37.
+39.
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
 (Font)              `boldpureletters' in the math version `bold' on input line 
-137.
+139.
 LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `bold'
 
 (Font)                  OT1/mathkerncmss/bx/sl --> T1/phv/bx/it on input line 1
-37.
+39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1331,12 +1332,12 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \microtypecontext on input line 137.
-Package microtype Info: Applying patch `item' on input line 137.
-Package microtype Info: Applying patch `toc' on input line 137.
-Package microtype Info: Applying patch `eqnum' on input line 137.
-Package microtype Info: Applying patch `footnote' on input line 137.
-Package microtype Info: Applying patch `verbatim' on input line 137.
+LaTeX Info: Redefining \microtypecontext on input line 139.
+Package microtype Info: Applying patch `item' on input line 139.
+Package microtype Info: Applying patch `toc' on input line 139.
+Package microtype Info: Applying patch `eqnum' on input line 139.
+Package microtype Info: Applying patch `footnote' on input line 139.
+Package microtype Info: Applying patch `verbatim' on input line 139.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1362,15 +1363,15 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 
 ))
-(./SystemsAnalysis_01.nav)
+(./Prezy_Lecture-01_SystemsAnalysis.nav)
 File: graphics/UMA_Logo.png Graphic file (type bmp)
 <graphics/UMA_Logo.png>
 
-Overfull \vbox (21.9pt too high) detected at line 144
+Overfull \vbox (21.9pt too high) detected at line 146
  []
 
 
-Overfull \vbox (48.30576pt too high) detected at line 144
+Overfull \vbox (48.30576pt too high) detected at line 146
  []
 
 [1
@@ -1380,7 +1381,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 150
+LaTeX Font Info:    Trying to load font information for U+msa on input line 152
 .
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1388,7 +1389,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 150
+LaTeX Font Info:    Trying to load font information for U+msb on input line 152
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1398,61 +1399,77 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 150.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 150.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 150.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 152.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 150.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 150.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 150.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 150.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <6> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 150.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <6> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 150.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 152.
  [2
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 160.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 162.
  [3
 
 ]
+File: graphics/CAS1.jpeg Graphic file (type bmp)
+<graphics/CAS1.jpeg>
+ [4
+
+]
+File: graphics/Fractal_CAS.jpeg Graphic file (type bmp)
+<graphics/Fractal_CAS.jpeg>
+
+[5
+
+]
+File: graphics/Fractal_CAS2.jpeg Graphic file (type bmp)
+<graphics/Fractal_CAS2.jpeg>
+ [6
+
+]
 \tf@nav=\write7
-\openout7 = `SystemsAnalysis_01.nav'.
+\openout7 = `Prezy_Lecture-01_SystemsAnalysis.nav'.
 
 \tf@toc=\write8
-\openout8 = `SystemsAnalysis_01.toc'.
+\openout8 = `Prezy_Lecture-01_SystemsAnalysis.toc'.
 
 \tf@snm=\write9
-\openout9 = `SystemsAnalysis_01.snm'.
+\openout9 = `Prezy_Lecture-01_SystemsAnalysis.snm'.
 
-
-(./SystemsAnalysis_01.aux)
+ (./Prezy_Lecture-01_SystemsAnalysis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `SystemsAnalysis_01.out' has not changed.
+Package rerunfilecheck Info: File `Prezy_Lecture-01_SystemsAnalysis.out' has no
+t changed.
 (rerunfilecheck)             Checksum: 1B116E1DE0BE67A6A956541732660B3C;154.
  ) 
 Here is how much of TeX's memory you used:
- 34130 strings out of 474878
- 714877 string characters out of 5762517
+ 34176 strings out of 474878
+ 716262 string characters out of 5762517
  1922627 words of memory out of 5000000
- 55512 multiletter control sequences out of 15000+600000
- 591945 words of font info for 82 fonts, out of 8000000 for 9000
+ 55554 multiletter control sequences out of 15000+600000
+ 593578 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,13n,141p,1906b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,141p,1920b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on SystemsAnalysis_01.xdv (3 pages, 9084 bytes).
+Output written on Prezy_Lecture-01_SystemsAnalysis.xdv (6 pages, 17592 bytes).

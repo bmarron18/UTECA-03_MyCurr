@@ -136,9 +136,34 @@ Systems Analysis 01}
 
 \begin{document}
 
-%-------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%
+% TITLE PAGE
+%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
   \titlepage
 \end{frame}
 
+
+%%%%%%%%%%%%%%%%%%%%
+% SECTION 01
+%%%%%%%%%%%%%%%%%%%%
+\section{Why Systems Analysis?}
+
+%Slide-------------------------------------------------------------------
+\begin{frame}
+\large \textit{Sustainability is a set of concepts translated to direct actions across multiple,
+interlinked complex adaptive systems (CAS).}\\
+\vspace{5 mm}
+\large \textit{Traditional reductionist science is not so helpful when managing the behavior of complex adaptive systems.}\\
+\vspace{6 mm}
+\large \textit{"The whole is greater than the sum of the parts"}
+\end{frame}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%
+%END OF DOC
+%%%%%%%%%%%%%%%%%
 \end{document}

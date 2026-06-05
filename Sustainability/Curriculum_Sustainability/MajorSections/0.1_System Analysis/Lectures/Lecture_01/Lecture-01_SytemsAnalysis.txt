@@ -1,12 +1,13 @@
-							LESSON_01  (4 hrs)
+							LECTURE 01 
 
 Docente:		Bruce D. Marron
 Course: 		Sustainability Now!
 Section:		0.1_SystemsAnalysis
-Prezy:			SystemsAnalysis_01
+Prezy:			Prezy-Lecture-01_SystemsAnalysis
 Licenciatura: 	
 Grupo:			
 
+\1 Fundamental Systems Concepts and Perspectives 
 
 -----------
 Why Systems Analysis?
@@ -58,6 +59,7 @@ Interlinked CAS Examples
 
 
 
+------------
 
 
 
