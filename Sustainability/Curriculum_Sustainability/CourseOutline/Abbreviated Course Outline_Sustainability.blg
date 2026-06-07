@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Abbreviated Course Outline_Sustainability.blg'
+[105] biber:340> INFO - === Sat Jun  6, 2026, 21:51:21
+[126] Biber.pm:419> INFO - Reading 'Abbreviated Course Outline_Sustainability.bcf'
+[230] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[254] Biber.pm:4419> INFO - Processing section 0
+[267] Biber.pm:4610> INFO - Looking for bibtex file '~/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib' for section 0
+[547] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2433] bibtex.pm:1519> INFO - Found BibTeX data source '/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib'
+[2589] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2589] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2589] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2589] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2600] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2600] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2600] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2600] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2603] bbl.pm:660> INFO - Writing 'Abbreviated Course Outline_Sustainability.bbl' with encoding 'UTF-8'
+[2604] bbl.pm:763> INFO - Output to Abbreviated Course Outline_Sustainability.bbl

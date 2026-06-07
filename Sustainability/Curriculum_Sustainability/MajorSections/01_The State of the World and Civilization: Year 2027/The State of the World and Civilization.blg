@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'The State of the World and Civilization.blg'
+[104] biber:340> INFO - === Sat Jun  6, 2026, 19:24:01
+[125] Biber.pm:419> INFO - Reading 'The State of the World and Civilization.bcf'
+[234] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[258] bbl.pm:660> INFO - Writing 'The State of the World and Civilization.bbl' with encoding 'UTF-8'
+[258] bbl.pm:763> INFO - Output to The State of the World and Civilization.bbl
+[259] Biber.pm:131> WARN - The file 'The State of the World and Civilization.bcf' does not contain any citations!
+[259] Biber.pm:133> INFO - WARNINGS: 1

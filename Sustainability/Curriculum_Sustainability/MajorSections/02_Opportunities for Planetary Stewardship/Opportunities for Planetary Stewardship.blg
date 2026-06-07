@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Opportunities for Planetary Stewardship.blg'
+[106] biber:340> INFO - === Sat Jun  6, 2026, 19:29:58
+[128] Biber.pm:419> INFO - Reading 'Opportunities for Planetary Stewardship.bcf'
+[235] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[259] bbl.pm:660> INFO - Writing 'Opportunities for Planetary Stewardship.bbl' with encoding 'UTF-8'
+[259] bbl.pm:763> INFO - Output to Opportunities for Planetary Stewardship.bbl
+[260] Biber.pm:131> WARN - The file 'Opportunities for Planetary Stewardship.bcf' does not contain any citations!
+[260] Biber.pm:133> INFO - WARNINGS: 1

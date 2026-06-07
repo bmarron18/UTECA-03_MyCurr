@@ -1,0 +1,23 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Concepts and Frameworks.blg'
+[119] biber:340> INFO - === Sat Jun  6, 2026, 22:12:09
+[141] Biber.pm:419> INFO - Reading 'Concepts and Frameworks.bcf'
+[246] Biber.pm:979> INFO - Found 27 citekeys in bib section 0
+[270] Biber.pm:4419> INFO - Processing section 0
+[283] Biber.pm:4610> INFO - Looking for bibtex file '~/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib' for section 0
+[551] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2433] bibtex.pm:1519> INFO - Found BibTeX data source '/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib'
+[2888] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2888] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2888] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2888] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2970] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2970] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2970] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2970] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[3016] bbl.pm:660> INFO - Writing 'Concepts and Frameworks.bbl' with encoding 'UTF-8'
+[3055] bbl.pm:763> INFO - Output to Concepts and Frameworks.bbl
+[3055] Biber.pm:131> WARN - ISBN '978-1-85383-682-4 978-1-85383-515-5' in entry 'pearce_blueprint_2000' is invalid - run biber with '--validate_datamodel' for details.
+[3055] Biber.pm:131> WARN - ISBN '978-1-59726-040-4 978-1-59726-039-8' in entry 'millennium_ecosystem_assessment_program_ecosystems_2005' is invalid - run biber with '--validate_datamodel' for details.
+[3055] Biber.pm:131> WARN - ISBN '0-385-72027-0 978-0-385-72027-4' in entry 'sen_development_2000' is invalid - run biber with '--validate_datamodel' for details.
+[3055] Biber.pm:133> INFO - WARNINGS: 3
