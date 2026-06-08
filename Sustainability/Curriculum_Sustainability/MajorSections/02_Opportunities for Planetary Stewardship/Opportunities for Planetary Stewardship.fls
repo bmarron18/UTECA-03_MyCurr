@@ -378,8 +378,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
 OUTPUT Opportunities for Planetary Stewardship.xdv
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplrc9e.tfm
 INPUT Opportunities for Planetary Stewardship.aux
 INPUT Opportunities for Planetary Stewardship.run.xml
 OUTPUT Opportunities for Planetary Stewardship.run.xml

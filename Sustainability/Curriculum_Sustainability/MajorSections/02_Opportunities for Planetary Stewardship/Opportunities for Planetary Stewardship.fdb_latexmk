@@ -1,22 +1,24 @@
 # Fdb version 4
-["biber Opportunities for Planetary Stewardship"] 1780795797.06655 "Opportunities for Planetary Stewardship.bcf" "Opportunities for Planetary Stewardship.bbl" "Opportunities for Planetary Stewardship" 1780795859.53756 0
-  "Opportunities for Planetary Stewardship.bcf" 1780795858.74689 132504 eef2551df0c716e5b1c8a7f42255ad07 "xelatex"
+["biber Opportunities for Planetary Stewardship"] 1780889903.32182 "Opportunities for Planetary Stewardship.bcf" "Opportunities for Planetary Stewardship.bbl" "Opportunities for Planetary Stewardship" 1780889912.5507 0
+  "/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib" 1780889863.56491 663650 095ee6d9a0c0eb62ff5443ab5321f89f ""
+  "Opportunities for Planetary Stewardship.bcf" 1780889911.76791 132584 ff8c93bbc4c0e2fcd24ae078f6eef1fb "xelatex"
   (generated)
   "Opportunities for Planetary Stewardship.bbl"
   "Opportunities for Planetary Stewardship.blg"
   (rewritten before read)
-["xdvipdfmx"] 1780795859.11564 "Opportunities for Planetary Stewardship.xdv" "Opportunities for Planetary Stewardship.pdf" "Opportunities for Planetary Stewardship" 1780795859.54159 0
-  "Opportunities for Planetary Stewardship.xdv" 1780795858.74922 2564 57afdb27ee81308e59362b9f30bfad62 "xelatex"
+["xdvipdfmx"] 1780889912.13755 "Opportunities for Planetary Stewardship.xdv" "Opportunities for Planetary Stewardship.pdf" "Opportunities for Planetary Stewardship" 1780889912.55483 0
+  "Opportunities for Planetary Stewardship.xdv" 1780889911.76971 5328 93e510fc432bfb20aa8b9d1b6441551c "xelatex"
   (generated)
   "Opportunities for Planetary Stewardship.pdf"
   (rewritten before read)
-["xelatex"] 1780795856.44163 "Opportunities for Planetary Stewardship.tex" "Opportunities for Planetary Stewardship.xdv" "Opportunities for Planetary Stewardship" 1780795859.53767 0
+["xelatex"] 1780889909.50206 "Opportunities for Planetary Stewardship.tex" "Opportunities for Planetary Stewardship.xdv" "Opportunities for Planetary Stewardship" 1780889912.55085 0
   "/etc/texmf/web2c/texmf.cnf" 1778383354.18462 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.def" 1704325375.14856 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.sty" 1704325375.15256 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/local/share/texmf/tex/latex/manyfoot/manyfoot.sty" 1606787429.18977 12612 f3fab8606484988ae9cc5ddd17200387 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm" 1136768653 6952 02ad5d201b346d62c53c35f081142949 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplrc9e.tfm" 1136768653 11504 0aee68a3cffe19441de3ef8908532348 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm" 1136768653 4636 04bb79b19bf5315ced00732a1dac5509 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty" 1704662920 150008 7a05b0fdc0167c04e192003e780ab195 ""
@@ -196,10 +198,10 @@
   "/usr/share/texmf/tex/latex/lm/t1lmr.fd" 1616454256 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1778383429 10844281 ff134ac5975a0aabe8c685dddb90ebc8 ""
-  "Opportunities for Planetary Stewardship.aux" 1780795858.73589 189 170c4fa11f6fb3daf66147f6a6a77134 "xelatex"
-  "Opportunities for Planetary Stewardship.bbl" 1780795798.221 466 ee04f40f768daeed26442158e95aba61 "biber Opportunities for Planetary Stewardship"
-  "Opportunities for Planetary Stewardship.run.xml" 1780795858.74922 2743 508690a1d4df0ac9c87511a1d1464d2b "xelatex"
-  "Opportunities for Planetary Stewardship.tex" 1780795856.23002 8231 f01014667cefb941ef0a2ba6691bae71 ""
+  "Opportunities for Planetary Stewardship.aux" 1780889911.75691 535 cd8ab10c69978a2da56d2cdb79509c8d "xelatex"
+  "Opportunities for Planetary Stewardship.bbl" 1780889906.8248 3072 64127bc5e31a627d4fab949c711446e1 "biber Opportunities for Planetary Stewardship"
+  "Opportunities for Planetary Stewardship.run.xml" 1780889911.76971 2743 61b0a400dfd7a25a72bcbfa3c2c655c2 "xelatex"
+  "Opportunities for Planetary Stewardship.tex" 1780889896.968 8665 8d5a6995f658e77ba8976584f59b035c ""
   (generated)
   "Opportunities for Planetary Stewardship.aux"
   "Opportunities for Planetary Stewardship.bcf"

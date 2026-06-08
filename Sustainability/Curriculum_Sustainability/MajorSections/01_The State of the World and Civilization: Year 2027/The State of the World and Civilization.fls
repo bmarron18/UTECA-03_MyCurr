@@ -378,8 +378,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
 OUTPUT The State of the World and Civilization.xdv
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplrc9e.tfm
 INPUT The State of the World and Civilization.aux
 INPUT The State of the World and Civilization.run.xml
 OUTPUT The State of the World and Civilization.run.xml

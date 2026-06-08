@@ -182,8 +182,12 @@
 
 %%%%%%%%%%%% DOC TEXT %%%%%%%%%%%%%%%%%%
 
-\setcounter{subsubsection}{4} % Manually assigns subsubsection value as 3!!
-\subsubsection{A Sustainable Anthroposphere}
+\large
+\begin{flushleft}
+\textit{A Sustainable and Resilient Civilization}
+\end{flushleft}
+
+\normalsize
 \begin{outline}[enumerate]
 \1 Culture
 \2 Pilars of Belief
@@ -193,13 +197,11 @@
 \2 Open Cooperative Competition
 \3 Cohesion
 \3 Energy
-\3
 
 
 \1 Power
 \2 Governance
 \2 Elites
-
 
 \1 Money
 \2 Consumption

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.5.9)  6 JUN 2026 19:30
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.5.9)  7 JUN 2026 21:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1331,26 +1331,55 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 229.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(./Opportunities for Planetary Stewardship.aux)
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3
+
+] (./Opportunities for Planetary Stewardship.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                "Opportunities for Planetary Stewardship"
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to '"Opportunities for Planetary Stewards
 hip".run.xml'.
 \openout1 = `"Opportunities for Planetary Stewardship.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31692 strings out of 474878
- 631752 string characters out of 5762517
- 1923627 words of memory out of 5000000
- 53232 multiletter control sequences out of 15000+600000
- 567353 words of font info for 42 fonts, out of 8000000 for 9000
+ 31926 strings out of 474878
+ 636673 string characters out of 5762517
+ 1927627 words of memory out of 5000000
+ 53465 multiletter control sequences out of 15000+600000
+ 571340 words of font info for 44 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,12n,101p,1038b,5160s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Opportunities for Planetary Stewardship.xdv (1 page, 2564 byt
-es).
+Output written on Opportunities for Planetary Stewardship.xdv (3 pages, 5328 by
+tes).

@@ -16,5 +16,156 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global}
+    \entry{meijer_global_2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ef478d5c2214ef40c1f270a1a02568d}{%
+           family={Meijer},
+           familyi={M\bibinitperiod},
+           given={Johan\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a04f425d2df05d281c9541d8adabe08}{%
+           family={Huijbregts},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelimb A\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37bcab28c7cb6b3d04c59ff43bf08496}{%
+           family={Schotten},
+           familyi={S\bibinitperiod},
+           given={Kees\bibnamedelimb C\bibnamedelimb G\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fc2a9548d7360937e6fffc59601f4ca}{%
+           family={Schipper},
+           familyi={S\bibinitperiod},
+           given={Aafke\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{dcd28791c027b4ecd67be0a3bf985770}
+      \strng{fullhash}{a9a1a0c1b9cddb49f77b32a5fda431b3}
+      \strng{bibnamehash}{a9a1a0c1b9cddb49f77b32a5fda431b3}
+      \strng{authorbibnamehash}{a9a1a0c1b9cddb49f77b32a5fda431b3}
+      \strng{authornamehash}{dcd28791c027b4ecd67be0a3bf985770}
+      \strng{authorfullhash}{a9a1a0c1b9cddb49f77b32a5fda431b3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1748-9326}
+      \field{journaltitle}{Environmental Research Letters}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{Global patterns of current and future road infrastructure}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{13}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{064006}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1748-9326/aabd42
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:/home/bruce-mx/Zotero/storage/MUFVFNAN/Meijer et al. - 2018 - Global patterns of current and future road infrastructure.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/1748-9326/aabd42
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/1748-9326/aabd42
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{meijer_global_2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ef478d5c2214ef40c1f270a1a02568d}{%
+           family={Meijer},
+           familyi={M\bibinitperiod},
+           given={Johan\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a04f425d2df05d281c9541d8adabe08}{%
+           family={Huijbregts},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelimb A\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37bcab28c7cb6b3d04c59ff43bf08496}{%
+           family={Schotten},
+           familyi={S\bibinitperiod},
+           given={Kees\bibnamedelimb C\bibnamedelimb G\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fc2a9548d7360937e6fffc59601f4ca}{%
+           family={Schipper},
+           familyi={S\bibinitperiod},
+           given={Aafke\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{dcd28791c027b4ecd67be0a3bf985770}
+      \strng{fullhash}{a9a1a0c1b9cddb49f77b32a5fda431b3}
+      \strng{bibnamehash}{a9a1a0c1b9cddb49f77b32a5fda431b3}
+      \strng{authorbibnamehash}{a9a1a0c1b9cddb49f77b32a5fda431b3}
+      \strng{authornamehash}{dcd28791c027b4ecd67be0a3bf985770}
+      \strng{authorfullhash}{a9a1a0c1b9cddb49f77b32a5fda431b3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1748-9326}
+      \field{journaltitle}{Environmental Research Letters}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{Global patterns of current and future road infrastructure}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{volume}{13}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{064006}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1748-9326/aabd42
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:/home/bruce-mx/Zotero/storage/MUFVFNAN/Meijer et al. - 2018 - Global patterns of current and future road infrastructure.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/1748-9326/aabd42
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/1748-9326/aabd42
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

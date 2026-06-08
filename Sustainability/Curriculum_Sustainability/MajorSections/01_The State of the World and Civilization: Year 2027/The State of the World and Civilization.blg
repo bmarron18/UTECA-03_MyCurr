@@ -1,9 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'The State of the World and Civilization.blg'
-[104] biber:340> INFO - === Sat Jun  6, 2026, 19:24:01
-[125] Biber.pm:419> INFO - Reading 'The State of the World and Civilization.bcf'
-[234] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[258] bbl.pm:660> INFO - Writing 'The State of the World and Civilization.bbl' with encoding 'UTF-8'
-[258] bbl.pm:763> INFO - Output to The State of the World and Civilization.bbl
-[259] Biber.pm:131> WARN - The file 'The State of the World and Civilization.bcf' does not contain any citations!
-[259] Biber.pm:133> INFO - WARNINGS: 1
+[112] biber:340> INFO - === Sun Jun  7, 2026, 20:10:29
+[143] Biber.pm:419> INFO - Reading 'The State of the World and Civilization.bcf'
+[246] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[271] Biber.pm:4419> INFO - Processing section 0
+[285] Biber.pm:4610> INFO - Looking for bibtex file '~/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib' for section 0
+[559] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2451] bibtex.pm:1519> INFO - Found BibTeX data source '/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib'
+[2614] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2614] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2615] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2615] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2626] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2626] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2626] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2626] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2637] bbl.pm:660> INFO - Writing 'The State of the World and Civilization.bbl' with encoding 'UTF-8'
+[2639] bbl.pm:763> INFO - Output to The State of the World and Civilization.bbl
