@@ -188,7 +188,7 @@
 
 \large
 \begin{flushleft}
-\textit{The State of the World and Civilization: Year 2027}
+\textit{The State of the World and Human Civilization: Year 2027}
 \end{flushleft}
 
 \normalsize
@@ -207,7 +207,7 @@
 \2 Current Technology
 \2 Current Population
 
-\1 State of Civilization: Year 2027
+\1 State of Human Civilization: Year 2027
 \2 Globalized
 \2 Weaponized
 \2 Distracted
@@ -223,26 +223,26 @@
 
 \normalsize
 \begin{outline}[enumerate]
-\1 Stewardship as an Existential Imperative
-\1 The Critical Earth Systems
-\2 Climate
-\2 Biosphere Productivity 
-\2 Biosphere Waste Processing
+\1 Stewardship as an Existential Imperative for Sustainability
 
-\1 The Critical Human Systems
-\2 Economy
-\2 Governance
-\2 Culture
-\2 Existential
+\1 The Critical Earth Systems Coupled to Human Welfare
+\2 Global Climate System
+\2 Terrestrial Ecosystems
+\2 Aquatic Ecosystems
 
-\1 External Opportunities for Stewardship
-\2 Creating New Systems
+\1 The Critical Production and Delivery Systems Coupled to Human Welfare
+\2 Systems for Existential Human Needs 
+\2 Systems for Higher Human Needs 
+\2 Systems for Human Innovation 
+
+\1 External Opportunities for Stewardship of Critical Systems
 \2 Re-vamping Existing Systems
+\2 Creating New Systems
 
-\1 Internal Opportunities for Stewardship
-\2 Creativity
-\2 Intuition
-\2 Mind, Body, Spirit
+\1 Internal Opportunities for Stewardship of Critical Systems
+\2 Developing Creativity
+\2 Developing Intuition
+\2 Caring for Mind, Body, and Spirit
 
 \end{outline}
 
@@ -260,11 +260,15 @@
 \normalsize
 
 \begin{outline}[enumerate]
-\1 Fundamental Systems Concepts and Perspectives
-\2 System Components and Characterizations
-\2 Systems Science
-\2 Complex Adaptive Systems
+\1 Fundamentals of Systems
+\2 Definitions
 \2 Systems Thinking
+\2 Systems Science
+
+\1 Fundamentals of Complexity
+\2 Definitions
+\2 Complex Adaptive Systems
+\2 Wicked Problems
 \end{outline}
 
 
@@ -289,16 +293,14 @@
 
 \large
 \begin{flushleft}
-\textit{Data Analysis}
+\textit{Data Analytics and Predictive Models}
 \end{flushleft}
 
 \normalsize
 \begin{outline}[enumerate]
-\1 Probability Models
-\1 Statistical Models
+\1 Probability and Statistical Models
 \1 Agent-Based Models
-\1 Time Series Models
-
+\1 Imaginative Scenario Models
 \end{outline}
 
 
@@ -308,34 +310,36 @@
 
 \large
 \begin{flushleft}
-\textit{Concepts and Frameworks}
+\textit{Standard Concepts and Frameworks}
 \end{flushleft}
 
 \normalsize
 
 \begin{outline}[enumerate]
-\1 Sustainability Concepts
+\1 Standard Concepts of Sustainability
 \2 Brundtland Commission
 \2 UN Sustainable Development Goals
 \2 Marshall and Toffel\\
 
-\1 Sustainability Frameworks
+\1 Standard Frameworks for Sustainability 
 \2 Ecological Sustainability
 \2 Social Sustainability
 \2 Economic Sustainability
 \2 Agricultural Sustainability
+
+\1 Standard Concepts of Resilience 
 \end{outline}
 
 \large
 \begin{flushleft}
-\textit{A Sustainable and Resilient Biosphere}
+\textit{Toward a Sustainable and Resilient Biosphere}
 \end{flushleft}
 
 \normalsize
 
 \begin{outline}[enumerate]
-\1 Functional Terrestrial and Aquatic Ecosystems
-
+\1 Stewardship of the Global Climate System
+\1 Stewardship of Terrestrial and Aquatic Ecosystems
 \2 Necessary Inputs
 \2 Necessary Outputs
 
@@ -343,27 +347,32 @@
 
 \large
 \begin{flushleft}
-\textit{A Sustainable and Resilient Civilization}
+\textit{Toward a Sustainable and Resilient Civilization}
 \end{flushleft}
 
 \normalsize
 
 \begin{outline}[enumerate]
-\1 Culture
+\1 Stewardship of Systems for Existential Human Needs
+\2 Consumption
+\2 Extraction
+\2 Waste Handling
+
+\1 Stewardship of Systems for Higher Human Needs
+\2 Culture
 \2 Pilars of Belief
+\ Power and Status
+\2 Governance
+
+\1 Stewardship of Systems for Human Innovation 
 \2 Open Cooperative Competition
 
-\1 Power and Status
-\2 Governance
+
 \2 Elites
 
 \1 Money
 \2 Value vs Money vs Wealth
 \2 Economy and Trade
-
-\1 Consumption
-\2 Extraction
-\2 Wastes
 
 \end{outline}
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.5.9)  7 JUN 2026 20:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.5.9)  9 JUN 2026 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1396,7 +1396,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
@@ -1419,7 +1419,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 
-LaTeX Warning: Empty bibliography on input line 378.
+LaTeX Warning: Empty bibliography on input line 371.
 
 (./Abbreviated Course Outline_Sustainability.aux)
  ***********
@@ -1449,5 +1449,5 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  99i,12n,101p,1040b,5160s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Abbreviated Course Outline_Sustainability.xdv (4 pages, 9420 
-bytes).
+Output written on Abbreviated Course Outline_Sustainability.xdv (4 pages, 10356
+ bytes).

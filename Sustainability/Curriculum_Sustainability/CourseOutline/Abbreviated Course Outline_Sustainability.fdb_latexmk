@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber Abbreviated Course Outline_Sustainability"] 1780884815.64828 "Abbreviated Course Outline_Sustainability.bcf" "Abbreviated Course Outline_Sustainability.bbl" "Abbreviated Course Outline_Sustainability" 1780884822.61079 0
-  "Abbreviated Course Outline_Sustainability.bcf" 1780884821.81408 132504 eef2551df0c716e5b1c8a7f42255ad07 "xelatex"
+["biber Abbreviated Course Outline_Sustainability"] 1780884815.64828 "Abbreviated Course Outline_Sustainability.bcf" "Abbreviated Course Outline_Sustainability.bbl" "Abbreviated Course Outline_Sustainability" 1781049313.61593 0
+  "Abbreviated Course Outline_Sustainability.bcf" 1781049312.83083 132504 eef2551df0c716e5b1c8a7f42255ad07 "xelatex"
   (generated)
   "Abbreviated Course Outline_Sustainability.bbl"
   "Abbreviated Course Outline_Sustainability.blg"
   (rewritten before read)
-["xdvipdfmx"] 1780884822.18906 "Abbreviated Course Outline_Sustainability.xdv" "Abbreviated Course Outline_Sustainability.pdf" "Abbreviated Course Outline_Sustainability" 1780884822.61531 0
-  "Abbreviated Course Outline_Sustainability.xdv" 1780884821.81553 9420 e24212bf780ba2a1bfc22a3b5666ee21 "xelatex"
+["xdvipdfmx"] 1781049313.20183 "Abbreviated Course Outline_Sustainability.xdv" "Abbreviated Course Outline_Sustainability.pdf" "Abbreviated Course Outline_Sustainability" 1781049313.62031 0
+  "Abbreviated Course Outline_Sustainability.xdv" 1781049312.83384 10356 8212b40b8988ab14cb2260d191a865df "xelatex"
   (generated)
   "Abbreviated Course Outline_Sustainability.pdf"
   (rewritten before read)
-["xelatex"] 1780884819.49113 "Abbreviated Course Outline_Sustainability.tex" "Abbreviated Course Outline_Sustainability.xdv" "Abbreviated Course Outline_Sustainability" 1780884822.6109 0
+["xelatex"] 1781049310.547 "Abbreviated Course Outline_Sustainability.tex" "Abbreviated Course Outline_Sustainability.xdv" "Abbreviated Course Outline_Sustainability" 1781049313.61603 0
   "/etc/texmf/web2c/texmf.cnf" 1778383354.18462 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.def" 1704325375.14856 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.sty" 1704325375.15256 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
@@ -212,10 +212,10 @@
   "/usr/share/texmf/tex/latex/lm/t1lmr.fd" 1616454256 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1778383429 10844281 ff134ac5975a0aabe8c685dddb90ebc8 ""
-  "Abbreviated Course Outline_Sustainability.aux" 1780884821.80308 507 1c8c5037149acd546a4957a5592e8cc6 "xelatex"
+  "Abbreviated Course Outline_Sustainability.aux" 1781049312.82083 507 1c8c5037149acd546a4957a5592e8cc6 "xelatex"
   "Abbreviated Course Outline_Sustainability.bbl" 1780884816.80036 466 ee04f40f768daeed26442158e95aba61 "biber Abbreviated Course Outline_Sustainability"
-  "Abbreviated Course Outline_Sustainability.run.xml" 1780884821.81553 2757 c3aaf6f9853683263d0f103fe06dccc6 "xelatex"
-  "Abbreviated Course Outline_Sustainability.tex" 1780884809.13626 10641 ab00699e629af90f4026a17e73480088 ""
+  "Abbreviated Course Outline_Sustainability.run.xml" 1781049312.83384 2757 c3aaf6f9853683263d0f103fe06dccc6 "xelatex"
+  "Abbreviated Course Outline_Sustainability.tex" 1781049310.33283 11269 93c6428a1a9e557e0edb406aebec7a8f ""
   (generated)
   "Abbreviated Course Outline_Sustainability.aux"
   "Abbreviated Course Outline_Sustainability.bcf"
