@@ -1,4 +1,4 @@
-PWD /home/bruce-mx/Desktop/UTECA/UTECA-03_MyCurr/Sustainability/Curriculum_Sustainability/MajorSections/01_The State of the World and Civilization: Year 2027
+PWD /home/bruce-mx/Desktop/UTECA/UTECA-03_MyCurr/Sustainability/Curriculum_Sustainability/MajorSections/01_The State of the World and Human Civilization: Year 2027
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
@@ -378,6 +378,11 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb9e.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9c.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
 OUTPUT The State of the World and Civilization.xdv

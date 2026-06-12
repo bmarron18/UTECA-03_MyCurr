@@ -1,4 +1,4 @@
-PWD /home/bruce-mx/Desktop/UTECA/UTECA-03_MyCurr/Sustainability/Curriculum_Sustainability/MajorSections/08_A Sustainable and Resilient Civilization
+PWD /home/bruce-mx/Desktop/UTECA/UTECA-03_MyCurr/Sustainability/Curriculum_Sustainability/MajorSections/07_Toward a Sustainable and Resilient Civilization
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
@@ -378,8 +378,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
 OUTPUT Sustainable and Resilient Civilization.xdv
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplrc9e.tfm
 INPUT Sustainable and Resilient Civilization.aux
 INPUT Sustainable and Resilient Civilization.run.xml
 OUTPUT Sustainable and Resilient Civilization.run.xml

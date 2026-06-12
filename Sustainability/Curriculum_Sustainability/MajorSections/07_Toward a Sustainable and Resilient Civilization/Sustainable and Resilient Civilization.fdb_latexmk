@@ -1,22 +1,24 @@
 # Fdb version 4
-["biber Sustainable and Resilient Civilization"] 1780796625.59719 "Sustainable and Resilient Civilization.bcf" "Sustainable and Resilient Civilization.bbl" "Sustainable and Resilient Civilization" 1780796632.41349 0
-  "Sustainable and Resilient Civilization.bcf" 1780796631.64066 132504 eef2551df0c716e5b1c8a7f42255ad07 "xelatex"
+["biber Sustainable and Resilient Civilization"] 1781233612.89996 "Sustainable and Resilient Civilization.bcf" "Sustainable and Resilient Civilization.bbl" "Sustainable and Resilient Civilization" 1781233651.76977 0
+  "/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib" 1781233596.22454 663572 198227d6f42a44fb0e75f9b1a86a84f2 ""
+  "Sustainable and Resilient Civilization.bcf" 1781233650.95378 132578 eeafd71810064b167d6215d6ff1a759f "xelatex"
   (generated)
   "Sustainable and Resilient Civilization.bbl"
   "Sustainable and Resilient Civilization.blg"
   (rewritten before read)
-["xdvipdfmx"] 1780796632.00254 "Sustainable and Resilient Civilization.xdv" "Sustainable and Resilient Civilization.pdf" "Sustainable and Resilient Civilization" 1780796632.41747 0
-  "Sustainable and Resilient Civilization.xdv" 1780796631.64238 2136 c788bdb8cd47cc88c4aa267afb5750e5 "xelatex"
+["xdvipdfmx"] 1781233651.32662 "Sustainable and Resilient Civilization.xdv" "Sustainable and Resilient Civilization.pdf" "Sustainable and Resilient Civilization" 1781233651.77456 0
+  "Sustainable and Resilient Civilization.xdv" 1781233650.95636 4152 2cb23991aeec8ae4f236178b435d3b0a "xelatex"
   (generated)
   "Sustainable and Resilient Civilization.pdf"
   (rewritten before read)
-["xelatex"] 1780796629.3904 "Sustainable and Resilient Civilization.tex" "Sustainable and Resilient Civilization.xdv" "Sustainable and Resilient Civilization" 1780796632.41361 0
+["xelatex"] 1781233648.53635 "Sustainable and Resilient Civilization.tex" "Sustainable and Resilient Civilization.xdv" "Sustainable and Resilient Civilization" 1781233651.76993 0
   "/etc/texmf/web2c/texmf.cnf" 1778383354.18462 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.def" 1704325375.14856 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.sty" 1704325375.15256 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/local/share/texmf/tex/latex/manyfoot/manyfoot.sty" 1606787429.18977 12612 f3fab8606484988ae9cc5ddd17200387 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm" 1136768653 6952 02ad5d201b346d62c53c35f081142949 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplrc9e.tfm" 1136768653 11504 0aee68a3cffe19441de3ef8908532348 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm" 1136768653 4636 04bb79b19bf5315ced00732a1dac5509 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty" 1704662920 150008 7a05b0fdc0167c04e192003e780ab195 ""
@@ -196,10 +198,10 @@
   "/usr/share/texmf/tex/latex/lm/t1lmr.fd" 1616454256 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1778383429 10844281 ff134ac5975a0aabe8c685dddb90ebc8 ""
-  "Sustainable and Resilient Civilization.aux" 1780796631.62966 189 170c4fa11f6fb3daf66147f6a6a77134 "xelatex"
-  "Sustainable and Resilient Civilization.bbl" 1780796626.74265 466 ee04f40f768daeed26442158e95aba61 "biber Sustainable and Resilient Civilization"
-  "Sustainable and Resilient Civilization.run.xml" 1780796631.64238 2736 e68bd7c199b1eafb80da45ce0b84de4e "xelatex"
-  "Sustainable and Resilient Civilization.tex" 1780796622.67064 8073 83090e7dcad98c3edc194db3a321723d ""
+  "Sustainable and Resilient Civilization.aux" 1781233650.94278 488 54ba3d1721e32f52d111a8b9cd6ab57f "xelatex"
+  "Sustainable and Resilient Civilization.bbl" 1781233616.61109 7692 afc09221c2f44ac3ff0a5afdb98e2996 "biber Sustainable and Resilient Civilization"
+  "Sustainable and Resilient Civilization.run.xml" 1781233650.95636 2736 e68bd7c199b1eafb80da45ce0b84de4e "xelatex"
+  "Sustainable and Resilient Civilization.tex" 1781233648.29758 8360 52cdf623ced7be531483bb075921ad2f ""
   (generated)
   "Sustainable and Resilient Civilization.aux"
   "Sustainable and Resilient Civilization.bcf"

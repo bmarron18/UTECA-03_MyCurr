@@ -1,22 +1,24 @@
 # Fdb version 4
-["biber The State of the World and Civilization"] 1780884628.53414 "The State of the World and Civilization.bcf" "The State of the World and Civilization.bbl" "The State of the World and Civilization" 1780884657.44918 0
-  "/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib" 1780884195.9629 663441 4cead38be8e1b7eb5614f5df197c61a8 ""
-  "The State of the World and Civilization.bcf" 1780884656.66331 132577 2faac708d51ab128a12439934e8ad81f "xelatex"
+["biber The State of the World and Civilization"] 1781233379.04307 "The State of the World and Civilization.bcf" "The State of the World and Civilization.bbl" "The State of the World and Civilization" 1781233391.93345 0
+  "/home/bruce-mx/Desktop/GenRepo_01/BibLatex/MyCurrent_Library/My_Library_20201129.bib" 1781233246.95876 663546 207b96ca9ec77c0f64c64dd7476710b1 ""
+  "The State of the World and Civilization.bcf" 1781233391.09334 132802 bd97ed57fd76c4b7639e5a8ab4e94d55 "xelatex"
   (generated)
   "The State of the World and Civilization.bbl"
   "The State of the World and Civilization.blg"
   (rewritten before read)
-["xdvipdfmx"] 1780884657.02756 "The State of the World and Civilization.xdv" "The State of the World and Civilization.pdf" "The State of the World and Civilization" 1780884657.45341 0
-  "The State of the World and Civilization.xdv" 1780884656.66596 4028 f4bc1de21231a4f49fbe619ce32775ca "xelatex"
+["xdvipdfmx"] 1781233391.47764 "The State of the World and Civilization.xdv" "The State of the World and Civilization.pdf" "The State of the World and Civilization" 1781233391.93826 0
+  "The State of the World and Civilization.xdv" 1781233391.09511 7884 6e3ff263437e38eb253fcf1901bfb27b "xelatex"
   (generated)
   "The State of the World and Civilization.pdf"
   (rewritten before read)
-["xelatex"] 1780884654.32556 "The State of the World and Civilization.tex" "The State of the World and Civilization.xdv" "The State of the World and Civilization" 1780884657.4495 0
+["xelatex"] 1781233388.61141 "The State of the World and Civilization.tex" "The State of the World and Civilization.xdv" "The State of the World and Civilization" 1781233391.9336 0
   "/etc/texmf/web2c/texmf.cnf" 1778383354.18462 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.def" 1704325375.14856 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "/usr/local/share/texmf/tex/latex/logreq/logreq.sty" 1704325375.15256 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/local/share/texmf/tex/latex/manyfoot/manyfoot.sty" 1606787429.18977 12612 f3fab8606484988ae9cc5ddd17200387 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb9e.tfm" 1136768653 5972 8da11a082fb7b0bb20bdef74c1f36ef8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9c.tfm" 1136768653 1348 f4174868edc712ccb6079f0b57dbcfdf ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm" 1136768653 6952 02ad5d201b346d62c53c35f081142949 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplrc9e.tfm" 1136768653 11504 0aee68a3cffe19441de3ef8908532348 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm" 1136768653 4636 04bb79b19bf5315ced00732a1dac5509 ""
@@ -185,6 +187,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/pgfgantt/pgfgantt.sty" 1515620707 47785 88c861f46c2f86a25c7b7d0c7b0072ed ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty" 1586716065 8976 3f18c815295e2a2949e87fa743bcb489 ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplx.fd" 1137110629 678 c8b3ffad3ca2f0b681099c1471d12d8b ""
+  "/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd" 1137110629 634 ff560c0872a0a3a55298084c3a3cbc8f ""
   "/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty" 1670275497 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty" 1267981840 13506 a4e71a27db1a69b6fabada5beebf0844 ""
   "/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty" 1698436711 48766 0b93839be28e9744a24c45075c75b2e2 ""
@@ -198,10 +201,10 @@
   "/usr/share/texmf/tex/latex/lm/t1lmr.fd" 1616454256 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1778383429 10844281 ff134ac5975a0aabe8c685dddb90ebc8 ""
-  "The State of the World and Civilization.aux" 1780884656.65231 507 912e7a3aa122e5d17da47bd54ec55256 "xelatex"
-  "The State of the World and Civilization.bbl" 1780884632.26773 6474 0634b1ef2c0cb8f80ebae04062631835 "biber The State of the World and Civilization"
-  "The State of the World and Civilization.run.xml" 1780884656.66596 2743 89a2678c29a6a9db26a3d48ac459e762 "xelatex"
-  "The State of the World and Civilization.tex" 1780884654.11884 8423 c24559d9d1b15fce655b2a6f047d28df ""
+  "The State of the World and Civilization.aux" 1781233391.08134 1393 059e93ffe6f42ae17e50a2a5404c243b "xelatex"
+  "The State of the World and Civilization.bbl" 1781233382.84708 20204 80ef2c13ad55885452cf72bb80bf36f0 "biber The State of the World and Civilization"
+  "The State of the World and Civilization.run.xml" 1781233391.09511 2743 424d745e63405cc767e2eaa5bd3651b9 "xelatex"
+  "The State of the World and Civilization.tex" 1781233376.06786 10231 73d015aff2e6d334dad810578d59ada1 ""
   (generated)
   "The State of the World and Civilization.aux"
   "The State of the World and Civilization.bcf"

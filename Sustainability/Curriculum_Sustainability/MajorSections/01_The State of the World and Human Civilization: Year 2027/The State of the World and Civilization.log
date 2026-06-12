@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.5.9)  7 JUN 2026 20:10
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.5.9)  11 JUN 2026 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1319,6 +1319,37 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
+Underfull \hbox (badness 10000) in paragraph at lines 193--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
+202.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
+)
+Missing character: There is no ‘ ("2018) in font pplr9e!
+Missing character: There is no ’ ("2019) in font pplr9e!
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1330,6 +1361,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--225
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplx/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1342,35 +1391,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2
+[3
 
 ] (./The State of the World and Civilization.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                "The State of the World and Civilization"
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to '"The State of the World and Civilizat
 ion".run.xml'.
 \openout1 = `"The State of the World and Civilization.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31927 strings out of 474878
- 636655 string characters out of 5762517
- 1924627 words of memory out of 5000000
- 53466 multiletter control sequences out of 15000+600000
- 571340 words of font info for 44 fonts, out of 8000000 for 9000
+ 31984 strings out of 474878
+ 638065 string characters out of 5762517
+ 1926627 words of memory out of 5000000
+ 53518 multiletter control sequences out of 15000+600000
+ 573122 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,101p,1038b,5160s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,13n,101p,1038b,5160s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on The State of the World and Civilization.xdv (2 pages, 4028 by
+Output written on The State of the World and Civilization.xdv (3 pages, 7884 by
 tes).
