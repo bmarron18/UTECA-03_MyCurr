@@ -1,0 +1,189 @@
+							LESSON PLAN  (5 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			26-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9B
+
+
+
+#####################
+HW_01 [Due: 19 May 2026]
+
+--- Task 1
+Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 5-11):
+	
+	  1. Introduction
+	  2. The Components of Language
+		 2.1 Phonetics (Sounds)
+		 2.2 Morphology and Semantics (The Structure and Meaning of Words)
+		 2.3 Syntax and Grammar (Sentence Structure)
+		 2.4 Discourse (Text)
+		 2.5 Pragmatics (Use)
+		 2.6 Cross Cultural Linguistics and Sociolinguistics
+
+Write a summary of Konrod's excerpt in English and translate the summary into Spanish. Be prepared to discuss your summary in class.
+
+--- Task 2
+Reflect on the concept of language (its function, its components, its transmittal, etc). Compare and contrast Spanish, English and Chinese. What strikes you as fundamnetal similarities and differences between these three languages?  Frame your responses with reference to the concept of language and be prepared to discuss your responses in class.
+
+
+--- Task 3
+Work through the complete Study Guide in R. Murphy's, "English Grammar in Use". List every section with which you may need review. The Study Guide can be found on p. 326. The key to the Study Guide is given on p. 372.
+
+
+NB.
+For this assignment and for all subsequent written assignments in this class (unless duly noted), we will use a modified, APA formatting style. Specifically, documents will be:
+	* Single-spaced
+	* 0.5 inch margins (left and right)
+	* 12-point Times New Roman font
+	* print double-sided if possible
+References, if needed, in a standard format (eg, APA)
+(See Marron_English-IX-StyleGuide.pdf in Reference Docs folder)
+	
+Assignments always must be printed and submitted in class (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+
+
+#######
+Today
+#######
+
+---- Open 
+
+Intros
+
+Go thru
+	* Course contract
+	* Course description, scope and sequence
+
+	* Grading rubrics
+	* General look in Teams "Class Materials"			
+	
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+--- New
+
+The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point.
+		--- Claude Shannon, 1948
+
+
+		
+We are drowning in information, while starving for wisdom. The world henceforth will be run by synthesizers, people able to put together the right information at the right time, think critically about it, and make important choices wisely.
+	-- E. O. Wilson (Biologist)
+
+
+
+									
+**Round Table							
+										
+	What is language?
+	What are the components of language? its function? 
+	What types of language are there? Why do these exist?
+	What is creative language? scientific? legal? academic? economic?
+	What types of languages and dialects are there? Why do these exist?
+
+
+**Reading techniques, as put up new material
+	* slow and focused
+	* relaxed pace
+	* rapid scan
+	* speed reading
+
+
+** Classic Linguistics
+	Konrod paper
+
+
+
+PART II
+-----------
+Class Codes (Teams)
+	9B		mi5s3ku
+
+
+* Go thru R Murphy's, "English Grammar in Use"
+	Overview of text
+	Sample lessons to show structure
+
+	Study Guide p. 326	
+	Key to Exercises p 336
+	Key Study Guide p 372
+
+
+* Murphy (Modal Verbs)
+	Units ==> 26
+
+
+
+** Communication, Info Theory, and Simple Language Models	
+	02a_Mitchell slide
+	02b_MacKay Info content of a random variable and an ensemble
+	
+
+** 02c_MacKay_LanguageModels+Enigma
+	Simple Language Models (p 3 - 5)
+		Zipf's Law
+			log-log plot ==> Power functions y=ax^{k} – appear as straight lines in a 
+			log–log graph, with the exponent corresponding to the slope, and the 
+			coefficito) accumulateent corresponding to the intercept
+			
+		Dirichlet (DEE·ruhsh·lay) process
+			a model for a stream of symbols(to) glisten
+			exchangeability
+	
+	Barbarisms	(p 6)
+	The number of possible settings of the Enigma machine was about 8 × 10^12 
+	The Enigma machine, once its wheels and plugs were put in place, implemented a continually-changing permutation cypher that wandered deterministically through a state space of 26^3 (17576) permutations.
+	
+
+	The take-away: a language is not random AND is redundant (p.8)
+		plaintext is not completely random. Both plaintexts are written in a language, and 
+		that language has redundancies even at the character level!!
+
+	Alan Turing and the codebreakers at Bletchley Park 
+
+	(Benedict Cumberbatch stars as Alan Turing in the 2014 historical thriller "The Imitation Game". The film follows Turing's crucial work breaking the German Enigma code at Bletchley Park during WWII and his later persecution for being gay,
+	https://www.youtube.com/watch?v=nuPZUUED5uk)
+	
+	why the codebreaker story? Bayesian tools used to break Enigma are used in AI
+	
+
+													
+** Go thru HW and Class Materials (esp Marron_English-IX-StyleGuide.pdf)
+	
+
+
+
+---- Work time
+
+
+--- Coming up
+
+* Charlotte's Web
+
+* Mackay, 	18.2 Simple language models
+			18.3 Units of information content
+			18.4 A taste of Banburismus
+
+* 03_Steffen et al. - 2018 - Trajectories of the Earth System in the Anthropocene
+
+*APA and Professional Voice
+
+*Strunk and White’s. “Elements of Style”
+	I 	ELEMENTARY RULES OF USAGE	
+	II	Elementary Principles of Composition
+
+
+
+
+
+

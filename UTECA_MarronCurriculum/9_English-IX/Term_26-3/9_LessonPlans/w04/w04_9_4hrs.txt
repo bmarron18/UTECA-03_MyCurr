@@ -1,0 +1,320 @@
+							LESSON PLAN  (4 hrs)
+
+Docente:			Bruce D. Marron
+Ciclo: 				26-3
+Materia: 			Inglés IX
+Curso:				IT0939
+Lic: 				Interpretación y Traducción
+Grupo:				9B
+
+
+
+#####################
+HW_04 [Due: 09 Jun 2026]	
+
+--- Task 1
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of words from the middle part of Charlotte's Web.
+
+--- Task 2
+Read Chapters XII thru XVI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+Ultimately, you will write a full critique of this novel.
+
+--- Task 3
+Study Guide for 1P exam. DO NOT turn this in!
+
+You should be able to:
+* Compare and contrast Spanish, English, and Chinese (briefly)
+* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+* Define Zip's Law and explain why it is useful
+* Define what generative text models are and very roughly, what they can do
+* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+* Read and evaluate new information regarding perspectives on academic writing
+* Summarize the novel, "Charlotte's Web" up through Chapter IX in about two+ paragraphs
+* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide the word in English and a Spanish translation
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+"Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on."
+		--- Paula Abdul
+		(singer, dancer, choreographer, actress, and television personality)
+
+
+
+“If you are going through hell, keep going.” 
+		-- Winston Churchill
+
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+-----------
+HW Notes
+	Watch formatting!
+		header
+		titles
+		font
+		margins
+		widows/orphans
+		
+	Be clear on tasks
+		Extra work!
+		
+	Be careful on injecting opinion and using "we"/"us"
+	
+	Use a standard format 
+		for lists (ordered or unordered)
+		for paragraphs
+	
+	T/O == throughout
+
+
+--------------
+Review
+
+	* Strunk and White’s. “Elements of Style”
+
+	
+	* Critique and Pullman
+		Have students read one of their crtitques from the HW
+		Evaluation of Pullum's Criticisms		
+			* Pullum Criticism #1	
+			* Pullum Criticism #2
+
+	* Vocab Review fr HW
+		Selected words from Vocab_02.txt (Charlotte's Web)
+		Call on students; use HW
+
+
+
+-----------
+** APA and Professional Voice
+	Rapid review of APA-style docs
+		(Note Whitehead's recommendation for Elements of Style)
+	Third-Person usage docs
+	
+
+PART II
+-------------
+** More Murphy's English Grammar in Use
+	Units ==> 142 (p 284), 143 (p 286)(Phrasal Verbs)
+
+
+
+--------------
+** Charlotte's Web
+
+Important Themes
+		1. Friendship
+		2. Life and Death
+		3. Courage and Sacrifice
+		4. Identity and Self-Worth
+		5. The Power of Words
+		6. Kindness and Compassion
+	
+ Main Story Arc and Mini-arcs
+		1. Time / Space
+		2. Characters and Plot
+		
+
+Chapter 5
+	Charlotte
+		==> clever lives by her wits
+		
+	The Old Sheep
+		==> sees the impending tragedy 
+		
+	Friendship
+		==> the doubts and fears 
+		==> prove loyal and true to the very end.
+	
+	
+Ch 6 - Ch 11 
+		==> Students on phones; scan of the text (individually) w/ Teaching Highlights
+		==> Selected Qs
+
+
+Ch 6 "Summer Days"
+	Qs
+	*Why are the summer days on the farm idyllic?
+	Why are Avery and Fern very happy to see summer arrive?
+	How did farmer's 'make hay' back in the day? Why did they need to?
+	Avery seems to like his pockets. Why?
+	What is the Frigidaire? (frigid air)
+	How do we know there is a lot of life going on in the summer?
+	Fern seems to be talking to the animals! How do we know this?
+	*Is Templeton a welcome guest at the hatching? What does he want?
+	Why are the goose and gander worried about Templeton?
+	*Why does Charlotte warn everyone about the unhatched goose egg?
+	What is Mr. Zuckerman's response to the goslings?
+
+
+Ch 7 "Bad News"
+	Qs
+	Wilbur begins to admire Charlotte. Why? Give two reasons.
+	Wilbur is happy with his lifestyle until the old sheep stops in for a visit. What's the bad news?
+	*What is Wilbur's response to the bad news?
+	What is Charlotte's response to the bad news?
+	Why is butchering considered to be a conspiracy?
+	*Why is Charlotte strict with Wilbur?
+	*Are you upset about the prospect that Wilbur will be butchered? Have you ever butchered an animal?
+
+
+Ch 8 "A Talk at Home"
+	Qs
+	Why is Mrs. Arable suddenly concerned about Fern?
+	How does Fern talk about life in the Zuckerman's barn?
+	What is Mr. Arable's response to Fern's stories?
+	*Mrs. Arable wants Fern to be medically examined. What does Mr. Arable think?
+	Do you think Fern is just imagining the conversations, or could there be another explanation?
+	What does the term, 'childhood innocence' mean?
+	*How does the chapter explore the different ways adults and children see the world?
+
+
+Ch 9 "Wilbur's Boast"
+	Qs 
+	When does Charlotte do her weaving?
+	Does Charlotte know her own anatomy?
+	What does Wilbur think of Charlotte's anatomy?
+	What is Charlotte's explanation for the anatomical differences?
+	*What is Wilbur's boast?
+	What are Fern's and Charlotte's reactions to Wilbur's boast?
+	Is Wilbur truly boastful? Why or why not?
+	How would you describe Wilbur's first attempt at spinning?
+	What is Templeton's attitude about Wilbur's attempted spinning?
+	Is Wilbur a quitter? Would he ever be able to spin a web?
+	*What does Charlotte think of human attempts at web spinning?
+	What is Charlotte's recommendation for humans and their bridges?
+	What would be Wilbur's dream life? Why do you think he wants his dream life?
+	Why is the afternoon such a peaceful time?
+	*Do animals know of death?
+	*Why is Wilbur so interested in Charlotte's plan?
+	*What does Charlotte want Wilbur to do to help with the plan?
+	Wilbur wants just a little snack before bed. Does that happen to you?
+	Wilbur and Charlotte talk like parent and child. Which is which?
+	What lesson does Wilbur learn from his failed attempts at spinning a web?
+
+
+Ch 10 "An Explosion"
+	Qs
+	What does Charlotte do to find a way to help Wilbur? How does she 'brainstorm'?
+	What is Charlottes's assessment of human intelligence?
+	*How does Avery treat animals as compared to Fern? Explain.
+	*Describe the barn swing. Why is it 'the best in the county'?
+	How fast is 'a mile a minute'?
+	Why are parent worried about Zuckerman's swing?
+	How do Avery and Fern treat each other?
+	What do you think of very's idea of treehouse living?
+	What is 'tremenjus'?
+	*What happens when Avery tries to capture Charlotte?
+	Have you ever smelled a rotten egg?
+	What saved Charlotte's life"
+	What is Templeton's boast?
+	What does Lurvy think of Templeton?
+	What generousity does Wilbur show to Templeton?
+	What is Charlotte doing until the wee hours of the night?
+
+
+Ch 11 “The Miracle”
+	Qs
+	Why is Charlotte's web so beautiful on the day of the miracle?
+	What is the miracle?
+	What is Lurvy's response to the miracle?
+	Why does Mr. Zuckerman dismiss Charlotte's involvement?
+	What does Mr. Zuckerman tell his wife?
+	What does it mean 'to receive a sign'?
+	What is Mrs. Zuckerman's response to the web writing?
+	How does Charlotte react to the people's surprise?
+	What thoughts start running through Homer's mind after seeing the message?
+	What is funny about Homer's and Lurvy's new assessment of Wilbur?
+	What does the minister say about the miracle?
+	Does the secret of the miracle stay a secret?
+	How does the miracle change the rhythm of life on the farm?
+	What happens to Avery when his mom finds out about his failed attempt to capture Charlotte?
+	Why does Fern have mixed feelings about the results of Charlotte's miracle?
+	How people react to things they don’t understand?
+    
+
+Plot/Story Arc Development
+ 	Key events as plot elements (moving the story forward)
+  	Students at the board write a key event (up through Ch XI)
+
+ Character Development
+		==> Motivations, traits, relationships, and key events affect characters
+		
+		Ask students
+		Round 1: A simple, Who is this? A main character?
+		Round 2:  Motivations? Traits? Personality? Relationships? Key events?
+		
+			Fern
+			Avery
+			Mr. Arable
+			Mrs. Arable
+			Wilbur
+			The Goose
+			Templeton
+			Charlotte
+			The Old Sheep
+			Homer and Edith Zuckerman
+			Lurvy
+
+			Henry Fussy
+			Dr. Dorian
+			Uncle
+			Joy, Aranea, and Nellie
+			
+
+	
+	* Critique EB White's Writing Style
+		==> ease of reading?
+		==> flow?
+		==> dialog?
+		==> wordiness?
+		==> emotive?
+		==> holds together logically?
+		==> genre?
+	
+	
+	* Your personal opinion of the work thus far
+
+
+
+
+
+
+
+
+
+
+
+--- Coming up
+	
+	* Legal Docs 1
+	
+	* Econ Docs I
+	
+	*"Bless Me, Ultima"
+
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

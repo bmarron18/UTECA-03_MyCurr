@@ -1,0 +1,354 @@
+							LESSON PLAN  (4 hrs)
+
+Docente:		Bruce D. Marron
+Ciclo: 			26-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+
+#####################
+HW_04 [Due: 09 Jun 2026]
+
+--- Task 1
+Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
+
+** Install Python 
+** Install Spyder 
+** Review Windows filesystem operations snippets 
+** Verify the version of Python installed 
+** Verify the installation of Spyder-6
+** Learn the fundamentals of virtual environments in Python
+
+Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
+
+In your homework please tell me (honestly) how far you got with these sub-tasks. 
+
+
+--- Task 2
+Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Ch. 7	o Half and Half: Rose Hsu Jordan
+	Ch. 8	o Two Kinds: Jing-Mei Woo
+
+
+--- Task 3
+Study Guide. DO NOT turn this in!
+
+1. The Han Empire has played a crucial role in the development of Chinese culture and identity.  Answer the following questions related to your studies of the Han Empire:
+    a. Roughly, what is the time period for the Han Empire?
+    b. List at least three (3) achievements of the Han Empire.
+    c. Translate the writing of Chinese characters (汉字) into English.
+    d. Why do you think most Chinese consider themselves to be Han?
+    e. Name two (2) scholastic sources that can be used to search academic articles related to the Han Empire. 
+    f. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
+
+2. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
+    a. List three (3) suggested guidelines for dynamic storytelling in presentations.
+    b. What is the role of creativity in the preparation of a presentation?
+    
+3. Using AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
+    a. API
+    b. API Key
+    c. Python
+    d. The command line interface
+    e. Spyder IDE
+    f. Google gemini-3-flash-preview
+    g. OpenAI gpt-5.5
+    h. Prompt Engineering
+
+4. Select your favorite chapter from Chapters 1 – 4 of the novel, The Joy Luck Club and perform and/or answer the following:
+    a. Briefly explain why you selected the chapter.
+    b. What do you think is the main “take-away” from the chapter?
+    c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
+    d. From your perspective, did AI (Gemini, ChatGPT, DeepSeek) do a good job summarizing the novel's chapters? Explain 
+    why or why not.
+    e. Write a five (5) sentence summary of the chapter in English and translate the summary into Spanish.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+
+---- Open
+
+
+	"The player is lost; the watcher is lucid."
+	当局者迷，旁观者清。(Dāngjúzhě mí, pángguānzhě qīng / 'player confused; spectator clear')
+
+
+
+
+
+From the "Biography of Yuan Xingchong" in the Old Book of Tang (《旧唐书·元行冲传》), this points out that a person involved in a matter usually does not have a comprehensive overview of it, due to too much concentration on the details, while the onlookers, who have a calmer and more objective attitude, have a better grasp of what is going on.
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+HW Notes
+	Watch formatting!
+		header
+		No UTECA logo
+		titles
+		font
+		margins
+		widows/orphans
+		
+	Be clear on tasks
+		a summary is a summary (no commentary)
+		
+	Use a standard format for lists (ordered or unordered)
+	
+	T/O == throughout
+
+
+
+----------
+** Presentation Hints
+	1. You are talking to people ==> eye contact
+		You can use silence (Relax!)
+	2. Focus on the speaker in group prezy.
+	3. Share the content equally (group prezy)
+	
+
+** Presentation of three (3) slides		
+	* All students to the front to present their slides.
+	* Graded
+
+
+-----------
+** Again, Why Python?
+Python derrota a la IA y los expertos no dudan: "Se ha convertido en el lenguaje que abre múltiples puertas profesionales simultáneamente" 
+https://share.google/tmPoLIb4te3Ai8hKi
+
+
+-------------
+** Basic Prompt Engineering
+
+A "prompt" to AI contains TWO message types
+	1) developer message 
+	2) user message
+
+  You could think about these messages like a function and its arguments in a programming  language.
+    	-developer messages
+    		provide the system's rules and business logic, like a function definition.
+    	-user messages
+    		provide inputs and configuration to which the developer message instructions are applied, like arguments to a function.
+	
+
+  Developer messages (AI role play instructions; system instructions)
+	-gives the model high-level instructions on how it should behave while generating a 
+	response, including tone, 
+	- goals, and examples of correct responses. Any instructions provided this way will take 
+	priority over a prompt in the input parameter.
+		
+  User messages (task instructions; input parameters)
+		Any text, image, or file inputs to the model that are used to generate a 
+		specific response.
+
+
+#####################
+Sample Gemini Prompts
+######################
+--- Developer Message ------------------------------------------
+config = types.GenerateContentConfig(
+               system_instruction="You are an expert linguist \
+                   specializing in translation. Maintain the original \
+                   meaning, and tone of the original. Provide ONLY the \
+                   requested translation without any additional commentary, \
+                   introductory phrases, other language translations, or \
+                   conversational remarks."),
+
+
+--- User Message ------------------------------
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME_Type = text/x-tex. That is. the output translation should be formated as \
+	a .tex file ready to open in LaTex."
+	
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file 
+	(.txt)."
+########################################################################################
+
+
+
+------------
+** Command line Linux, Winows, Mac/OS
+	Go thru "API_Installations_Windows-Basics.py"
+
+
+
+---------------
+** Installations / Preparations
+	Go thru PART III of "API_Installations-Activations-Preparations.txt"
+
+
+
+------------
+** 1P exam and hw!!
+
+
+-----------
+** "The Joy Luck Club" by Amy Tan 
+
+%%%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother				Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
+
+
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+
+
+--- Second Section Preamble: The Twenty-Six Malignant Gates
+Qs
+	* Parent always try to keep their children safe. In this context, what are the 26 Malignant Gates?
+	* Why does the girl rebel against the admonishments of the 26 Malignant Gates?
+
+
+--- The Moon Lady: Ying-Ying St. Clair (Ch 4)
+The drama in which the Moon Lady is a major character concerns the loss and reclamation of cultural and individual identities. Four-year-old Ying-ying, who has fallen overboard, is desperate to be "found" — to once again be reunited with her family — and with herself. She feels as though she has not only lost her family, but that she has also lost her "self." As an old lady many years later, Ying-ying poignantly tells how she "lost herself." She says that she surrendered her identity as she felt herself being transformed into a shadow, insubstantial and fleeting.
+
+In contrast to that loss and eventual reclamation, Ying-ying explains that today, as an old lady, she realizes that she and her daughter have suffered similar losses, and she wonders if these losses will ever be recovered. She and her daughter can no longer hear one another because Ying-ying rarely voices her thoughts. It was not always so; on the night when she was four years old, she shared her thoughts with the Moon Lady.
+
+The Moon Festival fell on a very hot autumn day. Ying-ying was restless; her nurse (her amah) had dressed her in the heavy silk jacket and pants that Ying-ying's mother had made for her daughter to wear to the Moon Festival. Ying-ying remembers that her amah told her that soon they would see Chang-o, the Moon Lady, who becomes visible on this day only, and when people see her, they can ask for one secret wish to be fulfilled. The Moon Lady is not an ordinary person, the amah explained.
+
+Ying-ying recalls that the departure was delayed because the adults talked. She became increasingly restless until, finally, the servants began to load a rickshaw with provisions, and the family climbed aboard and departed for the river.
+
+Arriving at the lake, they discover that the air is no cooler there than it was inland. The children race around the deck of the floating pavilion, delighting in the ornate decorations, the pretty garden area, and the bustling kitchen. The excitement wanes, however, and after the meal, everyone settles down for a nap. Ying-ying watches some boys send a shackled bird into the water to catch fish. Later, she watches a servant gut fish, chickens, and a turtle, and, with alarm, she realizes that her new outfit is flecked with blood and fish scales. Panicking, she rubs more turtle blood over her clothing, thinking that no one will notice her transformation. The amah shrieks in terror when she sees Ying-ying covered with blood but gratefully strips off the soiled garments when she realizes that the child is unharmed.
+
+Alone on the back of the boat in her undergarments, Ying-ying waits as the moon rises. She turns to find the Moon Lady and slips into the water. She is caught in a fishing net and dumped on the deck of another boat. By now, there are so many boats on the water that Ying-ying cannot see her family's boat. She is put on shore, where she watches the Moon Lady performing. Instantly, she is enchanted by the pageant and by the beautiful, soft-spoken Moon Lady. When the play ends, the Moon Lady announces that she will grant a wish. Ying-ying rushes backstage and there, she sees the Moon Lady pull off her hair, drop her gown, and she realizes that the Moon Lady is a man.
+
+Although Ying-ying is rescued by her family, she never believes that she is the same girl. She also forgets many of the details of the day. Today, many years later, when her life is coming to an end, she finally remembers what she asked the Moon Lady: she asked to be "found."
+
+
+  Qs
+	* Why does Ying-Ying keep her mouth shut? How does she express this?
+	* How does Ying-Ying see her daughter and herdaughter's life?
+	* As a girl (in 1918), Ying-Ying is privileged. How do we know?
+	* What does "the burning of the Five Evils" mean? What is really happening?
+	* The weather is hot the day of the Moon Festival. What do you make of the expression,
+		"feel my arm, steamed soft clear to the bone."
+	* Who is the Moon Lady and what does she offer?
+	* What does Amah's remark about wishes say about women in Chinese society?
+	* What is funny about the names of Ying-Ying's step-sisters?
+	* How does Ying-Ying fool her step-sisters with the "mooncake shaped like a rabbit"?
+	* According to Ying-Ying's mom, how should a girl "chase" a dragonfly?
+	* What does Ying-ying think about her shadow?
+	* What does this phrase suggest about Ying-Ying's family, "my father's concubines"?
+	* How does Ying-Ying think of Amah?
+	* What does " The boat looked like a floating teahouse" remind you of here in CDMX?
+	* Again, what does the phrase, "we saw poor-looking people" say about the status of Ying-Ying's family?
+	* What is happening with the bird with a hoop on its neck?
+	* What do you think about the contents of the soup being made?
+	* What happens to Ying-Ying's beautiful new clothes? How does she "fix" it?
+	* According to Amah, what will be the punishment for destroying the new clothes?
+	* What happens to Ying-Ying as she ponders the Moon Lady in her underwear?
+	* What is the terrible result of going overboard?
+	* In the stage production, what is the penance of the Moon Lady? What doe you make of the tale?
+	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang, 
+	  bright truth lighting our minds."
+	* Is a wish to the Moon Lady free?
+	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
+	* What is Ying-Ying's secret wish? What do you make of it?
+
+
+--- Rules of the Game: Waverly Jong (Ch 5)
+Waverly Jong, the narrator of this section, explains that she was six years old when her mother taught her "the art of invisible strength," a strategy for winning arguments and gaining respect from others in games. Waverly and her two brothers live on Waverly Place in San Francisco's Chinatown. The children delight in the sights, sounds, and smells of Chinatown, the sweetness of the pasty red beans, the pungent smell of the herbs doled out by old Li, and the sight of the blood-slippery fish that the butcher guts with one deft slice.
+
+Waverly's brother Vincent received a chess set at the Baptist Church Christmas party. Waverly took to the game immediately, delighting in its strategy. After her brothers lose interest in the game, Waverly learns complex plays from Lau Po, an old man in the park: She begins to win local tournaments. By her ninth birthday, Waverly is a national chess champion. Her fame spreads; even Life magazine runs an article on her meteoric rise. Waverly is excused from her chores, but there is one task she cannot escape: accompanying her mother to market on Saturdays. Mrs. Jong delights in walking down the busy street, boasting that Waverly is her daughter. One day, mortified by what she perceives as exploitation, Waverly argues with her mother and dashes off. For two hours, she huddles on an upturned plastic pail in an alley. Finally, she slowly walks home.
+
+Taking their lead from Mrs. Jong, the entire family ignores Waverly, so she trudges to her darkened room and lies down on her bed. In her mind, she sees a chess board. Her opponent consists of two angry black slits, marching implacably across the chessboard and sending her white pieces fleeing for cover. As the black pieces get closer, Waverly feels herself getting lighter. She rises above the board and floats over houses. Pushed by the wind, she ascends into the night sky, alone. Waverly closes her eyes and thinks about her next move.
+
+	
+Qs
+	* Where does Waverly Jong grow up? How would describe the circumstances of her family?
+	* Why does the neighborhood feel warm and exciting to Waverly?
+	* What do you think of the fish market?
+	* The neighborhood is a Chinese barrio. How do we know>
+	* What is funny about Waverly's American versus her Chinese name?
+	* How does Waverly's mother see American culture?
+	* Why are children smarter than adults think when it comes to indoctrination?
+	* What is disingenuous about Waverly's mom responses to the chess set at home and at church?
+	* What is Waverly's mom's take on rules?
+	* What is the power in the game of chess?
+	* What do you make of the names of Lau Po's chess moves?
+	* How does Waverly get her mom to agree to tournament play?
+	* What is the result of Waverly's chore routines as a result of winning How do her brothers feel?
+	* Waverly is no doubt a master player and becomes a national champion. What does Bobby Fischer say about this?
+	* Waverly confronts her mother about showing off. What happens?
+
+
+
+--- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
+When she was a child, Lena St. Clair often wondered about a beggar whom her grandfather had sentenced to die in the worst possible way. She imagines all sorts of gruesome torture. Appalled by her interest in violence, her mother said that the way he died didn't matter. Lena thinks that it matters very much because knowing the worst that can happen to you can help you avoid it. The worst thing that happens to Lena is her mother's descent into madness.
+
+Lena traces her mother's madness to a basement in their house in Oakland, California. As a child, Lena broke through a barricaded door and fell headlong into the cellar. To prevent Lena from going into the basement again, her mother told her that a bad man lived down there. After this incident, Lena began to see fantastic, horrible things everywhere.
+
+Lena's mother came to America after World War II as a war bride. At the immigration center, Lena's father renamed his wife "Betty" St. Clair, and two years were subtracted from her age. She looks fearful in the photo of her taken that day, an emotion that remained with her. She cautions Lena about strangers and sees danger in even the most harmless events. Lena's father refuses to learn to speak Chinese, and Mrs. St. Clair cannot learn English. As a result, they have a great deal of trouble communicating. Lena's father puts words into his wife's mouth, but Lena finds out what her mother is really thinking about when they are alone together.
+
+Lena is ten years old when her father is promoted. To mark his success, he moves the family across the bay to San Francisco, where they take an apartment at the top of a steep hill. Mrs. St. Clair is not happy with the apartment, and an encounter with a drunken man upsets her even more. She feels that this apartment is "not balanced" and that all their good luck will vanish. She discovers that she is pregnant, but even this news cannot lift her mood. Meanwhile, Lena listens through the wall to an Italian mother and daughter, Mrs. Sorci and Teresa, arguing and fighting in the adjacent apartment. Their arguments sound so violent that Lena believes that the mother has probably killed her daughter. When she glimpses the daughter a few days later, however, she can't believe that the girl looks so unscathed.
+
+Soon afterward, Mrs. St. Clair loses the baby that she is carrymg. In her grief, she cries out about another son whom she thinks that she apparently killed. She then begins to lose her already-fragile grip on reality.
+
+One night, the girl next door knocks on the door of Lena's apartment. Her mother, she says, has kicked her out. She uses the St. Clairs' fire escape to sneak back into her bedroom, and later that night, Lena hears the Italian girl and her mother screaming at each other again. She is astonished when she hears them reconcile and fall into each other's arms with love. Lena dreams of saving her mother from madness.
+
+The theme of heritage is especially important in this section, as Lena explores the dual nature of her identity. The product of an English-Irish father and a Chinese mother, she is a combination of two cultures. Although her pale coloring makes her seem Caucasian, her eyes are unmistakably Chinese. Her nature, like her appearance, straddles two cultures. "I saw these things with my Chinese eyes, the part of me I got from my mother," she says. Like the beggar's death, there are two versions of reality here — Chinese and American. Imaginative, even horrifying visions haunt her; however, her dual vision enables her to maintain her own sanity while watching her mother slide into madness.
+
+When Gu Ying-ying came to America, she was declared a Displaced Person because the immigration officials could not categorize her. Her name was changed to Betty St. Clair, and her birth was postdated by two years. This misclassification is a symbol for her new status: Stripped of her Chinese identity, she is, literally, a displaced person, adrift in an alien land. With the erasure of her identity, she has no place in the world. She cannot even communicate with her husband, a well-meaning but insensitive man who refuses to learn Chinese and insists that his wife learn English. When she is unable to communicate, he puts words into her mouth. In effect, he denies her the ability to communicate, and eventually, she descends into madness as a way of dealing with her isolation and loneliness.
+
+Qs
+	* Lena has a morbid fascination with the death of a beggar. Why?
+	* Why does Lena think her mom has become a ghost?
+	* Who lives in the basement of the old house in Oakland?
+	* What do Lena's Chinese eyes show her?
+	* What happens to Lena's mom at the immigration service? What did her dad do?
+	* Lena's mom seems afraid of the world around her. How does this affect Lena?
+	* Lena also seems to falsify reality. How?
+	* The St. Clair family is "moving up". WHat does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at home?
+	* Lena's mom seems constantly concerned with the feng shui of the new apartment. Why?
+	* Lena has intimate knowledge of the neighbors. Why? 
+	* What happens to the new baby? What happens to Lena's mom?
+	* What is Teresa's announcement?
+	* What is Lena's revelation?
+	* How does Lena save her mother?
+
+---- Work time
+
+
+--- Coming up
+
+* NLTK 
+
+* Creative Writing
+
+
+
+
+
+
+
+
+

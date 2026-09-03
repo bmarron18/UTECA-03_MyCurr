@@ -1,0 +1,257 @@
+							LESSON PLAN  (4 hrs)
+
+Docente:			Bruce D. Marron
+Ciclo: 				26-3
+Materia: 			Inglés IX
+Curso:				IT0939
+Lic: 				Interpretación y Traducción
+Grupo:				9B
+
+
+
+#####################
+HW_12 [Due: 11 Aug 2026] 	LAST ONE!!
+
+--- Task 1
+Read Chapter 13, Chapter 14, Chapter 15, and Chapter 16 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_English-IX-StyleGuide.pdf).
+
+
+--- Task 2
+Review Lamadrid's paper, ""Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge" and answer the following questions:
+	1. What is the problem statemnent of the paper?
+	2. What is Lamadrid's thesis?
+	3. According to Lamadrid, what is Ultima's (and Tony's) actual role in the community?
+
+--- Task 3
+Begin work on the Final Exam. The final exam is a take-home exam consisting of a written critique of the novel, "Bless Me, Ultima". All of the requirements for this critique can be found in the attached document, "FinalExam_Marron_Ingles-IX.pdf". The final exam is a take-home exam and will be officially due on August 18, 2026. 
+
+
+--- Study Guide for Exam 3P (an open-book exam)
+T1
+	*Why are LLMs called “large language models”?
+	*What is a perceptron and how (basically) does it function?
+	*What is it that LLMs actually do?
+	*Explain i) the nature of an API, and ii) the nature of Python.
+	*Why shouldn't AI agents be anthropomorphized?
+	*What is Humanity's Last Exam and why is it important?
+
+T2
+	*Access to cloud-based LLM translation is typically done through an Application Programmer Interface (API)using Python. Briefly explain i) the nature of an API, and ii) the nature of Python.
+	*Briefly explain the concept of prompt engineering.
+	*Select either BLEU or METEOR and briefly explain how the metric works.
+		- Bilingual evaluation understudy (BLEU) metric (uses n-gram comparisons) 
+		- Metric for evaluation of translation with explicit ordering (METEOR)
+		(uses n-grams, synonymy, stemming, word order)
+	
+T3
+	*What is meant by the term “vibe coding” and explain how this is rapidly changing the world of professional coding.
+	*How might you use “vibe coding” in the future?
+
+		
+T4
+	*What is meant by the term alignment and why must AI agents be aligned?
+	*What is meant by the term, “emergent property” and why might emergent properties be worrisome?
+	*List three important take-aways from the AI Futures Project report, "AI 2027"
+	*Klein notes that Anthropic had “redlines” for the use of their AI systems (no surveillance of citizens; no AI-powered kill munitions) that the U.S. Pentagon wanted to bypass.  Because the Pentagon fired Anthropic, what does this suggest to you about the current intentions of the national security state in the U.S.?
+	*Richard David Hames offers perhaps fantastical possibilities for positive interactions between AI and humans. List one important take-away from his opinion piece.
+	
+T5
+	*Provide the question and the answer to one (1) question each from Chapters 4 - 8 of "Bless Me, Ultima" (i.e., Qs and As for five questions)
+
+######################
+
+
+#######
+Today
+#######
+
+---- Open
+	"Por lo tanto, crearon [la gente a sus crias] instintos arificiales que permitieron que millones de extraños cooperaran de manera efectiva. Este red se llama <<cultura>>....A diferencia de las leyes de la fisica, que carecen inconsistencias, todo orden creado por el hombre está repleto de contradicciones internas. Las culturas intentan constantemente reconciliar dichos contradicciones, y este proceso impulsa el cambio [en la cultura]."
+			--- Yuval Noah Harari, "Sapiens: Breve Historia de la Humanidad"
+
+		
+Human Cooperation: The Big Three
+	Empire
+
+	
+	Religion 
+		(Eschatology ==> the part of theology concerned with death, judgment, and the final destiny of the soul and of humankind.)
+	Money
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+----------
+Review
+
+** LLMs and Access to AI
+	- WHat are LLMs?
+	- How are they professionally accessed?
+	
+** Humanity's Last Exam
+	- What is this? Why is it important?
+
+** Anthropomorphizing AI
+	- a good idea?
+	- emergent props? hallucinations?
+
+** Vibe Coding
+	- you now are a programmer!
+
+** AI Futures Project
+	- Up to the board; two (2) take-aways
+	
+** Anthropic vs US Pentagon
+	- What's the scoop? Why is it important?
+	
+** A Beautiful Future
+	- Hames and evolution
+
+** Elon Musk and the new robot economy
+
+
+
+
+------------
+The Concept of Dielectic
+
+The Hegelian dialectic is a method of reasoning and understanding history created by the German philosopher Georg Wilhelm Friedrich Hegel (1770–1831), commonly broken down into three steps: thesis, antithesis, and synthesis. Rather than moving in a straight line, human thought and history progress through the conflict of opposing ideas and their ultimate resolution.
+
+
+
+
+---------------------
+** "Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge" by Enrique Lamadrid
+
+The Dialectics of Knowledge
+	In essence, the dialectics of knowledge provides a framework for understanding knowledge as a complex, evolving entity, shaped by internal contradictions and external interactions, rather than a fixed and unchanging body of information.
+	
+	a perspective that views knowledge as a dynamic, evolving entity shaped by internal contradictions and interactions with its opposite. It emphasizes the interplay of opposing forces, such as individual and social knowledge, or new and obsolete knowledge, to understand how knowledge develops and changes over time. 
+	
+	This approach, often rooted in dialectical materialism, sees knowledge as a social and material process, not a static collection of facts
+
+
+Mythical realism (cf. magical realism)
+	myth, the collective interpretation of the contradictions in the historical and ecological experience of a people.
+
+Magical Realism
+Magical realism is a storytelling style that mixes realistic, everyday life with magical or supernatural events. The strange things happen like they are normal, and the people in the story do not act shocked by them. It was first used as a term in art in 1925 and later became very popular in Latin American literature
+(Julio Cortazar, Juan Rulfo, Laura Esquivel)
+	
+
+Lamadrid's: 
+Problem Statement
+	Anaya deeply penetrates the mythical conscience of the reader through the relationship of Ultima (sorceress) and Antonio (apprentice). How does he do it?
+	
+	"something exceptional about the emerging consciousness of the boy...mystically harmonious with nature but a dynamic, even dialectical awareness of historical forces....invite a reexamination of the relation of myth and social consciousness, often considered antithetical incompatible categories that undermine and erode each other....the novel apparently transcends this impasse"
+	
+	"Despite their enthusiasm for his novel, critics have thus far been unable to define the parameters of this response nor prove the reason for its depth"
+
+Thesis
+	"What is proposed here is a more dynamic critical approach to myth which goes beyond scholasticism and the tracing of classical mythologies. Myth is here considered to be an ongoing process of interpreting and mediating the contradictions in the everyday historical experience of the people. At the novel's heart is the process which generates social and historical consciousness."
+	
+	
+Ultima and Antonio as the Constructs of the Thesis
+	"the ultimate focus is not that Ultima is the repository of an ancient system of knowledge nor the usual supernatural feats of a curandera.....it is her role as a cultural mediator and Antonio's natural inclination towards a similar calling that link them to their real power...the ability to recognize and resolve the internal contradictions of their culture"
+	
+	"People turn to Ultima and Antonio at crucial moments in their lives because they are instinctively aware that mediators (curanderas and tricksters) possess an overview or power of synthesis that can help them resolve their problems."
+	
+	"The power invested in the mythical process is the knowledge derived from seeing the world as a totality and understanding its contradictions in a dialectical manner."
+
+
+
+
+------------
+** More Murphy's English Grammar in Use
+	Units ==> 44 (Passive 3)
+		 ==> 118
+
+
+-------------
+Go thru Requirements for critique (final exam)
+
+
+------------------
+** Bless Me, Ultima
+Highlights and student responses to questions
+
+
+START HERE	
+--- Chapter 9
+	Tony's dream about innocence
+	Leon and Gene off to ABQ ...Andrew in school
+	Girls are only trouble when a man is young and wanting to get ahead.
+	Tony and Andrew on the bridge with the Kid
+	That year we waited for the world to end.
+	Fishing with Samuel ---Tony's a man!
+	Legend of The Golden Carp
+	
+--- Chapter 10
+	Lucas and Ultima
+	No one can play with fate
+	The evil brujas! Tenorio's daughters
+	Antonio and Ultima against evil
+	Ultima and Tenorio
+	Antonio and Lucas
+	Ultima...Es sin pecado,
+	"You must understand that when anybody, bruja or curandera, priest or sinner, tampers with the fate of a man that sometimes a chain of events is set into motion over which no one will have ultimate control. You must be willing to accept this responsibility."
+	Lucas and the Black Mass
+
+
+
+--- Chapter 13								
+	The trip to El Puerto w/ Pedro (p 137)
+	The witch's procession and rejection
+	Lunas are happy with Antonio
+	
+	
+--- Chapter 14
+	Back to school with the Gang of crazies (p 145)
+	Christmas and the school play (p 151 - 158)
+	The fight (p 160)
+	Narciso to warn Ultima, Andrew at Rosie's (p 163)
+	["I had seen evil, and so I carried the evil within me"]
+	Tenorio kills Narciso (p 168-170)
+	The Pesadilla (p 172)
+	
+	
+--- Chapter 15
+	Tenorio unpunsished; few people remembered anything good about Narciso (p 177)
+	Ultima worked so hard to try to save his young wife (p 179)
+	Leon and Eugene return for a visit (in a cop car!)
+	Gabriel and his resentment (p 183)
+	Andrew leaves (p 185)
+	
+--- Chapter 16
+	God is unfair; much confusion (Tenorio and Narciso)
+	Meeting Tenorio one afternoon on the way home; almost killed!
+	Tenorio's second daughter is dying
+	Ultima: You didnt pick anything up?
+	No acknowledgment of guilt and penance done for the wrong, there can be no forgiveness
+
+
+
+
+
+
+
+
+
+
+--- Coming up
+
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

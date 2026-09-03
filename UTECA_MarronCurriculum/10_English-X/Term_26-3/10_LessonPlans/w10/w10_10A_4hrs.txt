@@ -1,0 +1,452 @@
+							LESSON PLAN  (4 hrs)
+
+Docente:		Bruce D. Marron
+Ciclo: 			26-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+
+
+#####################
+HW_09 [Due: 21 Jul 2026]
+
+--- Task 1
+Reflect on your perceptions of humor. Specifically.
+	a) Why is something funny?
+	b) Do you like a certain style of humor?
+	c) What did you think of the Latin-themed SNL skits?
+	
+Answer the questions above in English.
+
+
+--- Task 2
+Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google account to login/create a new acct (free). Go to Templates and find the "CVs and resumes" Category. There are 36 pages of CV/resume templates! Scroll through the templates and select a CV/resume style you like. Open the template in the Latex Editor. Make as many changes as possible to reflect your own cv/resume. When done, download the .pdf of your cv/resume and submit as part of this homework assignment. You do not need to format the cv/resume differently....just submit as is and upload to Teams.
+
+
+--- Task 3
+Read Chapters 4 through 8 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+
+a. Select only one (1) chapter of the HW assignment's five chapters and translate the Summaries of the two selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's five chapters. Provide a short personal commentary and reflection on this Major Topic.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+
+Go thru Exam 2P
+	JLC Review
+		Tense in writing about novel characters
+	
+
+
+
+---- Open
+
+Stanford Encyclopedia of Philosophy
+	https://plato.stanford.edu/entries/laozi/
+		Read Intro and Lao Tzu Story ( abit)
+		Picture of Lao Tzu
+		https://www.shutterstock.com/search/lao-tzu?dd_referrer=https%3A%2F%2Fwww.google.com%2F
+
+
+#################
+The TAO TE CHING
+	-- Lao Tzu
+	-- Laozi (Lao-Tse)
+##################
+https://taoism.net/tao-te-ching-online-translation/
+	
+
+第一章			  Chapter 1
+道可道 非常道			The Tao that can be spoken is not the eternal Tao
+名可名 非常名			The name that can be named is not the eternal name
+無名天地之始			The nameless is the origin of Heaven and Earth
+有名萬物之母			The named is the mother of myriad things
+故常無欲 以觀其妙	    Thus, constantly without desire, one observes its essence
+常有欲 以觀其徼		Constantly with desire, one observes its manifestations
+此兩者 同出而異名	    These two emerge together but differ in name
+同謂之玄			 	The unity is said to be the mystery
+玄之又玄 眾妙之門	    Mystery of mysteries, the door to all wonders
+
+
+
+第二章			  Chapter 2
+天下皆知美之為美 斯惡已	When the world knows beauty as beauty, ugliness arises
+皆知善之為善 斯不善已	When it knows good as good, evil arises
+故有無相生		   	Thus being and non-being produce each other
+難易相成			    Difficult and easy bring about each other
+長短相形			    Long and short reveal each other
+高下相傾			    High and low support each other
+音聲相和			    Music and voice harmonize each other
+前後相隨			    Front and back follow each other
+是以聖人			    Therefore the sages:
+處無為之事		   	Manage the work of detached actions
+行不言之教		   	Conduct the teaching of no words
+萬物作焉而不辭		 	They work with myriad things but do not control
+生而不有			   	They create but do not possess
+為而不恃			   	They act but do not presume
+功成而弗居		  	They succeed but do not dwell on success
+夫唯弗居			   	It is because they do not dwell on success
+是以不去			   	That it never goes away
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+---------------------
+Just a reminder of The Modern World
+	AI and Large Language Models
+
+1. https://www.jornada.com.mx/noticia/2026/07/05/opinion/mexico-y-la-ia
+
+2a. https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia/amp
+
+2b. https://transformer-circuits.pub/2026/workspace/index.html#discuss-conscious
+
+
+3. https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
+
+
+
+--------------------
+[straight to SNL skits]
+** Humor
+Humor can be categorized into various styles and genres, which can be broadly classified based on their content, delivery, and psychological impact. Common types include:
+
+---	I Psychological Styles of Humor	--- 
+Psychologists often categorize humor based on its use and effect on well-being. 
+    * Affiliative Humor: Used to enhance relationships and bring people together. It involves genial, inoffensive joke-telling and witty conversation, aiming to amuse others and reduce tension.
+
+	* Self-Enhancing Humor: A coping mechanism used to maintain a cheerful outlook and regulate emotions during adversity. It involves finding humor in one's situation and not being overwhelmed by stress.
+ 
+ 	* Aggressive Humor: Involves humor at the expense of others, using sarcasm, teasing, ridicule, or disparagement. This style is often used to manipulate or criticize others and can be detrimental to relationships.
+	
+    * Self-Defeating Humor: Involves excessive self-disparagement or "putting oneself down" to gain approval or acceptance from others. This can be associated with poor psychological well-being. 
+
+
+--- II Theatrical and Performance Genres	---
+In performance and literature, humor is also categorized by form and content. 
+    ** Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
+    
+    ** Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, and chaotic plots for amusement.
+    
+    ** Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
+    
+    ** Romantic Comedy: A lighthearted plot centered on the development of a romantic relationship, typically ending with a happy conclusion.
+    
+    ** Dark Humor: Finds humor in morbid or taboo subjects such as death, crime, or other sensitive topics. The humor arises from the discomfort and absurdity of the situations.
+    
+    ** Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement itself. 
+    
+    ** Comedy of Manners: A form of high comedy that uses sophisticated language, wit, and subtle characterizations to satirize the behaviors and conventions of a particular social class.
+
+
+---	III Other Specific Styles	---
+    *** Observational Humor: Focuses on everyday life and social norms, pointing out the humor in common situations and shared experiences. Jerry Seinfeld's act is a classic example.
+    
+    *** Absurdist/Surreal Humor: Focuses on illogical events and bizarre situations, often defying rational explanation. Monty Python is a prime example.
+    
+    *** Anti-Humor (Anti-Joke): Intentionally unfunny or a joke with an anti-climax, where the humor comes from the expectation of a joke that never materializes.
+   
+   
+   
+#######################
+SNL Latin-Themed Skits
+########################
+
+A Que Hora Es? Pt1
+https://www.youtube.com/watch?v=4cKGyOE_jOI
+
+A Que Hora Es? Pt2
+https://www.youtube.com/watch?v=6ZGac0jM8f0
+
+Spanish Class
+https://www.youtube.com/watch?v=C25VhUJn038
+
+Telenovela
+https://www.youtube.com/watch?v=EqI0ckjtOPw
+
+Enchilada (biting)
+https://www.youtube.com/watch?v=nWMp_z7Jnxw
+
+
+################
+Charlie Chaplin
+(c. 1915)
+#################
+Clips
+https://www.youtube.com/playlist?list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco
+
+**Cruel LoveJob Sites
+https://www.youtube.com/watch?v=BFnZQATlWuA&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=13
+
+**The Immigrant
+https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=23
+
+
+**Modern Times
+https://www.google.com/search?q=Chrlie+Chaplin+clips+Modern+Times&sca_esv=d8140a1b87a5a1ad&sxsrf=AE3TifO2eS7znx087_cbi1qnExlHSMW4Zg%3A1763500087372&source=hp&ei=N-AcaarVFOGXkPIPtMGm4Qg&iflsig=AOw8s4IAAAAAaRzuR5MVoVa9jUxbDQlo1uhUzFiksXrW&ved=0ahUKEwjqzJHizfyQAxXhC0QIHbSgKYwQ4dUDCBg&uact=5&oq=Chrlie+Chaplin+clips+Modern+Times&gs_lp=Egdnd3Mtd2l6IiFDaHJsaWUgQ2hhcGxpbiBjbGlwcyBNb2Rlcm4gVGltZXMyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSOtoUABY4mZwAHgAkAEAmAHuAaABgB6qAQY2LjI2LjG4AQPIAQD4AQGYAiGgAs4hwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGJECGIoFwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGJIDGIoFwgIFEC4YgATCAgcQABiABBgKwgIJEC4YgAQYChgLwgIHEC4YgAQYCsICBxAjGLECGCfCAgsQABiABBiRAhiKBcICChAuGIAEGAoYywHCAgkQABiABBgKGAvCAgcQIxiwAhgnwgIHEAAYgAQYDcICBxAuGIAEGA2YAwCSBwYwLjMyLjGgB47GA7IHBjAuMzIuMbgHziHCBwYyLTkuMjTIB84C&sclient=gws-wiz#fpstate=ive&vld=cid:6cb3e306,vid:Da05CRAZ97c,st:0
+  
+ 
+
+------------------  
+** Resumes
+	Key Info
+		Name
+		Contact 
+		Education
+		Experience
+		Awards/Certifcates/Trainings
+		Personal Tidbits / Objective
+	My resume in LaTex
+	
+
+
+	Overleaf
+		https://www.overleaf.com/latex/templates
+		https://www.overleaf.com/gallery/tagged/cv
+		Log in to Overleaf w/ Google
+	
+		*Curriculum Vitae Template 
+			A simple, easy to use template for CVs
+			
+		*brutal-resume  
+			extremely slim Latex resume template,
+
+Why Latex?
+			https://www.overleaf.com/about/why-latex
+			AI Google search ==> why use latex instead of word
+
+Why Latex?
+	LaTeX is used over Word for its superior formatting control, especially for complex scientific or academic documents with math and figures, as it handles these elements automatically and produces high-quality, professional-looking output. While Word is easier for simple documents, LaTeX allows users to focus on content rather than manual formatting, automatically tracks references, and can apply document-wide changes efficiently.
+	
+Advantages of using LaTeX over Word
+    ** Superior formatting and typesetting: LaTeX provides precise control over layout and produces high-quality typography, including kerning, ligatures, and proper justification, which is difficult to achieve in Word.
+    
+    * Automatic handling of complex elements: It automatically numbers and cross-references figures, tables, and equations, and handles the layout for mathematical equations and scripts more effectively than Word.
+    
+    * Focus on content: LaTeX allows you to concentrate on writing the content without getting bogged down in constant manual formatting adjustments.
+    
+    * Consistency and efficiency for large documents: For long documents like dissertations or theses, LaTeX provides a more stable and consistent experience by letting you define styles and make document-wide changes with a few commands.
+    
+    ** Professional output: It is the standard for many academic and scientific publications due to the professional and polished appearance it creates.
+    
+    ** Open source and free: LaTeX is open-source, and many tools and templates are readily available online. 
+
+
+PART II
+-----------------
+** "Brave New World" by Aldous Huxley (photos)
+
+    O wonder!
+    How many goodly creatures are there here!
+    How beauteous mankind is! O brave new world,
+    That has such people in't.
+		—William Shakespeare, The Tempest, Act V, Scene I, ll.
+		(Miranda's speech)
+
+
+	- The Modern Library ranked Brave New World at number 5 on its list of the 100 Best Novels in English of the 20th century
+
+	-  The Observer, included Brave New World chronologically at number 53 in "the top 100 greatest novels of all time"
+
+	- The novel was listed at number 87 on The Big Read survey by the BBC.
+
+	- Brave New World has frequently been banned and challenged since its original publication.
+
+* Aldous Huxley
+	- graduated from Balliol College, Oxford, with a degree in English literature
+	- acknowledged as one of the foremost intellectuals of his time
+	- nominated for the Nobel Prize in Literature nine times	
+	- lived for a time in Taos, New Mexico
+	- a pacifist
+
+** Look at “UTECA_StudyGuide_Brave-New-World.txt.”
+
+############
+Chapter 1
+###########
+The Director of Hatcheries and Conditioning leads students through the Central London Hatchery, where human beings are mass-produced in bottles. He and Mr. Foster explain the Bokanovsky Process, which splits one egg into many embryos, and the Podsnap Technique, which speeds up egg ripening. Embryos are engineered and conditioned to fit into castes from Alpha to Epsilon, each with specific jobs and intelligence levels. The motto “Community, Identity, Stability” guides everything as nature and family are replaced by science and control.
+
+Major Topics:
+- Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis, gestation, and psychological “predestination”—revealing a society where political power is exercised through biological design rather than law or tradition.
+
+- Standardization and dehumanization: The Bokanovsky Process and caste batches reduce individuality to interchangeable units, framing people as products whose value is measured by functional utility.
+
+- Scientific rationalism as ideology: Laboratory discourse naturalizes hierarchy and eugenics, turning contingent political choices into “objective” necessities.
+
+- Commodity logic applied to reproduction: Bodies and futures are assembled, graded, and quality-controlled, merging consumer capitalism with reproduction.
+
+#########
+Chapter 2
+##########
+Summary:
+The Director shows how babies are conditioned to like or hate certain things. In the nursery, Deltas crawl toward flowers and books but are scared by alarms and shocked, so they learn to avoid both. The staff explains sleep-teaching, or hypnopaedia, which does not teach facts but can teach morals through repeated phrases. Children hear lessons like “Everyone belongs to everyone else,” and class pride is built with lines praising their own caste and criticizing others. Conditioning replaces family and personal choice with automatic responses.
+
+Major Topics:
+- Behavioral conditioning and the manufacture of desire: Neo-Pavlovian techniques and sleep-teaching demonstrate how preferences and aversions are engineered to support consumption and obedience.
+- Erasure of nature and thought: Aversion to flowers and books polices both the natural world and independent inquiry, replacing curiosity with reflexive compliance.
+- Infantilization as policy: Moral education stabilizes society by arresting moral development, keeping citizens in a perpetual, cheerful immaturity.
+
+- Comprehension Questions:
+  - What happens to the Delta babies when they crawl toward flowers and books, and what is the goal of this lesson?
+  - Why does the society want lower castes to dislike nature and books?
+  - What is hypnopaedia, and what kinds of things can it effectively teach?
+  - What lesson is repeated in “Elementary Class Consciousness,” and why?
+  - Why can’t sleep-teaching be used to teach complex facts?
+  - How does conditioning create automatic behavior in citizens?
+  - How does the society prevent people from seeking knowledge on their own?
+  - What role do sounds and electric shocks play in Neo-Pavlovian conditioning?
+  - How do these methods shape the future lives of the infants?
+  - What do these practices reveal about the society’s view of freedom and choice?
+
+
+##########
+Chapter 3
+###########
+Summary:
+Lenina and her friend Fanny talk about dating and the rule that “everyone belongs to everyone else,” while the Controller, Mustapha Mond, lectures students on why the old world of family, religion, and strong emotions was rejected. Children engage in erotic play, showing how early sexuality is normalized. Bernard Marx feels uncomfortable with casual attitudes toward people and sex, especially when he hears Henry Foster talk about Lenina like a product. The chapter contrasts the society’s promise of happiness with the loss of privacy, deep feelings, and history.
+
+Major Topics:
+- Historical amnesia and the abolition of the family: Official discourse casts the past and kinship as obscene impediments to “stability,” severing memory and intimate bonds to prevent dissent.
+- Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
+- Religion transmuted into consumer-cult: The substitution of technological and economic values for transcendence reframes meaning as efficiency and pleasure.
+
+- Comprehension Questions:
+  - What do Lenina and Fanny discuss about relationships, and what rule guides their behavior?
+  - Who is Mustapha Mond, and what does he say about the old world?
+  - How is childhood different in this society compared to our own?
+  - Why is “history is bunk” an important idea for the World State?
+  - What does Bernard overhear Henry and the Assistant talk about, and how does it make him feel?
+  - What does the phrase “everyone belongs to everyone else” mean in practice?
+  - How does the society use pleasure to keep people stable?
+  - What types of art or ideas does Mustapha Mond say had to be sacrificed?
+  - Why does Bernard seem different from other Alphas in this chapter?
+  - How does the chapter show the tension between happiness and truth?
+
+
+
+
+  SAVE
+
+** "Brave New World" by Aldous Huxley
+	Summaries and Topics
+		Student responses
+			“UTECA_StudyGuide_Brave-New-World.txt.
+			
+Bernard Marx
+-----------
+An Alpha-Plus psychologist, rumored to have received alcohol in his blood surrogate, a circumstance that would explain his shortness. Identifying himself as a true individual, Bernard bristles at the social pressures for conformity and longs for the intense, heroic feelings but lacks the ability to be a rebel. He brings John the Savage and Linda back from the Savage Reservation and so makes possible the conflict that informs the last third of the novel.
+
+John the Savage 
+----------------
+The son born of parents from the brave new world but raised in the Savage Reservation, John represents a challenge to the dystopia. He is the character closest to being the hero of the novel.
+
+Lenina Crowne 
+-------------
+A technician, attracted by Bernard, in love with John. A conventional young woman who is drawn unconsciously toward danger, she represents ideal beauty for John.
+
+Linda, John's mother
+-----------------
+An upper-caste Londoner, she commits the ultimate social sin by bearing a child. She is deeply ashamed and longs for escape, finding it in peyote, mescal, sex, and soma.
+
+Mustapha Mond, A World Controller
+----------------------------------
+Intellectually and politically powerful. He offers a historical view of the brave new world at the beginning of the novel and later debates John and Helmholtz on society's values. Mond sentences Bernard and Helmholtz to be banished to the Falkland Islands and determines that John must stay in London.
+
+Helmholtz Watson, Bernard's friend (later a friend of John)
+-----------------------------------
+An Emotional Engineer, he longs to become a poet. He represents a more courageous and intellectual character than Bernard.
+
+The Director of Hatcheries and Conditioning (called "Tomakin" by Linda)
+--------------------------------------------
+He occupies an important position in the brave new world but loses it when Linda announces that he is the father of their son, John.
+
+Henry Foster
+------------
+An Alpha who is seeing Lenina Crowne. He is a typically conventional Londoner.
+
+Fanny Crowne, Lenina's friend
+--------------------------
+Fanny represents the conventional views of the brave new world. She encourages Lenina to pursue John sexually if he will not take the lead.
+
+Popé, Linda's lover in Malpais
+--------------------------------
+Popé's involvement with Linda inspires John's deep revulsion for sex.
+
+Mitsima 
+--------
+An old Indian man in Malpais who begins to teach John to mold clay and presides in the marriage ceremony John witnesses. He represents the beginning and end of John's involvement in the traditional life of Malpais.
+			
+Soma
+
+
+
+--- Coming up
+		
+** Jobs
+	Resumes
+	Job Sites / Job Hunting
+	Cover Letter
+	Interviews
+	
+SAVE	
+** "Rip Van Winkle" by Washington Irving
+
+Washington Irving
+	https://en.wikipedia.org/wiki/Washington_Irving
+
+Look at pictures
+	https://www.gutenberg.org/files/60976/60976-h/60976-h.htm
+
+Audio book follow-along
+https://archive.org/details/lp_rip-van-winkle_ed-begley-washington-irving
+
+	Part 1
+	Part 2
+
+** Chinese Identity [for final] --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+

@@ -1,0 +1,488 @@
+							LESSON PLAN  (4 hrs)
+
+Docente:		Bruce D. Marron
+Ciclo: 			26-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+
+Another class cut bc of FIFA!
+No class 24 June 2026
+
+
+#####################
+HW_06 [Due: 30 June 2026]
+
+--- Task 1
+Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+
+1. A character lies — convincingly — for the first time in their life. 
+2. The protagonist meets someone from their past — but pretends not to recognize them.
+3. A minor decision reveals a major character flaw. 
+4. A character confesses to the wrong person. 
+5. Someone gets exactly what they wanted — and immediately regrets it. 
+
+--- Task 2
+Begin working on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+--- Task 3
+Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Fourth Section Preamble: Queen Mother of the Western Skies
+	Ch. 13	o Magpies: An-Mei Hsu
+	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
+
+---- Open
+
+	"When a mute eats dumplings, he knows how many he has eaten."
+
+哑巴吃饺子，心里有数 (Yǎba chī jiǎozi, xīnlǐ yǒushù / 'mute eats dumplings, heart inside has number')
+
+
+
+
+
+
+
+This is used to point out that someone knows the situation quite well, yet says nothing… as is common in Chinese culture. Chinese tend to keep their thoughts to themselves…
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+-------------
+AI
+
+
+https://www.nytimes.com/2026/02/18/opinion/ai-software.html
+	vibe coding
+
+
+https://www.toolsforhumanity.com/es-es
+....a World ID based on your iris scan (to detect/confirm human status), direct access to other humans, access to World Coin (Ethereum bitcoin) in order to send you a "basic allowance" as a human, and thus the preparations to make you comfortable as AI takes over and makes you obsolete.
+
+
+Humanity's Last Exam (Nature)
+
+
+China's Translation AI mask (NY Times)
+https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html
+
+It has two parts: a mask that covers her mouth, and a speaker that hangs around her neck. Ms. Zheng speaks Chinese into the mask, which also muffles her voice. Then, a translation comes out of the speaker. The roughly $375 device, called Native Language Star, draws on speech and language models developed by several Chinese technology firms, according to the company, based in Shenzhen, that makes the device.
+
+
+
+------------
+Example runs
+		OpenAI_API-GeneralQuery.py
+		Metrics_METEOR_NLTK-pkg.py
+
+
+
+
+--------------
+Kurt Vonnegut
+Read excerpt "Slaughterhouse 5"
+	"As I've said.." bottom p 19 , thru p 20 "... and calendars."
+	"I looked through the Gideon Bible..." p 21 thru p 22
+	"Listen:... " p 23 thru p 25 "... Montana Wildhack."
+
+
+
+-----------
+** Creative Writing
+Tips from the Masters
+https://www.writingclasses.com/toolbox/tips-masters
+
+Andrew Motion: 10 Techniques to Spark the Writing
+Annie Proulx: 5 Techniques for Good Craftsmanship
+Billy Wilder: 10 Screenwriting Tips
+Corita Kent: Ten Rules for Students and Teachers
+*Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+Elmore Leonard: 10 Rules for Good Writing
+*George Orwell: 6 Questions/6 Rules
+*Henry Miller: 10 Writing Tips
+*Jack Kerouac: 30 Cool Tips
+Joyce Carol Oates: 10 Writing Tipshttps://www.toolsforhumanity.com/es-es
+*Kurt Vonnegut: 8 Basics of Creative Writing
+Margaret Atwood: 10 Ideas for Writers
+Michael Moorcock: 10 Tips for Good Storytelling
+Neil Gaiman: 8 Good Writing Practices
+*P.D. James: 5 Bits of Writing Advice
+Rejection: 3 Methods for Coping
+Ronald Knox: 10 Commandments of Detective Fiction
+*Strunk & White: 11 Composition Principles
+Tracy Kidder and Richard Todd: 10 Writing Insights
+Zadie Smith: 10 Good Writing Habits
+
+
+
+-- Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+Edgar Allan Poe* penned immortal poems, such as “The Raven" and “Annabel Lee," and unforgettable tales of psychological horror, such as “The Tell-Tale Heart," “The Masque of Red Death," The Cask of Amontillado," and “The Fall of the House of Usher." He was also a prominent literary critic and essayist, as well as the inventor of the detective story.
+
+In a recently-found treatise, he set down the following advice for bettering a story:
+    1. Employ an unreliable narrator, preferably one who doesn't know he is insane and has no recollection of such events as digging into a grave to rip out the teeth of his recently departed lover.
+
+    2. Include a beautiful woman with raven locks and porcelain skin, preferably quite young, and let her die tragically of some unknown ailment.
+
+    3. Use grandiloquent words, such as heretofore, forthwith, and nevermore. A little Latin will also enhance the text.
+
+    4. Do not shy away from such grotesqueries as inebriation, imprisonment, insanity, and men costumed as orangutans being burned to death.
+    
+    5. When in doubt, bury someone alive.
+
+*Poe didn't really compose this advice, but, as he was fond of a good hoax, we hope he would be pleased by this affectionate charade. 
+
+
+
+-----------
+Student volunteers for reading their work 
+(next time it's obligatory)
+
+
+
+-------------
+Character Arc Prompts
+https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
+
+1. A character lies — convincingly — for the first time in their life. 
+2. The protagonist meets someone from their past — but pretends not to recognize them.
+3. A minor decision reveals a major character flaw. 
+4. A character confesses to the wrong person. 
+5. Someone gets exactly what they wanted — and immediately regrets it. 
+
+
+---------
+"A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf"
+
+
+PART II 
+--------------
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+
+"A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P).
+
+Marron_English-X_StyleGuide.pdf
+A Review and Evaluation of Themes, Relationships, and Personal Evolution in the Novel, 
+The Joy Luck Club
+
+
+%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+The novel explores the complex relationships between Chinese-American immigrant mothers and their American-born daughters. It delves into the expectations and cultural differences that create tension and misunderstanding between the generations.The mothers’ traditional values and expectations often clash with their daughters' desires for independence and assimilation. 
+
+2. Cultural Identity and Assimilation
+The theme of cultural identity is central to the novel, focusing on the immigrant experience and the challenge of maintaining one’s heritage while assimilating into a new culture. There is conflict between traditional Chinese values and American culture and the characters struggle to reconcile their cultural identity with their desire to fit into American society.
+
+3. Generational Conflict
+The novel portrays the generational conflicts between immigrant parents and their children, highlighting the differences in values, expectations, and life experiences. There is a generational gap in understanding and communication and the generational differences affect family dynamics.
+
+4. Self-Discovery and Empowerment
+The characters’ journeys toward self-discovery and empowerment are central to the novel. Each woman grapples with her own identity, desires, and sense of agency. There is personal growth of each character as they confront their past and cultural expectations.
+    
+5. Family Legacy and Loyalty
+The theme of family legacy and loyalty explores the impact of family history and heritage on individual lives and the ways in which the past influences the present and future.
+
+6. Communication and Misunderstanding
+The novel highlights the difficulties of communication and the misunderstandings that arise from cultural and generational differences. Language barriers affect relationships and the characters attempt to bridge gaps in understanding.
+
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Add characteristics from Cliff Notes
+https://www.cliffsnotes.com/literature/j/the-joy-luck-club/character-list
+
+Mother					Daughter
+--------					---------
+Suyuan Woo			—> 	Jing-mei "June" Woo
+The central event in Suyuan's life is the loss of her twin baby daughters. In a desperate attempt to save her babies from the Japanese troops advancing through China, Suyuan leaves them by the side of the road. Soon after, she meets her second husband, Canning Woo. They emigrate to America and have a daughter. A strong, resourceful woman, Suyuan never gives up the search for her first two daughters.
+
+Her mother tries to make her a piano prodigy, but Jing-mei lacks both talent and drive. Now a copywriter for a small advertising firm, Jing-mei is easily humiliated by those who possess greater self-confidence. She finds her identity when she meets her twin half-sisters in China, after her mother's death.
+
+
+An-mei Hsu			—>	Rose Hsu Jordan
+An-mei Hsu An-mei's mother, the wife of a respected scholar, loses all status when her husband dies; she is raped and forced into concubinage by the wealthy Wu Tsing. She kills herself so that An-mei can have freedom. An-mei comes to America, marries, and has seven children. Her youngest child, Bing, drowns in the ocean.
+
+A timid person, Rose is unable to make decisions. Her husband, Ted, leaves her and demands possession of their home. After a breakdown, she comes into her own and learns to assert herself.
+
+
+Lindo Jong			—>	Waverly Jong
+Betrothed at infancy to Tyan-yu, Lindo marries him when she is twelve years old, after floods destroy her parents' home. She is treated very badly and finally tricks the family into releasing her from the marriage. She comes to America, gets a job in a fortune cookie factory, meets and marries Tin Jong. They have three children: Winston, Vincent, and Waverly.
+
+A childhood chess prodigy, Waverly becomes a successful tax accountant. After the failure of her first marriage, she falls in love with fellow accountant Rich Shields. She has a daughter, Shoshana, from her first marriage.
+
+
+Ying-ying St. Clair		—>	Lena St. Clair
+Ying-ying grew up a fearless, reckless girl amid great wealth. When her husband leaves her for an opera singer, she has an abortion and lives in poverty for ten years. Then she moves to the city and becomes a shop girl. She meets Clifford St. Clair, and they marry and move to America. He adores her, but she has lost her spirit. She must confront her past in order to regain her sense of self.
+
+Lena establishes her husband, Harold Livotny, in his own architectural firm, providing him with seed money and ideas. Eight years later, they are dividing the household expenses equally, although Harold now earns seven times more than Lena does. She is resentful and angry.
+
+
+SAVE (bc of FIFA no class)
+
+--- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
+When she was a child, Lena St. Clair often wondered about a beggar whom her grandfather had sentenced to die in the worst possible way. She imagines all sorts of gruesome torture. Appalled by her interest in violence, her mother said that the way he died didn't matter. Lena thinks that it matters very much because knowing the worst that can happen to you can help you avoid it. The worst thing that happens to Lena is her mother's descent into madness.
+
+Lena traces her mother's madness to a basement in their house in Oakland, California. As a child, Lena broke through a barricaded door and fell headlong into the cellar. To prevent Lena from going into the basement again, her mother told her that a bad man lived down there. After this incident, Lena began to see fantastic, horrible things everywhere.
+
+Lena's mother came to America after World War II as a war bride. At the immigration center, Lena's father renamed his wife "Betty" St. Clair, and two years were subtracted from her age. She looks fearful in the photo of her taken that day, an emotion that remained with her. She cautions Lena about strangers and sees danger in even the most harmless events. Lena's father refuses to learn to speak Chinese, and Mrs. St. Clair cannot learn English. As a result, they have a great deal of trouble communicating. Lena's father puts words into his wife's mouth, but Lena finds out what her mother is really thinking about when they are alone together.
+
+Lena is ten years old when her father is promoted. To mark his success, he moves the family across the bay to San Francisco, where they take an apartment at the top of a steep hill. Mrs. St. Clair is not happy with the apartment, and an encounter with a drunken man upsets her even more. She feels that this apartment is "not balanced" and that all their good luck will vanish. She discovers that she is pregnant, but even this news cannot lift her mood. Meanwhile, Lena listens through the wall to an Italian mother and daughter, Mrs. Sorci and Teresa, arguing and fighting in the adjacent apartment. Their arguments sound so violent that Lena believes that the mother has probably killed her daughter. When she glimpses the daughter a few days later, however, she can't believe that the girl looks so unscathed.
+
+Soon afterward, Mrs. St. Clair loses the baby that she is carrymg. In her grief, she cries out about another son whom she thinks that she apparently killed. She then begins to lose her already-fragile grip on reality.
+
+One night, the girl next door knocks on the door of Lena's apartment. Her mother, she says, has kicked her out. She uses the St. Clairs' fire escape to sneak back into her bedroom, and later that night, Lena hears the Italian girl and her mother screaming at each other again. She is astonished when she hears them reconcile and fall into each other's arms with love. Lena dreams of saving her mother from madness.
+
+The theme of heritage is especially important in this section, as Lena explores the dual nature of her identity. The product of an English-Irish father and a Chinese mother, she is a combination of two cultures. Although her pale coloring makes her seem Caucasian, her eyes are unmistakably Chinese. Her nature, like her appearance, straddles two cultures. "I saw these things with my Chinese eyes, the part of me I got from my mother," she says. Like the beggar's death, there are two versions of reality here — Chinese and American. Imaginative, even horrifying visions haunt her; however, her dual vision enables her to maintain her own sanity while watching her mother slide into madness.
+
+When Gu Ying-ying came to America, she was declared a Displaced Person because the immigration officials could not categorize her. Her name was changed to Betty St. Clair, and her birth was postdated by two years. This misclassification is a symbol for her new status: Stripped of her Chinese identity, she is, literally, a displaced person, adrift in an alien land. With the erasure of her identity, she has no place in the world. She cannot even communicate with her husband, a well-meaning but insensitive man who refuses to learn Chinese and insists that his wife learn English. When she is unable to communicate, he puts words into her mouth. In effect, he denies her the ability to communicate, and eventually, she descends into madness as a way of dealing with her isolation and loneliness.
+
+Qs
+	* Lena has a morbid fascination with the death of a beggar. Why?
+	* Why does Lena think her mom has become a ghost?
+	* Who lives in the basement of the old house in Oakland?
+	* What do Lena's Chinese eyes show her?
+	* What happens to Lena's mom at the immigration service? What did her dad do?
+	* Lena's mom seems afraid of the world around her. How does this affect Lena?
+	* Lena also seems to falsify reality. How?
+	* The St. Clair family is "moving up". WHat does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at home?
+	* Lena's mom seems constantly concerned with the feng shui of the new apartment. Why?
+	* Lena has intimate knowledge of the neighbors. Why? 
+	* What happens to the new baby? What happens to Lena's mom?
+	* What is Teresa's announcement?
+	* What is Lena's revelation?
+	* How does Lena save her mother?
+
+
+
+--- Half and Half: Rose Hsu Jordan (Ch. 7)
+Rose's mother used to carry a Bible. When she lost her faith, she used the Bible to steady the short leg of the kitchen table. The Bible has remained under the table leg for twenty years.
+
+Tonight, Rose has come to tell her mother that she and her husband, Ted, are getting a divorce. She dreads telling her mother. Rose met Ted Jordan seventeen years ago at the University of California at Berkeley. Initially, she was drawn to his brash, self-assured nature; he was very different from the Chinese boys whom she dated. Rose's mother, Mrs. Hsu, was displeased about the budding relationship because Ted was not Chinese, and Ted's mother, Mrs. Jordan, was displeased because Rose was not American — she was Chinese. At a family picnic, Mrs. Jordan took Rose aside and confided that Ted's future did not include a wife who was a member of a minority race.
+
+Hurt and infuriated by Mrs. Jordan's racism, Rose broke up with Ted that evening. Later, they reconciled and were married a month before Ted started medical school. After his graduation, they bought a home, and Rose set up a freelance graphic arts business. Ted made all the decisions in their lives — from what to eat to where to vacation. The marriage was steady until Ted lost a malpractice suit; afterward, he began to press Rose to make some of her own decisions. The marital break came while he was attending a medical convention in Los Angeles. He called late at night and demanded a divorce. Rose lost all faith in Ted's love for her.
+
+She recalls when her own mother lost her faith. One day many years ago, the entire family — parents and seven children — had gone for a day at the beach. Rose was assigned the care of her four brothers — Matthew, Mark, Luke, and Bing. The three elder boys could amuse themselves, but Bing was only four years old and difficult to amuse. Momentarily distracted, Rose's eyes left Bing and he fell into the ocean and drowned.
+
+Everyone took the blame for the tragedy. The next day, Mrs. Hsu returned to the beach with Rose to find Bing. With her Bible in hand, she implored God to return Bing. She even threw her own mother's blue sapphire ring into the ocean as a sacrifice. Finally, with utter despair and horror, she seemed to accept Bing's death.
+
+Rose knows now that her mother never really expected to find Bing — just as she herself knows that she can never save her marriage even though her mother tells her that she must try. She looks into the Bible and discovers that her mother has entered Bing's name under "Deaths" — inscribing it gently, in erasable pencil.
+
+By now you should realize that Tan uses the titles of these various stories to link themes and convey meaning. The title of this particular story, "Half and Half," can be understood on a number of levels, as can the titles that we have encountered so far. As a couple, Ted and Rose are "half and half" — part American, part Chinese. In some instances, a dual heritage can be a source of strength, but not in this particular instance. Together, Rose and Ted do not "fit" into either culture. They are shunned by his mother, who mistakes Rose for Vietnamese instead of Chinese. Later, she cries bitterly at the wedding, convinced that her son is marrying beneath his social status.
+
+Unlike Mrs. Jordan, Mrs. Hsu is no racist — she is just wary of the foreigner. Cut off from their heritages, Rose and Ted do not unite to create something new, something upon which to build. The Joy Luck Club explores the importance of understanding one's heritage as a way of affirming identity. Without her heritage, Rose is like a ghost. Lacking substance, she can but twist in the wind of her husband's decisions and demands.
+
+When Ted abruptly withdraws his support, she is left without balance. "You can't have it both ways, none of the responsibility, none of the blame," Ted screams at Rose. Like Mrs. St. Clair in the previous section, Rose is thrown "off balance." She has nothing to trust — not her husband, not her mother, not even God. There is nothing to prevent her from losing her balance again. "Even if I had expected it, even if I had known what I was going to do with my life," she says, "it still would have knocked the wind out of me." Rose is like the wind; she has no substance.
+
+In contrast, Mrs. Hsu is firmly grounded. Initially, she was supported by her faith. She attended the First Chinese Baptist church every Sunday — until Bing died and she lost her faith. After Bing's death, her Bible becomes a physical, rather than spiritual, prop — a wedge to shore up a rickety table. Ironically, the Bible is still fulfilling its original purpose — "correcting the imbalances of life." On the surface, it seems that Mrs. Hsu is just being practical; after all, why waste a perfectly good Bible? But even twenty years later, the cover is still "clean white," showing that she hasn't wholly discounted the power of religion to buttress her life. This condition is affirmed when Rose opens the Bible and sees that her mother has entered Bing's name in "erasable pencil." This entry is proof that when she made the entry, she didn't believe that Bing was really dead. She was still hoping that he might return through the power of faith. Even now, she has not reentered his name in ink.
+
+
+Qs
+	* What happens to Rose's mom's bible? Why?
+	* Will Rose's mom accept the divorce of her daughter?
+	* What is Rose's initial impression of Ted? What does her mom think?
+	* What does Ted's mother say to Rose? What does Rose think?
+	* How does the relationship of Ted and Rose evolve? Is it healthy?
+	* What effect does Ted's disasterous treatment of a patient have on the family?
+	* What is Rose's revelation after the divorce?
+	* Rose recalls a tragic event that ereases her mom's faith. What happens?
+	* What rituals does Rose's mom perform to retrieve her son?
+	* In the end Rose's mom loses hr faaith but insists that Rose keep hers. Why?
+	* Rose decides that fate "is shaped half by expectation, half by inattention". What does this mean?
+
+
+--- Two Kinds: Jing-Mei Woo (Ch. 8)
+To Jing-mei's mother, America is the Land of Opportunity. She has high hopes that her daughter will be a great success as a prodigy. She's not precisely sure where her daughter's talents lie, but she is sure that her daughter possesses great ability — it is simply a matter of finding the right avenue for Jing-mei's talents. First, Mrs. Woo tries to mold her daughter into a child actress, but that doesn't work. Then she tries intellectual tests clipped from popular magazines. Jing-mei doesn't show promise in this area, either. Finally, Mrs. Woo hits upon the answer: Jing-mei will be a piano virtuoso.
+
+Mrs. Woo trades housecleaning services for Jing-mei's piano lessons from Mr. Chong, an elderly piano teacher, who is deaf and whose eyes are too weak to tell when Jing-mei is playing the wrong notes. Mr. Chong's efforts are so sincere that Jing-mei picks up the basics, but she is so determined not to cooperate that she plays very badly.
+
+One day, the Woos meet Lindo Jong and her daughter Waverly. Mrs. Jong brags about Waverly's success as a chess prodigy. Not to be outdone, Jing-mei's mother brags about her daughter's "natural pride," and the young girl immediately becomes even more determined than ever to thwart her mother's ambitions.
+
+Continuing to clean houses, Mrs. Woo scrapes together enough money to buy a secondhand piano. A few weeks later, Jing-mei participates in a talent show in a church hall. All the couples from the Joy Luck Club come to her piano debut. Although she has not practiced and does not know the music, Jing-mei has come to believe that she is indeed a prodigy. Halfway through the song, though, she begins to realize how badly she is playing. The weak applause and her parents' disappointed looks reveal the unmistakable truth: Jing-mei is not a musical prodigy.
+
+As a result, Jing-mei is shocked when her mother expects her to continue practicing. During the ensuing quarrel, Jing-mei shouts the most hateful thing she can summon: "I wish I'd never been born! I wish I were dead! Like them!" At the mention of the twin daughters in China that she was forced to abandon years ago, Mrs. Woo suddenly retreats and never mentions the piano again. As a result, Jing-mei is shocked when her mother offers her the piano as a thirtieth birthday present. Only after her mother's death can Jing-mei accept the piano. As she is packing her mother's things, she sits down to play the piano for the first time in many years.
+
+Qs
+	* Lindo, Jing-mei "June"'s mom believes that in America you can be a prodigy. What does Lindo do to "help" June find her stardom?
+	* How does June initially react to her mom's machinations?
+	* WHat happens to June's enthusiasm, and self-esteem, over time?
+	* Eventually June thinks her mom has given up on turning her into a prodigy until one night... WHat happens?
+	* Who is Mr. Chong? What special skills does he have? 
+	* How does June take advantage of Mr. Chong, and simultaneously foil her mother's attempts?
+	* June catches her mom boasting and decides to put an end to her foolish pride. How?
+	* June seems initially confident at the concert but what happens?
+	* How is June's recital received by the community?
+	* How does June take the results?
+	* Things come to a head later in the week with June screaming at her mom for making her try to be something she's not. She says something that ultimately causes her mom great pain and changes the relationship forever. What does she say?
+	* Later in life June realizes that she easily lets herself fall short of expectations. Why?
+	* Years later Lindo offers June the piano. At June rejects the offer but ultimately accepts and in so doing has a revelation. WHat happens?
+
+
+--- Third Section Preamble: American Translation
+Qs
+	* Why is the location of the mirror important to the mother?
+	* Is the location important for the daughter?
+	* How is the mirror location resolved?
+
+
+
+--- Rice Husband: Lena St. Clair (Ch. 9)
+Lena believes that her mother has an uncanny ability for predicting bad things that will befall the family. For example, she predicted the failure of a bank and her own husband's death. Lena worries what she will say about the house that Lena and her husband, Harold, have bought in Woodside. What will she predict about their future — based on their new home and the location and arrangement of the rooms in it?
+
+To compound the problem, Lena and Harold are having marital difficulties. At present, the problems are manifesting themselves in a quarrel over who should pay for the cat's flea treatment.
+
+When mother and daughter arrive at the house, Mrs. St. Clair is clearly astonished at the enormous amount of money that her daughter and son-in-law paid for the house. Beneath the fancy architectural details, she sees clearly that the house was vastly overpriced — whereupon Lena remembers an incident from her childhood.
+
+To coax eight-year-old Lena to finish her food, Mrs. St. Clair told her that her future husband would have one pockmark for every grain of rice that the child did not eat. Little Lena immediately thought of Arnold, a cruel twelve-year-old boy in the neighborhood, who was indeed pockmarked. She quickly finished her rice. The possibility of Arnold being her future husband became a fearful obsession. She hated Arnold so much that she found "a way to make him die." After seeing a movie about lepers in Africa, Lena gradually stopped eating.
+
+One morning when Lena was thirteen, her father read a newspaper article about Arnold's dying of measles. Lena felt that she was somehow responsible for his death. That night, she gorged herself with ice cream. Later, she vomited it up. Her mother discovered her shivering out on the fire escape, hugging the ice cream carton.
+
+Today, Lena knows that she did not cause Arnold's death, but, nonetheless, she feels that she is still being punished. After all, she concludes, she married Harold — not a perfect match.
+
+Initially, Harold Livotny and Lena worked at the same architectural firm, Livotny & Associates. Harold was a partner; Lena, an associate. Lena convinced Harold to start his own firm. He was unwilling to accept money from her to do so, but he did suggest that she move in with him and pay $500 rent — even though the actual rent was $435. She agreed.
+
+The business got off to a rocky start, but with Lena's support and excellent ideas, the firm prospered. Today, Harold makes seven times the amount of money that Lena does, but they still split almost all the expenses down the middle. They have established a detailed, simplistic way to account for their living expenses. Lena's mother is astonished by this detailed accounting. That night, Harold is surprised to learn from Mrs. St. Clair that Lena does not like ice cream. Heretofore, he's always made Lena pay fifty-fifty for the ice cream. He's never noticed that Lena never ate any.
+
+After her mother goes to bed, Lena initiates an argument with Harold about the way they live. She attempts to redefine their marriage. The argument is interrupted by the sound of glass shattering. The rickety table that Harold designed and made has collapsed and broken a vase in the bedroom where Lena's mother is staying. Upstairs, Lena tells her mother that she knew it would break; her mother asks her, if you knew that this was going to happen, why didn't you do something about what was obviously inevitable?
+
+The table that Harold made as an architectural student is a symbol for Lena and Harold's marriage. Like their relationship, the table is rickety and badly designed — ready to collapse with the slightest provocation. Harold is as oblivious to the table's bad design as he is to the disintegration of his marriage. This fact is evident by the ice cream incident. Harold continues to buy ice cream every week and never notices that Lena never eats any of it. He has no idea that she hates it and that it makes her nauseous. When Mrs. St. Clair points this fact out, Harold completely misinterprets what she is saying. He thinks that she's commenting on Lena's skinny body, that she's made a joke.
+
+Harold is similarly oblivious to the inequality in his relationship with Lena. Under the guise of such modern cliches as "false dependencies," "love without obligation," and "equality," Harold has designed a situation where it's clear to us that Lena has gotten a raw deal. She was co-founder of his architectural firm, providing not only seed money through the rent, as well as constant moral support, but also the creative ideas for the projects. She is the one who thought up the firm's specialty — "theme eating" — which became the underpinning of the business. Yet Harold refuses to recognize her contributions. Indeed, he deliberately prevents her from sharing financial success because he insists on avoiding "favoritism." Lena feels enormous resentment. She likens her husband to Arnold, the pockmarked boy who tormented her as a child. Here, note the similarity between the names "Arn-old" and "Har-old." Finally, Lena regards her husband as another form of punishment that she must endure.
+
+Lena, however, has had problems asserting herself for a long time. As a child, she tried to control her life by restricting the amount of food that she ate. By the time she was a teenager, her obsession with food had turned into anorexia. People who suffer from this condition starve themselves — sometimes to death. It's overwhelmingly a disease of teenage girls.
+
+Lena is still starving herself. She is so thin, in fact, that her mother complains that she has become "so thin now you cannot see her. She like a ghost, disappear." Harold doesn't notice this, either. Lena tries to blame her inability to assert herself on her background. Being Chinese-American, she thinks, makes her "naturally" timid and prone to having feelings of guilt. Rose, her friend, will have none of this rationalization. Rose says, "Why do you blame your culture, your ethnicity?" Lena suggests that it's a problem that all women of her generation face. "I was reading an article about baby boomers, how we expect the best and when we get it we worry that maybe we should have expected more, because it's all diminishing returns after a certain age," she says. Her mother provides the solution: "Then why don't you stop it?" She is referring, of course, to both the table and the marriage. The table was sure to collapse; the marriage seems doomed to fail. "It's such a simple question," Lena realizes. Yet she backs off from saying what must be said. She initiates the fight with Harold but collapses into tears before she can fully make her point. Like a ghost, she lacks the strength to save herself.
+
+
+Qs
+	* What is Lena's mom's "power"?
+	* How is the power limited?
+	* What evidence does Lena present for her mom's prescience?
+	* Harold gets his comeuppance on the drive to the new house. Why?
+	* How does Lena feel about this?
+	* Is Harold's exterminator request fair?
+	* What are the real problems facing Haold and Lena?
+	* What are the real bones of the new house?
+	* Why are pock-marked men marked according to Lena's mom?
+	* Lena has a terror-filled church experience. What happens? And how is related to Arnold?
+	* What are Lena's reflections on fate?
+	* How would you characterize the romance between Harold and Lena?
+	* How does Lena think of her love for Harold?
+	* How does money creep into the love equation?
+	* Is Lena a supportive partner? A good employee?
+	* How does Lena feel about her role at the company?
+	* Who is the creative force behind Harlod's success?
+	* How do Harold and Lena handle expenses? What do you think of the arrangement?
+	* Is Harold attentive to Lena?
+	* How do Lena's tears affect Harold?
+	* Why is Lena upset?
+	* What is the significance of the broken table?
+
+
+--- Four Directions: Waverly Jong (Ch. 10)
+Waverly Jong takes her mother out to lunch, planning to break the news that she and Rich Schields are getting married. The lunch goes badly, however, and Waverly does not tell her mother about the upcoming marriage. Waverly is afraid of her mother's disappointment and censure. When Waverly's friend Marlene suggests that Waverly and Rich elope, Waverly explains that she eloped with her first husband, and the marriage was a disaster. Her mother threw her shoe at them — and that was just for starters.
+
+To allow her mother an opportunity to realize that Waverly and Rich are already living together, Waverly invites her mother back to her apartment. It is cluttered with her daughter Shoshana's toys and Rich's clothes and barbells. Waverly opens a closet and shows her mother the mink jacket that Richard gave her for Christmas. Mrs. Jong's comment makes Waverly feel that the gift is shabby; she makes no mention of the fact that Waverly and Rich are obviously living together. Waverly recalls another time when her mother hurt her.
+
+That time, Waverly insulted her mother on Stockton Street and hid in the alley for hours. To retaliate against her mother for bragging about Waverly's outstanding chess playing, Waverly decided to quit the game. Even that ploy, however, didn't thaw the chill between them, so Waverly returned to chess. Mrs. Jong seemed unconcerned, yet she tenderly nursed Waverly through her bout with chicken pox.
+
+Waverly realized then that she had erected a wall between herself and her mother. To her horror, Waverly began to lose tournaments. She lost her feeling of supreme confidence. She was terrified that she would no longer be a prodigy and would become someone ordinary. She quit chess for good when she was fourteen years old.
+
+Now, Waverly is afraid that her mother will point out Rich's flaws and turn him into something ordinary. This is what happened to Waverly's feelings for her first husband, Marvin Chen. Waverly concocts a plan: Her mother will cook dinner for her and Rich.
+
+At the end of the evening, Rich is sure that he has "passed the test," but Waverly knows that he failed miserably. The next day, angry at what she perceives as her mother's manipulations, Waverly decides to tell her mother that she and Rich are getting married.
+
+Her mother is kind and understanding, which puzzles Waverly and she bursts into tears. They talk and Waverly finally sees that her mother does indeed love her. She had only been waiting for Waverly to "let her in" to her world. Waverly and Rich postpone their wedding until October so that they can honeymoon in China in the cooler season. Waverly thinks it would be disastrous — yet wonderful — if her mother would go with them.
+
+Here, we see that this chapter picks up the conflict described in "Rules of the Game" — that is, Waverly's love/hate relationship with her mother. Waverly is now an adult. She is a highly successful tax attorney in a high-powered position. According to her friend Marlene, Waverly is so assertive that she does not even have a problem taking on the IRS. Nonetheless, all of that power dissolves when she has to deal with her mother. She becomes a child again in her mother's presence. Her mother seems all-powerful, and Waverly feels that she must continually prove her worth to her mother. She feels that her mother poisoned her first marriage — and, now, she will not get married again until she gets her mother's approval. She cannot even imagine eloping — even though it is her second marriage. Marlene is astonished that Waverly has difficulty telling her mother that she is getting married. Even Rich is amazed. "How long does it take to say, Mom, Dad, I'm getting married?" he asks jokingly. Because of Waverly's dependence, her mother still has the power to change Waverly's perception of reality.
+
+Waverly adores Rich. He loves her unconditionally and makes her happy in every way. "I had never known love so pure," she says. Yet when she senses that her mother does not approve of Rich, her own opinion of him sours. Rich tumbles from being a sort of god to being an animal. "He had the look of a Dalmatian, panting, loyal, waiting to be petted," she says in disgust.
+
+Tan uses a chess metaphor to explain Waverly's feelings and her battle with her mother: "In her hands, I always became the pawn. I could only run away. And she was the queen, able to move in all directions, relentless in her pursuit, always able to find my weakest spots." In addition to figuratively expressing Waverly's relationship with her mother, this metaphor also serves to unify the structure of the book. It continues the chess metaphor central to "Rules of the Game," and thus it links the two stories.
+
+Notice, however, that nowhere has Mrs. Jong directly criticized Rich: The perception of maternal disapproval is all in Waverly's mind. For example, Waverly interprets her mother's remark about Rich's freckles — which she herself elicited — as an insult. Waverly responds to her mother's remark "a bit too heatedly." Clearly she is looking for a confrontation. Similarly, the Jongs do not criticize Rich's clumsy attempt to use chopsticks or his gauche gift of wine — only Waverly does. In the same way, Rich has no way of knowing that Mrs. Jong, by tradition, criticizes her own cooking as a way of eliciting compliments. Waverly is horrified when Rich agrees with Mrs. Jong's criticism about her famous steamed pork and preserved vegetable fish. Yet, because Waverly did not brief Rich about her mother's habits, it almost seems as if Waverly was waiting for him to fail. This behavior is called a "self-fulfilling prophecy." Waverly has decided what her view of the world is, collected information to support it, and finally shared her view with others as "truth." In communicating this way, people can actually change their own behavior, and that of others, so that the result affects their own distorted view. Waverly is so busy finding fault with Rich that she does not even realize that her mother has already acknowledged their love, as well as their probable plans to marry. In a fury, Waverly rushes over to her mother's house to assert herself.
+
+What she sees amazes her. Her mother is not the monster that she imagined. Rather, the old woman seems innocent and childlike. Waverly is pulled apart by her contradictory emotions and perceptions. Recall that the title of this story is "Four Directions." Waverly has difficulty telling appearance from reality because she is pulled in different directions by her own preconceptions, misconceptions, and memories of the past. She is pulled in two directions by her Chinese heritage and American ways. Her mother realizes this dilemma: ". . . if you are Chinese you can never let go of China in your mind," she says. Her mother has been waiting for Waverly to let her in, to accept her Chinese heritage so that she can accept Waverly's Chinese-American future, symbolized by Waverly's daughter, Shoshana. At the end of the chapter, Waverly finally realizes this truth. She imagines what it might be like to travel back to China with her mother, to "move West to reach East."
+
+
+Vocab
+Qs
+	* Waverly's mom is immediately critical of Waverly. Why?
+	* Waverly's mom is critical of the restaurant. What does she do?
+	* How does Waverly account for the problems of the relationship with her mom?
+	* What's Waverly's big news?
+	* How did Waverly handle the marriage to her first husband?
+	* Waverly can't seem to introduce her fiance Rich. Why not?
+	* Are unannounced visits acceptable from in-laws?
+	* What is the state of Waverly's apartment?
+	* What is clear about Waverly's life as reflected in the state of her apartment?
+	* WHat is the "extravagant gift"?
+	* Waverly experiences anguish from her mom's comments. Why?
+	* Waverly feels she must do desperate things to "win" her mother back. What are tey?
+	* Why does Waverly give up chess?
+	* Do you think Waverly's mom really has such an influence on Waverly that, because of her mom's comments, Waverly goes "from disappointment to contempt to apathetic boredom" with her first husband?
+	* In the eyes of all, Rich fails miserably at dinner. Why?
+	* Waverly and Lindo really do have a very complicated relationship. What do you make of it?
+	
+
+
+---- Work time
+
+
+--- Coming up
+		
+* Creative Writing
+
+** Chinese Identity --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+

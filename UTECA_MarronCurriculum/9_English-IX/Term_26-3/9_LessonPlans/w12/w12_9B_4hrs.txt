@@ -1,0 +1,276 @@
+							LESSON PLAN  (4 hrs)
+
+Docente:			Bruce D. Marron
+Ciclo: 				26-3
+Materia: 			Inglés IX
+Curso:				IT0939
+Lic: 				Interpretación y Traducción
+Grupo:				9B
+
+
+#####################
+HW_11 [Due: 04 Aug 2026]
+
+--- Task 1
+Read Chapter 9, Chapter 10, Chapter 11, and Chapter 12 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_English-IX-StyleGuide.pdf).
+
+
+
+	
+	
+
+######################
+
+
+#######
+Today
+#######
+
+---- Open
+	“The moments of our life are not expendable, And the [possible] circumstances of death are beyond imagination. If you do not achieve an undaunted confident security now, What point is there in your being alive, O living creature?”
+		--- Padmasambhava, The Tibetan Book of the Dead. (First Complete Translation)
+		
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+--------------
+Review
+** LLMs and Access to AI
+	- What are LLMs?
+	- How are they professionally accessed?
+	
+** Humanity's Last Exam
+	- What is this? Why is it important?
+
+** Vibe Coding
+	- you now are a programmer!
+
+** AI Futures Project
+	- Up to the board; two (2) take-aways
+	
+---------------
+**Reality Check
+(1) Los modelos de IA mienten y desobedecen órdenes para proteger a otros modelos (Wired)
+https://share.google/jekUX5zgYRFKfGj15
+
+(2) Anthropic's latest model, Mythos (New York Times)
+Anthropic’s Restraint Is a Terrifying Warning Sign_NYT2026.pdf
+
+(3) Los drones con inteligencia artificial están llegando. No estamos preparados. El Diario de Chihuahua 22 Julio 2026
+
+Ahora mismo, estamos avanzando a ciegas”, dijo Jack Shanahan, teniente general retirado de la Fuerza Aérea y exdirector del Centro Conjunto de Inteligencia Artificial del ejército. “Nadie se comunica con los demás sobre la tecnología que están desarrollando sus naciones, y existe un incentivo para implementarla rápidamente. Creo que, lamentablemente, algo podría salir terriblemente mal antes de que la situación mejore”.  
+
+(4) Dario Amodei, CEO de Anthropic: "La IA superará a la inteligencia humana. No sé si será en 2027, aunque no creo que mucho más" https://share.google/wB9CpHgkkcm39WDB1
+
+(5) Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk - WSJ https://share.google/ylwooJ2SdMd3K25I5
+
+(6) Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial | Tecnología | EL PAÍS https://share.google/ZrmkkpT0owKLVbPcG
+
+(7) Construí una IA capaz de mejorarse a sí misma. Así puedes crear la tuya | WIRED https://share.google/ElNOwdlAoV3hcrLcI
+
+(8) El Pentágono quiere construir un ejército de 100.000 agentes de IA que pueden pensar y actuar por sí mismos https://share.google/UEK6vUb9eTOJbAfaN
+
+(9) El problema de los clips ya está aquí: las IA pueden destruir el mundo sin querer | Tecnología | EL PAÍS https://share.google/DRGdZs8zg0kodFwB2
+
+(10) Why big AI labs are hiring so many philosophers
+https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers
+
+(11) Formas de conciencia inimaginables podrían poblar el cosmos https://share.google/yNlgm8cSGAIyg5DGD
+
+
+
+-----------------
+** Anthropic vs US Pentagon
+	- What's the scoop? Why is it important?
+	
+** A Beautiful Future
+	- Hames and evolution
+
+
+-----------
+Silent reading and then Take-aways/highlights from 
+"05_Opinion _The AI Future We Feared Is Already Here"
+	- “what happens now that AI is ....?"
+	
+	 -Claude is built around a lengthy internal constitution, written in part by philosophers, that is meant to guide the moral judgments it makes. To read that constitution is to face up to the weirdness of the world we have entered.
+	  
+	- Artificial intelligence models are strange technologies. Most technologies are mechanistic: press the brake pedal on your car and the car slows; press the power button on your laptop and the computer boots up; pull the trigger on a gun and the gun fires. These machines have no agency. But A.I. models work differently. They make choices.
+	They consider context.
+
+	- “They talk about it as more like raising a child or as a second advanced species.”
+	
+	- Claude could not be used for mass surveillance or for lethal autonomous weapons.
+
+	- Trump administration threatening to destroy one of America’s leading A.I. companies; Whether Hegseth has the legal authority to demolish Anthropic in this way is doubtful
+
+	- What is at the bottom of the Anthropic / Pentagon debacle?
+
+	- AI can be "programmed" ideologically: Elon Musk has made no secret of the fact that Grok is meant to be an alternative to woke, liberal A.I.s. Musk himself is a determined ideological actor who is seeking to push American politics in his preferred direction
+
+	- No AI guardrails from US Congress
+
+	- But the broader questions remain: The A.I. systems we have today are not well understood. The A.I. systems we are rapidly developing are even less well understood. Weaving them into sensitive government operations seems risky, and my intuition is there are many areas of the government in which A.I. systems simply should not be  deployed.
+	
+------------------
+Silent Reading and then take-aways/highlights from 
+"06_The-Future-of-AI_RichardDavidHames"
+
+The emergence of artificial intelligence is not just another episode in the long story of human ingenuity. It's not the steam engine, nor the printing press; it's not even the internet. It is something deeper, stranger, and far more disorienting: a phenomenon that unsettles the very architecture of what it means to be human. Where earlier technologies extended human agency, AI confronts us with the possibility of being outshone. Even Sam Altman admits that we don't know what will happen next. Nobody does. But one thing is evident: AI is not just another tool to be wielded. It's a mirror, a partner, and possibly even a successor.
+
+
+Positive Possibilities
+	* Evolution
+		--humans may evolve into entities that are neither purely biological nor purely artificial.
+		-- distributed consciousness in which individuality and collectivity coexist in new ways
+
+	* Creation of entirely new realities. 
+		-- Humanity has always been a reality-making species
+		-- create synthetic worlds indistinguishable from our own
+	* Dismantle scarcity: Capitalism, the nation-state, and money itself — all systems designed to manage scarcity — may dissolve
+
+	* Re-center play as the axis of civilization
+
+	* Participate in the unfolding of cosmic intelligence
+
+
+
+
+-----------
+More Murphy's English Grammar in Use
+	Units ==> 29, 44, 118
+
+
+-------------
+Exam 3P prep (next week)
+
+
+
+Part II
+------------
+** Bless Me, Ultima
+Highlights and student responses to questions
+
+ch 4
+			plants+pinch	p40
+			the blood 	p41
+			God vs Mary	p43-44
+
+ch 5
+			war			p49
+			witches		p50
+
+--- Chapter 6
+	the summer the dust devils of the llano
+	I wanted to ask her immediately about the magic in the letters
+	At noon we opened our lunches to eat.
+	Down the wall near the corner I saw two other boys who had sneaked out of the room. They were George and Willy.
+	
+	
+--- Chapter 7
+	I was gathered into the arms of the giants of my dreams.
+	My father opened a bottle of whiskey and they all drank as men
+	"I would give anything to move to California right now!"
+	
+
+--- Chapter 8
+	The bad blood of spring
+	But with spring they became more restless.
+	"We have to get the hell out'a here"
+	"It's either California, or going to work on the highway with him
+	Serrano's bull
+	They would be lost again.
+
+
+START HERE	
+--- Chapter 9
+	Tony's dream about innocence
+	Leon and Gene off to ABQ ...Andrew in school
+	Girls are only trouble when a man is young and wanting to get ahead.
+	Tony and Andrew on the bridge with the Kid
+	That year we waited for the world to end.
+	Fishing with Samuel ---Tony's a man!
+	Legend of The Golden Carp
+	
+--- Chapter 10
+	Lucas and Ultima
+	No one can play with fate
+	The evil brujas! Tenorio's daughters
+	Antonio and Ultima against evil
+	Ultima and Tenorio
+	Antonio and Lucas
+	Ultima...Es sin pecado,
+	"You must understand that when anybody, bruja or curandera, priest or sinner, tampers with the fate of a man that sometimes a chain of events is set into motion over which no one will have ultimate control. You must be willing to accept this responsibility."
+	Lucas and the Black Mass
+
+--- Chapter 11
+	Narciso's garden (p 109)
+	The gang teases Tony about Ultima and witchcraft (p 110)
+	"I don't know," Cico answered, "except that people, grown-ups and kids, seem to want to hurt each other-
+	and it's worse when they're in a group."
+	Prophecy of the Golden Carp (p 113)
+	"The mermaid?" I questioned him. (p 115)
+	"This whole town is sitting over a deep, underground lake! (p 118)
+	The Dream: You have been seeing only parts... (p 121)
+	
+--- Chapter 12									
+	the three dolls, Tenorio, the scapula (p 123-124)
+	The Good Old Days (p 125)
+	Narciso, the warning, the accusation, Tenorio, the Owl, the Test (p 126-135)
+
+--- Chapter 13								
+	The trip to El Puerto w/ Pedro (p 137)
+	The witch's procession and rejection
+	Lunas are happy with Antonio
+	
+	
+--- Chapter 14
+	Back to school with the Gang of crazies (p 145)
+	Christmas and the school play (p 151 - 158)
+	The fight (p 160)
+	Narciso to warn Ultima, Andrew at Rosie's (p 163)
+	["I had seen evil, and so I carried the evil within me"]
+	Tenorio kills Narciso (p 168-170)
+	The Pesadilla (p 172)
+	
+	
+--- Chapter 15
+	Tenorio unpunsished; few people remembered anything good about Narciso (p 177)
+	Ultima worked so hard to try to save his young wife (p 179)
+	Leon and Eugene return for a visit (in a cop car!)
+	Gabriel and his resentment (p 183)
+	Andrew leaves (p 185)
+	
+--- Chapter 16
+	God is unfair; much confusion (Tenorio and Narciso)
+	Meeting Tenorio one afternoon on the way home; almost killed!
+	Tenorio's second daughter is dying
+	Ultima: You didnt pick anything up?
+	No acknowledgment of guilt and penance done for the wrong, there can be no forgiveness
+
+
+
+
+
+
+
+
+
+
+--- Coming up
+
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,243 @@
+							LESSON PLAN  (4 hrs)
+
+Docente:		Bruce D. Marron
+Ciclo: 			26-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+
+
+#####################
+HW_05 [Due: 23 Jun 2026]	<== Delayed ONE week
+
+--- Task 1
+Use Google Scholar to find the following text, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper (published by O'Reilly). Search the document for the word. "translation" (it occurs 43 times in the text). Briefly scan the information related to each appearance of the word "translation."
+
+Briefly explain why the Natural Language Toolkit might be helpful to you.
+
+
+--- Task 2
+READ the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
+
+	*  Creating a Python virtual environment in your computer
+	*  Installing a variety of packages into the virtual environment including:
+		spyder-kernels 	<== tools to allow Spyder access to the virtual environment
+		google-genai 	<== most recent SDK for Google Gemini models
+		openai			<== most recent SDK for OpenAI models
+		jiter			<== A standalone version of the JSON parser
+		nltk 			<== The Natural Language Tool Kit
+
+Briefly explain what is meant by the term, "virtual environment" and why such environments are helpful.
+
+
+--- Task 3
+Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Third Section Preamble: American Translation
+	Ch. 9	o Rice Husband: Lena St. Clair
+	Ch. 10	o Four Directions: Waverly Jong
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
+
+---- Open
+
+
+
+
+
+	
+	"As distance tests a horse's strength, time reveals a person's character."
+		
+	路遥知马力，日久见人心。(Lùyáo zhī mǎlì, rìjiǔ jiàn rénxīn)
+	['road distant know horse strength, days old see man heart']
+
+
+
+
+
+
+
+
+
+From the anonymous work "Fight Gratitude" (《争报恩》) of the Yuan Dynasty (1279–1368), when Mongol horsemen ruled China, this saying tells us that a long period of testing is needed to understand someone's nature and capabilities.
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+** Get Gemini API Key?
+** Installations? (Python and Spyder)
+
+
+
+----------
+* Exam 1P (Tuesday)
+
+
+
+
+PART II
+-----------
+** Installations / Preparations
+	Review PART III of "API_Installations-Activations-Preparations.txt"
+
+	PART IV
+	Do the installations on Melissa's computer
+
+
+
+------------
+	Intro to NLTK
+
+
+** Go thru METEOR via HW Task 2
+	Gemini_APITranslation_text-files.py
+	Metrics_METEOR_NLTK-pkg.py
+	
+METEOR (Metric for Evaluation of Translation with Explicit ORdering)
+an automated metric for machine translation and text generation, designed to align better with human judgment than BLEU (Bilingual Evaluation Understudy). It evaluates output by calculating a harmonic mean of precision and recall (weighing recall higher), incorporating stem-matching, synonymy, and a fragmentation penalty for word ordering. 
+
+Key features and details include:
+    High Correlation: It is known for having a higher correlation with human judgment than BLEU.
+    Linguistic Features: Instead of just exact word matches, METEOR uses stemming (e.g., "run" matches "running") and synonymy matching.
+    Scoring: Scores range from 0 to 1.0 (or 0–100%), with higher values indicating better quality.
+    Components: It calculates unigram matching based on three stages: exact match, stem match, and synonym match.
+    Word Order: A "fragmentation penalty" is applied to penalize outputs that have correct words but in the wrong order. 
+
+METEOR is widely used to evaluate translation, summary, and generation tasks, especially when looking for a more nuanced, semantic-based evaluation
+
+
+Annotated HW Task 2 ---
+	Use 
+		Gemini_APITranslation_text-files.py
+		Metrics_METEOR_NLTK-pkg.py
+
+*Step 1. Send the paragraph below to your favorite AI for translation.
+
+	Use Gemini_APITranslation_text-files.py
+		Create a .txt file on your desktop labeled, "Gemini_Doc-English_TBT.txt"
+		Place text to translate in Gemini_Doc-English_TBT.txt
+	Run the cell, "Translate content of .txt files" in Gemini_APITranslation_text-files.py
+	Obtain AI translation output in a .txt file
+		OUTPUT_FILE = "Gemini_Doc-Spanish_T.txt"
+	Rename the Gemini_Doc-Spanish_T.txt file as, "METEOR-Test.txt"
+
+*Step 2. Save the output (Spanish) translation as, "candidate". 
+
+	In METEOR-Test.txt, label the AI translation, "candidate"
+
+*Step 3. Edit the AI translation or write your own translation and save it as, "reference." 
+
+	In METEOR-Test.txt, copy the AI translation and modify/edit it
+	Label the edited translation, "reference"
+	
+*Step 4. Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script: METEOR Score for My Work
+
+*Step 5. Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
+
+	After pasting in each insertion, separate hard returns with a forward slash, "\" so that Python reads the text as one string
+	Be sure the text string starts and ends with a quotation mark (")
+
+*Step 6. In Line 117 and Line 118 of the script, change "english" to "spanish"
+
+*Step 7. Run the cell "METEOR Score for My Work" in Python and save a screenshot of the Spyder work environment showing the output.
+
+
+
+
+	
+
+-----------
+** "The Joy Luck Club" by Amy Tan 
+
+%%%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother				Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
+
+
+CliffNotes
+https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+
+
+
+--- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
+When she was a child, Lena St. Clair often wondered about a beggar whom her grandfather had sentenced to die in the worst possible way. She imagines all sorts of gruesome torture. Appalled by her interest in violence, her mother said that the way he died didn't matter. Lena thinks that it matters very much because knowing the worst that can happen to you can help you avoid it. The worst thing that happens to Lena is her mother's descent into madness.
+
+Lena traces her mother's madness to a basement in their house in Oakland, California. As a child, Lena broke through a barricaded door and fell headlong into the cellar. To prevent Lena from going into the basement again, her mother told her that a bad man lived down there. After this incident, Lena began to see fantastic, horrible things everywhere.
+
+Lena's mother came to America after World War II as a war bride. At the immigration center, Lena's father renamed his wife "Betty" St. Clair, and two years were subtracted from her age. She looks fearful in the photo of her taken that day, an emotion that remained with her. She cautions Lena about strangers and sees danger in even the most harmless events. Lena's father refuses to learn to speak Chinese, and Mrs. St. Clair cannot learn English. As a result, they have a great deal of trouble communicating. Lena's father puts words into his wife's mouth, but Lena finds out what her mother is really thinking about when they are alone together.
+
+Lena is ten years old when her father is promoted. To mark his success, he moves the family across the bay to San Francisco, where they take an apartment at the top of a steep hill. Mrs. St. Clair is not happy with the apartment, and an encounter with a drunken man upsets her even more. She feels that this apartment is "not balanced" and that all their good luck will vanish. She discovers that she is pregnant, but even this news cannot lift her mood. Meanwhile, Lena listens through the wall to an Italian mother and daughter, Mrs. Sorci and Teresa, arguing and fighting in the adjacent apartment. Their arguments sound so violent that Lena believes that the mother has probably killed her daughter. When she glimpses the daughter a few days later, however, she can't believe that the girl looks so unscathed.
+
+Soon afterward, Mrs. St. Clair loses the baby that she is carrymg. In her grief, she cries out about another son whom she thinks that she apparently killed. She then begins to lose her already-fragile grip on reality.
+
+One night, the girl next door knocks on the door of Lena's apartment. Her mother, she says, has kicked her out. She uses the St. Clairs' fire escape to sneak back into her bedroom, and later that night, Lena hears the Italian girl and her mother screaming at each other again. She is astonished when she hears them reconcile and fall into each other's arms with love. Lena dreams of saving her mother from madness.
+
+The theme of heritage is especially important in this section, as Lena explores the dual nature of her identity. The product of an English-Irish father and a Chinese mother, she is a combination of two cultures. Although her pale coloring makes her seem Caucasian, her eyes are unmistakably Chinese. Her nature, like her appearance, straddles two cultures. "I saw these things with my Chinese eyes, the part of me I got from my mother," she says. Like the beggar's death, there are two versions of reality here — Chinese and American. Imaginative, even horrifying visions haunt her; however, her dual vision enables her to maintain her own sanity while watching her mother slide into madness.
+
+When Gu Ying-ying came to America, she was declared a Displaced Person because the immigration officials could not categorize her. Her name was changed to Betty St. Clair, and her birth was postdated by two years. This misclassification is a symbol for her new status: Stripped of her Chinese identity, she is, literally, a displaced person, adrift in an alien land. With the erasure of her identity, she has no place in the world. She cannot even communicate with her husband, a well-meaning but insensitive man who refuses to learn Chinese and insists that his wife learn English. When she is unable to communicate, he puts words into her mouth. In effect, he denies her the ability to communicate, and eventually, she descends into madness as a way of dealing with her isolation and loneliness.
+
+Qs
+	* Lena has a morbid fascination with the death of a beggar. Why?
+	* Why does Lena think her mom has become a ghost?
+	* Who lives in the basement of the old house in Oakland?
+	* What do Lena's Chinese eyes show her?
+	* What happens to Lena's mom at the immigration service? What did her dad do?
+	* Lena's mom seems afraid of the world around her. How does this affect Lena?
+	* Lena also seems to falsify reality. How?
+	* The St. Clair family is "moving up". WHat does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at home?
+	* Lena's mom seems constantly concerned with the feng shui of the new apartment. Why?
+	* Lena has intimate knowledge of the neighbors. Why? 
+	* What happens to the new baby? What happens to Lena's mom?
+	* What is Teresa's announcement?
+	* What is Lena's revelation?
+	* How does Lena save her mother?
+
+
+
+
+
+
+---- Work time
+
+
+--- Coming up
+
+
+		
+* Creative Writing
+
+
+
+
+
+
+
+
+
